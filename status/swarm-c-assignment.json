@@ -1,0 +1,209 @@
+[
+ {
+  "rank": 55,
+  "id": "the-challenger-group",
+  "name": "The Challenger Group",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Colorado Springs, CO",
+  "closings": 1199
+ },
+ {
+  "rank": 57,
+  "id": "homes-by-westbay",
+  "name": "Homes by Westbay",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Riverview, FL",
+  "closings": 1155
+ },
+ {
+  "rank": 58,
+  "id": "lifestyle-homes",
+  "name": "Lifestyle Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Scottsdale, AZ",
+  "closings": 1107
+ },
+ {
+  "rank": 59,
+  "id": "stylecraft-builders",
+  "name": "Stylecraft Builders",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "South College Station, TX",
+  "closings": 1068
+ },
+ {
+  "rank": 60,
+  "id": "westin-homes",
+  "name": "Westin Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Sugar Land, TX",
+  "closings": 1062
+ },
+ {
+  "rank": 61,
+  "id": "empire-homes",
+  "name": "Empire Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 1056
+ },
+ {
+  "rank": 62,
+  "id": "holiday-builders",
+  "name": "Holiday Builders",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 1050
+ },
+ {
+  "rank": 63,
+  "id": "first-texas-homes",
+  "name": "First Texas Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 1034
+ },
+ {
+  "rank": 64,
+  "id": "ivory-homes",
+  "name": "Ivory Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 1028
+ },
+ {
+  "rank": 65,
+  "id": "mcguinn-homes",
+  "name": "McGuinn Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 993
+ },
+ {
+  "rank": 66,
+  "id": "trumark-homes",
+  "name": "Trumark Homes",
+  "ownership": "Subsidiary",
+  "parent": "Daiwa House Group",
+  "hq": null,
+  "closings": 991
+ },
+ {
+  "rank": 67,
+  "id": "allen-edwin-homes",
+  "name": "Allen Edwin Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 964
+ },
+ {
+  "rank": 68,
+  "id": "hakes-brothers",
+  "name": "Hakes Brothers",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 929
+ },
+ {
+  "rank": 69,
+  "id": "hhhunt-corp",
+  "name": "HHHunt Corp.",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 923
+ },
+ {
+  "rank": 70,
+  "id": "schuber-mitchell-homes",
+  "name": "Schuber Mitchell Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 913
+ },
+ {
+  "rank": 71,
+  "id": "neal-communities",
+  "name": "Neal Communities",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 902
+ },
+ {
+  "rank": 72,
+  "id": "neighborworks-america",
+  "name": "NeighborWorks America",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 875
+ },
+ {
+  "rank": 73,
+  "id": "view-homes",
+  "name": "View Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 795
+ },
+ {
+  "rank": 74,
+  "id": "long-lake-ltd",
+  "name": "Long Lake Ltd.",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 782
+ },
+ {
+  "rank": 75,
+  "id": "first-america-homes",
+  "name": "First America Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 750
+ },
+ {
+  "rank": 76,
+  "id": "mcbride-and-son-cos",
+  "name": "McBride & Son Cos.",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 748
+ },
+ {
+  "rank": 77,
+  "id": "historymaker-homes",
+  "name": "HistoryMaker Homes",
+  "ownership": "Subsidiary",
+  "parent": "Century Communities",
+  "hq": null,
+  "closings": 728
+ },
+ {
+  "rank": 78,
+  "id": "esperanza-homes",
+  "name": "Esperanza Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 724
+ }
+]

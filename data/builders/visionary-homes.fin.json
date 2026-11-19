@@ -1,0 +1,115 @@
+{
+  "builder_id": "visionary-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Conventional for-sale builder and a plausible land-banking customer, but with a strategic owner: Misawa Homes Co., Ltd. of Japan bought 51% in June 2024 through Misawa Homes America, Inc., and the company says it operates in partnership with Misawa while scaling toward 2,000 annual starts (it closed 600 homes in 2025) and entering neighboring markets such as Idaho. No lot counts, lenders, credit facilities or land-banking arrangements are public. Public records show it entitling and developing its own communities (for example a 333-unit plat in Nibley) as well as building in third-party master plans such as Desert Color. A treasurer job listing seen only in a search snippet refers to external banking partners, which suggests bank debt alongside Misawa equity. The gap between 600 closings and a 2,000-start goal implies a much larger lot pipeline than today, which is the opening for a land banker; whether Misawa prefers to fund land on balance sheet is not known.",
+    "land_strategy": "Not stated publicly. Evidence points to a mixed model: the company is the applicant and developer on its own subdivisions (333-unit Ridgeline Park phases in Nibley, with an in-house Director of Land Development in 2022, and land-development job listings under 'VHD, LLC'), and it also builds on lots inside third-party master-planned communities (Desert Color in St. George). Owned versus optioned split: not disclosed.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (majority-owned private company; no filings). The company site listed about 24 named communities on 2026-11-19; the 2024 release cited 30 active communities."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Desert Color (master-planned community, St. George, UT)",
+        "counterparty_type": "Developer",
+        "description": "Visionary Homes is listed as one of the builders on the Desert Color master-plan website and sells single-family homes, townhomes and condos there, so it takes lots from the community's developer. Lot purchase or option terms are not public. This is a developer lot source, not a land-bank facility.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Reported",
+        "source_url": "https://desertcolor.com/find-a-home/visionary-homes/",
+        "source_title": "Visionary Homes builder page, desertcolor.com",
+        "note": "Page opened 2026-11-19; undated. No land banker or lot-option financier is named anywhere in public sources for this builder."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2024-06-18",
+        "type": "Equity",
+        "description": "Misawa Homes Co., Ltd. acquired 51% of Visionary Homes through its wholly owned US subsidiary Misawa Homes America, Inc. Price and sellers not disclosed. The company said the deal secures its long-term viability and supports expansion into neighboring markets.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.utahbusiness.com/press-releases/2024/07/17/visionary-homes-misawa-homes-join-forces/",
+        "source_title": "Visionary Homes and Misawa Homes Join Forces (company press release, as published by Utah Business)",
+        "note": "Release dated 2024-07-17. Outside the 2025-2026 window but it defines who funds the company today. Also reported by Builder, HousingWire / The Builder's Daily and Nihon M&A Center."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "City of Logan, Utah",
+        "description": "River Crossing: eight income-qualified townhomes at 100 West 600 South, Logan, built by Visionary on land donated by the city and sold by lottery to buyers below area median income. A public-private partnership rather than a capital joint venture.",
+        "date": "2025-08-14",
+        "confidence": "Verified",
+        "source_url": "https://visionaryhomes.com/blog/visionary-homes-and-city-of-logan-break-ground-on-river-crossing-new-affordable-townhome-community-to-expand-access-to-homeownership-in-cache-valley/",
+        "source_title": "Visionary Homes and City of Logan Break Ground on River Crossing (company press release)",
+        "note": ""
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2024-06-18",
+      "role": "Target",
+      "counterparty": "Misawa Homes Co., Ltd. (via Misawa Homes America, Inc.)",
+      "description": "Misawa Homes acquired a 51% stake in Visionary Homes, its first investment in the western US after Impression Homes in Texas. Price not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Before the 2025-2026 window but it is the controlling fact for this builder: ownership moved to a Japanese strategic parent, capital and board decisions now involve Misawa Homes America, and the founder-CEO handed over to an outside CEO (Ryan Smith) on 2026-09-01. Builder still flags the company as private.",
+      "confidence": "Verified",
+      "source_url": "https://www.utahbusiness.com/press-releases/2024/07/17/visionary-homes-misawa-homes-join-forces/",
+      "source_title": "Visionary Homes and Misawa Homes Join Forces (company press release, as published by Utah Business)",
+      "note": "No acquisitions by or of Visionary Homes were found for 2025 or 2026."
+    }
+  ],
+  "gaps": [
+    "Lot counts (owned, optioned, total controlled, years of supply): not publicly disclosed.",
+    "Credit facilities, lenders, construction or A&D loans and debt amounts: not publicly disclosed (private company, no SEC filings; EDGAR not applicable). A treasurer listing seen only in a search snippet mentions external banking partners; no bank is named.",
+    "Land banker or lot-option financier: none named in any public source found. No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon.",
+    "Parent funding from Misawa Homes (intercompany loans, guarantees, equity commitments beyond the 2024 purchase): not publicly disclosed. The 2024 purchase price is not disclosed.",
+    "Who holds the remaining 49% and whether Misawa has an option to buy it: not publicly disclosed.",
+    "M&A in 2025-2026: none found for this builder. The only transaction is the June 2024 Misawa majority purchase.",
+    "Homebuyer mortgage partner (not builder financing): the company site ties its buyer incentives to First Colony Mortgage Corporation.",
+    "Property-records directory lists 'Visionary Homes 2020 LLC', '2024 LLC' and '2026 LLC' as Logan-area buyers, which suggests year-vintage holding entities; not confirmed against the state registry.",
+    "The shared web-search allowance ran out partway through this run, so county deed-of-trust records and city development agreements (the likeliest places to find lender names) were not searched."
+  ],
+  "sources_consulted": [
+    "https://www.utahbusiness.com/press-releases/2024/07/17/visionary-homes-misawa-homes-join-forces/",
+    "https://visionaryhomes.com/blog/visionary-homes-names-ryan-smith-chief-executive-officer/",
+    "https://visionaryhomes.com/blog/visionary-homes-and-city-of-logan-break-ground-on-river-crossing-new-affordable-townhome-community-to-expand-access-to-homeownership-in-cache-valley/",
+    "https://www.housingwire.com/articles/a-visionary-looks-ahead-to-a-role-in-misawas-growing-u-s-empire/",
+    "https://www.housingwire.com/articles/misawas-51-buy-of-visionary-homes-a-theme-and-variations/",
+    "http://web.archive.org/web/20250501154140/https://www.builderonline.com/builder-100/strategy/visionary-homes-joins-forces-with-japan-based-misawa-homes-co_o",
+    "http://web.archive.org/web/20260721211300/https://www.builderonline.com/firms/visionary-homes_o/",
+    "https://www.nihon-ma.co.jp/news/20240620_1-1242/",
+    "https://wrenews.com/?p=46809",
+    "https://desertcolor.com/find-a-home/visionary-homes/",
+    "https://www.utah.gov/pmn/files/810029.pdf",
+    "https://www.sfranalytics.com/investors/ut/logan-ut-id",
+    "https://www.visionaryhomes.com/",
+    "https://www.utahbusiness.com/people-on-the-move/2026/07/01/visionary-homes-names-ryan-smith-ceo-jeff-jackson-founder-chairman-board/",
+    "https://www.housingwire.com/articles/visionary-homes-names-former-oakwood-exec-ryan-smith-ceo/"
+  ]
+}

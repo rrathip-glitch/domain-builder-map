@@ -1,0 +1,164 @@
+{
+  "builder_id": "drees-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Drees Homes (The Drees Company, Fort Mitchell, KY) is a family-owned private builder with no SEC-registered or Rule 144A debt, so its balance sheet, lot counts and bank lines are not public. Its president, Tim Terrell (a former CFO), describes a 'quasi-land-light' model that he says turns inventory nearly twice as fast as the industry average, and says being private lets Drees be flexible on deal structures. Drees's Centennial Strategy, set in 2024, targets about 4,000 closings a year by its 100th anniversary in 2028, up from about 2,300 in 2025. Its six pillars include being 'uniquely skilled at buying lots', reaching 300 closings in each division, and entering new markets. It entered San Antonio in January 2025 by buying Monticello Homes, opened a greenfield Columbus division in April 2026 and its first Mebane, NC community in May 2026. This roughly 70% growth plan is backed by family capital and undisclosed bank lines, with no named land banker, so Drees is a plausible prospect for lot-option capital in Texas, the Carolinas and Ohio.",
+    "land_strategy": "Mixed, which the company calls 'quasi-land-light': it controls lots through a mix of structures and develops some of its own land, mainly in Cincinnati/Northern Kentucky. In its home markets it buys finished lots in third-party master-planned communities and buys sites outright, such as the Forest Commons school site in North Olmsted, OH, won in a competitive process. Its 'Elevate' build-on-your-lot program needs no land. No owned-versus-optioned target or lot count is published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2025-02-11",
+      "confidence": "Reported",
+      "source_url": "https://web.archive.org/web/20250321234434/https://www.builderonline.com/builder-100/strategy/drees-homes-centennial-strategy-gains-momentum-with-san-antonio-expansion_o",
+      "source_title": "Builder: Drees Homes' Centennial Strategy Gains Momentum with San Antonio Expansion (2025-02-11)",
+      "note": "No lot counts are public (private company, no public debt). President Tim Terrell told Builder that Drees runs a 'quasi-land-light' model and turns inventory nearly twice as fast as the industry average. He also said Drees was already acquiring lot positions in its next new market, which turned out to be Columbus, OH (April 2026). Builder's live page returns 403 to automated fetches, so it was read from this Wayback capture of 2025-03-21."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Värde Partners (with developers Craig Martin and David Blom), Windsong Ranch",
+        "counterparty_type": "Developer",
+        "description": "Värde Partners and two Texas developers jointly bought Windsong Ranch, a 3,100-home master-planned community in Prosper, TX, in 2018. Drees Custom Homes was one of ten named builders buying lots there. This is a finished-lot purchase relationship with a Värde-backed developer. It is not a land-bank or option facility.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2018-07",
+        "confidence": "Inferred",
+        "source_url": "https://varde.com/texas-real-estate-developers-and-global-alternative-investment-firm-varde-partners-acquire-windsong-ranch-in-prosper-texas/",
+        "source_title": "Värde Partners press release: Värde and Texas developers acquire Windsong Ranch in Prosper, Texas (2018-07-30)",
+        "note": "Stated on a primary page but more than 24 months old, so tagged Inferred. This is the only Drees mention in Värde's press room (searched varde.com/?s=drees). The relationship shows that Drees buys lots from land-banker-backed MPC developers in DFW. It is not evidence of a Drees land-bank program."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2025-01-31",
+        "type": "Other",
+        "description": "Drees closed its purchase of the assets of Monticello Homes in San Antonio, Drees's 11th metro and its fourth Texas market. Builder Advisor Group advised the seller. Price and financing were not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.dreeshomes.com/press-news/drees-homes-grows-with-addition-of-monticello-homes/",
+        "source_title": "Drees Homes Grows National Presence with the Addition of Monticello Homes (2025-01-31)",
+        "note": "Asset acquisition; also listed under M&A."
+      },
+      {
+        "date": "2026-04-01",
+        "type": "Other",
+        "description": "Drees entered Columbus, OH as its 12th market with a greenfield division led by Division President Andy Artzner, who has a land-acquisition background. Its first community is Alton Place in Hilliard, with homes priced from the $800s and the first model started in March 2026.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.dreeshomes.com/press-news/drees-enters-third-ohio-market-with-columbus-expansion/",
+        "source_title": "Drees Enters Third Ohio Market with Columbus Expansion (2026-04-01)",
+        "note": "Organic entry, not an acquisition. Builder (2026-04-02) adds the Alton Place/Hilliard detail and the 2024 figures of 2,304 closings and $1.7B revenue. Its live page returns 403, so it was read from the Wayback capture: https://web.archive.org/web/20260402154003/https://www.builderonline.com/builder-100/strategy/drees-homes-enters-third-ohio-market-with-columbus-expansion"
+      },
+      {
+        "date": "2026-04-23",
+        "type": "Other",
+        "description": "Drees bought the former Forest Elementary School site in North Olmsted, OH after a competitive process. It is building Forest Commons there: 21 single-family homes and 30 paired villas, priced from the high $300s.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.dreeshomes.com/press-news/drees-launches-first-north-olmstead-community-in-decades-on-former-forest-elementary-school-site/",
+        "source_title": "Drees Launches First North Olmstead Community in Decades on Former Forest Elementary School Site (2026-04-23)",
+        "note": "Shows that Drees also buys infill land outright. The price was not disclosed."
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Other",
+        "description": "Drees entered Mebane, NC, between the Triangle and the Triad, with its first community there, Tupelo Junction. Raleigh Division President Jerry Dean is quoted; homes are priced from the mid-$400s.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.dreeshomes.com/press-news/drees-homes-enters-mebane-with-inaugural-community-tupelo-junction/",
+        "source_title": "Drees Homes Enters Mebane with Inaugural Community, Tupelo Junction (2026-05-05)",
+        "note": "Submarket expansion within the existing Raleigh division. Lot structure was not disclosed."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "City of Covington, KY",
+        "description": "Covington Central Riverfront is a public-private redevelopment in which Drees is building 16 townhomes, a $7M project on 0.88 acres on Fourth Street. Drees describes it as a shared vision with the City of Covington. Sales began 2026-01-31, priced from the mid $600s.",
+        "date": "2026-01",
+        "confidence": "Verified",
+        "source_url": "https://www.dreeshomes.com/press-news/from-first-wall-to-framing-drees-homes-advances-the-new-covington-central-riverfront-project/",
+        "source_title": "From First Wall to Framing, Drees Homes Advances the New Covington Central Riverfront Project (2026-01-27)",
+        "note": "The release calls it a partnership with the city but gives no land-ownership or financing terms, so it may be a development agreement rather than an equity JV. Led by Scott Drees, then Townhomes Division President, now Midwest Regional President."
+      },
+      {
+        "partner": "Standard Pacific (now Taylor Morrison)",
+        "description": "Two Texas JV entities, Drees-Standard Pacific No I, L.C. (registered 1997-10-08) and No II, L.C. (registered 1998-03-11), use Drees's Fort Mitchell, KY address. Both are now INACTIVE and their franchise tax has ended.",
+        "date": "1997-10",
+        "confidence": "Verified",
+        "source_url": "https://comptroller.texas.gov/data-search/franchise-tax/13115761507",
+        "source_title": "Texas Comptroller franchise-tax record: Drees-Standard Pacific, No I, L C (and No II, taxpayer 32000531312)",
+        "note": "Historical and inactive, listed only for completeness. No current JV with a public builder was found. No II record: https://comptroller.texas.gov/data-search/franchise-tax/32000531312"
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "Not rated (no public debt found)",
+      "fiscal_year_end": "",
+      "as_of": "2026-11-19",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=drees&type=&dateb=&owner=include&count=40",
+      "source_title": "SEC EDGAR company search 'Drees': individuals only, no Drees Homes / Drees Company issuer"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2025-01-31",
+      "role": "Acquirer",
+      "counterparty": "Monticello Homes (San Antonio, TX)",
+      "description": "Drees bought the assets of Monticello Homes, a luxury move-up builder founded in 1994 by Wayne Moravits. Monticello had built more than 2,000 homes and had nine communities in San Antonio, Boerne and New Braunfels. It closed about 130 homes in 2024 and has 44 employees. Builder Advisor Group was sell-side advisor, and the price was not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Adds a San Antonio division, giving Drees all four big Texas metros. Monticello's Division President Mark Elphick stays as local leader, and founder Wayne Moravits stays at least a year to help with land acquisition and integration. Monticello communities keep their brand in the near term. Drees intends to grow the division to 300 or more closings a year, so expect more San Antonio lot buying.",
+      "confidence": "Verified",
+      "source_url": "https://www.dreeshomes.com/press-news/drees-homes-grows-with-addition-of-monticello-homes/",
+      "source_title": "Drees Homes Grows National Presence with the Addition of Monticello Homes (2025-01-31)",
+      "note": "About 130 closings in 2024 and the 12-18 month integration timeline come from Builder (2025-02-11). Moravits staying a year for land and integration comes from The Builder's Daily/HousingWire (2025-02-05): https://www.housingwire.com/articles/alignment-inside-the-drees-homes-and-monticello-homes-san-antonio-deal/"
+    }
+  ],
+  "gaps": [
+    "Owned vs optioned lots, total lots controlled, years of supply: not publicly disclosed (private, no public debt)",
+    "Land-banking / lot-option counterparties: none publicly disclosed. Checked Millrose, Värde, IHP Capital, Hearthstone, Forestar, Essential Housing and GTIS site searches plus web search; no Drees program found. The only land-banker-adjacent link is a 2018 Värde-backed MPC (Windsong Ranch) where Drees buys lots",
+    "Bank credit facility: size, maturity and agent bank not publicly disclosed",
+    "Senior notes / bonds: none found. EDGAR shows no Drees issuer; no 144A notes found",
+    "Cash, total debt, liquidity, leverage, credit ratings: not publicly disclosed; the company is not rated",
+    "Purchase price and financing of the Monticello Homes acquisition: not publicly disclosed",
+    "M&A after the May 2026 Builder 100: none found as of 2026-11-19. The Columbus entry (April 2026) was organic, though management has said it prefers to enter new markets by acquisition",
+    "Third-party MPC developers that sell Drees finished lots in its current Texas, Tennessee and Carolinas communities: not compiled (a 2023 Trez Capital-financed Hillstead lot loan naming Drees as a builder was seen only in a search snippet; The Real Deal page returned 403)",
+    "Public link to Domain Real Estate Partners, Millrose, Kennedy Lewis or TPG Angelo Gordon: none found"
+  ],
+  "sources_consulted": [
+    "https://www.dreeshomes.com/press-news/drees-homes-grows-with-addition-of-monticello-homes/",
+    "https://www.dreeshomes.com/press-news/drees-enters-third-ohio-market-with-columbus-expansion/",
+    "https://www.dreeshomes.com/press-news/drees-homes-enters-mebane-with-inaugural-community-tupelo-junction/",
+    "https://www.dreeshomes.com/press-news/drees-launches-first-north-olmstead-community-in-decades-on-former-forest-elementary-school-site/",
+    "https://www.dreeshomes.com/press-news/from-first-wall-to-framing-drees-homes-advances-the-new-covington-central-riverfront-project/",
+    "https://www.dreeshomes.com/press-news/drees-homes-appoints-fourth-generation-leader-to-companys-core-executive-team/",
+    "https://www.dreeshomes.com/sitemap.xml",
+    "https://web.archive.org/web/20250321234434/https://www.builderonline.com/builder-100/strategy/drees-homes-centennial-strategy-gains-momentum-with-san-antonio-expansion_o",
+    "https://web.archive.org/web/20260402154003/https://www.builderonline.com/builder-100/strategy/drees-homes-enters-third-ohio-market-with-columbus-expansion",
+    "https://www.housingwire.com/articles/alignment-inside-the-drees-homes-and-monticello-homes-san-antonio-deal/",
+    "https://www.housingwire.com/articles/the-inside-story-of-drees-homes-leadership-pivot-and-what-comes-next/",
+    "https://www.housingwire.com/articles/heres-why-randy-mickle-joined-drees-homes-at-this-moment",
+    "https://nkytribune.com/?p=447785",
+    "https://varde.com/?s=drees",
+    "https://varde.com/texas-real-estate-developers-and-global-alternative-investment-firm-varde-partners-acquire-windsong-ranch-in-prosper-texas/",
+    "https://millroseproperties.com/?s=drees",
+    "https://www.ihpcapital.com/?s=drees",
+    "https://www.hearthstoneinc.com/?s=drees",
+    "https://www.forestar.com/?s=drees",
+    "https://comptroller.texas.gov/data-search/franchise-tax?name=DREES",
+    "https://comptroller.texas.gov/data-search/franchise-tax/13115761507",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32000531312",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32036286352",
+    "https://comptroller.texas.gov/data-search/franchise-tax/16113229781",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=drees&type=&dateb=&owner=include&count=40"
+  ]
+}

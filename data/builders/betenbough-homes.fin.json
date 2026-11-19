@@ -1,0 +1,84 @@
+{
+  "builder_id": "betenbough-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Betenbough Homes is a conventional for-sale builder, but it is financed unlike its Builder 100 peers: it is wholly owned by Betenbough Companies, PBC, which is 100% employee-owned through an ESOP and says it is exempt from corporate federal income tax, so there is no sponsor, no public equity and no SEC-registered debt. No lender, credit facility, land banker, lot-option partner or joint venture is named in any public source found; the company buys land directly (it runs a public 'Land Inquiry' page asking owners to offer tracts of any size) and develops it with in-house Land Development teams in all four markets. Several of its communities sit in city Public Improvement Districts, which cover upkeep of public improvements through assessments on the homeowner's tax bill. Its capital has gone into vertical integration (captive building supply 2021, title 2020, and a captive mortgage company that made its first closings in February 2026) and into large-scale charitable giving. Room for a land banker is real in principle (about 2,000 closings a year in 2024 per Builder, self-developed lots, no outside equity) but untested: nothing public shows it has ever used off-balance-sheet lot financing, and an ESOP-owned, purpose-driven company may prefer to own its land.",
+    "land_strategy": "Owns and self-develops, by all public signs. The company does not describe itself as land-light and publishes no owned/optioned split. It solicits raw land directly from owners and lists Land Development as an in-house department in Lubbock, Amarillo, Midland and Odessa; pricing is cost-plus (a fixed margin on hard costs). No stated lot-supply target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Lot counts are not publicly disclosed (private, ESOP-owned company; no filings)."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-02",
+        "type": "Other",
+        "description": "Olive Branch Home Loans, LLC, a captive mortgage lender wholly owned by Betenbough Companies, PBC (NMLS 2500551), was introduced as the group's newest business and was due to close its first loans in February 2026, starting in the builder's Northwest Lubbock region only. Before this the builder relied on outside preferred lenders (Cardinal Financial ran a 5.99% rate promotion with it in 2023).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://web.archive.org/web/20260217004740/https://www.betenbough.com/about/blog/post/an-exciting-addition-to-betenbough-companies--introducing-olive-branch-home-loans",
+        "source_title": "Betenbough Homes blog: 'An Exciting Addition to Betenbough Companies: Introducing Olive Branch Home Loans' (archived capture 2026-02-17)",
+        "note": "Buyer-side financing, not land or corporate financing; shows where the group is putting capital. Sole member confirmed in Texas Comptroller record https://comptroller.texas.gov/data-search/franchise-tax/32082589238. The Cardinal Financial detail is from the company's 2025 Impact Report story 'Kiss the Waves'."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Owned / optioned lot counts and years of supply: not publicly disclosed.",
+    "Lenders, credit facility, construction or land-development loans: not publicly disclosed (private company; no lender is named on any company page read). County deed-of-trust records were not searched.",
+    "Land banker, lot-option partner or capital partner: none named in any public source found; no public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon. The targeted web searches for these names could not be run because the swarm's shared web-search allowance ran out.",
+    "Joint ventures: none found.",
+    "Debt, cash, liquidity, leverage and ratings: not publicly disclosed. No ESOP acquisition debt or trustee is named publicly.",
+    "SEC: an EDGAR company-name search for 'betenbough' returned no matching companies (no registered debt, no Form D found); EDGAR full-text search refused the request, so it was not run.",
+    "M&A 2025-2026: none found on the company's own sites (the only new business is the organic launch of Olive Branch Home Loans). Trade and local press could not be searched for M&A because the shared web-search allowance ran out, and builderonline.com returned 403.",
+    "Public Improvement Districts: the company lists Cypress Ranch, Matador Pointe and Upland Crossing (Lubbock), Harvest (Wolfforth), and Heritage Hills and Homestead (Amarillo) as PID communities, but who petitioned for each PID and whether any reimburses developer infrastructure cost was not confirmed (City of Lubbock PID pages returned 403).",
+    "Whether Betenbough buys any finished lots from third-party developers (as opposed to self-developing everything): not publicly disclosed.",
+    "Parent-level funding: the parent is the ESOP-owned Betenbough Companies, PBC (formerly Betenbough Capital, Inc. per a 2016 Lubbock Avalanche-Journal article); its balance sheet is not public."
+  ],
+  "sources_consulted": [
+    "https://betenboughcompanies.com/esop/",
+    "https://betenboughcompanies.com/about/history/",
+    "https://betenboughcompanies.com/careers/",
+    "https://betenboughcompanies.com/business/betenbough-homes/",
+    "https://betenboughcompanies.com/2025-impact-report/",
+    "https://betenboughcompanies.com/impact-report/2025/kiss-the-waves/",
+    "https://betenboughcompanies.com/impact-report/2025/world-2025/the-mindset-of-a-king/",
+    "https://web.archive.org/web/20260507020004/https://www.betenbough.com/contact/land-inquiry",
+    "https://web.archive.org/web/20260419084008/https://www.betenbough.com/buyer-resources/financing-and-affordability/hoa-vs-pid",
+    "https://web.archive.org/web/20260507231044/https://www.betenbough.com/about",
+    "https://web.archive.org/web/20260217004740/https://www.betenbough.com/about/blog/post/an-exciting-addition-to-betenbough-companies--introducing-olive-branch-home-loans",
+    "https://olivebranchhomeloans.com/about/",
+    "https://comptroller.texas.gov/data-search/franchise-tax/17525405175",
+    "https://comptroller.texas.gov/data-search/franchise-tax/17527702363",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32082589238",
+    "https://web.archive.org/web/20251011221954/https://www.builderonline.com/builder-100/strategy/the-ultimate-incentive-betenbough-homes-eliminates-down-payments",
+    "https://web.archive.org/web/20250907233136/https://www.builderonline.com/firms/betenbough-homes/",
+    "https://www.lubbockonline.com/story/entertainment/local/2016/03/21/betenbough-homes-announces-new-leadership/14924859007/",
+    "https://www.sec.gov/cgi-bin/browse-edgar?company=betenbough&type=&dateb=&owner=include&count=40&action=getcompany",
+    "https://lubbockeda.org/the-betenbough-companies-story/"
+  ]
+}

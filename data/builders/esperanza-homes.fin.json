@@ -1,0 +1,168 @@
+{
+  "builder_id": "esperanza-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Esperanza Homes is the building arm of family-owned Rhodes Enterprises, which develops its own master-planned land and hands lots to its builder, so land is financed inside the family group rather than through options or a land banker. No land-bank, lot-option or outside equity partner is named in any source opened. Public records, as compiled by an aggregator, show the group borrowing from regional banks (International Bank of Commerce, Third Coast Bank, Bank OZK) through per-market Esperanza LLCs and development LLCs, including a $75M Third Coast Bank deed of trust recorded in late 2026. Tres Lagos infrastructure is partly reimbursed through a City of McAllen TIRZ and a public improvement district. It is a plausible but unproven land-banking customer: the growth plan (1,000 closings by 2027, new Laredo and Corpus Christi divisions, a 3,200-home Brownsville master plan) needs capital beyond the legacy family land, yet the group has so far chosen bank debt and self-development.",
+    "land_strategy": "Owns and develops most of its land through the parent. Rhodes Enterprises describes itself as vertically integrated: it master-plans and develops communities and Esperanza Homes builds in them. Stated holdings: Tres Lagos, McAllen (2,567 acres, 30-year plan, active); Bentsen Palm, Mission (2,600 acres, active since 2004); La Sienna, Edinburg (726 acres, 'now part of the Rhodes portfolio', about 350 acres undeveloped); Mirabella, Corpus Christi (about 300 acres, over 1,150 homes, active development); Estrella, Brownsville (proposed, over 3,200 homes). The family originally bought about 10,000 acres of Hidalgo County farmland. Outside the master plans it builds smaller stand-alone communities (Weslaco, San Juan, Mercedes, Harlingen, Brownsville, Laredo); whether those lots are self-developed or bought finished is not stated, and no owned-versus-optioned split is published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Verified",
+      "source_url": "https://rhodes.com/companies/masterplan",
+      "source_title": "Rhodes Enterprises master-planned communities pages",
+      "note": "No lot counts are published. Only acreage and planned-home figures by master plan are public (see land_strategy)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Rhodes Enterprises, Inc. (parent)",
+        "counterparty_type": "Affiliate",
+        "description": "The parent is the land developer: it master-plans and develops Tres Lagos, Bentsen Palm, La Sienna, Mirabella and the proposed Estrella, and Esperanza Homes is the builder in them (Estrella and Mirabella pages say all homes are built by Esperanza). This in-house supply plays the role a land banker would otherwise play.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://rhodes.com/history",
+        "source_title": "Rhodes Enterprises history page; master-plan pages on rhodes.com",
+        "note": "Terms of lot transfers between the developer entities and Esperanza are not public."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Third Coast Bank SSB deed of trust, borrower REHI Holdings LLC (Rhodes-linked entity)",
+        "type": "Other",
+        "principal_usd_m": 75,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Third Coast Bank SSB",
+        "status": "Outstanding",
+        "as_of": "2026-11-06",
+        "confidence": "Inferred",
+        "source_url": "https://elementix.ai/investors/tx/nick-rhodes",
+        "source_title": "Elementix public-records profile: Nick Rhodes (recorded deeds and mortgages, as of November 2026)",
+        "note": "Aggregator lists two open $75.0M recordings (2026-10-27, tied to a McAllen address, and 2026-11-06), most likely one facility recorded twice; the figure is the recorded face amount, not a drawn balance. Facility type (revolver, borrowing base or term) is not stated. REHI Holdings LLC is one of 38 entities the aggregator links to Nick Rhodes by signature; its place in the group is not confirmed elsewhere. Third-party aggregation of recorded deeds of trust, not a company disclosure. Aggregator totals are gross recorded face amounts across many filings (blanket and renewed deeds of trust are counted repeatedly), so they are not loan balances; drawn amounts, rates and maturities are not public. Verification 2026-11-19: the cited aggregator page (now redirecting to elementix.com) could not be opened by the checker, so lender, amounts and dates were not re-confirmed; downgraded from Reported to Inferred."
+      },
+      {
+        "instrument": "International Bank of Commerce loans to Esperanza Homes entities and Rhodes development LLCs",
+        "type": "Project debt",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "International Bank of Commerce",
+        "status": "Outstanding",
+        "as_of": "2026-11",
+        "confidence": "Inferred",
+        "source_url": "https://elementix.ai/investors/tx/nick-rhodes",
+        "source_title": "Elementix public-records profile: Nick Rhodes (recorded deeds and mortgages, as of November 2026)",
+        "note": "Largest lender by count in the aggregator's records for the Rhodes signers (77 filings on one signer profile, 184 on the other). Recent examples on the second profile: $5.6M to Summerlin Trace Development LLC (Weslaco, 2026-10-14) and $1.2M to Esperanza Homes Inc (Brownsville, 2026-10-13). Third-party aggregation of recorded deeds of trust, not a company disclosure. Aggregator totals are gross recorded face amounts across many filings (blanket and renewed deeds of trust are counted repeatedly), so they are not loan balances; drawn amounts, rates and maturities are not public. Verification 2026-11-19: the cited aggregator page (now redirecting to elementix.com) could not be opened by the checker, so lender, amounts and dates were not re-confirmed; downgraded from Reported to Inferred."
+      },
+      {
+        "instrument": "Bank OZK loans to Esperanza Homes entities",
+        "type": "Project debt",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Bank OZK",
+        "status": "Outstanding",
+        "as_of": "2026-11",
+        "confidence": "Inferred",
+        "source_url": "https://elementix.ai/investors/tx/nick-rhodes",
+        "source_title": "Elementix public-records profile: Nick Rhodes (recorded deeds and mortgages, as of November 2026)",
+        "note": "Third lender named on the Nick Rhodes profile (25 filings). A related signer profile on the same site shows a $370k Bank OZK loan to Esperanza Homes Mission LLC recorded 2026-11-10, which looks like per-home construction lending. Third-party aggregation of recorded deeds of trust, not a company disclosure. Aggregator totals are gross recorded face amounts across many filings (blanket and renewed deeds of trust are counted repeatedly), so they are not loan balances; drawn amounts, rates and maturities are not public. Verification 2026-11-19: the cited aggregator page (now redirecting to elementix.com) could not be opened by the checker, so lender, amounts and dates were not re-confirmed; downgraded from Reported to Inferred."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-11-06",
+        "type": "Other",
+        "description": "A $75.0M deed of trust from Third Coast Bank SSB to REHI Holdings LLC, an entity linked to Nick Rhodes, was recorded (a matching $75.0M recording is dated 2026-10-27). Suggests a new or upsized bank facility for the group in Q4 2026.",
+        "amount_usd_m": 75,
+        "confidence": "Reported",
+        "source_url": "https://elementix.ai/investors/tx/nick-rhodes",
+        "source_title": "Elementix public-records profile: Nick Rhodes (recorded deeds and mortgages, as of November 2026)",
+        "note": "Aggregator data only; not announced by the company. Purpose and terms not public."
+      },
+      {
+        "date": "2024-06-21",
+        "type": "Other",
+        "description": "Esperanza Homes Corpus Christi LLC was formed in Texas (mailing address at the Rhodes head office), the borrowing and building entity for the new Corpus Christi division.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://elementix.ai/investors/tx/nick-rhodes",
+        "source_title": "Elementix public-records profile: Nick Rhodes (recorded deeds and mortgages, as of November 2026)",
+        "note": "Other per-market entities named by the aggregator: Esperanza Homes Edinburg LLC, Brownsville LLC, McAllen LLC, Mission LLC."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "City of McAllen and Hidalgo County (Tax Increment Reinvestment Zone No. 1 and the Tres Lagos Public Improvement District)",
+        "description": "Public-private structure for Tres Lagos: the city approved a TIRZ agreement with Rhodes Enterprises in March 2015, with the county contributing part of its tax increment, to reimburse public infrastructure. The city said Rhodes would invest over $232M in public infrastructure across a 30-year build-out of the 2,571-acre plan. A public improvement district administers and helps fund the development.",
+        "date": "2015-03",
+        "confidence": "Verified",
+        "source_url": "https://mcallen.net/news/item/2015/03/11/city-moves-forward-with-tres-lagos-development",
+        "source_title": "City of McAllen news release: City moves forward with Tres Lagos development",
+        "note": "The 2016 amended and restated interlocal agreement (Hidalgo County record, re-posted with a 2026-01-27 county agenda) requires the developer to post an annually renewed irrevocable letter of credit equal to each year's debt service on the city's master-infrastructure certificates of obligation until tax increment covers 120% of that debt service. Current status of the letter of credit and of the 2026 agenda item was not confirmed."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Owned versus optioned lot counts and years of supply: not publicly disclosed (private, family-owned)",
+    "Credit facility terms (size, drawn balance, rate, maturity, covenants) for the International Bank of Commerce, Third Coast Bank and Bank OZK loans: not publicly disclosed; lender names come from a public-records aggregator, not from the company",
+    "Total debt, cash and leverage: not publicly disclosed; no credit rating",
+    "Land banker, lot-option financier or outside equity partner: none named in any source opened",
+    "Link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found in the sources opened; the dedicated search for these names could not be run because the shared web-search allowance ran out",
+    "Source of lots in Laredo and other stand-alone communities (self-developed or bought finished from third-party developers): not publicly disclosed",
+    "Date, seller and price of the La Sienna (Edinburg) master plan becoming part of the Rhodes portfolio: not found",
+    "M&A in 2025-2026: none found for Esperanza Homes or Rhodes Enterprises in the sources opened",
+    "Mortgage affiliates (Stonewood Home Lending, Valley Affordable Mortgage, under Rhodes Financial Services) are named on rhodes.com, but any warehouse line is not public",
+    "Revenue is not on the Builder 100 list; the Pro Builder figure in the orchestrator lead was not re-opened in this run"
+  ],
+  "sources_consulted": [
+    "https://elementix.ai/investors/tx/nick-rhodes",
+    "https://elementix.ai/investors/tx/nicholas-rhodes",
+    "https://elementix.ai/investors/tx/jaime-gonzalez",
+    "https://elementix.ai/lenders/third-coast-bank-ssb",
+    "https://rhodes.com/about",
+    "https://rhodes.com/history",
+    "https://rhodes.com/companies/masterplan",
+    "https://rhodes.com/tres-lagos",
+    "https://rhodes.com/bentsen-palm",
+    "https://rhodes.com/la-sienna",
+    "https://rhodes.com/mirabella",
+    "https://rhodes.com/estrella",
+    "https://rhodes.com/companies/rhodes-services",
+    "https://rhodes.com/companies/rhodes-commercial/land",
+    "https://rhodes.com/news/2025-esperanza-homes-moves-up-on-the-builder-100-list-for-2025",
+    "https://rhodes.com/news/introducing-rhodes-living",
+    "https://www.esperanzahomes.com/our-story/",
+    "https://www.esperanzahomes.com/financing/",
+    "https://mcallen.net/news/item/2015/03/11/city-moves-forward-with-tres-lagos-development",
+    "https://public.destinyhosted.com/hidaldocs/2026/CC/20260127_5294/102111_McAllen_TIRZ_No._1_Agreement.pdf",
+    "https://graarticles.optin.com/newsletter/awlist5581551/MjEwMzM3NDk=/rhodes-enterprises-breaks-ground-on-2571-acre-tres-lagos-development-in-north-mcallen.htm",
+    "https://valleybusinessreport.com/industry/real-estate/tres-lagos-success-sparks-rgv-developments/",
+    "https://therealdeal.com/texas/2022/05/13/homebuilder-bets-on-rio-grande-valley-with-85m-development",
+    "https://mercedesedc.com/mercedes-corner/mercedes-attracts-major-builder-to-city",
+    "https://www.prweb.com/releases/esperanza-homes-top-ranked-home-builder-expands-to-laredo-texas-302238139.html"
+  ]
+}

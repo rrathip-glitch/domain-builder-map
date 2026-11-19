@@ -1,0 +1,430 @@
+{
+  "batch": "batch-20261119-1559-018",
+  "rubric_version": "v1.2",
+  "articles": [
+    {
+      "id": "2ddbc26d60cd",
+      "summary": "NAHB economists report October inflation stayed elevated, with shelter the largest driver and core prices up 0.3% for a third straight month, raising odds of another Fed hike.",
+      "category": "Housing market",
+      "source_type": "Research",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 4,
+        "land_lot_supply": 0,
+        "materiality_actionability": 2
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Another Fed hike would raise builders' borrowing costs and could make off-balance-sheet lot financing relatively more attractive, but no builder or deal is named.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "c305fb82a1db",
+      "summary": "NAHB says residential construction worker nominal wage growth picked up in September 2026 while inflation-adjusted wages kept falling.",
+      "category": "Housing market",
+      "source_type": "Research",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 1
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Labor-cost data with no builder, land or financing angle; background only for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "47374599eb82",
+      "summary": "NAHB's state-level remodeling projections show remodeling activity flat in the second quarter of 2026.",
+      "category": "Housing market",
+      "source_type": "Research",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Remodeling spending does not touch new-home land or lot financing; no relevance to Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "48fc74190d1b",
+      "summary": "HousingWire opinion piece by Scott Cox arguing builders' five-year plans should test scenarios rather than tie to budgets.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 1,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Generic planning advice with no named builder or capital angle; nothing for Domain to act on.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "f4ff946ac03a",
+      "summary": "NAHB notes October payrolls rose 165,000 while residential construction employment fell by 16,400, the largest monthly drop since March 2021.",
+      "category": "Housing market",
+      "source_type": "Research",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 1,
+        "materiality_actionability": 2
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "A sharp fall in residential construction jobs signals builders slowing starts, which can cut near-term lot takedowns, but no specific builder is named.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "78cce8341c41",
+      "summary": "PulteGroup's The Grow in Orlando plans about 2,200 homes on 1,200 acres, with a 9-acre farm and just over half the land left undeveloped.",
+      "category": "Land & lots",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 10,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 4,
+        "materiality_actionability": 2
+      },
+      "adjustment": "none",
+      "why_it_matters": "Shows PulteGroup holding a large Orlando master-planned land position, useful colour on its land appetite in Central Florida but no financing or option angle.",
+      "builder_ids": [
+        "pultegroup"
+      ],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "aa10a774e7bd",
+      "summary": "HousingWire video interview on how homebuilders can use AI and ERP data to make faster decisions.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Technology talk with no builder, land or capital news; noise for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "4a78448adf9a",
+      "summary": "NAHB podcast with CEO Jim Tobin and advocacy chief Ken Wingert on what the 2026 midterm results may mean for housing policy.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 1,
+        "land_lot_supply": 0,
+        "materiality_actionability": 1
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Policy speculation after the midterms; no builder, deal or financing for Domain to act on.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "989c38905316",
+      "summary": "NAHB's third-quarter Multifamily Market Survey shows the production index at 41, down five points year over year.",
+      "category": "Housing market",
+      "source_type": "Research",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Multifamily sentiment is outside Domain's for-sale builder land business.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "bfe8f5694ebd",
+      "summary": "Equipment lender NFS Capital closed a $250 million warehouse facility with Fifth Third Bank to fund its equipment finance portfolio.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 3,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "An equipment-finance warehouse line has nothing to do with homebuilders or land; irrelevant to Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "300b27241a6a",
+      "summary": "Pro Builder lists 20 affordable metros, many in the Midwest, that outperform national livability and economic metrics.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 1,
+        "materiality_actionability": 1
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Market-ranking listicle with no builder or capital angle; at most background on where demand is.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "175f67dd042a",
+      "summary": "Pro Builder reader poll asking what the biggest barrier to housing affordability is.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "A reader survey prompt, not news; nothing for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "5f0f5f80291e",
+      "summary": "Generic drugmaker Par Health recalled 22 lots of an IV blood thinner, its third US product recall in a month.",
+      "category": "Other",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Pharmaceutical recall picked up on the word 'lots'; no relevance to Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "15a87f70a8bb",
+      "summary": "Toll Brothers proposed 174 townhomes, including 55 affordable units, on Mountain Avenue in Warren, New Jersey, scheduled for the township planning board on Sept. 23.",
+      "category": "Land & lots",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 8,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 3,
+        "materiality_actionability": 1
+      },
+      "adjustment": "none",
+      "why_it_matters": "A single local entitlement for Toll Brothers in New Jersey; small project colour, nothing to change in Domain's view of Toll.",
+      "builder_ids": [
+        "toll-brothers"
+      ],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "db8d3178317f",
+      "summary": "Home Builders Institute CEO Ed Brady says data center construction is worsening the skilled-labor shortage for home builders.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 1
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Labor-market commentary with no builder, land or financing content for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "6ecfc0da7076",
+      "summary": "Pro Builder blog on how AI is changing housing while human judgement remains critical.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Opinion piece on technology; noise for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "18fd27899abe",
+      "summary": "Pro Builder publishes reader survey results on how the industry should address its skilled-labor shortage.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Survey results on labor; no land or capital angle for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "fb724e73683b",
+      "summary": "Women in Residential Construction conference podcast on networking and career growth with two industry executives.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Career-development content; nothing for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "881a2758101b",
+      "summary": "Pro Builder blog on lessons from Georgia's industry-led permitting reform for other states.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 1,
+        "materiality_actionability": 1
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Faster permitting could speed lot delivery in Georgia, but there is no builder or deal for Domain to act on.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "f391cc701273",
+      "summary": "Pro Builder article listing 12 reasons builders should keep purchasing teams through a downturn.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Operational advice for builders; no land or capital relevance to Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    }
+  ]
+}

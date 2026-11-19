@@ -1,0 +1,133 @@
+{
+  "builder_id": "legend-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Legend Homes is a conventional for-sale builder, but it is financed and supplied with land as one arm of the Camillo family's private, vertically integrated group, and nothing about its own debt or liquidity is public. Affiliate Academy Development buys, entitles and develops most of its lots (more than 25,000 lots developed since 1989), and the group calls itself one of the largest private landowners in Texas, so the model is own-and-develop, the opposite of land-light; Legend also takes sections in third-party master plans such as Signorelli's Bluestem. The same land pipeline feeds the build-to-rent affiliate SimplyHome (more than 10,800 rental homes built), and the only named lender anywhere in the group is Churchill Real Estate, which provided SimplyHome a $255 million bridge facility arranged by JLL in 2023. No land banker, lot-option financier or outside equity partner has been named publicly. It is a plausible land-banking customer rather than a current one: the land sits on a family balance sheet, the 1,457 closings in the 2026 Builder 100 are well under half the 3,351 closings/units the company cited for 2022, and since August 2025 the group has been run by a finance and capital-markets CEO (ex-Highland Homes, ex-TPG Capital) with a new CFO (April 2026), a Chief Investment Officer and a newly promoted land president whose remit includes 'strategic partnerships'.",
+    "land_strategy": "Owns and self-develops. The company's framing is an 'integrated approach': affiliate Academy Development acquires and develops land for both Legend Homes (for sale) and SimplyHome (for rent), and the group describes itself as one of the largest private landowners in Texas. No land-light or option target is stated. Legend supplements affiliate lots with sections bought in third-party developers' communities.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2023-03-07",
+      "confidence": "Inferred",
+      "source_url": "https://www.housingwire.com/articles/camillo-weds-its-brand-family-with-a-newly-spoken-vow-opening-doors/",
+      "source_title": "Camillo Weds Its Brand Family With A Newly-Spoken Vow: Opening Doors (HousingWire / The Builder's Daily, sponsored feature)",
+      "note": "No current lot count is published. The only public figure is a range: in March 2023 the then CEO said Academy Development owned or controlled 25,000 to 35,000 lots in some phase of development, across for-sale and rental uses. That is more than 24 months old and from a sponsored trade feature, so it is recorded here as context only and the numeric fields are left empty. Owned versus optioned split and years of supply: not disclosed."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Academy Development (Camillo Companies affiliate)",
+        "counterparty_type": "Affiliate",
+        "description": "The group's in-house land company. It acquires, entitles and develops communities and delivers finished lots to Legend Homes and to the rental affiliate SimplyHome; it reports more than 25,000 lots and more than 100 communities developed since 1989 in Houston, Dallas-Fort Worth, San Antonio and Bryan-College Station. This is the role a land banker or third-party developer would otherwise fill.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-07",
+        "confidence": "Verified",
+        "source_url": "https://www.camillocompanies.com/camillo-companies-names-sean-mulroony-president-of-academy-development",
+        "source_title": "Camillo Companies Names Sean Mulroony President of Academy Development (company press release)",
+        "note": "Terms between the affiliates (lot pricing, takedown schedules, who holds title) are not public. The 25,000 figure is lots developed over the company's life, not lots held today. The 100-plus communities figure is from https://www.camillocompanies.com/our-companies (opened 2026-11-19), not the Mulroony release, which states only the 25,000 lots."
+      },
+      {
+        "counterparty": "SimplyHome (formerly Camillo Properties; Camillo Companies affiliate)",
+        "counterparty_type": "Affiliate",
+        "description": "Build-to-rent sister company that designs, builds, leases and keeps single-family rental homes on lots from the same Academy Development pipeline; some communities are split between SimplyHome rentals and Legend for-sale homes. It reports more than 10,800 rental homes built in 115-plus communities as of August 2026.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://www.camillocompanies.com/our-companies",
+        "source_title": "Camillo Companies - Our Companies page",
+        "note": "Relevant because it competes with Legend for the affiliate's lots and may account for part of reported unit volume. A search-result snippet of Builder's 2026 firm profile for Legend Homes (https://www.builderonline.com/?p=117360, page returned 403 so not opened) shows 165 single-family build-to-rent units alongside 1,457 closings in 2025; whether those rentals are inside or on top of the closings figure is not confirmed. The split-community point is from the 2023 HousingWire feature."
+      },
+      {
+        "counterparty": "The Signorelli Company",
+        "counterparty_type": "Developer",
+        "description": "Third-party master developer of Bluestem, a 356-acre community in Brookshire (Waller County, Houston area), where Legend Homes took an initial section of 116 lots and opened for sales in July 2024. Shows that Legend buys lots from outside developers as well as from its affiliate.",
+        "amount_usd_m": null,
+        "lots": 116,
+        "date": "2024-07",
+        "confidence": "Verified",
+        "source_url": "https://www.camillocompanies.com/legend-homes-announces-debut-in-bluestem-new-waller-county-community",
+        "source_title": "Legend Homes Announces Debut in Bluestem, a New Waller County Community (company press release)",
+        "note": "Lot purchase terms (takedown schedule, option versus bulk purchase) are not disclosed."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2023-07-27",
+        "type": "Debt issuance",
+        "description": "Affiliate SimplyHome (borrower Camillo Properties Ltd.) secured a bridge credit facility from Churchill Real Estate, arranged by JLL Capital Markets, to refinance an initial portfolio of its rental homes in Houston, Dallas-Fort Worth, San Antonio and Bryan-College Station. This is the build-to-rent affiliate's debt, not Legend Homes', and is the only named lender relationship found for the group.",
+        "amount_usd_m": 255,
+        "confidence": "Verified",
+        "source_url": "https://www.camillocompanies.com/blog/simplyhome-secures-255-million-credit-facility-for-texas-portfolio-of-built-to-rent-homes",
+        "source_title": "SimplyHome Secures $255-Million Credit Facility for Texas Portfolio of Built-to-Rent Homes (company press release)",
+        "note": "Outside the 2025 to 2026 window; included because it is the only public financing. The company release says $255 million in its headline and $225 million in its body text; JLL's own release (opened via https://www.multifamilybiz.com/pressreleases/16356/diversified_singlefamily_rental_portfolio_spanning..., dated 2023-08-15) says $255 million and names the borrower entity. Maturity, rate and whether the bridge has since been refinanced are not public."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": [
+      {
+        "firm": "TPG Angelo Gordon",
+        "relationship": "No financing or land-banking relationship found. The only public tie is personal: Camillo Companies CEO Dan Miller previously worked at TPG Capital, according to the company's announcement of his appointment.",
+        "date": "2025-08",
+        "confidence": "Inferred",
+        "source_url": "https://www.camillocompanies.com/camillo-companies-names-dan-miller-as-ceo",
+        "source_title": "Camillo Companies Names Dan Miller as Chief Executive Officer (company press release)",
+        "note": "A career link only, not a transaction. The source states only that he worked at TPG Capital; that TPG Capital and TPG Angelo Gordon belong to the same parent is background knowledge, not something the source says. Light check 2026-11-19: downgraded Verified -> Inferred because the source names TPG Capital only; the tie to TPG Angelo Gordon is derived, not stated."
+      }
+    ]
+  },
+  "ma": [],
+  "gaps": [
+    "Legend Homes credit facilities, construction lines, lenders, debt outstanding, cash and leverage: not publicly disclosed (private, family-owned; no SEC filings or rated debt found). A 2023 trade feature mentions only an unnamed longtime Legend banking partner.",
+    "Lots owned versus optioned, current lot count and years of supply: not publicly disclosed. The only figure is a March 2023 range of 25,000 to 35,000 lots owned or controlled by Academy Development.",
+    "Land banker, lot-option financier or outside equity partner: none named publicly. No public link found to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon; note that targeted searches on those names could not be run because the swarm's shared web-search allowance ran out.",
+    "Terms between Academy Development, Legend Homes and SimplyHome (lot transfer pricing, title, takedowns): not publicly disclosed.",
+    "Status of the 2023 Churchill bridge facility (maturity, refinancing) and any other SimplyHome portfolio debt: not publicly disclosed.",
+    "Joint ventures: none found in public sources.",
+    "M&A in 2025 and 2026: none found on the company's own news feed (all 58 posts back to 2022 were read); press searches for portfolio sales or acquisitions could not be run after the search allowance ran out. The notable 2025 to 2026 changes are management ones (new CEO August 2025, new Legend president October 2025, three division presidents and a new CFO in early 2026, land president July 2026) and a stated restructuring of the Retail organisation.",
+    "Share of Legend's reported closings that are rental homes for SimplyHome: not stated by the company; the 165-unit figure is from a search-result snippet of Builder's firm profile (page returned 403).",
+    "EDGAR full-text search returned Forbidden to the declared client, so mentions of Camillo entities in other companies' filings (for example past rental-portfolio buyers) could not be checked."
+  ],
+  "sources_consulted": [
+    "https://www.camillocompanies.com/",
+    "https://www.camillocompanies.com/about-us",
+    "https://www.camillocompanies.com/our-companies",
+    "https://www.camillocompanies.com/academy-development",
+    "https://www.camillocompanies.com/legend-homes",
+    "https://www.camillocompanies.com/simplyhome",
+    "https://www.camillocompanies.com/feed/rss2",
+    "https://www.camillocompanies.com/camillo-companies-names-dan-miller-as-ceo",
+    "https://www.camillocompanies.com/camillo-companies-names-sean-mulroony-president-of-academy-development",
+    "https://www.camillocompanies.com/camillo-companies-appoints-jomar-ereso-as-chief-financial-officer",
+    "https://www.camillocompanies.com/academy-development-names-sean-mulroony-new-vice-president-land-acquisition-development",
+    "https://www.camillocompanies.com/blog/simplyhome-secures-255-million-credit-facility-for-texas-portfolio-of-built-to-rent-homes",
+    "https://www.camillocompanies.com/legend-homes-announces-debut-in-bluestem-new-waller-county-community",
+    "https://www.camillocompanies.com/camillo-companies-unveils-new-lifestyle-enriched-neighborhood-in-splendora",
+    "https://www.camillocompanies.com/legend-homes-announces-opening-in-elmendorf-texas",
+    "https://www.camillocompanies.com/blog/legend-homes-named-33rd-largest-usa-homebuilder-in-pro-builders-2023-housing-giants",
+    "https://www.housingwire.com/articles/camillo-weds-its-brand-family-with-a-newly-spoken-vow-opening-doors/",
+    "https://www.multifamilybiz.com/pressreleases/16356/diversified_singlefamily_rental_portfolio_spanning...",
+    "https://www.prnewswire.com/news-releases/simplyhome-secures-255-million-credit-facility-for-texas-portfolio-of-built-to-rent-homes-301887597.html",
+    "https://informaconnect.com/imn-sfr-west/speakers/dan-miller/",
+    "https://www.probuilder.com/top-200/article/55377310/the-2026-top-200-rankings (ranking tables not readable as text)",
+    "https://www.builderonline.com/?p=117360 (search-result snippet only; page returned 403)",
+    "https://efts.sec.gov/LatestSearch/ (EDGAR full-text search: Forbidden)"
+  ]
+}

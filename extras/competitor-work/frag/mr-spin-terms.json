@@ -1,0 +1,890 @@
+{
+ "agent": "mr-spin-terms",
+ "summary": "Millrose started on 2025-02-07 with $5.5 billion of Lennar land, $1 billion of Lennar cash and no debt, then spent about $876 million three days later on roughly 24,000 Rausch Coleman homesites that Lennar also optioned. Lennar pays a fixed 8.5% a year on invested capital for that seed book; future Lennar deals price at the 3-year BBB index plus 4.00% plus a rating adjustment, floored at 7% and capped at 10%, with 5% paid up front and up to 5% more callable or due on walk-away, and a takedown price equal to cost (land plus development budget), so the option fee is Millrose's whole return. For non-Lennar builders Millrose told investors in February 2025 it targets 9-12% (strategic builders, about 10% deposit) and 10-13% (third party, 10-20% deposit), and by March 2025 said its first $250 million outside Lennar closed above 11%. The cross-termination pools are real but sized so Lennar's money at risk per pool never exceeds $50 million (seed) or $25 million (future), and Lennar holds heavy founder's rights: a most-favoured-rate reset, pauses at half rate, a 1:1 debt-to-equity veto, a quarterly capital reservation right from 2026-03-01, and a veto over replacing Kennedy Lewis. Kennedy Lewis earns a flat 1.25% of tangible assets with no incentive fee, pays the overhead out of it, and is protected by a 1.5x-3.0x termination fee; it may still rotate non-directed deals between Millrose and its own funds. Lennar's 20% retained stake was exchanged away on 2025-11-26, so Lennar is now a customer with contractual rights, not a shareholder.",
+ "facts": [
+  {
+   "topic": "Portfolio",
+   "fact": "At the 2025-02-07 spin-off Lennar contributed $5.5 billion of land assets and $1 billion of cash to Millrose. The January prospectus had guided to about $5.0-6.0 billion of land plus up to about $500 million of cash and about $500 million paid as option deposits.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07 (spin-off completion)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "The FY2024 10-K glossary splits the $1 billion cash contribution into about $415 million of cash and about $585 million paid as option deposits; about $876 million of it went to buy the Rausch (Supplemental Transferred) assets.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Glossary"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Opening balance sheet as presented to investors in February 2025: about $6.5 billion of land assets and cash (about $5.5 billion land plus about $1 billion cash), shareholders' equity of about $5.8 billion, leverage 0.0x, liquidity about $1.4 billion (about $1.3 billion revolver capacity plus about $100 million cash after the Rausch purchase).",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slides 5-6, 24"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Carve-out book value of the Lennar land that became Millrose (predecessor 'Millrose Business') at 2024-12-31: total inventories $5,465.3 million (land and land under development $2,978.8 million; finished homesites $2,486.5 million), against $4,744.1 million a year earlier; net parent investment $5,158.4 million.",
+   "as_of": "2024-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 8 predecessor combined balance sheet"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Prospectus portfolio as of 2024-09-30 (Lennar Transferred Assets plus Rausch Supplemental Transferred Assets): 862 properties in 26 states, about 105,440 homesites, aggregate value $6.0-7.0 billion, about 122 homesites per property. Regional mix by homesites: East 24%, Central 25%, South 31%, West 20%; about 47% in California, Florida and Texas.",
+   "as_of": "2024-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525008418/d811267d424b1.htm",
+   "source_title": "Millrose Properties prospectus (Form S-11, 424B1), filed 2025-01-17, Our Real Estate Portfolio"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Seed portfolio by development stage at 2024-09-30 (homesites): Group 1 9,882 (9%), Group 2 19,175 (18%), Group 3 37,206 (35%), Group 4 18,753 (18%), Group 5 prospective homesites 20,424 (19%).",
+   "as_of": "2024-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525008418/d811267d424b1.htm",
+   "source_title": "Millrose Properties prospectus (Form S-11, 424B1), filed 2025-01-17, Our Real Estate Portfolio"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Updated seed portfolio in the FY2024 10-K as of 2024-12-31 (Lennar plus Rausch assets): 860 properties in 29 states, about 112,855 homesites, aggregate value about $6.6 billion, about 131 homesites per property. Total scheduled takedown prices are $10,914 million and estimated horizontal development still to fund is about $4 billion. Average capital commitment per property $6.3 million.",
+   "as_of": "2024-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 2 Properties"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Largest states in the seed book at 2024-12-31 (properties / homesites / takedown prices): Texas 180 / 26,478 / $1,716 million; Florida 135 / 15,893 / $1,318 million; California 47 / 9,713 / $1,940 million; Oklahoma 56 / 10,427 / $685 million; South Carolina 40 / 9,112 / $899 million; Alabama 49 / 5,298 / $355 million; Arkansas 51 / 4,739 / $315 million; Maryland 9 / 4,602 / $541 million. Regional homesite mix: East 20%, Central 25%, South 37%, West 18%; about 46% in California, Florida and Texas.",
+   "as_of": "2024-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 2 Properties"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Duration of the seed book: nearly 39% of aggregate purchase value had a weighted average life under one year and about 74% was expected to be ready for home construction and purchase within thirty months (as of 2024-09-30).",
+   "as_of": "2024-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525008418/d811267d424b1.htm",
+   "source_title": "Millrose Properties prospectus (Form S-11, 424B1), filed 2025-01-17, Risk Factors"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Rausch Coleman (Supplemental Transferred Assets): on 2025-02-10 Millrose bought about 24,000 homesites by acquiring 100% of RCH Holdings, Inc., the parent of Rausch, for about $876 million in cash net of Lennar-funded option deposits and holdbacks (the 2025-02-10 press release rounded this to about $900 million; the 10-K figure is the newer primary number). Funded from cash on hand; all homesites were optioned to Lennar the same day on the seed-asset terms.",
+   "as_of": "2025-02-10",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 and Item 7"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "The Rausch purchase was directed by Lennar: U.S. Home, LLC (a Lennar subsidiary) instructed Millrose to acquire the land under a letter agreement dated 2025-02-06. Homes under construction were excluded. The prospectus said Lennar would pay about $100 million of additional option deposits on these assets.",
+   "as_of": "2025-02-10",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525023718/d868863d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-11 (Rausch acquisition)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Structure: seed assets sit in 31 Property LLCs (plus 18 LLCs under Millrose RCH Landco for Rausch land) below Millrose Properties Holdings, LLC, a taxable REIT subsidiary. The REIT parent holds a secured intercompany Promissory Note at 7.5%, initial principal $4,773,796,077 dated 2025-02-06 and raised to about $5.0 billion effective 2025-02-10, so most seed-asset income reaches the REIT as interest (about $358 million a year before the increase).",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 2 and Item 7"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Lennar's option rate ('Applicable Rate') on all seed assets, both the Lennar Transferred Assets and the Rausch Supplemental Transferred Assets, is a fixed 8.5% per annum on a 360-day year.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Schedule 1"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Rate for future Lennar deals: Risk Spread (Bloomberg US Composite BBB BVAL Yield Curve 3-year index) + a 4.00% spread + a Rating Adjustment, with a 7% minimum and 10% maximum. It is struck on a monthly calculation date (first business day of the month) and then stays fixed for that project's life.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Schedule 1"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Rating Adjustment in the Lennar formula: zero while Lennar Corporation is rated Baa1-Baa3 / BBB+ to BBB- (two of three agencies); minus 0.5% on an upgrade to A3 / A-, and a further minus 0.25% per notch above that; plus 1.0% on a downgrade to Ba1 (Moody's) or BB (S&P, Fitch) as the agreement words it, and a further plus 0.25% per notch below. Lennar was rated Baa2/BBB at the spin.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Schedule 1"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Monthly option payment = Invested Capital x Applicable Rate / 360, calculated daily. Invested Capital is what Millrose has paid for acquisition and improvements, less takedown prices and other builder payments received (the 5% up-front option payment reduces it). Due within 10 days of Millrose's monthly statement; non-refundable and not credited against takedown prices.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+   "source_title": "Master Option Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.6), Section 1.7"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Millrose's February 2025 investor presentation set out target pricing by customer type (management estimates): Lennar 8.5% fixed on seed assets with a 5% initial deposit; 'strategic homebuilders' a 9-12% option fee with about a 10% deposit; 'third-party' builders 10-13% with a 10-20% deposit. Deal size $10-100 million and duration 6-60 months in every column; a footnote ties the non-Lennar fee to SOFR plus 600-900 basis points.",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slide 22"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Illustrative unlevered pre-tax yields in the same presentation, after the 1.25% management fee: seed Lennar assets 8.50% - 1.25% = 7.25%; strategic builders 10.50% midpoint = 9.25%; third-party 11.50% midpoint = 10.25%. Initial target return on equity about 7% on the seed portfolio run rate.",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slides 6 and 23"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "First non-Lennar pricing data point: on 2025-03-17 Millrose said it had closed about $250 million of transactions outside the Lennar Master Program Agreement since the spin at yields above 11%, expected at least $100 million more within 30 days and at least $1 billion for full-year 2025. Counterparties were not named in that release.",
+   "as_of": "2025-03-17",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669dex991.htm",
+   "source_title": "Millrose press release 2025-03-17 (8-K Exhibit 99.1)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Founder's Rights floor on other customers' pricing: for 18 months from 2025-02-07, Millrose may issue equity to another customer in exchange for future property assets only if that customer's option rate is at least the lower of 9.5% and Lennar's Applicable Rate plus 1%.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Section 3.04"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Most-favoured-rate clause: if any Millrose affiliate agrees a lower option rate with a third party, Lennar may match that lower rate on all its new future property assets acquired or initiated within 180 days after the event; Millrose must notify Lennar promptly and reimburse the difference if it fails to. Deals for Lennar-related ventures do not get this matching right.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Section 3.04"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Default interest under the Lennar Master Option Agreement accrues at the property's Applicable Rate plus 5% (or the legal maximum if lower).",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+   "source_title": "Master Option Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.6), Section 17.5"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Deposits under the Lennar Master Option Agreement: (1) an up-front 'Option Payment' (called the Initial Deposit in the 10-K) of 5% of projected total land acquisition and development costs, fully earned when paid; (2) an 'Additional Deposit' of up to 5% of the takedown price of homesites still under option, which Millrose can call as a prepayment on 20 business days' notice when it needs ordinary-course cash flow (credited dollar-for-dollar to takedowns) or which falls due as an Option Termination Payment within 20 business days after Lennar terminates. The two forms of additional deposit together cannot exceed 5%.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+   "source_title": "Master Option Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.6), Sections 1.6 and 1.9"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Takedown price has no premium or escalator: per the 10-K it is the property's acquisition price plus the pre-set horizontal development budget, allocated per homesite in the takedown schedule of each Project Addendum. Millrose's return is the option fee alone. The seed book shows it: about $6.6 billion of value plus about $4 billion of development to fund against $10.9 billion of scheduled takedown prices.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 (Lennar Agreements) and Item 2"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Walk-away cost for Lennar on a property: it forfeits the 5% up-front payment, owes the unpaid part of the 5% Additional Deposit as a termination fee, must complete the horizontal work in the pool, and loses its options on the other properties in that pool if Millrose cross-terminates.",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slide 29 (Master Option Agreement)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Lennar's failure to exercise an option or to make a monthly option payment is not a 'default' under the Master Option Agreement: the option simply ends. Millrose's remedies on a builder default are to terminate, keep the option consideration and claim direct damages; it cannot force Lennar to buy and cannot recover consequential or punitive damages.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+   "source_title": "Master Option Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.6), Sections 1.3 and 17"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Cross-termination mechanics (form of Multiparty Cross Agreement): a Cross Termination Event occurs when the option on any pool property ends for a reason other than Millrose's default and Lennar has not bought all its homesites. Millrose then has 20 business days to elect to terminate the options on other properties in that pool, or the right is waived. Each pool's agreement operates independently of the others.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex108.htm",
+   "source_title": "Form of Multiparty Cross Agreement (8-K Exhibit 10.8), Section 3"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Carve-outs from cross-termination: Lennar can cure a single-property default by a bulk purchase where the default cannot be cured by payment and is outside its control; a termination because Lennar bought every homesite does not count; and if Millrose asks Lennar to fee-build the terminated property the event is treated as cured. Where a property is terminated for Lennar's default, remedies are confined to that property.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex108.htm",
+   "source_title": "Form of Multiparty Cross Agreement (8-K Exhibit 10.8), Section 3(a)-(c)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Pool sizing rule: Lennar's 'Total Payment Obligation' per pool (all 5% option payments plus all additional deposits made or owed for properties in the pool) may never exceed $50 million for pools of seed properties or $25 million for pools of future properties. Lennar proposes the pools, Millrose's approval cannot be unreasonably withheld, 'primary consideration' goes to diversity by geography, community and home type, and pools must be structured to stay off Lennar's balance sheet.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Section 2(a)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Inferred from the pool caps: with up to 10% of cost at stake per property (5% up front plus up to 5% additional), a $50 million cap implies a seed pool of roughly $500 million of takedown value and a $25 million cap a future pool of roughly $250 million. That is the most Lennar loses by abandoning an entire pool. Calculation: cap / 10%.",
+   "as_of": "2025-02-07",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Section 2(a)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Number of pools: the January 2025 prospectus described the seed assets as pooled into 21 pools averaging 41 properties each; the FY2024 10-K (March 2025) says the Transferred and Supplemental Transferred Assets are pooled into 30 pools averaging 29 properties each. The 10-K is the newer figure.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 and Item 2"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Takedown flexibility for Lennar: up to four quarterly extensions of a takedown on five business days' notice with no extension fee stated (it must be caught up by the final takedown); it may accelerate takedowns up to 50% of a pool's homesites, and a bulk purchase above 50% requires buying every homesite in the pool.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+   "source_title": "Master Option Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.6), Section 1.4"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Pause periods in the option agreement: up to two pauses of up to six months each per property, triggered by a seasonally adjusted home-price decline of 10% or more in the MSA on the Burns index (measured from the deal's effective date) or a pandemic / public health emergency; two more six-month pauses with Millrose's approval, not to be unreasonably withheld, if the condition persists. During a pause takedown and construction deadlines extend, no closings happen and the fee runs at the Pause Rate, 50% of the Applicable Rate.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+   "source_title": "Master Option Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.6), Section 1.4(e)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Lennar can also call pauses at its sole discretion under the Founder's Rights Agreement (still capped at two per community in total, six months each, at half rate), but while any Lennar property is in such a pause Lennar loses its most-favoured-rate right on new deals.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Section 3.07"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Carry costs sit with the builder: Lennar pays real estate taxes, assessments, HOA dues, utilities, maintenance and insurance on optioned property through the option termination date, plus closing costs and transfer taxes at takedown.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+   "source_title": "Master Option Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.6), Sections 1.8, 6 and 8"
+  },
+  {
+   "topic": "Terms",
+   "fact": "After a termination Lennar has no right of first offer or refusal on the retained land. It has 90 days to buy homesites where it has started vertical construction, otherwise it must remove the construction on request. Millrose may within 20 days ask Lennar to act as fee builder on the land, which Lennar must do only where it is active in that market, for a management fee of 20% of reimbursable costs plus overhead and sales fees, paid by Millrose.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Section 2(d) and Exhibit E (form of Fee Builder Agreement)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Put-back right: Millrose can sell a property back to Lennar at Millrose's total capital investment if there was a material misrepresentation on title, environmental matters or permits and approvals.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 (Lennar Agreements)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Program has no end date and no volume commitment from Lennar: the acquisition period runs until both sides agree in writing to stop admitting properties; Lennar need not offer deals and grants no exclusivity, first look or right of first refusal. The obligation runs the other way: while Lennar has capital reserved, Millrose must on Lennar's request acquire every proposed project that meets the Program Criteria, signing documents within 15 business days.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Sections 2(b), 4(a), 4(c), 4(e)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Program Criteria (the Lennar buy-box): all material discretionary approvals obtained (entitled land only); primary use single-family detached or attached homesites; no building moratorium; a Phase I environmental report dated within 180 days of closing; a full takedown schedule; Lennar responsible for finished-homesite costs above the contract sum; and Millrose need not buy if more than 40% of total committed capital would sit in a single state.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+   "source_title": "Master Program Agreement, Millrose / Lennar entities, 2025-02-07 (8-K Exhibit 10.5), Exhibit F"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Development funding: Millrose funds horizontal development up to a pre-set contract sum under the Master Construction Agreement, Lennar performs the work as contractor and bears every dollar of overrun plus all home construction costs. Lennar Corporation backs this with an unlimited parent Payment and Performance Guaranty covering the program, option and construction agreements.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07 (spin-off completion), Item 1.01"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Founder's Rights Agreement (2025-02-07; Millrose with U.S. Home, Lennar Homes Holding and CalAtlantic) gives Lennar eight rights: management succession consent, equity price protection, capital priority, enforcement, rate adjustment, the debt-to-equity limit, secured-financing collateral consent, and pause designation. Millrose may not grant these rights to anyone else without Lennar's consent. Most last until Lennar-contributed cash and capital assets fall below 10% of Millrose's total GAAP assets for six consecutive months.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Articles II-III"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Capital Priority Right: from 2026-03-01 and every three months after, Lennar may reserve Millrose capital for its own deals for the next three-month period; what it does not reserve is lost ('use it or lose it'), though lost amounts not committed to third parties are restored at the next date. The reservable pool is Lennar's initial capital (the value of the contributed assets, about $5.2 billion of land book value plus cash per the recitals) and recycled capital, plus 25% of new non-revolver debt and 25% of new equity that Millrose raises beyond the first $2 billion, capped at $10 billion less the initial capital. If Millrose cannot fund a committed Lennar deal it owes Lennar's damages including replacement financing cost.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Section 3.03"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Enforcement Rights: if Millrose fails to convey a homesite within 10 days after notice, Lennar gets specific performance without bond, pre-agreed confession of judgment and attorney-in-fact powers, and may stop monthly option payments across all programs until cured. If Millrose disputes in good faith on a pooling-violation claim Lennar keeps paying, and the loser of the dispute pays the other three times the monthly option payments made during the dispute period.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Article IV"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Equity price protection: if within 18 months of 2025-02-07 another customer receives Millrose equity for future property assets worth more than $500 million at a per-share price below Lennar's effective price, Millrose must issue extra Class A shares at no cost so that the original spin shares are re-priced to the lower level (the new customer does not participate).",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Section 3.02"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Lennar consent is required to replace the manager (not to be unreasonably withheld; 10 business days to object) and to approve successors to the named key men, David K. Chene and Darren L. Richman. Lennar's consent, in its sole discretion, is also needed before any Lennar-optioned property is pledged in a financing alongside property optioned to another customer.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Sections 3.01 and 3.06"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Recognition, Subordination and Non-Disturbance Agreement (2025-02-07): Lennar subordinates its option rights to Millrose's intercompany mortgages and pledge; Millrose must give 10 business days' notice before foreclosing and Lennar may buy the note for the amount owed.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07 (spin-off completion), Item 1.01"
+  },
+  {
+   "topic": "Terms",
+   "fact": "HOPP'R ('Homesite Option Purchase Platform') is Lennar's, not Millrose's: Lennar-Millrose HOPP'R, LLC sublicenses the rights to Millrose Holdings on a non-exclusive, worldwide, royalty-free, non-transferable basis for internal use, perpetual subject to limited termination conditions. Lennar may license the same platform to other land banks.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07 (spin-off completion), Item 1.01 (Sublicense Agreement)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Management Agreement (2025-02-07): the manager is Kennedy Lewis Land and Residential Advisors LLC, a wholly owned subsidiary of Kennedy Lewis Investment Management. Fee is 1.25% per annum of Tangible Assets (0.3125% a quarter), paid quarterly in advance on 1 January, April, July and October, and payable regardless of performance. Through about the first 12 months the base is total assets including cash, less intangibles and non-revenue-generating assets; after that cash is excluded.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+   "source_title": "Management Agreement, Millrose / Kennedy Lewis Land and Residential Advisors LLC, 2025-02-07 (8-K Exhibit 10.1), Sections 1 and 10"
+  },
+  {
+   "topic": "Terms",
+   "fact": "There is no incentive fee, carried interest or equity grant to the manager in the Management Agreement. Out of the 1.25% the manager pays all company operating expenses, including officers and directors' cash fees up to $1.25 million a year (growing 3% a year). Millrose reimburses only offering costs, extraordinary litigation and M&A costs, and the cost of owning and maintaining land where a builder failed to exercise its option.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+   "source_title": "Management Agreement, Millrose / Kennedy Lewis Land and Residential Advisors LLC, 2025-02-07 (8-K Exhibit 10.1), Sections 1 and 11"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Manager term and exit: three-year initial term to 2028-02-07, then automatic one-year renewals. Millrose can end it without cause only on 180 days' notice, with a two-thirds vote of independent directors during the initial term (majority at a term end), on grounds of materially detrimental performance or an excessive fee. Termination for cause (uncured material breach, insolvency, fraud or gross negligence, dissolution) takes a majority of independent directors, 30 days' notice and no fee.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+   "source_title": "Management Agreement, Millrose / Kennedy Lewis Land and Residential Advisors LLC, 2025-02-07 (8-K Exhibit 10.1), Sections 14-15"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Manager termination fee: 3.0x the average annual management fee if average annual return on equity over the prior three years is 7% or more; otherwise 2.5x if terminated before the initial term ends and 1.5x at or after expiry. The average uses the two years before termination (annualised if shorter).",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+   "source_title": "Management Agreement, Millrose / Kennedy Lewis Land and Residential Advisors LLC, 2025-02-07 (8-K Exhibit 10.1), Section 1 (Termination Fee)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "The prospectus estimated the first-year management fee at about $77 million on $6.2 billion of assets ($5.2 billion land, $500 million Lennar cash, $500 million option-deposit cash).",
+   "as_of": "2025-01-17",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525008418/d811267d424b1.htm",
+   "source_title": "Millrose Properties prospectus (Form S-11, 424B1), filed 2025-01-17, Our Post-Spin-Off Relationship with KL"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Deal allocation between Millrose and Kennedy Lewis's own funds: customers Millrose directs go 100% to Millrose; follow-ons to existing Kennedy Lewis investments can go 100% to Kennedy Lewis 'Priority Accounts' (Capital Partners Master Fund III and Kennedy Lewis Residential Property Income Company, 'KLRES'); other deals suitable for both alternate, starting with Millrose, until those funds' investment periods end, after which they go to Millrose first.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+   "source_title": "Management Agreement, Millrose / Kennedy Lewis Land and Residential Advisors LLC, 2025-02-07 (8-K Exhibit 10.1), Exhibit C (Allocation Policy), Sections 2-4"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Limits on Kennedy Lewis competing with Millrose: without Millrose board approval Kennedy Lewis may not raise other capital to provide land banking, except 'Overflow Funds' (used only when neither Millrose nor a Priority Account has capital) and up to $1 billion of land banking from its Fund IV.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+   "source_title": "Management Agreement, Millrose / Kennedy Lewis Land and Residential Advisors LLC, 2025-02-07 (8-K Exhibit 10.1), Exhibit C, Section 5"
+  },
+  {
+   "topic": "Other",
+   "fact": "Kennedy Lewis track record as presented in February 2025: about $25 billion of assets under management; over $7 billion committed to communities covering more than 71,000 homesites since its land strategy began; over $23 billion of land banking deal flow evaluated since 2021; $4.5 billion-plus of land banking transactions with Lennar since 2022; relationships with 16 US homebuilders and land developers; Petershill (Goldman Sachs affiliate) holds a minority non-control stake in the firm.",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slides 11-12"
+  },
+  {
+   "topic": "Other",
+   "fact": "Kennedy Lewis acted as Lennar's strategic advisor on the spin and was chosen as manager without a competitive process; some management terms were negotiated between Lennar and Kennedy Lewis. Millrose has no employees. A servicing team led by David Valiaveedan and an underwriting group of more than 30 people sit at the manager.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 and Risk Factors"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Shares at the spin (2025-02-07): Lennar distributed 120,980,401 Class A and 11,819,811 Class B shares (about 80%), one Millrose share per two Lennar shares held on 2025-01-21, and kept 33,200,053 Class A shares (about 20%) that it agreed not to vote and said it would hold only temporarily.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07 (spin-off completion)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Lennar's exit: an exchange offer (prospectus dated 2025-11-19) offered about 33.3 million Millrose Class A shares, about 20% of Millrose, for Lennar Class A stock at a 6% discount subject to an upper limit of 4.1367 Millrose shares per Lennar share, expiring at midnight on 2025-11-21.",
+   "as_of": "2025-11-19",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525288314/d58139d424b3.htm",
+   "source_title": "Lennar / Millrose exchange offer prospectus (424B3), 2025-11-19"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Result of the exchange offer, announced 2025-11-26: Lennar exchanged 33,298,754 Millrose Class A shares for 8,049,594 of its own Class A shares at 4.1367 Millrose shares per Lennar share (the upper limit). Lennar now holds only 1,794 Class A and 7,063 Class B Millrose shares, forfeited back by employees, which is 0.0% of the class.",
+   "as_of": "2025-11-26",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525304023/xslSCHEDULE_13D_X01/primary_doc.xml",
+   "source_title": "Lennar Schedule 13D/A (Amendment No. 1) on Millrose, filed 2025-12-01"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Voting: Class B shares carry 10 votes each with a 35% floor on aggregate Class B voting power; the charter caps any holder at 9%, with the Miller family excepted up to 12.8%. The Miller family holds about 43% of the voting power per the FY2024 10-K. At 2025-03-25 there were 154,183,686 Class A and 11,819,811 Class B shares outstanding.",
+   "as_of": "2025-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Leverage policy at the spin: zero debt on day one; a hard limit that no third-party financing may take the group's GAAP debt-to-equity above 1:1 without Lennar's written consent (sole discretion) until the founder's rights sunset. The February 2025 presentation said Millrose planned to tap the high-yield market for about $1.3 billion and issue equity opportunistically.",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slide 24; limit per Founder's Rights Agreement Section 3.05"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Revolver usage early on: the $1.335 billion facility was undrawn at the spin and $450 million was drawn as of 2025-03-25.",
+   "as_of": "2025-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 7"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "REIT and distribution policy: Millrose elects REIT status from the taxable year ending 2025-12-31 and must distribute at least 90% of REIT taxable income; management said it is committed to paying out 100% of earnings. First dividend $0.38 a share ($65 million) declared 2025-03-17 for the stub period from the spin to 2025-03-31, pro-rated from a normalised $0.65 a quarter. Millrose Holdings is a taxable REIT subsidiary.",
+   "as_of": "2025-03-17",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669dex991.htm",
+   "source_title": "Millrose press release 2025-03-17 (8-K Exhibit 99.1)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Early guidance given 2025-03-17: second-quarter 2025 earnings per share of $0.65-$0.68 and a quarterly run rate of $0.67-$0.69 by year-end 2025.",
+   "as_of": "2025-03-17",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669dex991.htm",
+   "source_title": "Millrose press release 2025-03-17 (8-K Exhibit 99.1)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Stated model is 'recycled capital': deposits and takedown proceeds are redeployed into new land and development. Three growth lanes in the February 2025 deck: Lennar forward flow, 'strategic homebuilders' and third-party builders, aimed at the top 10 builders and the remaining public and private builders, with non-Lennar deals focused on high-migration, low-tax 'Smile States'. Millrose sized the market at over $170 billion a year (1.22 million starts x $140,000 land and development cost per homesite).",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slides 20-22"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Non-Lennar business must be ring-fenced: other customers are served through separate 'Other Subsidiaries', not Millrose Holdings or the entities serving Lennar; their deals are individually negotiated by the manager, may not carry the Lennar operating principles and may resemble traditional land banking. Deals with Lennar-related ventures mirror the Lennar agreements but carry no Lennar parent guaranty.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Millrose's own investment guidelines: no more than 40% of portfolio value in one state; every deal needs an option agreement with a defined takedown schedule and a construction agreement; no liens or moratoriums; environmental report within 180 days. HOPP'R phase lengths are given as 6-60 months for land acquisition and development and 4-14 months to first home.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Competitors Millrose names in its 10-K: Kennedy Lewis itself, Angelo, Gordon & Co. (now part of TPG), DW Partners, LP and Brookfield Properties.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 (Competition)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Concentration admitted in the risk factors: Lennar is the largest counterparty, may let options lapse, has no duty to bring new business, can use rival land banks, can pull its rate down to whatever a non-Lennar builder gets, can halve its fee during pauses for up to two years with Millrose's agreement, and its Capital Priority Right limits capital left for others. Pooling protection is not guaranteed for other customers.",
+   "as_of": "2025-01-17",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525008418/d811267d424b1.htm",
+   "source_title": "Millrose Properties prospectus (Form S-11, 424B1), filed 2025-01-17, Risk Factors"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Margin-of-safety pitch in the February 2025 deck: with an illustrative 20% builder margin plus deposits and cost levers, home prices would have to fall about 30% before a builder is better off walking; 39% of the seed book turns in under a year.",
+   "as_of": "2025-02-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+   "source_title": "Millrose investor presentation, February 2025 (8-K 2025-02-24, Exhibit 99.1), slides 16 and 24"
+  }
+ ],
+ "builder_relationships": [
+  {
+   "builder_id": "lennar",
+   "builder_name": "Lennar Corporation",
+   "description": "Founding and anchor customer. Contributed $5.5 billion of land and $1 billion of cash at the 2025-02-07 spin and optioned it all back under the Master Program and Master Option Agreements: fixed 8.5% option rate on invested capital, 5% up-front payment plus up to 5% additional deposit, takedown at cost plus development budget, 30 cross-termination pools with Lennar's exposure capped at $50 million per pool, Lennar as development contractor bearing overruns, unlimited parent guaranty. Seed book at 2024-12-31 including the Rausch land: 860 properties, 29 states, about 112,855 homesites, about $6.6 billion value, $10.9 billion of scheduled takedown prices. Future Lennar deals price at BBB 3-year index + 4.00% +/- rating adjustment, 7% floor and 10% cap.",
+   "amount_usd_m": 6600,
+   "lots": 112855,
+   "date": "2025-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 and Item 2"
+  },
+  {
+   "builder_id": "lennar",
+   "builder_name": "Lennar Corporation (Rausch Coleman homesites)",
+   "description": "Subset of the seed book, not additive to the row above: on 2025-02-10, at Lennar's direction, Millrose bought about 24,000 Rausch Coleman homesites for about $876 million cash, net of Lennar-funded option deposits and holdbacks, and optioned all of them to Lennar at the same fixed 8.5% rate.",
+   "amount_usd_m": 876,
+   "lots": 24000,
+   "date": "2025-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 and Item 7"
+  }
+ ],
+ "debt": [
+  {
+   "instrument": "Revolving credit facility (Credit Agreement dated 2025-02-07)",
+   "type": "Revolver",
+   "principal_usd_m": 1335,
+   "rate": "Adjusted Term SOFR + 2.00% / 2.25% / 2.50% by leverage ratio (up to 0.30x / up to 0.40x / above 0.40x)",
+   "maturity": "2028-02",
+   "secured": "Secured",
+   "lenders_agent": "JPMorgan Chase Bank, N.A. (administrative agent)",
+   "status": "Outstanding",
+   "as_of": "2025-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07 (spin-off completion), Item 1.01 Credit Agreement",
+   "note": "$1.335 billion of commitments at the spin, maturing 2028-02-07. The 8-K describes security as a pledge of the intercompany Promissory Note and of the equity of Millrose Holdings (the February 2025 investor deck calls the revolver 'unsecured'; the debt agent should reconcile). Borrowing base; leverage, interest coverage and tangible net worth covenants; event of default if Kennedy Lewis stops being manager and no acceptable replacement is appointed within 90 days. Undrawn at the spin; $450 million drawn as of 2025-03-25 per the FY2024 10-K. This is the day-one facility only; later amendments are outside this agent's slice."
+  }
+ ],
+ "people": [
+  {
+   "name": "Darren L. Richman",
+   "title": "Chief Executive Officer and President",
+   "role_category": "CEO",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "Blackstone/GSO, DiMaio Ahmad Capital, Goldman Sachs, Deloitte",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 53 in March 2025. Co-founded Kennedy Lewis in 2017 and is its co-managing partner; named key man in the Founder's Rights Agreement. Employed by the manager, not paid by Millrose.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Garett Rosenblum",
+   "title": "Chief Financial Officer and Treasurer",
+   "role_category": "CFO",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "Safehold/iStar, Arbor Realty Trust, Citi Property Investors, EY",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 51 in March 2025. Joined Kennedy Lewis in 2024.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Robert Nitkin",
+   "title": "Chief Operating Officer",
+   "role_category": "President/COO",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "GPS Investment Partners, Goldman Sachs",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 37 in March 2025. Joined Kennedy Lewis in 2020.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Rachel Presa",
+   "title": "General Counsel and Secretary",
+   "role_category": "Legal/GC",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "Akin Gump (2010-2021)",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 45 in March 2025. Joined Kennedy Lewis in 2021.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Adil Pasha",
+   "title": "Chief Technology Officer",
+   "role_category": "Operations (other)",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "Schonfeld, PwC",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 32 in March 2025. Director at Kennedy Lewis; runs the cybersecurity program.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Carlos A. Migoya",
+   "title": "Chair of the Board",
+   "role_category": "Board",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 74. CEO of Jackson Health System; former Wachovia/Wells Fargo executive and Miami City Manager. Audit and Nominating and Corporate Governance committees.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Patrick J. Bartels",
+   "title": "Director",
+   "role_category": "Board",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 49. Managing Member of Redan Advisors; former Monarch Alternative Capital managing principal. Audit committee chair and financial expert; Compensation committee.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Matthew B. Gorson",
+   "title": "Director",
+   "role_category": "Board",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 76. Senior Chairman of Greenberg Traurig, real estate attorney. Nominating and Corporate Governance committee chair.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "Kathleen B. Lynch",
+   "title": "Director",
+   "role_category": "Board",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 59. Former Group Managing Director and COO of UBS Wealth Management Americas (2013-2018). Audit and Compensation committees.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "M. Alison Mincey",
+   "title": "Director",
+   "role_category": "Board",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "2025-02-07",
+   "prior_role": "",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 10",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Age 50. Senior Vice President and Chief Human Resources Officer, University of Miami Health System. Compensation committee chair; Nominating and Corporate Governance committee.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "David K. Chene",
+   "title": "Named key man of the manager (Kennedy Lewis); not a Millrose officer",
+   "role_category": "Other",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "",
+   "prior_role": "",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+   "source_title": "Founder's Rights Agreement, 2025-02-07 (8-K Exhibit 10.2), Section 3.01",
+   "source_date": "2025-02-07",
+   "retrieved": "2026-11-19",
+   "note": "Named with Darren L. Richman as a key man in the Founder's Rights Agreement; a change of control involving both triggers Lennar's consent right and is a deemed assignment under the Management Agreement.",
+   "domain_internal_notes": ""
+  },
+  {
+   "name": "David Valiaveedan",
+   "title": "Leads the manager's servicing team (exact title not given in the 10-K)",
+   "role_category": "Operations (other)",
+   "level": "Corporate",
+   "geography": "",
+   "reports_to": "",
+   "reports_to_confidence": "",
+   "email": "",
+   "email_confidence": "",
+   "phone": "",
+   "in_role_since": "",
+   "prior_role": "",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+   "source_title": "Millrose 10-K for FY2024, filed 2025-03-31, Item 1 (KL Management Team)",
+   "source_date": "2025-03-31",
+   "retrieved": "2026-11-19",
+   "note": "Kennedy Lewis employee; described in the FY2024 10-K as leading the servicing team for Millrose.",
+   "domain_internal_notes": ""
+  }
+ ],
+ "gaps": [
+  "Kennedy Lewis's investment in the manager, any Kennedy Lewis purchase or ownership of Millrose shares, and any lock-up: not found in the Management Agreement, the spin 8-K or the readable parts of the FY2024 10-K (Items 11-13 were beyond what the fetch tool returned). The Management Agreement contains no share-ownership requirement. The 2026 proxy (DEF 14A filed 2026-04-02) beneficial ownership table was not read by this agent.",
+  "Prospectus (424B1) pages after about page 148 could not be read: the fetch tool truncates the document at about 684,000 characters, so the detailed 'Lennar Agreements', 'Management', pro forma financial statements and beneficial ownership sections were taken instead from the filed agreements, the spin 8-K and the 10-K. An exact pro forma total-assets figure was therefore not captured; the about $6.5 billion comes from the February 2025 investor deck.",
+  "Rausch assets on their own: number of communities and state-by-state split not disclosed separately (only 'about 24,000 homesites'); the exact Lennar option deposit on them (prospectus said about $100 million) was not restated after closing.",
+  "Pool-by-pool composition (Exhibit A to the Master Program Agreement), the Project Addendum form with takedown schedules, and the Program Criteria schedules were omitted from the public exhibits under Item 601(a)(5).",
+  "The Distribution Agreement (dated 2025-01-16 per the Founder's Rights Agreement) was not among the exhibits to the 2025-02-07 8-K and was not read; tax matters and employee matters terms were not reviewed.",
+  "Names of the first non-Lennar counterparties (the about $250 million closed by 2025-03-17 at above 11%) are not given in the founding documents.",
+  "Credit agreement covenant levels (maximum leverage, minimum interest coverage, minimum tangible net worth) were not extracted; left to the debt agent.",
+  "Web search was unavailable for most of this run (shared budget exhausted), so the exchange-offer result relies on Lennar's Schedule 13D/A alone and no trade-press cross-check was done."
+ ],
+ "sources_consulted": [
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525008418/d811267d424b1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex108.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525023718/d868863d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525023718/d868863dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525288314/d58139d424b3.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525304023/xslSCHEDULE_13D_X01/primary_doc.xml",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669d8k.htm",
+  "https://data.sec.gov/submissions/CIK0002017206.json"
+ ]
+}

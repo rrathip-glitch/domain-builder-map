@@ -1,0 +1,102 @@
+{
+  "builder_id": "long-lake-ltd",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Long Lake is a privately held, single-market Houston builder whose financing is not public: no SEC filings, rated debt, or announced credit facilities. It controls land through an affiliated developer, Woodmere Development Co., Ltd., under the same general-partner manager (Roger B. Medors), which bought a 494-acre tract near Bridgeland in Katy (2022) and 95 acres near Tomball in Montgomery County (closed October 2024, undisclosed price). It also builds in third-party master plans (Beacon Hill, Sunterra Lakes). No land banker, lot-option partner or capital partner is publicly named. Falling closings (943 in 2023 to 782 in 2025) and large owned raw-land tracts make it a plausible prospect for land-banking or lot-option capital, but there is no public sign it uses any.",
+    "land_strategy": "Mixed, leaning owned: the company says it knows 'where to acquire the best land' and develops in-house through Woodmere Development (own planned communities such as Morton Creek Ranch and a 270-acre project inside Beacon Hill), plus lots bought in others' master plans. No stated owned/optioned target.",
+    "lots": {
+      "confidence": "Verified",
+      "source_url": "https://www.longlakeltd.com/new-homes/communities/",
+      "source_title": "Long Lake communities page",
+      "note": "No lot counts published. The site lists 21 active communities and (home-builders page) 406 homes in inventory on 2026-11-19.",
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19"
+    },
+    "land_banking": [
+      {
+        "confidence": "Reported",
+        "source_url": "https://wolffcompanies.com/?p=28506",
+        "source_title": "Historic local family sells 95 acres for residential development in Montgomery County (HBJ story reposted by Wolff Companies, 2024-11)",
+        "note": "Affiliation confirmed by Texas Comptroller records: Woodmere GP, LLC and L.L. Manager, L.L.C. are both managed by Roger B. Medors (https://comptroller.texas.gov/taxes/franchise/account-status/search/32008970991). Checker 2026-11-19: The Real Deal returns 403, so the source is now the Wolff repost, which calls Woodmere Long Lake's development arm and gives the 95-acre Decker Prairie-Rosehill Rd purchase (closed end of October 2024). The 494-acre Katy tract (2022) comes from The Real Deal (https://therealdeal.com/texas/houston/2024/11/25/long-lake-purchased-100-acre-tract-in-houston-area) and was not re-opened.",
+        "counterparty": "Woodmere Development Co., Ltd.",
+        "counterparty_type": "Affiliate",
+        "description": "Sister partnership (same GP manager, same office) that acquires and develops land for Long Lake: 494 acres at West and Katy Hockley roads, Katy (2022) and 95 acres at 26119 Decker Prairie-Rosehill Rd, Montgomery County (2024). In-house land development, not a land bank.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-10"
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "confidence": "Reported",
+        "source_url": "https://wolffcompanies.com/?p=28506",
+        "source_title": "Historic local family sells 95 acres... (HBJ story reposted by Wolff Companies, 2024-11-25)",
+        "note": "Long Lake opened Decker Cove in Magnolia in 2026; whether it sits on this tract is not stated.",
+        "date": "2024-10",
+        "type": "Other",
+        "description": "Woodmere Development acquired 95 acres in Montgomery County near Tomball/SH 249 from the Brautigam family; plans not announced. Price not disclosed.",
+        "amount_usd_m": null
+      },
+      {
+        "confidence": "Reported",
+        "source_url": "https://therealdeal.com/texas/2022/11/18/long-lake-buys-massive-development-site-in-katy/",
+        "source_title": "Long Lake buys massive development site in Katy (The Real Deal, 2022-11-18)",
+        "note": "Older than 24 months; context for the owned-land pipeline.",
+        "date": "2022-11",
+        "type": "Other",
+        "description": "Long Lake, through Woodmere Development, bought 494 acres off-market at the NW corner of West and Katy Hockley roads, Katy, across from Bridgeland, for a residential community.",
+        "amount_usd_m": null
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "2026-04-27",
+      "confidence": "Reported",
+      "source_url": "https://web.archive.org/web/20260427132921/https://www.builderonline.com/firms/long-lake-limited/",
+      "source_title": "Builder firm page (closings 943 in 2023, 912 in 2024; revenue $369M and $357M)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, construction lenders and land loans: not publicly disclosed (private company, no filings)",
+    "Owned vs optioned lots and years of supply: not publicly disclosed",
+    "Land-banking or lot-option counterparties: none publicly named; no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon found",
+    "Purchase prices of the 2022 Katy and 2024 Montgomery County tracts: not disclosed",
+    "M&A 2025-2026: none found",
+    "Company lists three preferred buyer-mortgage lenders (Home Net Funding, Benchmark Mortgage, Texas Capital Lending) on https://www.longlakeltd.com/new-home-financing/; these are consumer mortgage partners, not builder financing",
+    "County deed-of-trust and UCC records not searched (would name land lenders)"
+  ],
+  "sources_consulted": [
+    "https://www.longlakeltd.com/",
+    "https://www.longlakeltd.com/about/",
+    "https://www.longlakeltd.com/home-builders/",
+    "https://www.longlakeltd.com/contact-us/",
+    "https://www.longlakeltd.com/new-homes/agents/",
+    "https://www.longlakeltd.com/new-homes/communities/",
+    "https://www.longlakeltd.com/new-homes/updates/",
+    "https://www.longlakeltd.com/new-home-financing/",
+    "https://web.archive.org/web/20260427132921/https://www.builderonline.com/firms/long-lake-limited/",
+    "https://therealdeal.com/texas/houston/2024/11/25/long-lake-purchased-100-acre-tract-in-houston-area",
+    "https://therealdeal.com/texas/2022/11/18/long-lake-buys-massive-development-site-in-katy/",
+    "https://wolffcompanies.com/?p=28506",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32036774100",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32001467136",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32035841033",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32008970991",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/30119837190",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32038002021"
+  ]
+}

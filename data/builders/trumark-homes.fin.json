@@ -1,0 +1,245 @@
+{
+  "builder_id": "trumark-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Trumark is a private developer-builder that has been a consolidated subsidiary of Japan's Daiwa House Industry since 2020, when Daiwa House USA Inc. bought 60% from the two founders' family trusts and committed to further capital contributions. Before that it raised project-level money from institutional investors; since the deal it funds land from its own (Daiwa-backed) balance sheet, and its 2025 and 2026 releases announce roughly 2,000 lots and homesites as purchased, acquired or secured, with no mention of options. It has no public notes, no ratings and no disclosed credit-facility terms, and no land banker or lot-option financier is named in any public source found. The opening for a land banker is at the parent: Daiwa's debt-to-equity ratio reached 1.25 times in September 2026 against an earlier target of about 0.6, and its management told analysts the group may reduce interest-bearing debt and will balance investment with recovery over the next three to four years, while Trumark is trying to grow from 991 closings in 2025 into a fifth division in Washington.",
+    "land_strategy": "Owns and develops most of its land. Trumark describes itself as specialising in new residential land development, and Daiwa describes it as handling every stage from land development to housing supply. Its affiliate Trumark Communities (started 2013) is a master-planned community developer. Daiwa said in 2020 that Trumark would shift from institutional-investor project funding to using its own funds. No stated owned versus optioned target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2025-12-31",
+      "confidence": "Verified",
+      "source_url": "https://www.daiwahouse.com/English/ir/challenge/pdf/FY20254Q_presentation_material_en.pdf",
+      "source_title": "Daiwa House FY2025 Presentation on Management Policies (18 May 2026), page 7",
+      "note": "Trumark's own lot count is not publicly disclosed. The only published figure is for Daiwa's three US builders together (Stanley Martin, Trumark, CastleRock): 75,017 lots held including controlled lots at the end of December 2025, up 47% from 50,933 at the end of December 2021, with no owned versus optioned split and no breakdown by builder. Trumark delivered 991 homes in FY2025 per Daiwa's Integrated Report 2026."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Daiwa House Industry Co., Ltd. (through Daiwa House USA Inc.)",
+        "counterparty_type": "Affiliate",
+        "description": "Parent and main capital source. Daiwa House USA agreed in January 2020 to buy 60% of Trumark Companies LLC and to make additional capital contributions to fund the business; Trumark's 2026 releases still name Daiwa as majority stakeholder and source of financial support. This is parent equity and backing, not a lot-option programme.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2020-01",
+        "confidence": "Verified",
+        "source_url": "https://www.daiwahouse.com/English/about/release/pdf/release_20200116e.pdf",
+        "source_title": "Daiwa House news release: Notice Regarding Purchase of Equity Interests of Trumark Companies LLC (16 Jan 2020)",
+        "note": "Sellers were family trusts of Michael Maples and Gregg Nelson (50% each before the deal); expected transfer date 1 Feb 2020. The same release says Trumark had been procuring project funds from institutional investors (not named) and would shift to using its own funds. Amounts of capital contributed since are not disclosed. The Orange County Business Journal (23 Mar 2026) still describes the stake as 60%; no later change was found."
+      },
+      {
+        "counterparty": "Master-plan land sellers (not named in the releases)",
+        "counterparty_type": "Developer",
+        "description": "Trumark buys lots inside third-party master plans as well as stand-alone sites. Announced in 2025 and 2026: 37 more lots at Sterling Ranch (Littleton, CO), described as acquired; 85 homes at Andara at the Great Park (Irvine) and 90 at Sunflower at Rienda in Rancho Mission Viejo, described as secured; and plans for 195 homes at The Trails in Bishop Ranch (San Ramon), where the release does not say whether the land is owned or under contract. No release names sellers, prices or any option or phased-takedown structure.",
+        "amount_usd_m": null,
+        "lots": 407,
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://trumarkhomes.com/blog/trumark-homes-expanding-southern-california-footprint-in-2026/",
+        "source_title": "Trumark Homes Expanding Southern California Footprint in 2026 (27 Jan 2026)",
+        "note": "Lot count is the sum of the four master-plan deals named (37 + 85 + 90 + 195). Sterling Ranch and Bishop Ranch details are in Trumark's releases of 12 Dec 2025 and 27 Aug 2026 (see capital_events). Whether any of these are rolling-option takedowns is not public. Verifier 2026-11-19: description corrected; the 27 Aug 2026 Bishop Ranch release announces plans to build and does not say the site was acquired or secured (earlier text said all four were acquired or secured). The cited 27 Jan 2026 source states only the Great Park and Rienda counts."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Line of credit supported by Daiwa House capital (terms not disclosed)",
+        "type": "Revolver",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2020-05-28",
+        "confidence": "Inferred",
+        "source_url": "https://www.probuilder.com/home/article/55197823/insight-into-trumarks-growth-strategy-and-daiwa-partnership",
+        "source_title": "Pro Builder: Insight Into Trumark's Growth Strategy and Daiwa Partnership (28 May 2020)",
+        "note": "In a 2020 interview the co-founders said Daiwa was willing to provide capital for a line of credit in exchange for control and that its Japanese base lowers Trumark's cost of funds. Size, lenders, maturity and whether Daiwa guarantees or lends directly are not public. Source is more than 24 months old with no newer confirmation of the facility itself, so tagged Inferred."
+      },
+      {
+        "instrument": "Parent-level funding: Daiwa House Industry consolidated interest-bearing liabilities (not Trumark debt)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "about 1.3% to 1.4% funding rate in Japan",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.daiwahouse.com/English/ir/financial_results/pdf/DaiwaHouseFResultFY2026_2Q.pdf",
+        "source_title": "Daiwa House Consolidated Financial Results for the First Six Months of the Fiscal Year Ending March 31, 2027 (11 Nov 2026)",
+        "note": "Parent figures in yen, not converted: interest-bearing liabilities excluding leases 3,717.7 billion yen at 30 Sep 2026 (3,076.7 billion at 31 Mar 2026); debt-to-equity 1.25 times, or 1.16 after hybrid financing. Mix at 30 Sep 2026: short-term bank loans 1,134.6 billion, commercial paper 255.0 billion, bonds 694.0 billion including current portion, long-term bank loans 1,634.1 billion including current portion. The funding rate is from the 11 Nov 2026 analyst Q&A. How much of this is on-lent to Trumark is not disclosed."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-05-29",
+        "type": "Other",
+        "description": "Land acquisition: 589 lots in Central California (309 at Oak Place, Visalia; 280 in Lemoore). Release calls them purchases; no seller, price or financing given.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://trumarkhomes.com/blog/trumark-homes-expands-central-california-footprint-with-land-deals-in-visalia-and-lemoore/",
+        "source_title": "Trumark Homes Expands Central California Footprint With Land Deals in Visalia and Lemoore",
+        "note": ""
+      },
+      {
+        "date": "2025-09-24",
+        "type": "Other",
+        "description": "Land acquisition: two Riverside County sites for 314 homes (224 at Solara, Temescal Valley; 90 at Florita, Corona). Described as purchased.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://trumarkhomes.com/blog/trumark-homes-set-to-expand-with-two-land-deals-in-riverside-county/",
+        "source_title": "Trumark Homes Set to Expand With Two Land Deals in Riverside County",
+        "note": ""
+      },
+      {
+        "date": "2025-12-12",
+        "type": "Other",
+        "description": "Land acquisition: 37 additional lots at Sterling Ranch, Littleton, CO (Rhapsody neighbourhood). Described as acquired; seller not named.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://trumarkhomes.com/blog/trumark-homes-secures-additional-37-lots-at-sterling-ranch-in-colorado/",
+        "source_title": "Trumark Homes Secures Additional 37 Lots at Sterling Ranch in Colorado",
+        "note": ""
+      },
+      {
+        "date": "2026-01-27",
+        "type": "Other",
+        "description": "Land acquisition: 780 Southern California homesites secured across four communities (379 at Ocean Breeze Ranch, Bonsall; 226 at Elaris, Corona; 85 at Great Park, Irvine; 90 at Rienda, Rancho Mission Viejo).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://trumarkhomes.com/blog/trumark-homes-expanding-southern-california-footprint-in-2026/",
+        "source_title": "Trumark Homes Expanding Southern California Footprint in 2026",
+        "note": "The Orange County Business Journal (23 Mar 2026) quotes the Southern California division president saying some of this land was bought earlier at lower prices and that Daiwa ownership improved access to capital."
+      },
+      {
+        "date": "2026-08-27",
+        "type": "Other",
+        "description": "Land position: 195 homes planned at The Trails in Bishop Ranch, San Ramon (67 single-family, 128 townhomes); sales expected fall 2027. Seller and structure not stated.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://trumarkhomes.com/blog/trumark-homes-to-build-two-neighborhoods-at-east-bays-bishop-ranch/",
+        "source_title": "Trumark Homes to Build Two Neighborhoods at East Bay's Bishop Ranch",
+        "note": ""
+      },
+      {
+        "date": "2026-09-09",
+        "type": "Other",
+        "description": "Land acquisition: first Washington land buy since the JK Monarch deal, 18 acres in Poulsbo for 87 homes (Sandstone Ridge). Washington division president cites enhanced capital and operational resources.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://trumarkhomes.com/blog/trumark-homes-expands-washington-division-with-first-land-acquisition/",
+        "source_title": "Trumark Homes Expands Washington Division With First Land Acquisition",
+        "note": ""
+      },
+      {
+        "date": "2026-08-06",
+        "type": "Other",
+        "description": "Parent guidance: Daiwa told analysts that after four years of heavy investment in US single-family land, the next three to four years will emphasise balancing investment with recovery of capital and asset turnover.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.daiwahouse.com/English/ir/financialannouncement/pdf/qa_FY2026_1Q_en.pdf",
+        "source_title": "Daiwa House Q&A at Earnings Conference, FY2026 1Q (6 Aug 2026), Q10",
+        "note": "Group-level statement; not specific to Trumark."
+      },
+      {
+        "date": "2026-11-11",
+        "type": "Other",
+        "description": "Parent guidance: Daiwa's management said that rather than increasing interest-bearing liabilities further it is considering reducing them. Debt-to-equity stood at 1.25 times at 30 Sep 2026. Daiwa also raised its FY2026 US single-family forecast from 8,000 to 9,000 homes, with about 1,500 from acquired companies.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.daiwahouse.com/English/ir/financialannouncement/pdf/qa_FY2026_2Q_en.pdf",
+        "source_title": "Daiwa House Q&A at Earnings Conference, FY2026 2Q (11 Nov 2026), Q13 and Q14",
+        "note": "Group-level statement; a tighter parent balance sheet is the main reason a Daiwa-owned builder might look at third-party land capital. No such arrangement has been announced."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "Trumark: none (no rated or public debt). Parent Daiwa House Industry: AA- from R&I, per its Integrated Report 2026.",
+      "fiscal_year_end": "December",
+      "as_of": "2026-03-31",
+      "confidence": "Verified",
+      "source_url": "https://www.daiwahouse.com/English/ir/ar/pdf/daiwahouse_IR2026E_all.pdf",
+      "source_title": "Daiwa House Group Integrated Report 2026 (CFO message; US single-family houses page)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-03-20",
+      "role": "Acquirer",
+      "counterparty": "JK Monarch (JK Monarch Enterprises), Washington state",
+      "description": "Trumark acquired the Pierce County builder founded in 2011 by Jonathan Bartels, creating a Washington division covering Puget Sound and the Tri-Cities. Price and structure not disclosed; Daiwa describes it as Trumark acquiring JK Monarch's homebuilding interests. JTW Advisors advised the seller.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Adds a fifth division (Washington) to Northern, Central and Southern California and Colorado. Corey Watson is named Washington Division President in the 9 Sep 2026 release; founder Jonathan Bartels moved to an advisory role. Ten JK Monarch communities are being rebranded to Trumark and the division made its first new land purchase (87 homes, Poulsbo) in September 2026. Small effect on rank: ResiClub puts JK Monarch at 59 closings in 2024. Trumark's COO says it is in talks with landowners across the Seattle region, so Washington is a new land-capital need.",
+      "confidence": "Verified",
+      "source_url": "https://trumarkhomes.com/blog/trumark-homes-enters-pacific-northwest-market-with-acquisition-of-jk-monarch/",
+      "source_title": "Trumark Homes Enters Pacific Northwest Market With Acquisition of JK Monarch (20 Mar 2026)",
+      "note": "Announced before the May 2026 ranking. The release does not give a closing date; treated as closed because Trumark's history page lists JK Monarch as acquired in 2026, Daiwa's Integrated Report 2026 lists 'March 2026 JK Monarch Enterprises', and the September 2026 release refers to the acquisition as done. John Willsie, Chief Administrative Officer, is named as leading M&A for Trumark. Earlier deal for context: Wathen Castanos Homes, October 2023 (Daiwa lists it as JP Holdings), which became the Central California division."
+    },
+    {
+      "date": "2025-01-28",
+      "role": "Acquirer",
+      "counterparty": "Icon Lending (Fresno, CA mortgage brokerage)",
+      "description": "Trumark acquired its Central California preferred lender to act as affiliated lender across its divisions. Terms not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Adds a mortgage brokerage affiliate, not land or closings. It brokers to wholesale lenders, so there is no warehouse line. Chris Robson was named president at the acquisition; Marcus Murphy was appointed president on 19 Aug 2026, based in the Colorado office.",
+      "confidence": "Verified",
+      "source_url": "https://trumarkhomes.com/blog/trumark-homes-acquires-icon-lending-to-strengthen-financial-resources-for-homebuyers-in-western-us/",
+      "source_title": "Trumark Homes Acquires Icon Lending to Strengthen Financial Resources for Homebuyers in Western U.S. (28 Jan 2025)",
+      "note": "Leadership change sourced from Trumark's 19 Aug 2026 release."
+    }
+  ],
+  "gaps": [
+    "Owned versus optioned lots, total lots controlled and years of supply for Trumark: not publicly disclosed (private company; Daiwa publishes only a combined 75,017-lot figure for its three US builders).",
+    "Land-banking or lot-option financing partners: none found in public sources. No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis, TPG Angelo Gordon, DW Partners, Essential Housing, IHP Capital, Brookfield, Varde, Oaktree, GTIS, Hearthstone, Walton or Forestar.",
+    "Credit facility size, lenders, agent bank and maturity: not publicly disclosed. A Daiwa-supported line of credit was described by the founders in 2020 without terms.",
+    "Senior notes or other public debt: none found; Trumark has no SEC filings of its own (EDGAR full-text search refused the request in this run, so that check is by absence in press and parent documents only).",
+    "Cash, debt, liquidity and leverage for Trumark: not publicly disclosed. Daiwa's Financial Highlights document, which may carry US single-family segment detail, is hosted on daiwahouse.co.jp and refused access in this run.",
+    "Amount of capital Daiwa has contributed or lent to Trumark since 2020, and whether Daiwa guarantees Trumark's bank debt: not publicly disclosed.",
+    "Current joint ventures: none found. Pre-2020 project-level institutional investors are referred to by Daiwa but not named.",
+    "JK Monarch purchase price, structure, lots acquired and closing date: not publicly disclosed.",
+    "Builder's 2026 feature 'Inside Trumark Homes' Growth Play' (builderonline.com, returned 403) was seen only as a search snippet: it reportedly projects about 1,400 closings in 2026 and 2,500 by 2028 on the current balance sheet. Not confirmed.",
+    "A May 2023 The Real Deal headline refers to construction financing for a 32-townhome Trumark project in San Jose; the page returned 403, so lender and amount are unconfirmed and it is left out.",
+    "The shared web-search allowance ran out partway through this run, so searches by individual land-banker name beyond one combined query were not possible."
+  ],
+  "sources_consulted": [
+    "https://www.daiwahouse.com/English/about/release/pdf/release_20200116e.pdf",
+    "https://www.daiwahouse.com/English/ir/ar/pdf/daiwahouse_IR2026E_all.pdf",
+    "https://www.daiwahouse.com/English/ir/challenge/pdf/FY20254Q_presentation_material_en.pdf",
+    "https://www.daiwahouse.com/English/ir/challenge/pdf/FY20262Q_presentation_material_en.pdf",
+    "https://www.daiwahouse.com/English/ir/financial_results/pdf/DaiwaHouseFResultFY2026_2Q.pdf",
+    "https://www.daiwahouse.com/English/ir/financialannouncement/pdf/qa_FY2026_2Q_en.pdf",
+    "https://www.daiwahouse.com/English/ir/financialannouncement/pdf/qa_FY2026_1Q_en.pdf",
+    "https://trumarkhomes.com/blog/trumark-homes-enters-pacific-northwest-market-with-acquisition-of-jk-monarch/",
+    "https://trumarkhomes.com/blog/trumark-homes-expands-washington-division-with-first-land-acquisition/",
+    "https://trumarkhomes.com/blog/trumark-homes-expanding-southern-california-footprint-in-2026/",
+    "https://trumarkhomes.com/blog/trumark-homes-secures-additional-37-lots-at-sterling-ranch-in-colorado/",
+    "https://trumarkhomes.com/blog/trumark-homes-expands-central-california-footprint-with-land-deals-in-visalia-and-lemoore/",
+    "https://trumarkhomes.com/blog/trumark-homes-set-to-expand-with-two-land-deals-in-riverside-county/",
+    "https://trumarkhomes.com/blog/trumark-homes-to-build-two-neighborhoods-at-east-bays-bishop-ranch/",
+    "https://trumarkhomes.com/blog/trumark-homes-acquires-icon-lending-to-strengthen-financial-resources-for-homebuyers-in-western-us/",
+    "https://trumarkhomes.com/blog/trumark-homes-appoints-marcus-murphy-as-president-of-icon-lending/",
+    "https://trumarkhomes.com/our-story/",
+    "https://www.probuilder.com/home/article/55197823/insight-into-trumarks-growth-strategy-and-daiwa-partnership",
+    "https://www.probuilder.com/risk-diverse-trumark-companies-2018-builder-year",
+    "https://www.ocbj.com/oc-homepage/trumark-plans-aggressive-expansion-in-socal/",
+    "https://www.housingwire.com/articles/daiwa-trumark-jk-monarch/",
+    "https://www.resiclubanalytics.com/p/japanese-firms-buying-spree-american-homebuilders-keeps-daiwa-house-trumark-jkmonarch",
+    "https://www.resiclubanalytics.com/p/japanese-buying-american-homebuilders-daiwa-house-stanley-martin-buys-holiday-builders",
+    "https://www.bisnow.com/news/orange-county/commercial-real-estate/japanese-housing-developers-expands-into-us-with-acquisition-of-trumark-102617",
+    "https://www.bdmag.com/trumark-homes-expands-presence-in-washington/",
+    "https://seattleagentmagazine.com/2026/03/23/jk-monarch-acquired-by-trumark-homes/",
+    "https://www.housingwire.com/articles/trumark-lands-in-colorados-front-range-the-inside-story"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "builder_id": "maronda-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Maronda Homes is a private, family-owned builder (founded 1972 by William J. Wolf, home office in Imperial, PA) that publishes no financial statements and has no SEC registrant, so no notes, ratings, cash or leverage figures are public. The company describes itself as owning its homesites, including a large scattered-lot inventory in Florida and the Mid-Atlantic, and it runs land acquisition division by division (the contact page lists a separate land-opportunity desk for each of roughly 14 regions). The only lender names that surface are Bank of America and Wells Fargo: a public-records aggregator shows them as the largest mortgagees of record on Maronda entities, and they were reported as the lead banks in the 14-bank secured revolver behind the 2011 Chapter 11 filing of three Maronda entities. No land banker, lot-option financier or outside equity partner is publicly linked to Maronda, and no M&A was found for 2025 or 2026; growth has been by opening new states (South Carolina announced April 2026; Maryland, Indiana, Alabama, Virginia and West Virginia now on the site). For a land banker this reads as an owned-land, bank-financed balance sheet that is stretching into several new markets at once, which is where off-balance-sheet lot capital would have the most room.",
+    "land_strategy": "Owns most (company framing, no stated option target). The FAQ says Maronda owns numerous homesites in multiple areas and builds on customer-owned lots in certain communities; the January 2026 blog says it owns premium lots across various streets and locations and offers an extensive inventory of homesites across its Florida and Mid-Atlantic regions. It also builds in conventional communities, including some lots taken over from other builders. No owned-versus-optioned split, lot count or years of supply is published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.marondahomes.com/frequently-asked-questions/",
+      "source_title": "Maronda Homes FAQ (Can I build with Maronda Homes on my own lot?)",
+      "note": "Not publicly disclosed (private company). The only quantitative hint is a third-party public-records aggregator (elementix.com/companies/maronda-homes, 'as of November 2026') showing about 1,930 current property ownerships across 29 Maronda entities in 10 states; that is a count of recorded parcels (lots plus homes in progress), not a controlled-lot figure, and it says nothing about optioned lots."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Landsea Homes (predecessor builder at Eagle Crest, Grant-Valkaria, FL)",
+        "counterparty_type": "Developer",
+        "description": "Maronda now builds the Eagle Crest gated community in Brevard County that Landsea Homes started after closing on 108 homesites there in May 2021. This is a community-level lot takeover from another builder, not a land-bank or option financing.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Reported",
+        "source_url": "https://bluegecko.pages.dev/builders/maronda-homes",
+        "source_title": "Blue Gecko builder profile: Maronda Homes (local realtor write-up)",
+        "note": "Source is a local realtor blog; the handover date, lot count and price are not public. Landsea's original 108-homesite purchase is confirmed by its own release (prnewswire.com, 2021-05-17), which does not mention Maronda."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Secured bank borrowings recorded as mortgages on Maronda entities (facility terms not disclosed)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Bank of America; Wells Fargo Bank (largest mortgagees of record per aggregator; agent bank not confirmed)",
+        "status": "Outstanding",
+        "as_of": "2026-11",
+        "confidence": "Inferred",
+        "source_url": "https://elementix.com/companies/maronda-homes",
+        "source_title": "Elementix company profile: Maronda Homes (aggregated recorded-document data, 'as of November 2026')",
+        "note": "Aggregator lists top lenders by recorded mortgage volume: Bank of America $153.3M (5 loans), FirstKey Mortgage, LLC $128.0M (1 loan), Wells Fargo Bank $120.3M (15 loans), across 82 recorded mortgages. The page is internally inconsistent on the total ($381.1M in one place, $485.5M in another), gives no loan dates and no released/active status, so these may include old or satisfied mortgages and are not a current balance. The FirstKey entry is unexplained and unverified. Historical context from search-result snippets only (Builder magazine page returned 403 and was not opened): a $210M secured revolver was executed 2010-03-08 with a 14-bank syndicate led by Bank of America and Wells Fargo, and three Maronda entities filed Chapter 11 in 2011 after one syndicate member (reported as Huntington) would not join an out-of-court restructuring. Current facility size, maturity, agent and whether the status is drawn are not publicly disclosed."
+      }
+    ],
+    "capital_events": [],
+    "joint_ventures": [
+      {
+        "partner": "Acrisure Mortgage, LLC (formerly FBC Mortgage, LLC)",
+        "description": "RMC Home Mortgage, LLC (NMLS 2116211, Wexford, PA) is Maronda's captive mortgage joint venture with Acrisure Mortgage; RMC's affiliated-business disclosure states that the persons behind Maronda hold a 49.9% ownership interest in the lender. It finances homebuyers only and is not a source of land or corporate capital.",
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://www.marondahomes.com/financing-your-home.html",
+        "source_title": "Maronda Homes: Financing Your New Construction Home",
+        "note": "Confirmed on rmchomemortgage.com (joint-venture sentence and 49.9% affiliated-business disclosure). Older disclaimers on Maronda's site still name the partner as FBC Mortgage, LLC (NMLS 152859). Formation date not stated."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=maronda&type=&dateb=&owner=include&count=40",
+      "source_title": "SEC EDGAR company search for 'maronda' (no matching companies)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Owned vs optioned lots, total lots controlled, years of supply: not publicly disclosed (private company; no filings)",
+    "Land-banking or lot-option financing partner: none publicly identified. No public link found to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis, TPG Angelo Gordon, Varde (site search: no results), Walton Global (site search: no results), Forestar, Essential Housing, IHP Capital, DW Partners, Brookfield, Oaktree, GTIS or Hearthstone",
+    "Credit facility size, maturity, agent bank, covenants and current lender group: not publicly disclosed. Bank of America and Wells Fargo appear only via a records aggregator and 2010-2011 press snippets; neither is confirmed as a current lender by a primary source",
+    "Senior notes, term loans, private placements: none found. EDGAR company search returns no registrant named Maronda, so there is no SEC-registered or 144A reporting trail",
+    "Credit ratings: none found (no rated public debt identified)",
+    "Cash, total debt, liquidity, net debt to capital, fiscal year end: not publicly disclosed",
+    "Capital events in 2025 and 2026 (facility amendments, new lenders, equity): none publicly reported",
+    "M&A in 2025 and 2026: none found. New states (South Carolina announced 2026-04-20; Maryland, Indiana, Alabama, Virginia, West Virginia) appear to be greenfield entries; no builder acquisition was found behind any of them, but entry dates and method for states other than South Carolina were not confirmed",
+    "Outcome and final terms of the 2011 Chapter 11 cases (three Maronda entities): not confirmed in this run; Builder and Law360 pages returned 403",
+    "Land sellers and developer relationships by market (Florida CDD communities, Pittsburgh and Ohio developers): not publicly compiled; would need county deed records or CDD offering documents",
+    "Research limits: the swarm's shared web-search allowance ran out partway through, and marondahomes.com began returning 403 after the first batch of pages, so local business press on Maronda land purchases and mortgages was not swept"
+  ],
+  "sources_consulted": [
+    "https://www.marondahomes.com/about-maronda-homes.html",
+    "https://www.marondahomes.com/frequently-asked-questions/",
+    "https://www.marondahomes.com/blog/scattered-lot-living-freedom-choice-2/",
+    "https://www.marondahomes.com/blog/southern-charm-meets-modern-living-maronda-homes-arrives-in-south-carolina/",
+    "https://www.marondahomes.com/financing-your-home.html",
+    "https://www.marondahomes.com/contact.html",
+    "https://www.marondahomes.com/investment-opportunities/",
+    "https://www.marondahomes.com/blog/what-is-a-leaseback-home/",
+    "https://www.marondahomes.com/maryland/new-homes-for-sale.html",
+    "https://www.marondahomes.com/licensing-and-state-notices/",
+    "https://www.marondahomes.com/vendors.html",
+    "https://www.rmchomemortgage.com/",
+    "https://elementix.com/companies/maronda-homes",
+    "https://sfranalytics.com/investors/fl/port-st-lucie-fl/maronda-homes-inc-fl",
+    "https://bluegecko.pages.dev/builders/maronda-homes",
+    "https://prnewswire.com/news-releases/landsea-homes-closes-on-108-new-homesites-at-eagle-crest-in-grant-valkaria-florida-301292285.html",
+    "https://www.offerpad.com/?p=12945",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=maronda&type=&dateb=&owner=include&count=40",
+    "https://www.jaxdailyrecord.com/search/?q=Maronda",
+    "https://walton.com/?s=Maronda",
+    "http://varde.com/?s=Maronda",
+    "https://www.probuilder.com/top-200/article/55377310/the-2026-top-200-rankings",
+    "https://www.housingwire.com/?s=Maronda",
+    "https://www.bdmag.com/?s=Maronda"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "builder_id": "hayden-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Conventional for-sale homebuilder, privately held by the Watson family, with no SEC filings, no rated or public debt and no published lot counts, lenders or credit facilities; how it funds land is not publicly disclosed. The public record points to a self-funded, self-developing land model: in-house land acquisition and land development staff in each region, a 'Sell Land to Hayden Homes' intake on its website, bulk purchases of other builders' lot positions (Copper Basin in 2015, RYN Built Homes in 2021) and public-private land deals with cities (Parkside Place in Bend). No land banker, lot-option financier or institutional capital partner is named anywhere, and no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. That makes it a plausible land-banking customer that appears to be unserved: the company itself said in October 2026 that finished-lot costs can exceed what its entry-level prices support, and a Vice President of Land Acquisition seat was recruited around late 2025 to lead regional land teams and find new markets. One unconfirmed lead: a search-result summary of a Builder article lists Hayden Homes among strategic builder investors in Avila Real Estate Capital's first homebuilder debt fund (closed July 2025).",
+    "land_strategy": "Not framed publicly as land-light or land-heavy, and no owned-versus-optioned target is stated. Evidence suggests it buys and develops most of its own land in secondary and rural Northwest markets (regional land acquisition, forward planning and land development teams; direct land purchases from owners), supplemented by buying finished or pipeline lots from other builders and developers and by city partnerships that bring land inside urban growth boundaries in exchange for affordability commitments.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company). No lot count, owned/optioned split or years of supply appears in any company or press source found."
+    },
+    "land_banking": [
+      {
+        "counterparty": "RYN Built Homes (formerly Viking Builders), Spokane Valley, WA",
+        "counterparty_type": "Developer",
+        "description": "Hayden bought RYN Built's lot supply and RYN agreed to provide single-family lots in multiple projects across the Tri-Cities and Spokane markets, while RYN kept doing land development and apartments. A builder-to-builder lot-supply deal, not a land bank.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2021-10",
+        "confidence": "Inferred",
+        "source_url": "https://www.hayden-homes.com/blog/hayden-homes-acquires-ryn-built-homes-lot-supply/",
+        "source_title": "Hayden Homes Acquires RYN Built Homes Lot Supply (company release)",
+        "note": "Historic (October 2021); price and lot count were not disclosed and whether lots are still being delivered under the agreement is not public. The release called it Hayden's fourth acquisition, after Costa Pacific Homes, Copper Basin Homes and Sullivan Rowell Homes. Verification 2026-11-19: the release re-read and states the deal, but it dates from 2021 with no newer confirmation that lots are still being delivered, so tagged Inferred per the 24-month rule (was Verified)."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2025-10-16",
+        "type": "Other",
+        "description": "Opened a new headquarters 'Support Center' in Redmond, Oregon, a renovated former aircraft-parts plant across from Redmond Airport with space for more than 100 staff. Shows continued owner investment; cost and financing were not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.hayden-homes.com/blog/hayden-homes-opens-support-center-as-companys-new-headquarters-across-from-redmond-airport/",
+        "source_title": "Hayden Homes Opens Support Center as Company's New Headquarters (company release)",
+        "note": "Release dated 2025-10-09, posted 2025-10-16."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "City of Bend and State of Oregon (HB 4079 housing pilot)",
+        "description": "Parkside Place, Bend: a 37-acre, 300+ unit community enabled by a one-time urban growth boundary expansion in return for affordability. Hayden delivered 40% of units (139) as 50-year deed-restricted, including 108 rental apartments in phase one. A public-private land entitlement partnership, not an equity joint venture.",
+        "date": "2026-04",
+        "confidence": "Verified",
+        "source_url": "https://www.hayden-homes.com/blog/hayden-homes-parkside-place-ribbon-cutting-celebrates-successful-housing-partnership/",
+        "source_title": "Hayden Homes' Parkside Place Ribbon Cutting Celebrates Successful Housing Partnership (company release)",
+        "note": "Sales opened July 2025; model home opened April 2026. Any financing partner for the apartment component is not named."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": [
+      {
+        "firm": "Avila Real Estate Capital",
+        "relationship": "Unconfirmed lead: Hayden Homes was listed, with Sumitomo Forestry/DRB Group, LGI Homes, Century Communities and Dream Finders Homes, as a strategic builder investor in Avila's first homebuilder debt fund (closed July 2025 with more than $700 million of commitments and co-investments). Avila lends to builders and developers for land acquisition, development and finished-lot delivery, so this would make Hayden an investor in a lot-finance platform, not a disclosed borrower.",
+        "date": "2025-07",
+        "confidence": "Inferred",
+        "source_url": "https://www.builderonline.com/money/avila-real-estate-capital-announces-second-close-of-debt-fund-reaching-200-million-in-commitments/",
+        "source_title": "Builder: Avila Real Estate Capital Announces Second Close of Debt Fund, Reaching $200 Million in Commitments",
+        "note": "Seen only in a web-search result summary of this Builder article; the page itself returned HTTP 403 and was not opened. The Avila announcements that were opened (IREI, March and September 2026; HousingWire, November 2025 and March 2026) do not name Hayden Homes. Confirm before using. Verification 2026-11-19: the Builder page still returns HTTP 403; still unconfirmed."
+      }
+    ]
+  },
+  "ma": [],
+  "gaps": [
+    "Lots owned, optioned and years of supply: not publicly disclosed (private company).",
+    "Credit facilities, lenders, agent banks, borrowing base and maturities: not publicly disclosed. No lender to the company is named in any source found.",
+    "Land banker, lot-option partner or institutional capital partner: none publicly disclosed. No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon was found.",
+    "Total debt, cash, liquidity and leverage: not publicly disclosed. No credit ratings (no public debt).",
+    "Owner funding: the Watson family owns the company; any family-office or affiliate financing is not publicly disclosed. The only bank ties on the public record are a 2014 company release naming Washington Trust Bank as preferred mortgage lender for homebuyers (customer financing, not a corporate facility) and Hayden Watson's listing on Summit Bank's team page.",
+    "Avila Real Estate Capital fund investment: seen only in a search-result summary; the source article could not be opened, and the commitment amount is not public.",
+    "M&A 2025 to 2026: none found, before or after the May 2026 ranking, in the company's own newsroom (headlines of all 161 company-news posts scanned, 2025 to 2026 posts read) or in the searches that ran. Earlier deals for context: Copper Basin homesites (2015) and RYN Built Homes lot supply (2021).",
+    "Search depth was limited: the swarm's shared web-search allowance ran out mid-run, Builder Online returned 403, and several local-news domains were rate-limited, so a local-press story naming a lender or land seller could have been missed."
+  ],
+  "sources_consulted": [
+    "https://www.hayden-homes.com/blog/wp-json/wp/v2/posts?categories=180&per_page=100",
+    "https://www.hayden-homes.com/blog/hayden-homes-acquires-ryn-built-homes-lot-supply/",
+    "https://www.hayden-homes.com/blog/hayden-homes-parkside-place-ribbon-cutting-celebrates-successful-housing-partnership/",
+    "https://www.hayden-homes.com/blog/homes-now-for-sale-in-parkside-place-at-prices-affordable-to-middle-income-earners/",
+    "https://www.hayden-homes.com/blog/hayden-homes-opens-support-center-as-companys-new-headquarters-across-from-redmond-airport/",
+    "https://www.hayden-homes.com/blog/hayden-homes-joins-statewide-conversation-on-solutions-to-washingtons-housing-challenges/",
+    "https://www.hayden-homes.com/blog/hayden-homes-joins-forces-with-washington-trust-bank/",
+    "https://www.hayden-homes.com/blog/hayden-homes-announces-leadership-change/",
+    "https://www.hayden-homes.com/blog/hayden-homes-hearthstone-ribbon-cutting-redmond/",
+    "https://www.hayden-homes.com/contact",
+    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7e7d3a6b-c286-4efd-819c-f4e12d5ed448&ccId=557557171_2073&lang=en_US",
+    "https://jobright.ai/jobs/info/6945f0507d506e3808f131ba",
+    "https://www.career.com/job/hayden-homes/regional-land-development-manager/j202505200948459293838",
+    "https://sbko.bank/sbko_team/hayden-watson/",
+    "https://irei.com/news/avila-real-estate-capital-announces-second-close-of-latest-debt-fund/",
+    "https://irei.com/news/avila-real-estate-capital-closes-390m-in-new-institutional-commitments-bringing-total-capital-to-more-than-750m/",
+    "https://irei.com/news/avila-real-estate-capital-announces-first-closing-of-new-debt-fund-with-100m-in-commitments/",
+    "https://www.housingwire.com/articles/arec-debt-fund-builders/",
+    "https://www.housingwire.com/articles/hillwood-backs-new-homebuilding-fund-as-adc-credit-tightens/",
+    "https://www.housingwire.com/articles/leading-with-values-a-builders-how-to-in-community-engagement/",
+    "https://ktvz.com/?p=1644975"
+  ]
+}

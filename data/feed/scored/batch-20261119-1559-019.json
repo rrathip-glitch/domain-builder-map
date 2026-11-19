@@ -1,0 +1,424 @@
+{
+ "batch": "batch-20261119-1559-019",
+ "rubric_version": "v1.2",
+ "articles": [
+  {
+   "id": "8cfcd8a765c6",
+   "summary": "Pro Builder column arguing homebuilder sales teams should understand construction quality.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap40-generic",
+   "why_it_matters": "No land, financing or named-builder content, so nothing for Domain to act on.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "880dd84e2f80",
+   "summary": "The Home Depot Foundation pledged $1 billion to veteran causes through 2032, including transitional and alternative housing for veterans.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Corporate charity unrelated to builder land or financing; no bearing on Domain's customers or competitors.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "33f890556422",
+   "summary": "Design trend piece: 2027 kitchens expected to move from open-concept to zoned layouts with more wellness features.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Product and design trend with no land, lot or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "040ae3902f31",
+   "summary": "Divergent Investment Co. bought a Paradise Valley, Ariz., house for $5.15 million, likely as a teardown because the land is worth more than the home.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "A single luxury residential sale, not builder land; nothing for a land banker.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "3062b0430f97",
+   "summary": "Inman: Berkshire's Q2 filing confirmed its Taylor Morrison acquisition (Inman cites $6.8 billion), raised its Lennar stake nearly 30% and took a small new D.R. Horton stake, under incoming CEO Greg Abel.",
+   "category": "Builder M&A",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 3,
+    "builder_customer": 20,
+    "financing_capital_markets": 14,
+    "land_lot_supply": 3,
+    "materiality_actionability": 5
+   },
+   "adjustment": "none",
+   "why_it_matters": "Taylor Morrison, the sixth-largest builder, now has Berkshire's balance sheet behind it and may need far less land-bank capital, while Berkshire's bigger Lennar stake puts a deep-pocketed holder behind a Domain relationship.",
+   "builder_ids": [
+    "taylor-morrison",
+    "lennar",
+    "d-r-horton"
+   ],
+   "people": [
+    "Greg Abel"
+   ],
+   "competitors": [
+    "Berkshire Hathaway"
+   ],
+   "suggested_update": {
+    "builder_id": "taylor-morrison",
+    "kind": "Deal",
+    "text": "Owned by Berkshire Hathaway; the acquisition was confirmed in Berkshire's Q2 2026 filing (Inman, Aug 25, 2026, cites $6.8 billion; check the price against the filing)."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "48d7bf28af8c",
+   "summary": "Ranking of the most expensive US ZIP codes in 2026; Atherton, Calif., is first for the second straight year.",
+   "category": "Housing market",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Luxury consumer price ranking with no builder or financing angle.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "937010b01e5d",
+   "summary": "Buffalo, N.Y., is working with the University at Buffalo architecture school on pre-approved home plans to shorten permitting and construction timelines.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 1,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap40-generic",
+   "why_it_matters": "A local permitting initiative aimed at infill homes, not production builders' land; minimal relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "8406a2dcaec4",
+   "summary": "Design piece: builders are reworking pantries, laundry rooms and primary baths to add function rather than floor area.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Floor-plan design trend with no land or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "7e55239357b4",
+   "summary": "Product roundup of 17 kitchen products, from flooring to cabinetry, at a range of price points.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Product promotion; irrelevant to land banking.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "0f61dbe52c5b",
+   "summary": "Pro Builder opinion blog arguing home designs no longer match how American households live.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap40-generic",
+   "why_it_matters": "Design commentary with no builder, land or financing content.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "2313882784f9",
+   "summary": "Investor piece: LGI Homes raised 2026 margin guidance after Q2 (gross margin 19-21%), cut debt $128.6M, had $468M liquidity incl. $406.9M revolver availability; short interest is about 21% of float.",
+   "category": "Earnings & guidance",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 14,
+    "financing_capital_markets": 10,
+    "land_lot_supply": 2,
+    "materiality_actionability": 2
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Shows LGI deleveraging with ample revolver headroom, so it has little near-term need for outside land capital, but this stock-tip piece repeats stale Q2 figures.",
+   "builder_ids": [
+    "lgi-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "b294e0be2d86",
+   "summary": "NYT feature on Nippon Steel's effort to revitalize U.S. Steel's mills, including its oldest plant near Pittsburgh, after its takeover.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Steel industry story collected by a Japanese-acquirer search; no homebuilder or land angle.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "af4370ea524d",
+   "summary": "Bloomberg reports KKR is the preferred bidder for Japanese curry chain Ichibanya.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Restaurant private-equity deal in Japan; unrelated to builder land or lending.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "e82005e7ca32",
+   "summary": "NAHB/Wells Fargo builder sentiment fell 4 points to 25 in November, the lowest since April 2012; about 46% of builders cut prices and nearly 70% used incentives.",
+   "category": "Housing market",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 6,
+    "land_lot_supply": 2,
+    "materiality_actionability": 6
+   },
+   "adjustment": "cap40-generic",
+   "why_it_matters": "Margin pressure this broad makes smaller builders likelier to seek off-balance-sheet lot capital or renegotiate option takedowns, which affects Domain's pipeline and its credit risk.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "9afb5a841433",
+   "summary": "UBS replaced JPMorgan with Pimco as sole subadvisor on its $147 million PACE Global Fixed Income Investments fund.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Wealth-management fund manager change; no bearing on builder funding.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "2430a80487d3",
+   "summary": "Blog post says junk bonds issued to fund AI data centers reached $37 billion in 2026 as their prices slumped.",
+   "category": "Capital markets & ratings",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 3,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap40-generic",
+   "why_it_matters": "Weakness in high-yield could raise borrowing costs for lower-rated builders, but the piece names no builder and the source is thin.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "507050264b59",
+   "opened": false,
+   "drop": "Mutual-fund quote/profile page (Bridge Builder Core Plus Bond Fund), not a story"
+  },
+  {
+   "id": "be68fa3c7dbe",
+   "summary": "Content-marketing post on Japan's deregulated electricity market as an opportunity for foreign green-tech firms.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap30-duplicate",
+   "why_it_matters": "Japanese energy marketing with no homebuilding content; same page as a24a411f114a.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": "a24a411f114a",
+   "opened": false
+  },
+  {
+   "id": "a24a411f114a",
+   "summary": "Content-marketing post on how foreign green-tech companies can use affiliate marketing to enter Japan's deregulated energy market.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Japanese energy marketing with no homebuilding, land or financing angle.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "5dc9941acbf5",
+   "summary": "Consumer roundup of high-yield savings accounts in November 2026 paying up to 5.00%.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Consumer banking product list; no builder funding relevance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  }
+ ]
+}

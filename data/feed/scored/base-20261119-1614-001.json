@@ -1,0 +1,426 @@
+{
+ "batch": "base-20261119-1614-001",
+ "rubric_version": "v1.3",
+ "articles": [
+  {
+   "id": "9894cbf63568",
+   "summary": "Video copy: a land bank's planned acquisition of the abandoned Lowry Middle School in North Tonawanda, NY fell through; the current owner will develop it.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap30-duplicate",
+   "why_it_matters": "Syndicated copy of the WKBW story on a local land bank authority deal; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": "a8c5746aae2a",
+   "opened": false
+  },
+  {
+   "id": "a8c5746aae2a",
+   "summary": "A local land bank's planned acquisition of the abandoned Lowry Middle School in North Tonawanda, NY fell through; the current owner says it will develop the property itself.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "bb3cf9d75ff9",
+   "summary": "Detroit's Land Bank will release city holds on about 7,500 properties so residents can buy side lots, under Mayor Sheffield's homeownership push.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 1,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap30-duplicate",
+   "why_it_matters": "Another write-up of Detroit's city land bank reforms; a public-sector side-lot program, not builder land finance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": "be1873fa21c1",
+   "opened": false
+  },
+  {
+   "id": "f2ed989aae37",
+   "summary": "The Broome County (NY) Land Bank completed its acquisition of the long-abandoned Vestal Nursing Center property.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "66d5cd57a615",
+   "summary": "Detroit Mayor Mary Sheffield announced a five-point plan to widen resident access to Detroit Land Bank properties and support code repairs.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 1,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap30-duplicate",
+   "why_it_matters": "Duplicate coverage of Detroit's city land bank reforms; not Domain's business.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": "be1873fa21c1",
+   "opened": false
+  },
+  {
+   "id": "be1873fa21c1",
+   "summary": "Detroit Mayor Mary Sheffield announced Land Bank reforms on Nov. 10 to make about 16,000 properties available for sale, with $3 million in homeowner assistance and service fixes.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 1,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A city land bank authority selling vacant homes and lots to residents; no homebuilder or land-finance angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "8a2827f1aafa",
+   "summary": "Detroit's mayor and the Detroit Land Bank Authority director announced reforms aimed at resident frustrations with the city land bank.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 1,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap30-duplicate",
+   "why_it_matters": "Duplicate coverage of Detroit's city land bank reforms; not Domain's business.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": "be1873fa21c1",
+   "opened": false
+  },
+  {
+   "id": "78b0443c4366",
+   "summary": "Ogle County, IL joined the Northern Illinois Land Bank through an intergovernmental agreement tied to possible county ownership of 64 acres at the Lorado Taft Field Campus.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "6a7f92739897",
+   "summary": "India's Himachal Pradesh government introduced an investment-promotion bill that would fast-track clearances and create a state land bank.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "An Indian state industrial land policy; outside the US builder market Domain serves.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "b387b6f87534",
+   "summary": "The Clark County (OH) Land Bank received a second round of city funding to expand parking at Springfield's Euclid Street Park.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "9b77fbcf31fe",
+   "summary": "Indian stock-commentary piece on whether logistics firm Gateway Distriparks' 463-acre land holding is undervalued.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "An Indian logistics stock note using 'land bank' loosely; nothing to do with US builder land finance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "0df29081cee5",
+   "summary": "Meeting notice: the Herkimer County (NY) Land Bank board meets Nov. 18.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "3c5d4114dcc4",
+   "summary": "Neighbors complain about trash, squatters and unsafe conditions at a vacant Detroit Land Bank house on Lappin; cleanup is underway and demolition is under review.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "56f69b5dd01d",
+   "summary": "The Richland County (OH) Land Bank finalized a $224,000 sale of vacant parcels to a Columbus-based affordable housing developer planning 70 units.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 2,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A county land bank selling a few lots to a small affordable-housing developer; no ranked builder or land-finance competitor involved.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "5853b4198265",
+   "summary": "The Oswego County (NY) Land Bank was awarded $50,000 for property rehabilitation pre-development work under a state land bank program.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "53e77ed9be8f",
+   "summary": "The Dutchess County-Poughkeepsie Land Bank added three community leaders to its board of directors.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "7054b252d9a9",
+   "summary": "Axios: Detroit is releasing thousands of previously held Land Bank properties for sale under Mayor Sheffield's reforms.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 1,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap30-duplicate",
+   "why_it_matters": "Duplicate coverage of Detroit's city land bank reforms; not Domain's business.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": "be1873fa21c1",
+   "opened": false
+  },
+  {
+   "id": "34bd656c5d34",
+   "summary": "The Steuben County (NY) Land Bank is nearly done with its first new-build home in Riverside and plans a larger project in Erwin in 2027.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A municipal or county land bank authority, not builder land finance: no customer, competitor or capital angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "43b290c48ab7",
+   "summary": "Opinion column arguing Detroit's Land Bank reforms must deliver actual resident homeownership.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "An opinion column on a city land bank; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "82f3fabc3c42",
+   "summary": "The Nantucket Land Bank, a conservation body, is adding lights to a dog park on Miacomet Road.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A conservation land trust's park project; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  }
+ ]
+}

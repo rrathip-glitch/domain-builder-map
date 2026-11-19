@@ -1,0 +1,87 @@
+{
+  "builder_id": "national-home-corp",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "National Home Corp. is a private, founder-owned entry-level builder (550 closings in 2025, pacing 800+ in 2026) that buys finished lots only, builds 100% spec and describes its land exposure as limited; it does not develop land and publishes no lot count. A conventional for-sale builder that also sells to and fee-builds for build-to-rent investors, it is a plausible but small land-banking customer: its stated plan to reach about 1,200 homes under construction by year-end 2026 and 1,500 to 1,800 closings in 2027 implies a much larger finished-lot pipeline than it has needed so far, and its site openly solicits developed homesites from sellers. No land banker, lot-option financier, equity sponsor or credit facility is publicly named; the only lender names on record are from 2022 (Wells Fargo, 'Regents' as printed, Fifth Third and Flagstar funding start-up operations). The one disclosed joint venture is NHC Mortgage with loanDepot, a buyer-mortgage venture, not land capital. No public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found.",
+    "land_strategy": "Land-light by design: buys finished lots from developers, builds standardized plans 100% spec, and aims to keep capital exposed for as short a time as possible (the Wade Jurney Homes playbook: just-in-time lot takedowns, fast inventory turns, pace over margin). No stated owned/optioned target. The company site runs a 'We Buy Lots' / 'Sell Land' page asking owners of developed homesites and build-for-rent partners to submit deals.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/national-home-corp-18-gross-margin/",
+      "source_title": "HousingWire / The Builder's Daily: National Home Corp. targets 18% gross margin with pace focus",
+      "note": "No lot count is public. Only inventory indicators: about 1,200 homes targeted to be under construction by year-end 2026, 93 starts and 70 closings in July 2026. A third-party deed-record aggregator (SFR Analytics) shows the entity taking title to lots and homes in North Carolina through July 2026 with little recorded mortgage data, which fits lot-by-lot finished-lot takedowns but is not a lot count."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2022-10-20",
+        "type": "Other",
+        "description": "At the one-year mark HousingWire reported that four lenders, printed as Wells Fargo, Regents, Fifth Third and Flagstar, had provided capital financing to fund start-up operations across 11 states and 26 markets. No facility sizes, structures or maturities were given.",
+        "amount_usd_m": null,
+        "confidence": "Inferred",
+        "source_url": "https://www.housingwire.com/articles/jurney-mapping-wade-jurneys-pursuit-of-affordability-continues/",
+        "source_title": "HousingWire / The Builder's Daily: Jurney Mapping: Wade Jurney's Pursuit Of Affordability Continues",
+        "note": "Stale (2022) and not reconfirmed, so tagged Inferred; current lender group is not public. 'Regents' is as printed in the article and probably means Regions Bank (unconfirmed)."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "loanDepot",
+        "description": "NHC Mortgage, a joint-venture mortgage company serving National HomeCorp buyers, launched in Florida, Iowa and North Carolina with more states planned for 2023. This is a buyer-financing venture, not land or construction capital. The company's financing page still discloses an ownership interest in NHC Mortgage as a joint venture.",
+        "date": "2022-11-02",
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/loandepot-and-national-homecorp-launch-nhc-mortgage-301666065.html",
+        "source_title": "loanDepot press release: loanDepot and National HomeCorp launch NHC Mortgage",
+        "note": "Current ownership disclosure seen on nationalhomecorp.com/financing (retrieved 2026-11-19); that page does not name loanDepot, so the partner today is confirmed only as of the 2022 release."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "2026-09-09",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/national-home-corp-18-gross-margin/",
+      "source_title": "HousingWire / The Builder's Daily: National Home Corp. targets 18% gross margin with pace focus"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned / optioned / controlled): not publicly disclosed (private company)",
+    "Land banker, lot-option financier or developer partners: none publicly named",
+    "Credit facilities, lender group, facility sizes and maturities: not publicly disclosed; the only lender names are from a 2022 article and may be out of date",
+    "Equity ownership and any outside capital partner: not publicly disclosed; company presents as founder-owned (Jurney, Bergman, Erickson)",
+    "Debt, cash, liquidity, leverage: not publicly disclosed; the company says its financials are audited but does not publish them. Only operating datapoint: about 18% gross margin in July 2026",
+    "Build-to-rent / fee-build share of closings and named BTR investor clients: not publicly disclosed",
+    "M&A 2025 to date: none found (no acquisitions, no sale); background only: founder Wade Jurney sold Wade Jurney Homes to Century Communities in 2016 to 2018",
+    "No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon found",
+    "SEC EDGAR company and full-text lookups returned 403 in this run, so a Form D or other filing could not be ruled out; the swarm's shared web-search allowance also ran out before a search for local lot-purchase news could run",
+    "2025 revenue (about $129M) and rank come from the project spine (Builder 100); the Builder Online page was bot-blocked and not opened"
+  ],
+  "sources_consulted": [
+    "https://www.housingwire.com/articles/national-home-corp-18-gross-margin/",
+    "https://www.housingwire.com/articles/jurney-mapping-wade-jurneys-pursuit-of-affordability-continues/",
+    "https://www.prnewswire.com/news-releases/loandepot-and-national-homecorp-launch-nhc-mortgage-301666065.html",
+    "https://www.prnewswire.com/news-releases/nhc-jumps-70-spots-on-builder-100-list-reaching-78-302450186.html",
+    "https://www.nationalhomecorp.com/we-buy-lots",
+    "https://www.nationalhomecorp.com/sell-land",
+    "https://www.nationalhomecorp.com/build-to-rent",
+    "https://www.nationalhomecorp.com/fee-building",
+    "https://www.nationalhomecorp.com/financing",
+    "https://www.nationalhomecorp.com/about-us",
+    "https://www.housingwire.com/housing-economic-summit-2026/how-experts-are-addressing-housing-affordability-today/",
+    "https://www.housingwire.com/podcast/wade-jurney-on-building-entry-level-homes-in-this-market/",
+    "https://sfranalytics.com/investors/nc/durham-chapel-hill-nc/national-home-corporation-nc"
+  ]
+}

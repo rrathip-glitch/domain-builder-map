@@ -1,0 +1,133 @@
+{
+  "builder_id": "first-america-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "First America Homes is a conventional for-sale builder, but it is a division of a private developer rather than a stand-alone company, and nothing about its debt, lenders or balance sheet is public. Its land comes two ways: lots developed by the parent's own Land division (for example 359 lots at Azalea District in Valley Ranch, where it is the exclusive builder), and finished homesites bought in other developers' communities in the 2026 expansion markets (81 lots at Leonard Trails in Anna, three Austin-area communities, nine San Antonio-area communities). The parent describes itself as well capitalized, cites $3.5B+ of assets under management and 25,000+ paper lots, and says it is buying positions from industry partners that want to shrink. No land banker, lot-option financier or lender is named anywhere public. It is a plausible land-banking customer, most likely at the parent level (funding the parent's lot development pipeline or the builder's fast growth toward a stated 5,000 homes a year by 2035), and the people to approach are the parent's CFO and Land division.",
+    "land_strategy": "Vertically integrated rather than land-light: the company's own framing is that First America Homes 'leverages in-house land development' from The Signorelli Company's integrated platform. In practice it is mixed: parent-developed lots in Houston-area master plans, plus finished-lot purchases from third-party developers in Dallas-Fort Worth, Austin and San Antonio. No owned-versus-optioned target is stated. The parent's land arm is also a lot seller: its 6,400-acre Austin Point lists nine outside builders and not First America Homes.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Verified",
+      "source_url": "https://www.signorellicompany.com/about/",
+      "source_title": "Signorelli About page (headline statistics)",
+      "note": "No lot count is published for First America Homes itself. The parent's About page cites 25K+ paper lots across its development pipeline (an August 2026 release and the builder's About page say over 23,000); these are parent-level paper lots, many destined for outside builders, not the builder's controlled lots. The parent CEO bio says the land division added over 12,740 lots in the past five years. Announced 2026 pipeline for the builder: 14 new communities expected to deliver more than 1,300 homes."
+    },
+    "land_banking": [
+      {
+        "counterparty": "The Signorelli Company (Land division)",
+        "counterparty_type": "Affiliate",
+        "description": "The parent's in-house land development arm entitles and develops communities and supplies lots to First America Homes. In Azalea District at Valley Ranch (New Caney) First America Homes is the exclusive builder on 359 single-family lots, with a first phase of 156 homesites scheduled for summer 2026.",
+        "amount_usd_m": null,
+        "lots": 359,
+        "date": "2026-04",
+        "confidence": "Verified",
+        "source_url": "https://www.signorellicompany.com/azalea-district-valley-ranch-groundbreaking/",
+        "source_title": "The Signorelli Company breaks ground on Azalea District in Valley Ranch (company release)",
+        "note": "Lot count is for this one community only. Terms between the parent and the builder (purchase, option or transfer) are not disclosed. The Land division president's bio also lists reimbursement-entity management, which points to utility-district reimbursements as part of how the parent funds development."
+      },
+      {
+        "counterparty": "Qualico Communities",
+        "counterparty_type": "Developer",
+        "description": "First America Homes entered Dallas-Fort Worth by securing 81 homesites (30- and 40-foot lots) in Leonard Trails, a 98-acre community in Anna that The Real Deal, citing public records, identifies as a Qualico Communities development.",
+        "amount_usd_m": null,
+        "lots": 81,
+        "date": "2026-06",
+        "confidence": "Inferred",
+        "source_url": "https://therealdeal.com/texas/2026/06/04/first-america-homes-moves-into-collin-county-boomtown/",
+        "source_title": "First America Homes moves into Collin County boomtown (The Real Deal)",
+        "note": "The company's own release confirms the 81 homesites but does not name the seller or say whether the lots were bought outright or are under a takedown contract. Price not disclosed. Verification 2026-11-19: The Real Deal page returned 403, so the Qualico attribution could not be re-confirmed; downgraded from Reported to Inferred."
+      },
+      {
+        "counterparty": "Third-party community developers, Austin and San Antonio areas (not named)",
+        "counterparty_type": "Developer",
+        "description": "For its June 2026 Austin launch the builder secured homesites in three communities developed by others (Blue Sky in Lockhart, Okra Creek in Manor, The Ridge West in Kyle) and announced nine more San Antonio-area communities; the company says the Central Texas expansion will deliver about 900 homes.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-06",
+        "confidence": "Verified",
+        "source_url": "https://www.firstamericahomes.com/blog/nationally-ranked-homebuilder-first-america-homes-launches-austin-division-expands-in-san-antonio/",
+        "source_title": "First America Homes Launches Austin Division, Expands in San Antonio (company release)",
+        "note": "Developers, lot counts by community and contract structure are not disclosed. Community Impact reported a 78-homesite first phase at The Ridge West."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-06-03",
+        "type": "Other",
+        "description": "Dallas-Fort Worth market entry funded from the parent's own resources as described by the company: the CEO called the group well capitalized and said its financial strength lets it take positions from industry partners that want to right-size. First purchase: 81 homesites at Leonard Trails, Anna.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.signorellicompany.com/first-america-homes-dallas-fort-worth-expansion/",
+        "source_title": "First America Homes expands into Dallas-Fort Worth market (company release)",
+        "note": "No amount, lender or capital partner named."
+      },
+      {
+        "date": "2026-08-06",
+        "type": "Other",
+        "description": "Parent announced a statewide expansion of the homebuilding division: 14 new communities and new offices in North Texas and Austin, expected to deliver more than 1,300 homes, with more in planning.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.financialcontent.com/article/gnwcq-2026-8-6-citing-strong-market-fundamentals-signorelli-chooses-rapid-texas-expansion-for-award-winning-homebuilding-division",
+        "source_title": "Citing strong market fundamentals, Signorelli chooses rapid Texas expansion for award-winning homebuilding division (GlobeNewswire release, syndicated copy)",
+        "note": "Read on a syndicated copy of the company's GlobeNewswire release. Funding source not stated."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.signorellicompany.com/about/",
+      "source_title": "No financial statements are public; the parent's About page gives only headline figures ($3.5B+ assets under management, 25K+ paper lots)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, construction and land loans, lenders and maturities for First America Homes and The Signorelli Company: not publicly disclosed (private company; no named lender found in any source opened).",
+    "Land banker or lot-option financier: none publicly named. One search for the builder or parent alongside Millrose, Kennedy Lewis, Angelo Gordon, Domain Real Estate, 'land bank' and 'lot option' returned no link.",
+    "Owned versus optioned lot split, total controlled lots and years of supply for the builder: not publicly disclosed. Only parent-level paper-lot totals (23,000 to 25,000+) are published.",
+    "Terms on which the parent's Land division supplies lots to the builder: not publicly disclosed.",
+    "Sellers and contract structure for the Austin-area and San Antonio-area homesites: not publicly disclosed. The Qualico Communities attribution for Leonard Trails comes from trade press citing public records, not from the company.",
+    "Equity investors, funds or joint-venture partners behind the parent's stated $3.5B+ assets under management: not publicly disclosed in the sources opened; what the figure includes is not defined.",
+    "Parent-level project financing (Austin Point, Valley Ranch), including any utility-district bond reimbursements: not researched in depth; no lender named on the company sites.",
+    "Cash, debt, leverage, ratings and fiscal year end: not publicly disclosed.",
+    "M&A: no acquisition, sale or merger involving First America Homes or The Signorelli Company in 2025 or 2026 was found; the 2026 entries into Dallas-Fort Worth and Austin were organic (new offices and lot purchases). One search only, so this is not exhaustive.",
+    "SEC EDGAR (company lookup and full-text search for Form D or other filings by Signorelli entities) refused requests in this run, so any private-placement filings are unchecked.",
+    "Research limits in this run: the shared web-search allowance ran out after six searches and WebFetch was rate-limited; pages were read with curl."
+  ],
+  "sources_consulted": [
+    "https://www.signorellicompany.com/about/",
+    "https://www.signorellicompany.com/first-america-homes-no-75-builder-100/",
+    "https://www.signorellicompany.com/first-america-homes-dallas-fort-worth-expansion/",
+    "https://www.signorellicompany.com/azalea-district-valley-ranch-groundbreaking/",
+    "https://www.firstamericahomes.com/blog/nationally-ranked-homebuilder-first-america-homes-launches-austin-division-expands-in-san-antonio/",
+    "https://www.financialcontent.com/article/gnwcq-2026-8-6-citing-strong-market-fundamentals-signorelli-chooses-rapid-texas-expansion-for-award-winning-homebuilding-division",
+    "https://www.firstamericahomes.com/about/",
+    "https://www.austinpoint.com/meet-the-builders/",
+    "https://www.austinpoint.com/",
+    "https://www.signorellicompany.com/team/jeff-dewese/",
+    "https://www.signorellicompany.com/team/chase-moore/",
+    "https://www.signorellicompany.com/team/harry-dinham/",
+    "https://www.signorellicompany.com/team/danny-signorelli/",
+    "https://www.signorellicompany.com/our-asset-classes/",
+    "https://therealdeal.com/texas/2026/06/04/first-america-homes-moves-into-collin-county-boomtown/",
+    "https://therealdeal.com/texas/2026/05/05/movers-signorelli-poaches-former-toll-brothers-manager/",
+    "https://realtynewsreport.com/houston-homebuilder-heads-to-north-texas/",
+    "https://realtynewsreport.com/?p=24881",
+    "https://communityimpact.com/austin/san-marcos-buda-kyle/development/2026/06/30/new-residential-neighborhood-to-be-built-as-part-of-nealy-2k-acre-kyle-development",
+    "https://www.bisnow.com/houston/news/deal-sheet/signorelli-co-starts-final-phase-of-valley-ranch-mpc-the-houston-deal-sheet-134386",
+    "https://www.bdmag.com/first-america-homes-launches-austin-division/"
+  ]
+}

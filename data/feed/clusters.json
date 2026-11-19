@@ -1,0 +1,229 @@
+{
+ "clusters": [
+  {
+   "event": "Dream Finders' Beazer Homes acquisition: preferred sale, shareholder approval and Oct. 20 closing with Millrose land bank and preferred funding",
+   "keep": "25010d751466",
+   "duplicates": [
+    "c174534012fb",
+    "d0312f342af5",
+    "036ed8d22ad4",
+    "444cf626dd07",
+    "e79f721aee8b",
+    "cb441df4ab27",
+    "3d6cd76be953",
+    "22be0a9483ed",
+    "d1d1a7240e3d",
+    "315add7bf43c",
+    "95a1afd3f8d1"
+   ]
+  },
+  {
+   "event": "Millrose Q3 2026 results (release, 8-K, call, 10-Q, recaps)",
+   "keep": "ef17c22b721c",
+   "duplicates": [
+    "211846fbe367",
+    "3c9d156a2419",
+    "e96db021d955",
+    "b4efd093b46c",
+    "88f3a32604be",
+    "44a2b3e59f88",
+    "1536a99f80a3"
+   ]
+  },
+  {
+   "event": "Millrose $1.0B senior notes (launch, pricing, closing)",
+   "keep": "ddb348c6cfea",
+   "duplicates": [
+    "eba3ceb25c97",
+    "555975cb44aa",
+    "5fd9eb536da5",
+    "42b9d332e6c4",
+    "493adb1316e1",
+    "8541535cf7d7",
+    "ba413fe2f425"
+   ]
+  },
+  {
+   "event": "Starwood Capital and Trez Capital residential land financing partnership",
+   "keep": "4d44870dbfc9",
+   "duplicates": [
+    "5dfee63ca31b",
+    "ecfd134b5444",
+    "c08753ec749b",
+    "e1e1e740fd4b",
+    "d977dfd336b7",
+    "3e095cbb7a5b",
+    "f851939608e4"
+   ]
+  },
+  {
+   "event": "Millrose buys completed Lennar homes as rentals (incl. Hunterbrook short report)",
+   "keep": "c5a94aef0506",
+   "duplicates": [
+    "fab851056dca"
+   ]
+  },
+  {
+   "event": "Lennar $600M senior notes (2029 and 2032) priced and closed",
+   "keep": "f5e94d3f1509",
+   "duplicates": [
+    "9d65a9f8c52c",
+    "deefdbd0de61",
+    "2d286c408feb",
+    "c2749f0742e7"
+   ]
+  },
+  {
+   "event": "Lennar revolver restated to $3.795B and term loan upsized (Oct. 26)",
+   "keep": "720d33e38dd1",
+   "duplicates": [
+    "8d91acf8f21b",
+    "e40cae92ecb0"
+   ]
+  },
+  {
+   "event": "Lennar Q3 2026 results (8-K, release, call, recaps)",
+   "keep": "35402b520a06",
+   "duplicates": [
+    "5427e1d29fa0",
+    "afe6bb5261d9",
+    "dceebc19e397"
+   ]
+  },
+  {
+   "event": "Dream Finders consent solicitation and exchange offer for Beazer 2031/2032 notes (follow-on)",
+   "keep": "b340f44e72bc",
+   "duplicates": [
+    "0a81e5c30809",
+    "da5dbb7303bd",
+    "6814524fb34a",
+    "dc810a2199a6",
+    "7390e4f64b3e",
+    "ca302ea490dc",
+    "ab8e0b469240",
+    "dbabe11df32c"
+   ]
+  },
+  {
+   "event": "Beazer redemption of $350M 7.250% notes due 2029 (follow-on)",
+   "keep": "86f8e5d0c3fc",
+   "duplicates": [
+    "e2e646a620fa"
+   ]
+  },
+  {
+   "event": "Century Communities acquires HistoryMaker Homes",
+   "keep": "3c0e1e4e3edc",
+   "duplicates": [
+    "b9cb32db5f1a",
+    "fdd569371e90",
+    "0fff402864f5",
+    "68b445b4e7bf",
+    "932eee884cc4"
+   ]
+  },
+  {
+   "event": "Century Communities names Jim Francescon president",
+   "keep": "e9e39b9fa203",
+   "duplicates": [
+    "0e0a85717afd",
+    "8e89e317bb16",
+    "a0a551ff296b",
+    "88a99da941d0"
+   ]
+  },
+  {
+   "event": "Century Communities Q3 2026 results (8-K, call, recaps)",
+   "keep": "e3f076965112",
+   "duplicates": [
+    "586b1723c05e",
+    "5a50e717168e"
+   ]
+  },
+  {
+   "event": "KB Home's Albert Praw (EVP Real Estate) retires",
+   "keep": "e92e9e7b3ecd",
+   "duplicates": [
+    "a34be88d0c35",
+    "73e992eabe59",
+    "39ab4156e562"
+   ]
+  },
+  {
+   "event": "KB Home Q3 2026 results",
+   "keep": "ee5bd85b7f3d",
+   "duplicates": [
+    "edb909ed79e0",
+    "00727134485e"
+   ]
+  },
+  {
+   "event": "LGI Homes revolver amendment (Oct. 9)",
+   "keep": "6b383809f6a9",
+   "duplicates": [
+    "5042f87aebca"
+   ]
+  },
+  {
+   "event": "LGI Homes Q3 2026 results (8-K, call)",
+   "keep": "c6c788e129b4",
+   "duplicates": [
+    "87f4ec9a2018"
+   ]
+  },
+  {
+   "event": "Meritage Homes Q3 2026 results (8-K, release, call)",
+   "keep": "1113f546fa22",
+   "duplicates": [
+    "5e3a797e6f46",
+    "e79acf61ee90"
+   ]
+  },
+  {
+   "event": "Five Point / Hearthstone Q3 2026 results",
+   "keep": "223fa73adf05",
+   "duplicates": [
+    "d3b2fb9ee5f4",
+    "2323b96fb2da",
+    "3746394bd986",
+    "24301fd2db82"
+   ]
+  },
+  {
+   "event": "Forestar fiscal 2026 results and fiscal 2027 guidance",
+   "keep": "7c502f20396a",
+   "duplicates": [
+    "9543e2994a5f",
+    "7d2c8504779b",
+    "f7be427321d6",
+    "c145eb0055f5",
+    "343d91943c17"
+   ]
+  },
+  {
+   "event": "Forestar executive chairman Tomnitz retires; board changes (one 8-K)",
+   "keep": "630c7dbb6623",
+   "duplicates": [
+    "21b34cb34528"
+   ]
+  },
+  {
+   "event": "Berkshire Hathaway's Taylor Morrison acquisition and homebuilder stakes (closed July 24, before the window)",
+   "keep": "7331f9448c63",
+   "duplicates": [
+    "3062b0430f97",
+    "c98da48fc551",
+    "d821787e0044"
+   ]
+  },
+  {
+   "event": "Home Depot CEO and CFO changes (off-topic)",
+   "keep": "1a72b7393a37",
+   "duplicates": [
+    "a025a43ea72e",
+    "f12f8c519c99",
+    "820c2a09ea65"
+   ]
+  }
+ ]
+}

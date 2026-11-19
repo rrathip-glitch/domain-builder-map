@@ -1,0 +1,86 @@
+{
+  "builder_id": "hakes-brothers",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Hakes Brothers is a conventional for-sale homebuilder, privately held by the founding family, with no SEC filings, no rated or public debt, and no announced land banker, lot-option financier, joint venture or outside capital partner. Nothing about its bank lines, lenders or balance sheet is public. What is visible is a builder that buys lots market by market, often finished lots from local developers and inside third-party master plans, and that has grown from about 730 closings in 2023 to the low 900s while opening three new markets (Kansas City, the Rio Grande Valley, the Austin area) in roughly three years. That pace on a family balance sheet, with 57 communities listed and eight more in pre-sale, makes it a plausible land-banking customer, but there is no public sign that it has used one, so the first call is a discovery call with the CFO (Andrew Vieth, ex-Beazer and Pulte finance) and the owners.",
+    "land_strategy": "Not stated by the company. Public evidence points to a mixed, lot-purchase model: in early 2022 its Rio Grande division president said it was buying lots around Socorro (El Paso) and weighing a 2,300-lot master-planned community near Santa Teresa, NM that was not yet signed; in Rio Rancho in 2024 it built on 44 lots in a subdivision delivered by a third-party developer; and in a 2026 Albuquerque home-show segment its representative said it has home sites in hand and plans to acquire more over the next few years. Many communities carry master-plan names (La Cima, Rancho Santa Teresa, Metro Verde, Mariposa), which suggests lot purchases from master developers rather than self-development. No owned versus optioned split or target is published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company). Only proxy: the company site listed 57 communities on 2026-11-19 (Albuquerque 12, San Antonio and Austin area 11, Rio Grande Valley 11, Kansas City 9, El Paso 8, Las Cruces 6), of which 8 were pre-sale ('interest list') and 7 were in final close-out."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Pierre Amestoy (developer of Los Diamantes, Rio Rancho, NM)",
+        "counterparty_type": "Developer",
+        "description": "Local developer delivered the Los Diamantes subdivision on land assembled by investors (Mike Skolnick and John Lewis are named); Hakes Brothers is the builder on 44 lots there for spec homes. This is a finished-lot supply relationship, not a land-bank facility, and the purchase terms (bulk or rolling takedown) are not disclosed.",
+        "amount_usd_m": null,
+        "lots": 44,
+        "date": "2024-02",
+        "confidence": "Reported",
+        "source_url": "https://www.abqjournal.com/business/new-luxury-neighborhood-is-ready-in-rio-rancho/614766",
+        "source_title": "Albuquerque Journal: New luxury neighborhood is ready in Rio Rancho",
+        "note": "Included to show how the builder sources lots; it is not evidence of land banking."
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned, optioned, years of supply): not publicly disclosed (private company).",
+    "Credit facilities, construction lenders, land loans and their terms: not publicly disclosed. No lender is named in any press or company page opened.",
+    "Land banker, lot-option financier or capital partner: none found in public sources. One search covering 'land banking', 'lot option', 'credit facility', 'joint venture' and 'acquisition' with the company name returned nothing on Hakes Brothers.",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found.",
+    "Joint ventures: none found.",
+    "Outside equity or parent funding: none; the company describes itself as family-built and no investor is named. Ownership split among the brothers is not public.",
+    "M&A in 2025-2026: none found as acquirer or target. Growth into Kansas City, the Rio Grande Valley and the Austin area appears to be organic (new communities, no acquired builder named).",
+    "The 2,300-lot Santa Teresa master plan discussed in January 2022: outcome not confirmed; the company now sells in Rancho Santa Teresa but the size of its position is not public.",
+    "Financial statements, debt and liquidity: not publicly disclosed. Revenue and closings come only from the Builder 100 survey (2024: 841 closings, $308M; 2023: 731 closings, $275M on the archived firm page; 2026 list figures are in the spine).",
+    "SEC EDGAR full-text search returned 'Forbidden' to the declared client, so a check for mentions of the company in other registrants' filings could not be run. The swarm's shared web-search allowance ran out before county deed-of-trust or lender-name searches by market could be tried.",
+    "connectcre.com story on Mountain Hawk Estates (Rio Rancho land) and the City of Albuquerque erosion-control approval for 'Hakes Brothers ABQ, LLC' at Sage Park were seen in search results but would not load."
+  ],
+  "sources_consulted": [
+    "https://www.hakesbrothers.com/about/our-story",
+    "https://www.hakesbrothers.com/contact",
+    "https://www.hakesbrothers.com/kansas-city",
+    "https://www.hakesbrothers.com/albuquerque",
+    "https://www.hakesbrothers.com/las-cruces",
+    "https://www.hakesbrothers.com/el-paso",
+    "https://www.hakesbrothers.com/san-antonio",
+    "https://www.hakesbrothers.com/rio-grande-valley",
+    "https://www.hakesbrothers.com/austin",
+    "https://www.hakesbrothers.com/blog/the-hakes-brothers-story-and-new-homes-at-alberta-heights-in-edinburg-tx/",
+    "https://www.epelectric.com/news/hakes-brothers-charges-ahead-with-home-construction",
+    "https://www.abqjournal.com/business/new-luxury-neighborhood-is-ready-in-rio-rancho/614766",
+    "https://welcomehomeabq.com/?p=143170",
+    "https://web.archive.org/web/20260427133208/https://www.builderonline.com/firms/hakes-brothers",
+    "https://web.archive.org/web/2026/https://www.builderonline.com/land/local-markets/hakes-brothers-enters-kansas-city-market_o",
+    "https://www.architectmagazine.com/firms/hakes-brothers/",
+    "https://web.archive.org/web/2025/https://therealdeal.com/texas/2022/05/13/homebuilder-bets-on-rio-grande-valley-with-85m-development",
+    "https://mercedesedc.com/mercedes-corner/mercedes-attracts-major-builder-to-city",
+    "https://theorg.com/org/hakes-brothers"
+  ]
+}

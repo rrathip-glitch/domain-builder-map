@@ -1,0 +1,430 @@
+{
+ "batch": "batch-20261119-1559-010",
+ "rubric_version": "v1.2",
+ "articles": [
+  {
+   "id": "886653c6fc72",
+   "summary": "Apollo's flagship private credit fund saw lower withdrawal requests in its third-quarter 2026 tender offer than in prior quarters.",
+   "category": "Capital markets & ratings",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 4,
+    "builder_customer": 0,
+    "financing_capital_markets": 6,
+    "land_lot_supply": 0,
+    "materiality_actionability": 2
+   },
+   "adjustment": "none",
+   "why_it_matters": "Easing redemptions at Apollo's private credit fund mean more capacity for the kind of new entrant the CEO named, though nothing here touches builder land.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [
+    "Apollo"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "c370d9e390f1",
+   "summary": "Meritage Homes co-founder and executive chairman Steve Hilton sold two Phoenix-area homes for a combined $7.15 million, including a $4.7 million Paradise Valley house.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 4,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Personal real estate sale by Meritage's chairman; no bearing on Meritage's land or capital needs.",
+   "builder_ids": [
+    "meritage-homes"
+   ],
+   "people": [
+    "Steve Hilton"
+   ],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "066928e9ffea",
+   "summary": "Business Insider piece says Berkshire Hathaway nearly doubled its Lennar stake, betting builders can do well despite high mortgage rates freezing housing.",
+   "category": "Housing market",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 14,
+    "financing_capital_markets": 6,
+    "land_lot_supply": 0,
+    "materiality_actionability": 3
+   },
+   "adjustment": "none",
+   "why_it_matters": "Berkshire adding to Lennar signals long-term equity support for Domain's named customer, but changes nothing about Lennar's land-bank or debt needs.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [
+    "Berkshire Hathaway"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "7e4cdc8e5b08",
+   "summary": "Fitch affirmed reverse-mortgage lender Finance of America at CCC with a positive outlook, citing better liquidity but high leverage and key-person risk.",
+   "category": "Capital markets & ratings",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "A mortgage lender's rating with no homebuilder or land-finance link; noise for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "e08ee2c04328",
+   "summary": "Fitch affirmed nine nonbank mortgage firms but moved outlooks to negative on Pennymac, Planet and Freedom over leverage and MSR risk.",
+   "category": "Capital markets & ratings",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 5,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "none",
+   "why_it_matters": "Strain at nonbank mortgage lenders touches buyer financing only indirectly; no builder funding or land angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "46176af130b0",
+   "drop": "Old AP story (Beazer's 2007-era discounting and internal troubles) re-dated by the collector; not published in the last 90 days."
+  },
+  {
+   "id": "ee78e317f25e",
+   "summary": "Auto-generated MarketWatch item: NVR shares rose 2.42% on September 22, 2026 but lagged peers.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 2,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "A daily stock-move note on NVR with no news about its land, lots or financing.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "53f79379cc47",
+   "summary": "Workday shares rose 7% on a report that financing efforts for a possible take-private deal are continuing.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Software company deal; no connection to builders or land finance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "70e4d743e3d4",
+   "summary": "Global Finance magazine reports private credit fund fees edging higher as investors debate the true cost of owning these funds.",
+   "category": "Capital markets & ratings",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 2,
+    "builder_customer": 0,
+    "financing_capital_markets": 3,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "General private-credit fee trend; at most background on the cost of capital for funds that could compete with Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "5b87d75d874d",
+   "summary": "WSJ reports regulators may be missing a large, mostly undisclosed layer of fund-level borrowing used by private credit funds.",
+   "category": "Capital markets & ratings",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 2,
+    "builder_customer": 0,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "none",
+   "why_it_matters": "Background on private credit leverage risk; no builder or land-finance specifics, paywalled and scored from the snippet.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "982b9c1c4fc6",
+   "summary": "Moody's placed 13 local government obligors on review, affecting $632 million of bonds.",
+   "category": "Other",
+   "source_type": "Research",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 1,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Municipal credit action with no homebuilder or land-finance link.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "ccbe74059837",
+   "summary": "Moody's held France's sovereign rating, sparing it a downgrade amid domestic unrest.",
+   "category": "Other",
+   "source_type": "Research",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Sovereign rating in Europe; irrelevant to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "dd16fd31b3ed",
+   "summary": "Irvine's Planning Commission unanimously approved KB Home's plan for 108 townhomes on a former office and industrial site in the city.",
+   "category": "Land & lots",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 10,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 5,
+    "materiality_actionability": 3
+   },
+   "adjustment": "none",
+   "why_it_matters": "Shows KB Home sourcing infill lots through rezoned commercial land in Southern California, context for its land appetite but not a financing need.",
+   "builder_ids": [
+    "kb-home"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "d24e0e91f19d",
+   "summary": "NEOPAY agreed to buy a 65% controlling stake in Noon Payments in Dubai.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Middle East payments deal; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "6b181d6f84aa",
+   "summary": "Seeking Alpha analysis says widening BDC discounts suggest investors expect private credit losses not yet showing in reported default rates.",
+   "category": "Capital markets & ratings",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 2,
+    "builder_customer": 0,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "none",
+   "why_it_matters": "Generic private-credit stress commentary; no builder lending or land-finance specifics.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "437b927dac9f",
+   "summary": "Home Depot named CFO Richard McPhail its next CEO, replacing Ted Decker effective next week, and beat third-quarter earnings estimates.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "none",
+   "why_it_matters": "Home-improvement retailer leadership change; not a homebuilder, no land or builder-finance angle.",
+   "builder_ids": [],
+   "people": [
+    "Richard McPhail",
+    "Ted Decker"
+   ],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "8495aff28696",
+   "summary": "HousingWire profiles infill builder Thomas James Homes adding attached ADUs to Seattle lots, citing buyer demand and Washington's new ADU law.",
+   "category": "Land & lots",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 4,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 4,
+    "materiality_actionability": 1
+   },
+   "adjustment": "none",
+   "why_it_matters": "An unranked infill builder squeezing more units per lot; minor context on lot yield, no financing angle.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "6ea888102850",
+   "summary": "Toll Brothers and Brookfield Residential announced LakePointe, a joint-venture master-planned community in Covington, Washington; site work is under way and sales start mid-2027.",
+   "category": "Land & lots",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 3,
+    "builder_customer": 12,
+    "financing_capital_markets": 3,
+    "land_lot_supply": 5,
+    "materiality_actionability": 2
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Shows Toll using a JV with a land developer to secure Seattle-area lots, but the release is a community announcement with no terms or lot counts.",
+   "builder_ids": [
+    "toll-brothers",
+    "brookfield-residential"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "6cc51e19dfbe",
+   "summary": "Rithm Capital's Genesis Capital closed a $375 million securitization backed entirely by multifamily residential transition loans it originated.",
+   "category": "Capital markets & ratings",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 5,
+    "builder_customer": 0,
+    "financing_capital_markets": 8,
+    "land_lot_supply": 0,
+    "materiality_actionability": 2
+   },
+   "adjustment": "none",
+   "why_it_matters": "Genesis lends to residential developers, so this shows Rithm building securitized funding for developer loans, but these are multifamily, not builder land or lots.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [
+    "Rithm Capital",
+    "Genesis Capital"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "cd47b49ad29b",
+   "summary": "S&P upgraded nonprofit affordable-housing developer BRIDGE Housing to AA from AA-.",
+   "category": "Capital markets & ratings",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 3,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Rating action on a nonprofit multifamily developer; no tie to Domain's builder customers.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  }
+ ]
+}

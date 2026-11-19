@@ -1,0 +1,188 @@
+{
+  "builder_id": "highland-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Highland Homes is a private Texas builder, 100% employee-owned through an ESOP since 2016. It has no public debt, no SEC filings and no credit ratings, and its site says it is not driven by outside investors. It has historically bought finished lots from master-plan developers (Hillwood, Hines, Starwood Land, and the founders' own Sandbrock Ranch). Since 2025 it has also developed its own lots: 188 acres in Hines' Heritage Bend (Fulshear, 554 homes) and about 100 acres at Hillwood's Melina (Georgetown, about 400 homesites), led by Jeff Stinson (SVP of Land at the time; Chief Strategy and Land Officer since the August 2026 restructuring, bdmag.com 2026-08-06). Self-development puts more land on Highland's own balance sheet and needs horizontal capital. No land banker, lot-option financier, bank lender or credit facility has been publicly named, so a land banker would be a new relationship, not a replacement.",
+    "land_strategy": "Mixed and moving toward self-development. Highland has mainly bought finished lots from master-plan developers ('typically, when we purchase lots from a developer, all of the horizontal construction is complete', SVP Land Jeff Stinson, May 2025). Since 2025 it develops its own parcels inside third-party master plans, to time lot supply to demand, and says it is 'actively looking' for more such deals in Houston and across Texas. It has no published owned-vs-optioned target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company, no filings). Known self-developed pipeline: Heritage Bend (Fulshear) 554 homes on 188 acres, phase 1 204 homesites due early 2027; Melina (Georgetown) about 400 homesites on about 100 acres (Hillwood puts its first phase at about 440 homesites). Highland closed about 3,482 homes in 2025 (spine / HousingWire)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Hines (Heritage Bend master plan, Fulshear)",
+        "counterparty_type": "Developer",
+        "description": "Highland bought a 188-acre parcel inside Hines' roughly 3,600-acre Heritage Bend master plan and develops it itself (utilities, streets, lots) for 554 homes. Hines builds the trunk infrastructure. Ground broke on 2026-07-09, and the first 204 homesites are due in early 2027. This is an outright parcel purchase; no option structure is disclosed.",
+        "amount_usd_m": null,
+        "lots": 554,
+        "date": "2026-07",
+        "confidence": "Reported",
+        "source_url": "https://myneighborhoodnews.com/highland-homes-breaks-ground-on-554-home-neighborhood-in-fulshears-heritage-bend",
+        "source_title": "Highland Homes Breaks Ground on 554-Home Neighborhood in Fulshear's Heritage Bend (My Neighborhood News, 2026-07-22, source: Highland Homes)",
+        "note": "The May 2025 announcement said about 620 homes on the 188 acres (Houston Agent Magazine). The July 2026 figure of 554 is newer. The Real Deal (2025-01-24) lists Highland, Toll Brothers and Perry Homes as Heritage Bend builders."
+      },
+      {
+        "counterparty": "Hillwood Communities (Melina, Georgetown)",
+        "counterparty_type": "Developer",
+        "description": "Highland is Hillwood's builder partner on the first phase (about 440 homesites, 40-50 ft lots) of Melina, a roughly 200-acre, 840-homesite master plan. Builder magazine's sister title reports that Highland bought about 100 acres there for its new self-development arm (about 400 homesites, 45-60 ft), with lots due by the end of 2026 and sales in spring 2027.",
+        "amount_usd_m": null,
+        "lots": 440,
+        "date": "2025-12",
+        "confidence": "Verified",
+        "source_url": "https://www.hillwoodcommunities.com/news/hillwood-breaks-ground-on-second-master-planned-community-in-georgetown-area/",
+        "source_title": "Hillwood Breaks Ground on Second Master-Planned Community in Georgetown Area (Hillwood release, 2025-12-18)",
+        "note": "The 100-acre purchase and about 400 homesites come from BD+C/bdmag (2026-08-13), which is Reported. How the 100 acres relate to Hillwood's 440-lot first phase is not stated. The location is Melina, not a city called 'Melina'."
+      },
+      {
+        "counterparty": "Starwood Land (Starwood Capital / Land Strategies JV), Furst Ranch",
+        "counterparty_type": "Developer",
+        "description": "Highland buys lots from Starwood Land at Furst Ranch (2,300 acres, Flower Mound). Its High Plains section has 60-70 ft lots, and presales started in January 2026. Starwood Land bought Furst Ranch in an $800M, 11-community Texas deal in April 2025.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-01",
+        "confidence": "Reported",
+        "source_url": "https://www.crosstimbersgazette.com/?p=86746",
+        "source_title": "Furst Ranch homes enter the market as homebuilders begin presale phase (Cross Timbers Gazette, 2026-01-12)",
+        "note": "Lot purchase terms (takedown or option) are not disclosed."
+      },
+      {
+        "counterparty": "Sandbrock Walking Horse Ranch, Ltd. / founders Rod Sanders and Jean Ann Brock (Sandbrock Ranch, Aubrey)",
+        "counterparty_type": "Affiliate",
+        "description": "Highland's co-founders develop Sandbrock Ranch, a master plan in Aubrey on their own ranch land, and Highland is one of three builders there (with Coventry Homes and David Weekley). This makes it a related-party lot source. The landowning L.P. is registered to Rod Sanders, and its general partner uses Highland's HQ address.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026",
+        "confidence": "Verified",
+        "source_url": "https://www.sandbrockranch.com/",
+        "source_title": "Sandbrock Ranch community site ('Rod and Jean Ann, meet our developers'; builders list), page as of 2026",
+        "note": "Entity facts are from the Texas Comptroller (taxpayer 32035034324, GP Sandbrock Walking Horse Management, LLC at 5601 Democracy Dr, report year 2026). Builder magazine (2018) said the founders were developing part of a 2,400-acre Aubrey property; that article could not be opened in this run."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2016-02",
+        "type": "Equity",
+        "description": "The founders sold the company to an ESOP, making Highland 100% employee-owned. The holding entity Highland Homes Holdings, Inc. was registered in December 2015. Builder reported that the founders turned down third-party buyers. ESOP financing (any seller note or bank loan) was not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://web.archive.org/web/2026/https://www.builderonline.com/builder-100/leadership/top-25-builder-highland-homes-completes-employee-stock-ownership-plan_o",
+        "source_title": "Top 25 Builder Highland Homes Completes Employee Stock Ownership Plan (Builder, 2016-03-28, via Wayback)",
+        "note": "This is context only, outside the 2025-26 window. Business Wire's release of 2016-02-17 returned 403."
+      },
+      {
+        "date": "2025-05-01",
+        "type": "Other",
+        "description": "Highland launched self-development by buying 188 acres in Hines' Fulshear master plan (later Heritage Bend) to develop its own lots, its first such project, and said it was pursuing more across Texas.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://houstonagentmagazine.com/2025/05/01/highland-homes-self-develop-community-fulshear/",
+        "source_title": "Highland Homes to develop community in Fulshear (Houston Agent Magazine, 2025-05-01)",
+        "note": ""
+      },
+      {
+        "date": "2026-07-09",
+        "type": "Other",
+        "description": "Ground broke on Highland's self-developed Heritage Bend parcel (554 homes). Phase 1 has 204 homesites, due in early 2027.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://myneighborhoodnews.com/highland-homes-breaks-ground-on-554-home-neighborhood-in-fulshears-heritage-bend",
+        "source_title": "Highland Homes Breaks Ground on 554-Home Neighborhood in Fulshear's Heritage Bend (2026-07-22)",
+        "note": ""
+      },
+      {
+        "date": "2026-08-13",
+        "type": "Other",
+        "description": "Highland bought about 100 acres at Melina (Georgetown) for its self-development arm, about 400 homesites. SVP of Land Jeff Stinson thanked 'esteemed partners', who were not named.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.bdmag.com/highland-homes-purchases-100-acres-for-self-development/",
+        "source_title": "Highland Homes purchases 100 acres for self development (BD+C / bdmag, 2026-08-13)",
+        "note": "The acquisition financing was not disclosed."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Tricon Residential",
+        "description": "Highland's build-to-rent arm HHS Residential, LLC develops BTR communities in partnership with Tricon: 100 units in Garland and 166 units (Hardwick) in Saginaw, both completed in October 2025.",
+        "date": "2025-10",
+        "confidence": "Reported",
+        "source_url": "https://rebusinessonline.com/?p=443061",
+        "source_title": "Tricon, HHS Complete 166-Unit Build-to-Rent Project in Saginaw, Texas (REBusiness, 2025-10-27)",
+        "note": "Also: Tricon, HHS Complete 100-Unit Build-to-Rent Project in Garland, Texas (REBusiness, 2025-10-24, https://rebusinessonline.com/?p=442946). Highland's site footer lists HHS Residential as a Highland family brand, and the Texas Comptroller shows HHS Residential, LLC (formed 2019-07) managed by Sanders and Brock at Highland's HQ. Deal economics and the equity split are not disclosed."
+      },
+      {
+        "partner": "Undisclosed (Highland HomeLoans, LLC mortgage affiliate)",
+        "description": "Highland's buyer-mortgage brand is Highland HomeLoans, LLC, a Delaware LLC registered in Texas since 2008. Its officers (President Steve Thompson, CFO Sachin Adhikari) sit at 5700 Granite Parkway, Plano, not at Highland's HQ, which suggests a mortgage JV with an outside lender. The partner was not confirmed.",
+        "date": "2008",
+        "confidence": "Inferred",
+        "source_url": "https://comptroller.texas.gov/taxes/franchise/account-status/search/32038056902",
+        "source_title": "Texas Comptroller franchise-tax record, Highland HomeLoans, LLC (report year 2026)",
+        "note": "The JV structure is inferred from the officer address; the partner is not publicly confirmed."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None (no rated debt)",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.highlandhomes.com/highland-difference",
+      "source_title": "The Highland Difference (company site: employee-owned, not driven by outside investors)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Owned vs optioned lots, total lots controlled and years of supply: not publicly disclosed (private, no filings).",
+    "Land-banking / lot-option financing counterparties: none publicly disclosed. No public link to Domain Real Estate Partners, Millrose, Kennedy Lewis, TPG Angelo Gordon, Varde, Essential Housing, IHP, Brookfield, Oaktree, GTIS, Hearthstone, Walton or Forestar was found (one targeted web search plus press reads).",
+    "Notes, revolver, term loans, agent bank and lenders: not publicly disclosed. No EDGAR filer and no Rule 144A notes found.",
+    "Cash, total debt, liquidity, leverage and fiscal year end: not publicly disclosed. No credit ratings.",
+    "ESOP financing (seller note or bank ESOP loan, trustee) and any remaining ESOP debt: not publicly disclosed. DOL Form 5500 for the ESOP was not checked (EFAST search needs JavaScript).",
+    "Financing of the self-developed parcels (Heritage Bend, Melina) and the 'partners' Stinson mentioned at Melina: not publicly disclosed.",
+    "Mortgage JV partner behind Highland HomeLoans, LLC: not publicly confirmed.",
+    "M&A 2025-2026: none found. Highland has made no acquisition and no sale since the May 2026 ranking, per a builder-name web search and HousingWire site search. Do not confuse it with the unrelated Highland Homes, Inc. of Lakeland, Florida, which Clayton Properties Group acquired in 2019.",
+    "Business Wire's 2016 ESOP release and Builder's 2018 Aubrey/Sandbrock article returned 403 or empty archives in this run."
+  ],
+  "sources_consulted": [
+    "https://www.highlandhomes.com/highland-difference",
+    "https://www.highlandhomes.com/why-highland-homes",
+    "https://www.highlandhomes.com/highland-homeloans",
+    "https://www.highlandhomes.com/careers",
+    "https://www.highlandhomes.com/sitemap.xml",
+    "https://myneighborhoodnews.com/highland-homes-breaks-ground-on-554-home-neighborhood-in-fulshears-heritage-bend",
+    "https://houstonagentmagazine.com/2025/05/01/highland-homes-self-develop-community-fulshear/",
+    "https://www.bdmag.com/highland-homes-purchases-100-acres-for-self-development/",
+    "https://www.hillwoodcommunities.com/news/hillwood-breaks-ground-on-second-master-planned-community-in-georgetown-area/",
+    "https://www.crosstimbersgazette.com/?p=86746",
+    "https://therealdeal.com/texas/houston/2025/01/24/hines-buys-3700-acres-for-master-plan-near-houston",
+    "https://www.sandbrockranch.com/",
+    "https://web.archive.org/web/2026/https://www.builderonline.com/builder-100/leadership/top-25-builder-highland-homes-completes-employee-stock-ownership-plan_o",
+    "https://rebusinessonline.com/?p=442946",
+    "https://rebusinessonline.com/?p=443061",
+    "https://www.housingwire.com/articles/homebuilder-scale-metrics-density/",
+    "https://www.housingwire.com/articles/homebuilders-fewer-markets-scale/",
+    "https://www.housingwire.com/articles/dfw-housing-affordability-wall-street/",
+    "https://www.housingwire.com/articles/southern-land-hires-highland-homes-vet-to-lead-homebuilding/",
+    "https://www.housingwire.com/?s=%22Highland+Homes%22",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32059110885",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32071431426",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32038056902",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32035034324",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/30116931632",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32071424009",
+    "https://www.businesswire.com/news/home/20160217006209/en/Highland-Homes-Announces-Conversion-Employee-Stock-Ownership"
+  ]
+}

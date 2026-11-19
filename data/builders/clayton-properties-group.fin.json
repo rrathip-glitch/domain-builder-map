@@ -1,0 +1,181 @@
+{
+  "builder_id": "clayton-properties-group",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Clayton Properties Group (CPG) is the site-built division of Clayton Homes, a wholly owned Berkshire Hathaway subsidiary. It has no public debt, no ratings and no disclosed bank facility; it is funded inside Berkshire, whose insurance and other businesses held $352.3 billion of cash and Treasury bills at 30 Sep 2026, so capital is not a constraint and a land banker's pitch here is balance-sheet efficiency, not liquidity. Berkshire discloses one land number: about 67,300 homesites owned and controlled at 31 Dec 2025 (about 66,000 a year earlier), with no owned versus optioned split. The only public land-banking item for CPG itself is a January 2024 trade report that Clayton set up an in-house land bank to take about $182 million of land obligations off its nine builders; no outside land banker has been named for CPG. The picture changed on 24 Jul 2026: Berkshire bought Taylor Morrison for cash, and Taylor Morrison's CEO Sheryl Palmer is to integrate it with CPG into one site-built platform (about 23,000 closings in 2025). Taylor Morrison already uses third-party land banks (10,002 homebuilding lots with a $1.79 billion aggregate purchase price at 31 Mar 2026, counterparties unnamed in its filings), so land-finance decisions for the CPG builders may move to Taylor Morrison's team in Scottsdale (the last point is an inference from the stated leadership, not a company statement).",
+    "land_strategy": "Not stated by the company. Berkshire reports CPG's homesites as one 'owned and controlled' figure, so the mix is not public: treat as mixed / undisclosed. A January 2024 trade report, citing one unnamed senior executive, said the aim was an NVR-style 'asset-light' model using an in-house land bank. No target percentage has been published. Since July 2026 the site-built builders are being unified under Taylor Morrison's management, whose own last 10-K says it is working to raise the share of lots controlled through options, seller financing, joint ventures and land banking.",
+    "lots": {
+      "total_controlled": 67300,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": 6.7,
+      "as_of": "2025-12-31",
+      "confidence": "Verified",
+      "source_url": "https://www.berkshirehathaway.com/2025ar/2025ar.pdf",
+      "source_title": "Berkshire Hathaway 2025 Annual Report / Form 10-K, Item 1 Business, Building products: Clayton (page K-16)",
+      "note": "Berkshire states only that CPG 'owned and controlled approximately 67,300 homesites' (nine builders, 17 states, about 300 subdivisions, home order backlog about $1.2 billion). Owned vs optioned split: not publicly disclosed. years_supply is my arithmetic, not a company figure: 67,300 homesites / about 10,000 site-built homes in 2025 (same page of the 10-K). Prior year, from the 2024 10-K: about 66,000 homesites, 18 states, backlog about $1.46 billion. Latest quarter: Berkshire's 10-Qs give no homesite count; the Q3 2026 10-Q shows Berkshire-wide real estate inventory (cost of developing housing communities and site-built homes) of $2,361 million at 31 Dec 2025, before Taylor Morrison, and $10,586 million at 30 Sep 2026 including it. Total here is CPG only and excludes Taylor Morrison (75,626 lots owned and controlled at 31 Mar 2026 per its own 10-Q) and McGuinn Homes."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Clayton in-house land bank (entity name not disclosed)",
+        "counterparty_type": "Affiliate",
+        "description": "Trade press reported that Clayton Home Building Group and Clayton Properties Group finalised a residential land bank, on pace to close by year-end 2023, initially to take about $182 million of land obligations off the nine site-built builders (Arbor, Brohn, Chafin, Goodall, Harris Doyle, Highland, Mungo, Oakwood, Summit). The writer suggested it could later open to institutional investors and to builders outside Clayton; that part is the writer's speculation, not a company statement.",
+        "amount_usd_m": 182,
+        "lots": null,
+        "date": "2024-01",
+        "confidence": "Inferred",
+        "source_url": "https://www.housingwire.com/articles/clayton-funds-a-182-million-land-bank-for-its-site-build-operators/",
+        "source_title": "Clayton funds a $182 million land bank for its site-build operators (The Builder's Daily / HousingWire, John McManus)",
+        "note": "Single unnamed 'senior-level executive'; Clayton declined to comment; no manager, investor, lot count or outside land banker named. Source is dated 2024-01-03 (about 34 months old) and no later confirmation was found (verifier search 2026-11-19) of the vehicle's size or status, so treat as a lead. $182 million is the land obligation said to be moved into the vehicle, not a fund size. Verifier 2026-11-19: downgraded Reported -> Inferred because the only source is older than 24 months."
+      },
+      {
+        "counterparty": "Unnamed third-party land bank entities (Taylor Morrison's programme, not CPG's)",
+        "counterparty_type": "Land banker",
+        "description": "Context row: Taylor Morrison, which Berkshire is unifying with CPG under Taylor Morrison's CEO, buys lots in staged takedowns from third-party land bank entities it does not own or consolidate. At 31 Mar 2026 its homebuilding land banking covered 10,002 lots with a $1,792.8 million aggregate purchase price ($245.5 million exposure to loss), and its build-to-rent land banking 4,476 lots with a $980.2 million aggregate purchase price. Counterparties are not named in the filings.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-03",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1562476/000162828026026535/tmhc-20260331.htm",
+        "source_title": "Taylor Morrison Home Corporation Form 10-Q for the quarter ended March 31, 2026",
+        "note": "Amounts and lots are left null on purpose so they are not counted as CPG's; they belong in the taylor-morrison file. Recorded here because the same management now leads the combined site-built platform. This is Taylor Morrison's last public 10-Q: it deregistered in August 2026 after the merger."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "No CPG-level public debt. Parent funding: Berkshire Hathaway Finance Corporation (BHFC) senior notes, about $18.2 billion outstanding, guaranteed by Berkshire",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "Berkshire Hathaway Finance Corporation (Berkshire finance affiliate)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.berkshirehathaway.com/qtrly/3rdqtr26.pdf",
+        "source_title": "Berkshire Hathaway Form 10-Q for the quarter ended September 30, 2026 (MD&A, Financial Condition)",
+        "note": "Context row, not a CPG borrowing: Berkshire says BHFC's borrowings fund a portion of home loans originated and acquired by Clayton Homes and Marmon's railcar leasing, and that Clayton's loan portfolios are largely funded by borrowings from Berkshire finance affiliates. How CPG's land and construction are funded (intercompany loans vs equity), and any bank lines at the builder level, are not publicly disclosed. Principal left null so the $18.2 billion is not read as CPG debt."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-07-24",
+        "type": "Other",
+        "description": "Parent Berkshire Hathaway completed the all-cash purchase of Taylor Morrison ($72.50 a share; about $6.8 billion equity value, about $8.5 billion enterprise value), agreed 31 May 2026. Paid from existing cash with no financing condition. Taylor Morrison is to be unified with CPG's builders under Taylor Morrison CEO Sheryl Palmer.",
+        "amount_usd_m": 6800,
+        "confidence": "Verified",
+        "source_url": "https://www.berkshirehathaway.com/news/jul2426.pdf",
+        "source_title": "Berkshire Hathaway Completes Acquisition of Taylor Morrison (Berkshire Hathaway / Taylor Morrison news release, July 24, 2026)",
+        "note": "Funding from existing cash and absence of a financing condition are from Taylor Morrison's merger proxy (DEFM14A, 23 Jun 2026). Berkshire's Q3 2026 10-Q confirms cash consideration of about $6.8 billion."
+      },
+      {
+        "date": "2026-07-20",
+        "type": "Facility amendment",
+        "description": "Taylor Morrison Communities' $1 billion revolving credit facility (Second Amended and Restated Credit Agreement of 22 Dec 2025, Wells Fargo Bank as administrative agent, maturing 22 Dec 2030) was amended to consent to the change of control and name Berkshire Hathaway a permitted holder. The facility was kept rather than paid off at closing.",
+        "amount_usd_m": 1000,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1562476/000119312526316037/d148123d8k.htm",
+        "source_title": "Taylor Morrison Home Corporation Form 8-K, July 24, 2026 (Items 1.01, 2.01, 5.02)",
+        "note": "Taylor Morrison's facility, not CPG's; shown because it is now the only bank facility on public record inside Berkshire's site-built platform. Size and maturity are from Taylor Morrison's Q1 2026 10-Q (undrawn at 31 Mar 2026)."
+      },
+      {
+        "date": "2026-07-23",
+        "type": "Other",
+        "description": "After consent solicitations, Taylor Morrison Communities signed supplemental indentures (U.S. Bank Trust Company, trustee) on its 5.75% notes due 2028, 5.125% notes due 2030 and 5.750% notes due 2032, changing the reporting and merger covenants. The notes stay outstanding under Berkshire ownership; the 8-K refers to a Berkshire parent guarantee only as 'if provided'.",
+        "amount_usd_m": 1475,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1562476/000119312526316037/d148123d8k.htm",
+        "source_title": "Taylor Morrison Home Corporation Form 8-K, July 24, 2026 (Item 1.01)",
+        "note": "Principal ($450 million, $500 million, $525 million; $1,475 million in total) is as of 31 Mar 2026 from Taylor Morrison's Q1 2026 10-Q. Taylor Morrison's debt, not CPG's; the full debt table belongs in the taylor-morrison file."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None for CPG or Clayton Homes (no public debt). Parent context: Berkshire's major insurance subsidiaries are rated AA+ (S&P) and A++ (A.M. Best) for financial strength, per the 2025 10-K; Berkshire's own issuer ratings were not in the documents opened.",
+      "fiscal_year_end": "December 31",
+      "as_of": "2025-12-31",
+      "confidence": "Verified",
+      "source_url": "https://www.berkshirehathaway.com/2025ar/2025ar.pdf",
+      "source_title": "Berkshire Hathaway 2025 Annual Report / Form 10-K"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-07-24",
+      "role": "Merger",
+      "counterparty": "Taylor Morrison Home Corporation (bought by CPG's parent, Berkshire Hathaway)",
+      "description": "Berkshire agreed on 31 May 2026 to buy Taylor Morrison for $72.50 a share in cash (about $6.8 billion equity, $8.5 billion enterprise value) and closed on 24 Jul 2026. Berkshire says Taylor Morrison CEO Sheryl Palmer will oversee integrating Taylor Morrison's brands with the site-built operations that make up Clayton Properties Group, and that Taylor Morrison 'will lead' a unified site-built operation.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "Biggest change to this map. CPG (Builder 100 rank 12, 9,953 closings) and Taylor Morrison (rank 6, 12,997) become one Berkshire platform: nearly 23,000 closings in 2025, 21 states, 52 markets, 700+ communities, described as the fourth-largest US builder. Leadership of the combined business sits with Taylor Morrison's management in Scottsdale, so the people to call on for CPG land and finance are likely to shift from Clayton in Tennessee to Taylor Morrison's land and finance team (inference from the stated leadership). Trade press reports the Clayton site-built builders will roll up under Taylor Morrison while factory-built stays with Clayton, with brand decisions still open. Financing: Taylor Morrison brings an existing third-party land-banking programme, $1,475 million of senior notes and a $1 billion Wells Fargo-led revolver into a parent that pays cash.",
+      "confidence": "Verified",
+      "source_url": "https://www.berkshirehathaway.com/news/jul2426.pdf",
+      "source_title": "Berkshire Hathaway Completes Acquisition of Taylor Morrison (news release, July 24, 2026)",
+      "note": "Role is 'Merger' because CPG is neither buyer nor target: its parent bought a sister company that is being combined with it. The roll-up and brand-review detail is Reported (ResiClub, 20 Aug 2026, quoting Taylor Morrison's CMO), not from the release. The release says CPG is 'a collection of 15 established regional and local homebuilders'; Berkshire's 2025 10-K and Clayton's site say nine builders, and Clayton's site lists 13 brands (the nine plus Berkeley Building Co., Elite Homes, Legacy Homes and Silverthorne Homes)."
+    },
+    {
+      "date": "2026-07-02",
+      "role": "Acquirer",
+      "counterparty": "McGuinn Homes (South Carolina)",
+      "description": "Mungo Homes, a CPG builder, announced the acquisition of McGuinn Homes, a 40-year-old builder active in Aiken, Columbia, Greenville, Hilton Head and Sumter SC and Augusta and Savannah GA. McGuinn has about 75 staff and is projected to close nearly 800 homes in 2026. Terms not disclosed. Whelan Advisory advised McGuinn.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "McGuinn Homes is itself on the 2026 Builder 100 (rank 65, 993 closings in 2025), so that row becomes part of Mungo / CPG / Berkshire and founder Wade McGuinn's son Kelly McGuinn stays with Mungo in a senior operating role. Adds Augusta GA and Aiken SC to Mungo's footprint and deepens Columbia, Greenville, Savannah and Hilton Head. Mungo alone closed more than 3,700 homes on $1.4 billion of revenue in 2025. Trade press says build-to-rent has at times been most of McGuinn's business, which fits Taylor Morrison's Yardly rental arm.",
+      "confidence": "Verified",
+      "source_url": "https://www.mungo.com/mungo-news/mungo-homes-acquires-mcguinn-homes-expands-southeast-presence",
+      "source_title": "Mungo Homes Acquires McGuinn Homes, Expands Southeast Presence (Mungo Homes news, July 2, 2026)",
+      "note": "Status left as 'Announced' because the release announces 'the acquisition' without stating a closing date; its wording reads as completed and ResiClub (8 Jul 2026) describes McGuinn as acquired. Lots acquired and price: not disclosed. The build-to-rent point and McGuinn's closings history (309 in 2022, 337 in 2023, 581 in 2024, 993 in 2025) are Reported (ResiClub). Verifier 2026-11-19: status Announced -> Closed (HousingWire/The Builder's Daily, 2026-07-01, says Clayton Home Building Group confirmed Mungo acquired McGuinn); map_impact corrected: the source says founder Wade McGuinn's son Kelly stays with Mungo, not that Wade joins."
+    }
+  ],
+  "gaps": [
+    "Owned vs optioned lot split: not publicly disclosed (Berkshire gives one 'owned and controlled' figure, about 67,300 homesites at 31 Dec 2025). No quarterly lot count is published.",
+    "CPG-level debt, cash, liquidity, leverage and credit facility: not publicly disclosed (wholly owned Berkshire subsidiary, consolidated without segment detail). How CPG's land is funded inside Berkshire (intercompany debt vs equity): not publicly disclosed.",
+    "Notes, revolver, term loans: none on public record for CPG or its builders. Credit ratings: none for CPG or Clayton Homes.",
+    "Clayton in-house land bank (reported January 2024, about $182 million): legal name, manager, investors, lots held, current size and whether it is still used are not publicly disclosed; no confirmation after January 2024 found.",
+    "Third-party land bankers or lot developers used by individual CPG builders (Forestar, Walton, Hearthstone, GTIS, IHP, Essential Housing, DW Partners, Oaktree, Varde, Brookfield and others): none found on public record. The shared web-search allowance ran out early in this run, so per-builder searches on these names were NOT done; this is an unchecked area, not a confirmed negative.",
+    "Domain Real Estate Partners, Millrose Properties, Kennedy Lewis, TPG Angelo Gordon: no public link to CPG or its builders found in the sources opened (searches on these names could not be run; see above). Taylor Morrison's filings do not name its land-bank counterparties; take any named Taylor Morrison partner from the taylor-morrison file.",
+    "Joint ventures: none found on public record for CPG or its builders.",
+    "M&A in 2025: no CPG acquisition found in the sources opened (ResiClub's July 2026 article on Clayton's deal history mentions no 2025 deal); not exhaustively searched.",
+    "McGuinn Homes deal: price, lots acquired and closing date not disclosed.",
+    "Taylor Morrison debt after closing: whether Berkshire guarantees the notes, and whether the notes and revolver will be refinanced or repaid, not publicly disclosed (the merger proxy said the post-closing debt strategy had not been determined).",
+    "How and when CPG's builders will report into Taylor Morrison, and who will run land acquisition and land finance for the combined platform: not publicly disclosed.",
+    "Conflicts to note: builder count is nine in Berkshire's 2025 10-K and on Clayton's site, 13 brands are listed on Clayton's site, and 15 in Berkshire's July 2026 release; states are 17 in the 10-K and 16 in Pro Builder's ranking."
+  ],
+  "sources_consulted": [
+    "https://www.berkshirehathaway.com/2025ar/2025ar.pdf",
+    "https://www.berkshirehathaway.com/2024ar/2024ar.pdf",
+    "https://www.berkshirehathaway.com/qtrly/3rdqtr26.pdf",
+    "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+    "https://www.berkshirehathaway.com/news/jul2426.pdf",
+    "https://www.berkshirehathaway.com/news/may3126.pdf",
+    "https://www.housingwire.com/articles/clayton-funds-a-182-million-land-bank-for-its-site-build-operators/",
+    "https://www.housingwire.com/articles/berkshire-taylor-morrison-acquisition/",
+    "https://www.probuilder.com/home/article/55381025/berkshire-hathaway-to-acquire-taylor-morrison",
+    "https://www.mungo.com/mungo-news/mungo-homes-acquires-mcguinn-homes-expands-southeast-presence",
+    "https://www.resiclubanalytics.com/p/warren-buffett-heir-buys-homebuilder-mcguin-berkshire-hathaway-clayton-homes",
+    "https://www.resiclubanalytics.com/p/shotgun-marriage-of-berkshire-hathaway-and-taylor-morrison-homebuilding-clayton-housing",
+    "https://www.sec.gov/Archives/edgar/data/1562476/000119312526316037/d148123d8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1562476/000162828026026535/tmhc-20260331.htm",
+    "https://www.sec.gov/Archives/edgar/data/1562476/000162828026009030/tmhc-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1562476/000119312526279627/d57916ddefm14a.htm",
+    "https://claytonhomebuildinggroup.com/clayton-properties-group",
+    "https://www.sec.gov/Archives/edgar/data/1562476/000119312526296849/d168036d8k.htm",
+    "https://data.sec.gov/submissions/CIK0001562476.json",
+    "https://data.sec.gov/submissions/CIK0001067983.json",
+    "https://www.berkshirehathaway.com/news/2026news.html",
+    "https://www.claytonhomes.com/newsroom/press-releases/",
+    "https://claytonhomebuildinggroup.com/blog",
+    "https://www.harrisdoyle.com/news",
+    "https://oakwoodhomesco.com/recent-news/",
+    "https://brohnhomes.com/news-press/",
+    "https://www.mungo.com/mungo-news"
+  ]
+}

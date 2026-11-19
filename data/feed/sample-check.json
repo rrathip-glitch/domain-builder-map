@@ -1,0 +1,234 @@
+{
+  "checked": "2026-11-19T16:35:52Z",
+  "method": "Independent check of a 10-item stratified sample. SEC items read from the filing index, primary 8-K and exhibits (99.1, 99.2, 10.1) and the EDGAR submission header for the filing date. Web items read with one fetch each; The Real Deal returned HTTP 403, so its existence and core facts were confirmed by two ordinary web searches only. Titles were re-read from articles.json at 11:33 local because the SEC-item titles were rewritten during the check; the rewritten titles are the ones judged.",
+  "sample": [
+    {
+      "id": "25010d751466",
+      "title": "Dream Finders 8-K: closes $2.2B Beazer purchase with $572M Millrose land-bank facility",
+      "score": 93,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "Closed the all-cash Beazer purchase Oct. 20, 2026", "verdict": "confirmed", "source_says": "8-K Item 2.01: completed Oct. 20, 2026; ex. 99.1: all-cash transaction" },
+        { "claim": "$33.50 a share", "verdict": "confirmed", "source_says": "$33.50 in cash per Beazer share" },
+        { "claim": "About $2.2B enterprise value", "verdict": "confirmed", "source_says": "ex. 99.1: enterprise value of approximately $2.2 billion" },
+        { "claim": "Becomes the sixth-largest US builder", "verdict": "confirmed", "source_says": "ex. 99.1: nation's sixth-largest homebuilder (by CY2025 revenue)" },
+        { "claim": "$572.1M Millrose land bank facility", "verdict": "confirmed", "source_says": "aggregate proceeds of $572.1 million from the land bank facility committed by Millrose (incl. Kennedy Lewis affiliates), used to redeem Beazer's $350M 7.250% 2029 notes and repay Beazer's credit facility" },
+        { "claim": "About 7,000 homesites", "verdict": "confirmed", "source_says": "Not in the Dream Finders filing; Millrose's Oct. 27 ex. 99.1 says approximately 7,000 homesites" },
+        { "claim": "$675M of 12% preferred", "verdict": "confirmed", "source_says": "$225.0M Series B convertible preferred on Sept. 14 + $450.0M at closing = $675M. The 12% dividend is stated only in Millrose's ex. 99.1, not in this filing" },
+        { "claim": "About $488M of the preferred is Millrose's", "verdict": "confirmed", "source_says": "Millrose ex. 99.1: approximately $488M (net of original issue discount): $171M on Sept. 14 and $317M at closing. Not in this filing" },
+        { "claim": "Suggested update: aggregate consideration about $878.4M", "verdict": "confirmed", "source_says": "The aggregate consideration paid in connection with the Merger was approximately $878.4 million" }
+      ],
+      "score_defensible": true,
+      "score_comment": "floor85-competitor-deal (Millrose deal with a named builder) and floor75-builder-ma (ranks 14 and 21) both apply; 93 is in the right band for a competitor whole-company financing of a top-25 builder merger.",
+      "tags_ok": true,
+      "fixes_needed": [
+        "Optional precision: in the summary and the suggested_update, write 'about $488M (net of original issue discount)' and cite Millrose's Oct. 27 release for the 12% rate, 7,000 homesites and $488M, because the linked Dream Finders filing does not state them."
+      ]
+    },
+    {
+      "id": "25c35e757dba",
+      "title": "Strata Land launches as builders face land-capital squeeze",
+      "score": 85,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "Launched Nov. 2, 2026", "verdict": "confirmed", "source_says": "Published Nov. 2, 2026 (John McManus); announced Monday, which is Nov. 2" },
+        { "claim": "Backed by Wafra and Hunt Companies", "verdict": "confirmed", "source_says": "Backed by Wafra (about $30B AUM) and Hunt Companies" },
+        { "claim": "Led by Michael Forsum, former Landsea Homes president", "verdict": "confirmed", "source_says": "Forsum was president and COO of Landsea Homes" },
+        { "claim": "First projects cover about 1,300 lots", "verdict": "confirmed", "source_says": "Projects totaling about 1,300 single-family lots" },
+        { "claim": "Capital committed not disclosed", "verdict": "confirmed", "source_says": "Specific capital commitment not disclosed" },
+        { "claim": "Aimed at public and especially private builders nationwide", "verdict": "confirmed", "source_says": "Public and private builders and developers nationwide; Forsum sees particular opportunity with private builders lacking institutional capital" }
+      ],
+      "score_defensible": true,
+      "score_comment": "floor85-competitor-deal: new entrant launching a dedicated US builder-land platform. 85 is right.",
+      "tags_ok": true,
+      "fixes_needed": []
+    },
+    {
+      "id": "c5a94aef0506",
+      "title": "Lennar’s land bank spinoff Millrose bought 1,200 single-family rentals",
+      "score": 85,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "Millrose bought 1,233 completed Lennar homes in 18 states for about $333M as rentals, disclosed with Q3 results", "verdict": "confirmed", "source_says": "Page blocked (HTTP 403); search snippet of the article and Millrose's Oct. 27 ex. 99.1 both give 1,233 homes, 18 states, about $333M cost basis ($120M of balance-sheet capital + $213M of limited-recourse financing)" },
+        { "claim": "The deal faces a lawsuit", "verdict": "confirmed", "source_says": "Securities class action by Leon and Sylvia Rubenstein against Millrose, its CEO and its CFO (filed Oct. 9) alleges Millrose bought Lennar homes and rented them at a loss. It names Millrose, not Lennar, and was filed before this Q3 disclosure" },
+        { "claim": "Lennar stock fell Oct. 2", "verdict": "unsupported", "source_says": "Not in what could be read of this article. Another feed item (fab851056dca, MSN, Oct. 2) reports it, and the class period ends Oct. 2" },
+        { "claim": "Short-seller Hunterbrook alleged late-quarter sales to Millrose helped Lennar hit targets", "verdict": "unsupported", "source_says": "Readable coverage says Hunterbrook Media reported that Millrose bought Lennar homes and rented them at a loss, and that its affiliate Hunterbrook Capital was short Lennar and Millrose. The 'late-quarter sales to hit targets' allegation could not be found. Hunterbrook is a media outlet with a short-selling affiliate, not itself a short-seller" }
+      ],
+      "score_defensible": true,
+      "score_comment": "floor85-competitor-deal: a land banker's deal with a named Domain customer (Lennar). It overlaps the Millrose Q3 8-K (ef17c22b721c), but that item's summary does not cover the rental purchase and this one adds the lawsuit, so keeping both is reasonable.",
+      "tags_ok": true,
+      "fixes_needed": [
+        "Reword the Hunterbrook sentence to what is supported, e.g. 'Lennar stock fell Oct. 2 after Hunterbrook Media, whose affiliate is short Lennar and Millrose, reported Millrose had been buying Lennar homes and renting them at a loss.' Drop 'late-quarter sales ... helped it hit targets' unless a source is found."
+      ]
+    },
+    {
+      "id": "ef17c22b721c",
+      "title": "Millrose 8-K: Q3 net income $130M, about $9.25B invested capital, $250M buyback",
+      "score": 85,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "Net income $130.0M", "verdict": "confirmed", "source_says": "Net income to common shareholders $130.0 million, or $0.78 per share" },
+        { "claim": "AFFO $0.80/share", "verdict": "confirmed", "source_says": "AFFO $133.5 million, or $0.80 per share" },
+        { "claim": "Invested capital about $9.25B", "verdict": "confirmed", "source_says": "Invested capital $9,245.4M at Sept. 30 ($5,874M Lennar + $3,371M other)" },
+        { "claim": "$3.4B outside Lennar, 22 counterparties", "verdict": "wrong", "source_says": "$3.4B outside Lennar is right, but the release says '21 counterparties outside of Lennar'; 22 is the total including Lennar ('22 Homebuilder and Developer Relationships')" },
+        { "claim": "Non-Lennar yield 10.8% vs 8.5% on Lennar", "verdict": "confirmed", "source_says": "Weighted average yield at Sept. 30: Lennar 8.5%, other agreements 10.8%, total 9.3%" },
+        { "claim": "$250M buyback", "verdict": "confirmed", "source_says": "Board authorized a new $250 million share repurchase program in October 2026" },
+        { "claim": "Funded $1.1B of the Dream Finders/Beazer deal: $580M land banking, $488M 12% preferred", "verdict": "confirmed", "source_says": "About $1.1B: about $580M (net of option deposits) of land banking across about 7,000 homesites and about $488M (net of OID) of preferred carrying a 12% dividend" },
+        { "claim": "why_it_matters: leverage above its own target", "verdict": "unsupported", "source_says": "Neither ex. 99.1 nor ex. 99.2 gives a leverage target; the deck calls 36% debt-to-capitalization a 'conservative leverage profile'" },
+        { "claim": "suggested_update: closed Oct. 20, 2026; about 7,000 homesites; 12% dividend", "verdict": "confirmed", "source_says": "Effective Oct. 20, 2026; about 7,000 homesites; 12% dividend" }
+      ],
+      "score_defensible": true,
+      "score_comment": "floor75-competitor (any Millrose release), lifted to floor85 by the reported Dream Finders deal. 85 is right.",
+      "tags_ok": false,
+      "fixes_needed": [
+        "Summary: change '($3.4B outside Lennar, 22 counterparties)' to '($3.4B outside Lennar across 21 non-Lennar counterparties; 22 builder and developer relationships in total)'.",
+        "why_it_matters: remove 'leverage above its own target', or cite the earnings call if that is where it came from; the linked filing says 36% debt-to-cap and calls it conservative.",
+        "people: 'Robert Nitkin' does not appear in the linked 8-K or its exhibits (only Darren Richman does). Drop him from this item or move the tag to the earnings-call item."
+      ]
+    },
+    {
+      "id": "6b383809f6a9",
+      "title": "LGI Homes 8-K: amends revolver to about $1.166B, $855M extended to Oct 2030",
+      "score": 70,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "Amended its revolver on Oct. 9, 2026; Wells Fargo is agent", "verdict": "confirmed", "source_says": "Seventh Amendment dated Oct. 9, 2026; Wells Fargo Bank, N.A. as administrative agent (filed Oct. 14)" },
+        { "claim": "Commitments total about $1.166B including a $175M incremental facility", "verdict": "wrong", "source_says": "Commitments are $1,165,982,142.85 (cut from $1,182,500,000). The $175M is an uncommitted accordion on top: Section 2.17 lets commitments rise by up to $175M (up from $95M), capped at $1.3B in total. It is not part of the $1.166B" },
+        { "claim": "$855M extended to Oct. 9, 2030 (73.3%)", "verdict": "confirmed", "source_says": "$855 million, or 73.3%, matures Oct. 9, 2030; 18.4% Apr. 28, 2029; 8.3% Apr. 28, 2028" },
+        { "claim": "Borrowing-base values and covenants modified; details not disclosed", "verdict": "confirmed", "source_says": "modified borrowing base values and certain financial and other covenants (details are in ex. 10.1, not the 8-K body)" },
+        { "claim": "why_it_matters: LGI owns most of its land and funds it on this revolver", "verdict": "unsupported", "source_says": "The 8-K gives no owned/optioned lot mix" }
+      ],
+      "score_defensible": true,
+      "score_comment": "floor70-financing (amended credit facility, rank 20). 70 is right. The commitment cut from $1.1825B to $1.166B is the more relevant detail for a land banker and is missing.",
+      "tags_ok": true,
+      "fixes_needed": [
+        "Summary: replace 'commitments total about $1.166B including a $175M incremental facility' with 'commitments about $1.166B (down from $1.1825B), plus an accordion of up to $175M (up from $95M) capped at $1.3B'.",
+        "suggested_update text: same correction ('commitments about $1.166B, down from $1.1825B; accordion up to $175M, capped at $1.3B; $855M (73.3%) now matures 2030-10-09').",
+        "why_it_matters: support 'owns most of its land' from LGI's 10-Q lot table, or soften it."
+      ]
+    },
+    {
+      "id": "df5114e0e2d0",
+      "title": "M/I Homes 8-K: Q3 2,241 deliveries, EPS $2.56; 52% of 48,934 lots under contract",
+      "score": 47,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "2,241 deliveries, down 2%", "verdict": "confirmed", "source_says": "Homes delivered decreased 2% to 2,241" },
+        { "claim": "EPS $2.56", "verdict": "confirmed", "source_says": "$2.56 per diluted share" },
+        { "claim": "Lots 48,934, about 48% owned, 52% under contract", "verdict": "confirmed", "source_says": "23,425 owned + 25,509 under contract = 48,934 (47.9% / 52.1%)" },
+        { "claim": "Q3 land spend $135.2M purchases + $154.4M development", "verdict": "confirmed", "source_says": "Land/lot purchases $135,209K; land development spending $154,418K" },
+        { "claim": "Homebuilding debt-to-capital 18%; undrawn $900M facility; $50M buybacks", "verdict": "confirmed", "source_says": "18%; no borrowings under $900 million unsecured credit facility; repurchased $50 million" },
+        { "claim": "why_it_matters: 25,509 lots under contract; $620M of cash", "verdict": "confirmed", "source_says": "25,509 under contract; cash incl. restricted $620.6M (CEO quote: $621M)" }
+      ],
+      "score_defensible": true,
+      "score_comment": "Earnings 8-K with lot mix and land spend from rank 13; 'context' band is right.",
+      "tags_ok": true,
+      "fixes_needed": []
+    },
+    {
+      "id": "8957e90cd64e",
+      "title": "Meritage Homes Corporation Q3 2026 Earnings Call Summary",
+      "score": 42,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "Withheld Q4 and full-year guidance", "verdict": "confirmed", "source_says": "Management withheld Q4 and full-year 2026 guidance due to a lack of market visibility" },
+        { "claim": "Full-year land acquisition and development spend below $1.5B", "verdict": "confirmed", "source_says": "projected to remain below $1.5 billion" },
+        { "claim": "Targets net debt-to-capital in the mid-20s", "verdict": "confirmed", "source_says": "net debt-to-cap ratio in the mid-20% range" },
+        { "claim": "Cut inventory about 12%", "verdict": "confirmed", "source_says": "Total home inventory down 12% year over year to about 7,100 units" },
+        { "claim": "Sold five communities to build-for-rent buyers", "verdict": "confirmed", "source_says": "exit from five communities via discounted sales to institutional build-for-rent partners" },
+        { "claim": "why_it_matters: fifth-largest builder", "verdict": "confirmed", "source_says": "Rank 5 in data/spine.json (2026 Builder 100)" }
+      ],
+      "score_defensible": true,
+      "score_comment": "Earnings-call colour for a top-5 builder with land-spend guidance; 42 is in 'context', which is right (it could fairly sit around 50).",
+      "tags_ok": true,
+      "fixes_needed": [
+        "Summary is cut off mid-sentence ('It sold five communities to build-for-rent buyers and…'); finish the sentence, e.g. '...sold five communities to build-for-rent buyers at a discount.' The page credits the summary to Moby (hosted on Yahoo Finance); Yahoo Finance as publisher is acceptable."
+      ]
+    },
+    {
+      "id": "2d1c67eba5af",
+      "title": "Tri Pointe 8-K: Q3 1,084 deliveries, $706.8M revenue; $21.1M inventory charges",
+      "score": 44,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "1,084 deliveries versus 1,217", "verdict": "confirmed", "source_says": "1,084 homes compared to 1,217" },
+        { "claim": "Home sales revenue $706.8M", "verdict": "confirmed", "source_says": "$706.8 million compared to $817.3 million" },
+        { "claim": "Gross margin 17.6% after $21.1M of inventory charges", "verdict": "confirmed", "source_says": "17.6%; 20.6% excluding $21.1M inventory-related charges" },
+        { "claim": "Lots 32,444, about 51% owned, 49% controlled", "verdict": "confirmed", "source_says": "16,683 owned + 15,761 controlled = 32,444 (51.4% / 48.6%)" },
+        { "claim": "Homebuilding debt-to-capital 25.9%; liquidity about $1.1B", "verdict": "confirmed", "source_says": "25.9%; liquidity about $1.1B ($325.9M cash + $822.8M revolver availability)" },
+        { "claim": "why_it_matters: release refers to integration into the Sumitomo Forestry Group; 15,761 controlled lots", "verdict": "confirmed", "source_says": "Risk factor: 'the Company's integration into the Sumitomo Forestry Group'; 15,761 lots controlled" }
+      ],
+      "score_defensible": true,
+      "score_comment": "Earnings 8-K with lot mix and leverage from rank 19; 'context' band is right.",
+      "tags_ok": true,
+      "fixes_needed": []
+    },
+    {
+      "id": "47d817b59696",
+      "title": "Millrose Properties, Inc. 8-K: Item 7.01 Reg FD disclosure; Item 8.01 other events",
+      "score": 24,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "Quarterly cash dividend of $0.79 per share on Class A and Class B stock", "verdict": "confirmed", "source_says": "about $131.2 million, or $0.79 per share of Class A and Class B common stock" },
+        { "claim": "Payable Oct. 15, 2026 to holders of record Oct. 5", "verdict": "confirmed", "source_says": "paid on October 15, 2026, to shareholders of record as of October 5, 2026" },
+        { "claim": "why_it_matters: routine payout", "verdict": "confirmed", "source_says": "Routine, but the release calls it 'another quarterly dividend increase' (the Q3 deck says up 8% from Q3 2025); the summary leaves that out" }
+      ],
+      "score_defensible": false,
+      "score_comment": "In substance 24 (noise) is the right call, but it contradicts the rubric as written: floor75-competitor covers 'any Millrose filing, release or earnings call', and the routine-filing cap (45) lists only 10-Q/10-K cover entries, earnings-date 8-Ks, shareholder votes and bylaw changes, not dividend declarations. Nothing in the rubric lets this item score 24. Scored under v1.1.",
+      "tags_ok": true,
+      "fixes_needed": [
+        "Preferred: rubric v1.4 adds dividend declarations to the routine-filing cap and says the routine cap beats floor75-competitor; then 24 stands and the item records that cap. Otherwise the floor forces 75. Also add 'an increase' to the summary ('...$0.79 per share, an increase, payable...')."
+      ]
+    },
+    {
+      "id": "71edf72c2540",
+      "title": "Household Debt Delinquencies Rise as Mortgage Performance Weakens",
+      "score": 3,
+      "link_ok": true,
+      "title_ok": true,
+      "date_ok": true,
+      "publisher_ok": true,
+      "facts": [
+        { "claim": "New York Fed Q3 2026 household debt report", "verdict": "confirmed", "source_says": "Federal Reserve Bank of New York Quarterly Report on Household Debt and Credit, Q3 2026 (Catherine Koh, Nov. 11, 2026)" },
+        { "claim": "About 5.0% of household debt was delinquent", "verdict": "confirmed", "source_says": "about 5.0% of household debt balances delinquent in some stage, up 0.3 points" },
+        { "claim": "Mortgage performance weakened", "verdict": "confirmed", "source_says": "Mortgage serious delinquency up 0.1 point to 1.1%; new serious delinquency transitions 1.6% from 1.5%" }
+      ],
+      "score_defensible": true,
+      "score_comment": "Macro consumer-credit story with no builder; cap40-generic applies and 3 (noise) is right.",
+      "tags_ok": true,
+      "fixes_needed": []
+    }
+  ],
+  "summary": {
+    "passed": 7,
+    "failed": 3,
+    "notes": "Failed: ef17c22b721c (21, not 22, counterparties outside Lennar), 6b383809f6a9 (the $175M is an accordion on top of the $1.166B, which itself was cut from $1.1825B), 47d817b59696 (score 24 contradicts floor75-competitor as written; fix the rubric rather than the score). Every link, title, date and publisher checked out; all 6 SEC filing dates match the EDGAR 'filed as of' date. The Real Deal page is blocked (403), so c5a94aef0506 was checked only through search snippets, and its Hunterbrook 'late-quarter sales to hit targets' claim could not be verified; reword it before the CEO sees it. Pattern: summaries pull facts from related filings (Dream Finders' item uses the 12%/7,000/$488M figures from Millrose's release) and why_it_matters adds unsourced judgments ('leverage above its own target', 'owns most of its land'). Neither is wrong yet, but each should cite or be softened. SEC-item titles were rewritten in articles.json during this check; the new titles are accurate."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "builder_id": "home-creations",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Home Creations is a private, family-owned, conventional for-sale builder with no public debt, no SEC filings and no published lender, credit facility, land banker or capital partner. What is public points to a self-funded, owner-developer model in Oklahoma: land development is an in-house function, co-founder Jalal Farzaneh is reported as owner of Shaz Investments (a Norman land developer), and an engineering firm says Home Creations hired it to plan a 760-acre, roughly 2,000-unit community in Norman. In Houston, entered in 2022, its lot sources are not disclosed: the company names no developer for its Houston communities. A 2015 profile quoted a company executive saying the owners reinvest most earnings and that a shortage of developed lots was the main brake on growth. It is a plausible land-banking customer on two fronts (the large Norman tract and Houston lot supply), but there is no public sign that the family has used outside land capital.",
+    "land_strategy": "Mixed, with no stated owned-versus-optioned target. In Oklahoma the family entitles and develops much of its own land through affiliates and an in-house land development department, then builds it out. In Houston the lot source (own development or third-party developers) is not disclosed.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Verified",
+      "source_url": "https://www.homecreations.com/about-us/",
+      "source_title": "Home Creations: About (site counters)",
+      "note": "No lot counts are published. For scale only: on 2026-11-19 the company site showed 21 locations and 209 available homes in the Oklahoma City market and 8 locations and 39 available homes in Houston. These are homes for sale, not lots."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Shaz Investments",
+        "counterparty_type": "Affiliate",
+        "description": "Land development company whose owner is reported to be Home Creations co-founder Jalal Farzaneh. In October 2021 Norman's city council voted 7-2 against its request to build 147 homes in southeast Norman next to Eagle Cliff South; its attorney said the council had approved similar Shaz requests two years earlier. Home Creations lists Eagle Cliff in Norman as a current community.",
+        "amount_usd_m": null,
+        "lots": 147,
+        "date": "2021-10",
+        "confidence": "Reported",
+        "source_url": "https://www.yahoo.com/now/council-mostly-quiet-reasons-no-134600503.html",
+        "source_title": "Norman Transcript via Yahoo: Council mostly quiet on reasons for 'no' votes for requested development",
+        "note": "This is family self-development, not third-party land banking. The report is from 2021; the outcome of the 147-home request (any lawsuit or re-filing) and the affiliate's current activity were not checked. The lot figure is the number of homes in the rejected request."
+      },
+      {
+        "counterparty": "None named (self-developed): 760-acre Norman Residential Development",
+        "counterparty_type": "Unknown",
+        "description": "Engineering firm HR Green says Home Creations chose it for a 760-acre mixed-use community in Norman with single-family and multi-family homes, commercial space, more than 233 acres of open space and about 2,000 units. The owning entity, timing and funding are not stated.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Reported",
+        "source_url": "https://www.hrgreen.com/projects/norman-residential-development/",
+        "source_title": "HR Green project page: Norman Residential Development",
+        "note": "The page is undated (site footer shows 2025) and gives no project name, so entitlement status is unknown. About 2,000 units is the consultant's total for all housing types, not a single-family lot count. This is the largest visible land-capital need in the company's pipeline."
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Houston lot sources: verification 2026-11-19 removed a 'third-party developers in Houston' row; its cited post (Inside Grand Oaks Reserve, 2026-07-17) names no developer or other builders and says Home Creations plans the community's build-out, so whether Houston lots are bought or self-developed is not public.",
+    "Lots owned and optioned, years of supply: not publicly disclosed (private company).",
+    "Construction lenders, land loans, credit facility terms: not publicly disclosed. County mortgage records, which would name the banks, could not be read (the Oklahoma county records site blocks automated access).",
+    "Land banker, lot-option partner or outside capital partner: none found in any source opened.",
+    "Links to Domain Real Estate Partners, Millrose, Kennedy Lewis or TPG Angelo Gordon: none found, but the dedicated search was not run because the swarm's shared web-search allowance ran out partway through this run.",
+    "M&A in 2025-2026: none found in the sources opened; a dedicated search was not run for the same reason. The 2022 Houston entry is described by the company as an expansion, with no acquisition mentioned.",
+    "Houston lot sources: developer names and lot-purchase terms for Grand Oaks Reserve, Santa Fe, Encino Estates, The Enclave at Spring Branch, Hill & Dale Ranch, Lexington Heights, Spring Ridge and Bentwater are not disclosed by the company.",
+    "760-acre Norman project: name, owning entity, entitlement status and funding not stated by the one source (an engineering consultant's undated project page).",
+    "Shaz Investments: outcome of the 2021 Norman request and current holdings not checked; other family land entities, if any, not identified.",
+    "Balance sheet (debt, cash, leverage): not publicly disclosed. A January 2015 magazine profile quoted a company executive saying the owners reinvest most earnings; nothing newer.",
+    "SEC EDGAR: company lookup was blocked during this run; no SEC filer is expected for this private company.",
+    "Buyer-mortgage lenders named on the company blog (2021) are retail lenders for homebuyers, not the builder's own lenders, and are left out."
+  ],
+  "sources_consulted": [
+    "https://www.homecreations.com/about-us/",
+    "https://www.homecreations.com/new-homes/ok/okc/",
+    "https://www.homecreations.com/new-homes/tx/houston/",
+    "https://www.homecreations.com/blog/inside-grand-oaks-reserve-a-closer-look-at-the-neighborhood/",
+    "https://www.homecreations.com/blog/introducing-encino-estates-new-homes-with-space-to-grow-in-dayton-tx/",
+    "https://www.homecreations.com/blog/45-years-of-home-creations/",
+    "https://www.homecreations.com/blog/napa-valley-a-first-look-at-newcastles-newest-signature-community/",
+    "https://www.homecreations.com/blog/participating-lenders-closing-costs/",
+    "https://www.hrgreen.com/projects/norman-residential-development/",
+    "https://www.yahoo.com/now/council-mostly-quiet-reasons-no-134600503.html",
+    "https://businessviewmagazine.com/digital-magazines/jan-2015/files/assets/basic-html/page27.html",
+    "https://businessviewmagazine.com/digital-magazines/jan-2015/files/assets/basic-html/page29.html",
+    "https://businessviewmagazine.com/digital-magazines/jan-2015/files/assets/basic-html/page31.html",
+    "https://www.405magazine.com/all-in-the-family-home-creations/",
+    "https://comptroller.texas.gov/data-search/franchise-tax?name=home%20creations"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+ "batch": "review-20261119-1146",
+ "rubric_version": "v1.3",
+ "note": "Summaries trimmed to 40 words so none is cut mid-sentence.",
+ "articles": [
+  {
+   "id": "5e5ff4179250",
+   "summary": "David Weekley Homes named Adam Zylman CFO on Aug. 31, 2026, succeeding Heather Humphrey, who retires after 33 years and stays as an adviser. Zylman founded Grey Owl Partners and co-founded Sunland Capital.",
+   "category": "Executive change",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 20,
+    "financing_capital_markets": 8,
+    "land_lot_supply": 0,
+    "materiality_actionability": 7
+   },
+   "adjustment": "floor75-exec-top25",
+   "why_it_matters": "David Weekley, the 17th-largest builder, has a new CFO from private equity. He now decides how it funds land, so Domain should introduce itself.",
+   "builder_ids": [
+    "david-weekley-homes"
+   ],
+   "people": [
+    "Adam Zylman",
+    "Heather Humphrey",
+    "Julian Duncan"
+   ],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "david-weekley-homes",
+    "kind": "Executive change",
+    "text": "Adam Zylman named CFO (announced 2026-08-31), succeeding retiring CFO Heather Humphrey, who moves to an advisory role."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "eca8a6760b45",
+   "summary": "At the Zelman Housing Summit, Essential Housing CEO Steve Benson said land banking costs builders about 200-250 bp over blended capital cost and that the firm, with over $22B originated in five years, is raising about $10B more.",
+   "category": "Land banking & competitors",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 27,
+    "builder_customer": 10,
+    "financing_capital_markets": 16,
+    "land_lot_supply": 8,
+    "materiality_actionability": 9
+   },
+   "adjustment": "none",
+   "why_it_matters": "A direct competitor publicly stated its pricing (200–250 bp over builders' blended cost) and a roughly $10B capital raise, which tells Domain how a rival is pitching builders and how much capacity is coming.",
+   "builder_ids": [
+    "stanley-martin",
+    "brookfield-residential"
+   ],
+   "people": [
+    "Steve Benson",
+    "Warren Krug",
+    "Eric Marks"
+   ],
+   "competitors": [
+    "TPG Angelo Gordon"
+   ],
+   "suggested_update": {
+    "builder_id": "stanley-martin",
+    "kind": "Deal",
+    "text": "At the Oct 2026 Zelman summit, Stanley Martin (Daiwa House) set a 10,000-closing target for 2027, said three recent acquisitions including Holiday Builders add about $1B of revenue, and is pausing single-family acquisitions to integrate them."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "de1b13fc17c8",
+   "summary": "A Lennar shareholder filed a proposed securities class action in the Southern District of Florida against Lennar and two executives, alleging misleading statements about financial health and a subsidiary spinoff, including capitalized land-bank option costs.",
+   "category": "Land banking & competitors",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 18,
+    "builder_customer": 22,
+    "financing_capital_markets": 8,
+    "land_lot_supply": 6,
+    "materiality_actionability": 7
+   },
+   "adjustment": "none",
+   "why_it_matters": "The suit puts Lennar's accounting for land-bank option costs, and by extension the 2025 Millrose spin-off, under litigation scrutiny. That could change how Lennar and other builders structure and disclose option deals with Domain.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "ee5bd85b7f3d",
+   "summary": "KB Home Q3 (Aug 31): revenue $1.30B, down 20%; net income $65.3M; 61,581 lots, about 60% owned and 40% under contract; debt to capital 35.7%; $415M drawn on revolver; land spend $722M, up 40%.",
+   "category": "Earnings & guidance",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 4,
+    "builder_customer": 20,
+    "financing_capital_markets": 16,
+    "land_lot_supply": 9,
+    "materiality_actionability": 6
+   },
+   "adjustment": "none",
+   "why_it_matters": "KB Home still owns about 60% of its lots while leverage climbs and it borrows on its revolver to fund land, which is the profile of a builder that could use land-bank capital.",
+   "builder_ids": [
+    "kb-home"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "kb-home",
+    "kind": "Financing",
+    "text": "At Aug 31, 2026: 61,581 lots (about 60% owned, 40% under contract), debt to capital 35.7%, $415.0M drawn on the credit facility, total liquidity $942.4M."
+   },
+   "duplicate_of": null,
+   "opened": true
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+  "batch": "batch-20261119-1559-006",
+  "rubric_version": "v1.2",
+  "articles": [
+    {
+      "id": "1ff2c384a332",
+      "summary": "Corteva extended the expiration date of private exchange offers and consent solicitations for EIDP's senior notes due 2030, 2032 and 2033.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Agriculture-company debt housekeeping; not a homebuilder or land-capital story; no bearing on Domain's customers or competitors.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "e1397d3f7dd4",
+      "summary": "Adecoagro, a South American agribusiness, announced early redemption of its 6.000% senior notes due 2027.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "South American agribusiness refinancing; no link to US builders or land banking.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "3d6cd76be953",
+      "summary": "Business Journals reports Dream Finders closed its roughly $2.2B (enterprise value) all-cash acquisition of Beazer Homes on Oct. 20, 2026, making it the sixth-largest US homebuilder. Paywalled; scored from headline and snippet.",
+      "category": "Builder M&A",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 5,
+        "builder_customer": 22,
+        "financing_capital_markets": 12,
+        "land_lot_supply": 7,
+        "materiality_actionability": 6
+      },
+      "adjustment": "cap30-duplicate",
+      "why_it_matters": "Same closing as the Ad Hoc News item, which carries the land-bank funding detail; this copy adds nothing beyond the headline.",
+      "builder_ids": [
+        "dream-finders-homes",
+        "beazer-homes"
+      ],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": "444cf626dd07",
+      "opened": false
+    },
+    {
+      "id": "37932443d71f",
+      "summary": "Viking Therapeutics, a clinical-stage biotech, proposed offerings of common stock and convertible senior notes.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Biotech equity and convert raise; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "41f86f8d3384",
+      "summary": "Seeking Alpha contributor cuts Lennar stock to Hold, citing a weaker housing market and declining financial performance. Paywalled opinion piece; scored from title and snippet.",
+      "category": "Earnings & guidance",
+      "source_type": "Research",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 12,
+        "financing_capital_markets": 3,
+        "land_lot_supply": 0,
+        "materiality_actionability": 2
+      },
+      "adjustment": "cap20-consumer",
+      "why_it_matters": "A retail stock-rating opinion on Lennar, a Domain relationship; it adds no new fact about Lennar's land or funding needs.",
+      "builder_ids": [
+        "lennar"
+      ],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "7cc1ae133f0c",
+      "summary": "Cheniere Energy announced a proposed offering of senior notes due 2037 for refinancing and capital spending.",
+      "category": "Other",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap30-duplicate",
+      "why_it_matters": "LNG company bond deal; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": "69cf34ec411d",
+      "opened": false
+    },
+    {
+      "id": "69cf34ec411d",
+      "summary": "Cheniere Energy priced $1.2B of 5.800% senior notes due March 2037 on Nov. 2, 2026.",
+      "category": "Other",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "LNG company bond deal; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "4456475f4b6d",
+      "summary": "BDO's review of Australian lender SWMM's accounts flags possible balance-sheet adjustments after the collapse of developer Bathla Group, one of its biggest borrowers.",
+      "category": "Other",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 3,
+        "builder_customer": 0,
+        "financing_capital_markets": 2,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "An Australian private lender's losses on a failed developer is at most a distant cautionary tale on private credit to land developers; no US customer or competitor involved.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "2c155fab89e3",
+      "summary": "BWX Technologies launched a $500M private offering of senior unsecured notes due 2034.",
+      "category": "Other",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Nuclear-components company bond deal; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "9caa070d62fc",
+      "summary": "Oracle priced concurrent common stock and senior notes offerings totaling about $20B for general corporate purposes.",
+      "category": "Other",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Tech-company capital raise; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "197072f9d0f1",
+      "drop": "MarketScreener insider profile page for PulteGroup CFO Robert O'Shaughnessy; a reference page, not a story or executive change."
+    },
+    {
+      "id": "f33e8619b5ed",
+      "drop": "MarketScreener insider profile page (Christopher Guthrie, Comstock Holding CFO); a reference page, not a story."
+    },
+    {
+      "id": "c9c1a4b511e5",
+      "summary": "TruTemp Services, a North Carolina residential HVAC, plumbing and electrical provider, made two add-on acquisitions.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Home-services roll-up; no link to builder land or financing.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "863276c2f697",
+      "summary": "Pro Builder survey piece: most homebuyers, especially Gen Z, say they would accept a smaller home or lifestyle sacrifices to afford one.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 2
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Buyer-preference survey with no named builder or financing angle; at most background on smaller-product demand.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "236cf77b7bd5",
+      "summary": "Toll Brothers City Living bought 126-128 10th Avenue and 456 West 18th Street in West Chelsea, Manhattan, from the Nanis family for $45M; 8,738 sq ft next to its $53M 118 10th Avenue site. Plans not disclosed.",
+      "category": "Land & lots",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 14,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 5,
+        "materiality_actionability": 3
+      },
+      "adjustment": "none",
+      "why_it_matters": "An owned urban condo assemblage for Toll's City Living arm, not the suburban lot pipeline Domain finances, so no land-bank opening.",
+      "builder_ids": [
+        "toll-brothers"
+      ],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": true
+    },
+    {
+      "id": "938fae701211",
+      "summary": "FirstEnergy Pennsylvania Electric launched an exchange offer for its 4.150% notes due 2028 and 4.550% notes due 2031.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Utility debt exchange; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "815d6ce7bf82",
+      "summary": "Axon priced a $1.0B offering of 0% convertible senior notes due 2031.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Tech-company convertible; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "3ef6a1a8a28e",
+      "summary": "Vantage, a data-center developer, closed a $2B financing facility for early-stage development across North America.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Data-center financing; no link to builders or land capital.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "444cf626dd07",
+      "summary": "Dream Finders completed its Beazer Homes acquisition on Oct. 20, 2026 at $33.50 per share in cash (about $878.4M in equity). Funding included $450M of Series B convertible preferred and $572.1M from a land-bank facility. Beazer's $350M 7.25% notes due 2029 were redeemed and its unsecured credit facility repaid.",
+      "category": "Builder M&A",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 24,
+        "builder_customer": 23,
+        "financing_capital_markets": 23,
+        "land_lot_supply": 8,
+        "materiality_actionability": 8
+      },
+      "adjustment": "floor70-financing",
+      "why_it_matters": "A $572.1M land-bank facility helped pay for the sixth-largest builder's purchase; other coverage and DFH's 10-Q search results name Millrose as the counterparty, so the Beazer lots went to a competitor rather than to Domain.",
+      "builder_ids": [
+        "dream-finders-homes",
+        "beazer-homes"
+      ],
+      "people": [],
+      "competitors": [],
+      "suggested_update": {
+        "builder_id": "dream-finders-homes",
+        "kind": "Land banking",
+        "text": "Closed Beazer acquisition Oct 20, 2026 ($33.50/share cash, ~$878.4M equity), funded partly by $450M Series B preferred and a $572.1M land-bank facility; Beazer's $350M 7.25% 2029 notes redeemed."
+      },
+      "duplicate_of": null,
+      "opened": true
+    },
+    {
+      "id": "4cc6bf7f3bd4",
+      "summary": "Japan's Tokai Kogyo is acquiring rival auto-components supplier Kinugawa Rubber.",
+      "category": "Other",
+      "source_type": "News",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Japanese auto-parts merger; not a homebuilder deal despite the search that found it.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "builder_id": "colina-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Colina Homes is a conventional for-sale builder, privately owned by its founder, with no public debt, no SEC filings and no published lender, lot count or capital partner. What is visible is a finished-lot buyer: five of its 14 current communities (Sunterra, Lago Mar, Grand Magnolia, River Ranch, Cypress Green) are Land Tejas master plans where it builds alongside national builders, and the rest are smaller subdivisions and one 50-home infill site whose developers are not public. No land banker, lot-option financier or link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. Its one visible partnership is a mortgage joint venture, Colina Mortgage Group, LLC, co-owned with a Network Funding affiliate. It is a plausible but small land-banking customer (about 540 closings a year at entry-level prices), most likely for the stand-alone subdivisions it controls itself rather than for developer-supplied lots in master plans.",
+    "land_strategy": "Not stated by the company. The site title calls it a 'Houston-based builder and developer', but the public pattern is buying finished lots section by section in third-party master-planned communities, plus smaller stand-alone subdivisions (for example Tidwell Lakes, where the site says a new section is coming in fall 2026, and the 50-home Regents Court infill community). Owned versus optioned split: not publicly disclosed.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed. Private company, no filings and no published lot table. The only public size markers are the 14 communities on the company site and the closings in the spine."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Land Tejas",
+        "counterparty_type": "Developer",
+        "description": "Colina is one of six builders named for Grand Magnolia, Land Tejas's 2,755-acre Magnolia master plan (first phase nearly 1,000 homes; first-section construction began in early 2026). Colina's site shows a model open there with homes from the low $300s.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-03",
+        "confidence": "Reported",
+        "source_url": "https://myneighborhoodnews.com/work-begins-on-grand-magnolia-major-master-planned-community-with-crystal-lagoon-amenity-taking-shape-in-magnolia",
+        "source_title": "My Neighborhood News: Work begins on Grand Magnolia (2026-03-09)",
+        "note": "Lot purchase terms, lot count and any option or deposit structure: not publicly disclosed. Other builders named: CastleRock Communities, DRB Homes, Lennar, Long Lake, StoneManor Homes. Land Tejas's own partners page (https://landtejas.com/partners/) names CBA Land Capital as its capital partner, i.e. the developer, not Colina, carries the land."
+      },
+      {
+        "counterparty": "Land Tejas",
+        "counterparty_type": "Developer",
+        "description": "Colina was one of 15 builders Land Tejas announced for the first phase of Sunterra in Katy (1,039 acres and about 2,200 homes planned at the time). Colina still sells there from the $230s; its own page now describes Sunterra as 2,303 acres.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2021-08",
+        "confidence": "Reported",
+        "source_url": "https://communityimpact.com/houston/katy/impacts/2021/08/05/land-tejas-to-bring-on-15-homebuilders-for-sunterra-development/",
+        "source_title": "Community Impact: Land Tejas to bring on 15 homebuilders for Sunterra development (2021-08)",
+        "note": "Older than 24 months, but Colina's live Sunterra page (https://www.colinahomes.com/sunterra) confirms it is still an active builder there. Lot terms not disclosed."
+      },
+      {
+        "counterparty": "Land Tejas",
+        "counterparty_type": "Developer",
+        "description": "Three more of Colina's current communities, Lago Mar (Texas City), River Ranch (Dayton) and Cypress Green (Hockley, in close-out), appear on Land Tejas's own list of its developments, so Land Tejas is the lot source for five of Colina's 14 communities.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Inferred",
+        "source_url": "https://landtejas.com/communities/",
+        "source_title": "Land Tejas: Communities (current and historical list)",
+        "note": "Derived by matching Colina's community list (https://www.colinahomes.com/communities) to Land Tejas's list; neither page names the other. Lot counts and terms not disclosed."
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [
+      {
+        "partner": "Network Partners, LLC (affiliate of Network Funding, LP)",
+        "description": "Colina Mortgage Group, LLC, the builder's 'preferred lender', is a mortgage joint venture: Texas records list its two members as Network Partners LLC and Nuway Holdings LLC (Ken Williams's holding company), with its mailing address at Colina's office. This is buyer mortgage origination, not land or construction finance.",
+        "date": "2019-07",
+        "confidence": "Verified",
+        "source_url": "https://comptroller.texas.gov/data-search/franchise-tax/32071431228",
+        "source_title": "Texas Comptroller franchise tax account status: Colina Mortgage Group, LLC (2026 report year)",
+        "note": "Registered with the Texas Secretary of State 2019-07-22; active. The Network Funding link is inferred: Network Partners, LLC's officers are Gregory Baker (President) and Rex Chamberlain (CEO) at 10370 Richmond Ave, Suite 900, Houston (https://comptroller.texas.gov/data-search/franchise-tax/32075736432), the headquarters address Network Funding, LP publishes, and Network Funding's about page names Rex Chamberlain (https://www.nflp.com/about). Colina's site names Colina Mortgage Group as preferred lender at https://www.colinahomes.com/lets-get-started."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned, optioned, total): not publicly disclosed",
+    "Land banker or lot-option financier: none publicly named",
+    "Construction and land lenders, credit facilities, terms: not publicly disclosed (private company). County deed-of-trust records and municipal utility district bond official statements, which usually name builders, lot counts and lenders, were not searched",
+    "Equity or capital partner: none publicly named; ownership appears to sit with founder Ken Williams through Nuway Homes, LLC / Nuway Holdings, L.L.C.",
+    "Links to Domain Real Estate Partners, Millrose, Kennedy Lewis or TPG Angelo Gordon: none found, but only one land-banking search was run before the shared web-search allowance ran out; no competitor-name search was run",
+    "M&A 2025 to 2026: none found in the sources opened; no dedicated search was possible after the search allowance ran out",
+    "Developers of the non-Land Tejas communities (Regents Court, Mill Creek Trails, Enclave at Willis, Splendora Fields, Oak Hills Montgomery, Creekhaven, Rollingbrook Estates, Tidwell Lakes, Crosby Terrace) and whether Colina self-develops any of them: not established",
+    "Revenue: Builder 100 ($84M) and Pro Builder (about $124M) disagree; the company publishes no figure",
+    "Pages that would not open: Builder Online profile, The Real Deal (Sunterra Lakes, January 2025), KHOU, Homes.com (all 403); EDGAR full-text search (403)"
+  ],
+  "sources_consulted": [
+    "https://www.colinahomes.com/communities",
+    "https://www.colinahomes.com/lets-get-started",
+    "https://www.colinahomes.com/sunterra",
+    "https://www.colinahomes.com/grand-magnolia",
+    "https://www.colinahomes.com/lago-mar",
+    "https://www.colinahomes.com/river-ranch",
+    "https://www.colinahomes.com/cypress-green",
+    "https://www.colinahomes.com/tidwell-lakes",
+    "https://www.colinahomes.com/regents-court",
+    "https://myneighborhoodnews.com/work-begins-on-grand-magnolia-major-master-planned-community-with-crystal-lagoon-amenity-taking-shape-in-magnolia",
+    "https://communityimpact.com/houston/katy/impacts/2021/08/05/land-tejas-to-bring-on-15-homebuilders-for-sunterra-development/",
+    "https://www.katyedc.org/news-and-media/p/item/36841/land-tejas-to-bring-on-15-homebuilders-for-sunterra-development",
+    "https://www.landtejas.com",
+    "https://landtejas.com/communities/",
+    "https://landtejas.com/partners/",
+    "https://landtejas.com/current/river-ranch/",
+    "https://landtejas.com/current/grand-magnolia/",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32071431228",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32075736432",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32071157054",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32035013484",
+    "https://www.nflp.com/about",
+    "https://www.probuilder.com/top-200/article/55377310/the-2026-top-200-rankings"
+  ]
+}

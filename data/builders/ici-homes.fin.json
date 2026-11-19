@@ -1,0 +1,135 @@
+{
+  "builder_id": "ici-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "ICI Homes is a private, family-owned company with no public debt, no SEC filings and no rating, so its lenders, facilities and balance sheet are not public. What is public is how it controls land: it develops its own communities in its Daytona Beach home market through special-purpose subsidiaries, it co-develops the 1,600-home Seven Pines community in Jacksonville in a partnership with David Weekley Homes that buys the land from the selling family in phases, and elsewhere it buys finished lots as a preferred builder from third-party master developers. No land banker, lot-option financier or outside capital partner is named in any source found, and there is no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon. It is a conventional for-sale builder and a plausible land-banking prospect on paper (it carries developer-scale land and a 2025 trade feature says it will add land to the south and on the Gulf coast), but the owner stresses long-horizon private ownership, so appetite for off-balance-sheet structures is untested.",
+    "land_strategy": "Mixed, leaning owner-developer. The company does not publish a land-light target. It self-develops large communities in Volusia and Flagler counties (Plantation Bay, Mosaic) and St. Johns County (the 572-acre Crossroads tract), shares land risk through a builder partnership with phased takedowns at Seven Pines, and takes finished lots from master developers such as The PARC Group (EverRange), Wellen Park, Sunbridge and IronCrest.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company). Project-level only: Seven Pines is planned for about 1,600 homes in three phases of about 500, shared with David Weekley Homes; Plantation Bay's development order allowed up to 6,000 homes; Mosaic was planned for about 1,200 homes (2018)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Skinner family (Sawmill Timber LLC)",
+        "counterparty_type": "Unknown",
+        "description": "Land seller with phased takedowns, which works like seller-side land banking: ICI Homes and David Weekley Homes hold rights to about 550-560 acres at Seven Pines in Jacksonville and buy it in three phases. The two builders announced the acquisition in Dec 2020 and expect to buy the final section in late 2026. The Daily Record says the staggered purchases spread out the acquisition cost.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2020-12",
+        "confidence": "Reported",
+        "source_url": "https://jaxdailyrecord.com/news/2026/jan/27/seven-pines-meets-500-lot-sales-goal-by-the-end-of-2025",
+        "source_title": "Jacksonville Daily Record: Seven Pines meets its 500-lot sales goal for 2025",
+        "note": "Planned community total across both builders is about 1,600 homes per the Dec 2020 release (about 500 per phase per the Jan 2026 story); ICI's own share and the land prices are not disclosed, so the lots field is left blank. Counterparty is a land seller, not a land banker. Verification 2026-11-19: an earlier figure of 197 acres bought on 2020-12-23 was removed because neither the Jan 2026 Daily Record story nor the Dec 2020 release states it."
+      },
+      {
+        "counterparty": "The PARC Group (EverRange, Jacksonville)",
+        "counterparty_type": "Developer",
+        "description": "Finished-lot supply from a third-party master developer: ICI is one of six preferred builders in EverRange's first neighbourhood (Mariposa) and its next one (Sagebrush, 298 homesites across the six builders).",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-10",
+        "confidence": "Reported",
+        "source_url": "https://www.whatsupjacksonville.com/the-parc-group-reveals-plans-for-sagebrush-next-everrange-neighborhood/",
+        "source_title": "The PARC Group press release: The PARC Group Reveals Plans for Sagebrush, Next EverRange Neighborhood (as carried by What's Up Jacksonville)",
+        "note": "ICI's own share of the 298 homesites is not stated. Similar preferred-builder positions were announced in 2026 at Wellen Park (Sarasota County), Sunbridge (St. Cloud) and IronCrest (Ocala)."
+      },
+      {
+        "counterparty": "ICI Crossroads Holdings LLC (subsidiary of Intervest Construction of Jax Inc.)",
+        "counterparty_type": "Affiliate",
+        "description": "Example of how ICI holds land: a special-purpose subsidiary bought 571.86 acres in St. Johns County from Raydient for $8.42M in June 2020 for the Crossroads mixed-use community (up to 426 single-family lots plus commercial and office).",
+        "amount_usd_m": 8.42,
+        "lots": 426,
+        "date": "2020-06",
+        "confidence": "Reported",
+        "source_url": "https://www.jaxdailyrecord.com/article/ici-homes-acquires-land-for-mixed-use-community-in-st-johns-county",
+        "source_title": "Jacksonville Daily Record: ICI Homes acquires land for mixed-use community in St. Johns County",
+        "note": "Older than 24 months; included as context for the ownership pattern, not as a current position. No lender was named. A Feb 2026 FlaglerLive story likewise describes ICI subsidiaries as the applicants on its Palm Coast land."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026",
+        "type": "Other",
+        "description": "ICI Homes and David Weekley Homes expect to buy the final section of Seven Pines from the Skinner family in late 2026 (third of three phased land purchases). Acreage and price not disclosed; whether it has closed is not confirmed.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://jaxdailyrecord.com/news/2026/jan/27/seven-pines-meets-500-lot-sales-goal-by-the-end-of-2025",
+        "source_title": "Jacksonville Daily Record: Seven Pines meets its 500-lot sales goal for 2025",
+        "note": "Reported in Jan 2026 as an expectation. A near-term land takedown shared by two private builders."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "David Weekley Homes",
+        "description": "Seven Pines partnership, Jacksonville: the two builders jointly bought and are developing the Skinner family's last large tract (about 550 acres; about 1,600 homes plus apartments and commercial) and both build in it. Mori Hosseini is the managing partner of the partnership. Nearly 500 homes had sold by Dec 2025.",
+        "date": "2020-12",
+        "confidence": "Reported",
+        "source_url": "https://www.whatsupjacksonville.com/ici-homes-and-david-weekley-homes-acquire-skinner-family-property-at-the-southeast-quadrant-of-butler-boulevard-and-i-295/",
+        "source_title": "ICI Homes / David Weekley Homes press release: ICI Homes and David Weekley Homes Acquire Skinner Family Property (as carried by What's Up Jacksonville)",
+        "note": "Still current: a Feb 2026 ICI release again calls Hosseini the managing partner of Seven Pines. Ownership split, entity name and any project debt are not public."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facility, lenders and terms: not publicly disclosed (private company; no lender is named in any press item found).",
+    "Total debt, cash, liquidity and leverage: not publicly disclosed. No credit rating and no public or 144A debt found.",
+    "Owned versus optioned lot counts and years of supply: not publicly disclosed.",
+    "Land banker, lot-option financier or outside capital partner: none named in any source found.",
+    "Link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found. The shared web-search allowance ran out before a dedicated search on each name could be run, so this is 'none found', not 'confirmed none'.",
+    "Seven Pines partnership: ownership split with David Weekley Homes, entity name, land prices and any project or community development district financing are not public in the sources opened.",
+    "Whether the late-2026 purchase of the final Seven Pines section has closed: not confirmed.",
+    "Parent or affiliate funding: the company is owned by Mori and Forough Hosseini; how affiliated businesses (Allstar Building Materials, Southern Title) or Hosseini land entities fund the homebuilder is not public.",
+    "M&A in 2025-2026: none found as acquirer or target.",
+    "Acreage of current land holdings: not confirmed. An undated Builder article seen only in a search snippet described ICI buying out partner L. Gale Lemerand's interest to control about 6,000 acres around Daytona Beach including Plantation Bay; the page would not open, so it is not recorded as a fact.",
+    "Sources that would not open: builderonline.com (403), capitalanalyticsassociates.com executive interviews with Tom McCall and Joe Blanco (403), SEC EDGAR full-text search (403), Florida Sunbiz corporate records (bot check), most icihomes.com community pages via curl (bot check)."
+  ],
+  "sources_consulted": [
+    "https://icihomes.com/why-ici-homes/about-ici-homes",
+    "https://icihomes.com/why-ici-homes/partners",
+    "https://icihomes.com/land-listings",
+    "https://blog.icihomes.com/wp-content/uploads/2025/02/flipbook.pdf",
+    "https://jaxdailyrecord.com/news/2026/jan/27/seven-pines-meets-500-lot-sales-goal-by-the-end-of-2025",
+    "https://www.jaxdailyrecord.com/article/ici-homes-acquires-land-for-mixed-use-community-in-st-johns-county",
+    "https://etminc.com/our-thoughts/ici-homes-david-weekley-homes-break-ground-at-southeast-quadrant",
+    "https://www.whatsupjacksonville.com/ici-homes-and-david-weekley-homes-acquire-skinner-family-property-at-the-southeast-quadrant-of-butler-boulevard-and-i-295/",
+    "https://www.whatsupjacksonville.com/ici-homes-honored-with-silver-awards-at-the-nationals/",
+    "https://www.whatsupjacksonville.com/the-parc-group-reveals-plans-for-sagebrush-next-everrange-neighborhood/",
+    "https://www.whatsupjacksonville.com/community-of-seven-pines-achieves-milestones/",
+    "https://www.whatsupjacksonville.com/ici-homes-joins-the-preferred-builder-team-at-ironcrest/",
+    "https://www.whatsupjacksonville.com/ici-homes-building-at-weslyn-park-in-sunbridge/",
+    "https://www.whatsupjacksonville.com/ici-homes-building-two-new-models-in-westlake-at-wellen-park/",
+    "https://www.whatsupjacksonville.com/ici-homes-announces-plans-to-energize-the-town-center-at-palm-coast/",
+    "https://www.whatsupjacksonville.com/tag/ici-homes/",
+    "https://flaglerlive.com/ici-easthampton/",
+    "https://flaglerlive.com/ici-homes-plantation-bay/",
+    "https://www.observerlocalnews.com/article/county-approves-more-plantation-bay-homes-warns-developer-to-finish-access-road",
+    "https://www.observerlocalnews.com/news/2018/apr/12/mosaic-opens-doors-to-home-buyers/",
+    "https://sunbridgefl.com/st-clouds-sunbridge-community-to-add-new-custom-homes/",
+    "https://www.sevenpines.com/",
+    "https://en.wikipedia.org/wiki/ICI_Homes"
+  ]
+}

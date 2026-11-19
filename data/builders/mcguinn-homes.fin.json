@@ -1,0 +1,142 @@
+{
+  "builder_id": "mcguinn-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "McGuinn is a conventional for-sale entry-level builder that also sells homes in bulk to build-to-rent investors, so it is not a nonprofit or pure BTR operator. Before its sale it financed growth through two recapitalisations: a 2021 deal advised by Builder Advisor Group that moved its assets onto 100% non-recourse debt and paid the founder out, and a 2024 reorganisation with unnamed 'long-term capital providers' (described as a family-office private-equity partner), advised by Whelan Advisory; no lender, land banker or lot-option partner was ever named. In July 2026 Mungo Homes (Clayton Home Building Group, Berkshire Hathaway) announced it had acquired McGuinn, and Mungo is joining Taylor Morrison in 2027, so McGuinn's land and capital now come from Berkshire's balance sheet. As a stand-alone land-banking customer it is effectively gone; any opportunity runs through Clayton / Taylor Morrison.",
+    "land_strategy": "Not stated as land-light or land-heavy. The company targets cheaper 'F lots' farther from job centres to keep homes under $300,000, and it buys finished or in-progress communities from other builders (an August 2025 asset acquisition of several Columbia communities from a local builder, framed as securing lots for near-term deliveries). Owned versus optioned mix not disclosed.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Verified",
+      "source_url": "https://www.mcguinnhomes.com/contact-us/",
+      "source_title": "McGuinn Homes site navigation (community list)",
+      "note": "No lot counts published. The live site lists 28 community / product listings across Columbia, Greenville/Upstate, Savannah/Hilton Head, Aiken/Augusta and Sumter (11 active communities in Sept 2024 per PR Newswire). Builder (Aug 2025) quoted ~1,400 starts forecast for 2025."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2021",
+        "type": "Other",
+        "description": "Recapitalisation advised by Builder Advisor Group: company assets moved onto 100% non-recourse debt and the founder received a cash payout. Lender and amount not named.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.housingwire.com/articles/capital-restructure-powers-s-c-based-mcguinns-arc-of-growth/",
+        "source_title": "HousingWire / The Builder's Daily (sponsored): Capital restructure powers S.C.-based McGuinn's arc of growth",
+        "note": "Sponsored content; year stated as 2021 in the article."
+      },
+      {
+        "date": "2024-09-16",
+        "type": "Equity",
+        "description": "Reorganisation with the company's 'long-term capital providers' to strengthen its balance sheet and fund a plan to reach 1,500 closings a year; Whelan Advisory was exclusive advisor. Builder later called it a 2024 recapitalisation with a private equity investor; HousingWire calls the partner a family-office private equity partner. Investor not named.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://prnewswire.com/news-releases/privately-held-homebuilder-poised-for-regional-growth-302248514.html",
+        "source_title": "PR Newswire: Privately-Held Homebuilder Poised for Regional Growth (McGuinn Homes Inc.)",
+        "note": "Investor identity and terms not disclosed. Builder (2025-08-11) and HousingWire (2024-08-28) describe the same event."
+      },
+      {
+        "date": "2026-07-02",
+        "type": "Other",
+        "description": "Sale of the company to Mungo Homes (Clayton Home Building Group, Berkshire Hathaway); Whelan Advisory was McGuinn's exclusive financial advisor. Terms not disclosed. HousingWire reports six serious offers, with Clayton the highest bidder.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.mungo.com/mungo-news/mungo-homes-acquires-mcguinn-homes-expands-southeast-presence",
+        "source_title": "Mungo Homes Acquires McGuinn Homes, Expands Southeast Presence (Mungo Homes news)",
+        "note": "Bid count and 'highest bidder' are Reported (HousingWire 2026-07-01)."
+      },
+      {
+        "date": "2026-11",
+        "type": "Other",
+        "description": "Parent Mungo Homes' website now carries a 'Mungo is now Taylor Morrison' banner saying it joins Taylor Morrison in 2027, following Berkshire's purchase of Taylor Morrison. McGuinn's own site shows no rebrand yet.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.mungo.com/",
+        "source_title": "Mungo Homes website banner (seen 2026-11-19)",
+        "note": "Whether the McGuinn brand also folds into Taylor Morrison is not stated."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Build-to-rent institutional investors (not named)",
+        "description": "McGuinn sells homes to BTR capital groups as an 'active Build-to-Rent partner'; trade press says BTR at times made up most of its business. No investor is named.",
+        "date": "2024-09",
+        "confidence": "Verified",
+        "source_url": "https://prnewswire.com/news-releases/privately-held-homebuilder-poised-for-regional-growth-302248514.html",
+        "source_title": "PR Newswire: Privately-Held Homebuilder Poised for Regional Growth (McGuinn Homes Inc.)",
+        "note": "Not a JV in the formal sense; recorded here because it is the main outside-capital relationship. 'Bulk of business' is Reported by ResiClub (2026-07-08)."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "2026-07-01",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/mcguinn-homes-sale-scale/",
+      "source_title": "HousingWire / The Builder's Daily: McGuinn Homes sale (2026-07-01)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-07-02",
+      "role": "Target",
+      "counterparty": "Mungo Homes (Clayton Home Building Group / Berkshire Hathaway)",
+      "description": "Mungo Homes announced the acquisition of McGuinn Homes (about 75 staff, projected to close nearly 800 homes in 2026; builds in Aiken, Columbia, Greenville, Hilton Head, Sumter SC and Augusta, Savannah GA). Terms not disclosed; Whelan Advisory advised McGuinn.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "McGuinn (Builder 100 rank 65, 993 closings in 2025) leaves the independent list and becomes part of Mungo / Clayton Properties Group, whose site-built builders Berkshire is rolling up under Taylor Morrison (see data/ma_industry.json). Land and capital decisions move to the parent. Adds Aiken SC and Augusta GA to Mungo.",
+      "confidence": "Verified",
+      "source_url": "https://www.mungo.com/mungo-news/mungo-homes-acquires-mcguinn-homes-expands-southeast-presence",
+      "source_title": "Mungo Homes Acquires McGuinn Homes, Expands Southeast Presence (Mungo Homes news)",
+      "note": "Release reads as completed ('announced the acquisition'), and ResiClub (2026-07-08) describes McGuinn as acquired; no separate closing date published. Status 'Closed' is therefore a reading of the release, not a stated closing. Checker 2026-11-19: removed from map_impact the claims that Kelly McGuinn stays in a senior Mungo role and that Clayton joins Taylor Morrison 'in 2027' (neither is in the release). A 2026-09-01 Mungo post (https://www.mungo.com/mungo-news/mungo-homes-foundation-kicks-off-second-annual-michaels-house-project) shows Mungo and McGuinn leadership together, consistent with completion."
+    },
+    {
+      "date": "2025-08-11",
+      "role": "Acquirer",
+      "counterparty": "Unnamed local Southeastern builder (article URL slug references Hurricane Builders)",
+      "description": "McGuinn closed an asset acquisition of several new communities in the Columbia, SC market from another local builder to secure lots for near-term deliveries; Whelan Advisory advised.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Adds Columbia-area communities and lots; supported the goal of 1,000+ closings in 2025.",
+      "confidence": "Reported",
+      "source_url": "https://web.archive.org/web/20260215054653/https://www.builderonline.com/money/ma/mcguinn-homes-buys-communities-from-hurricane-builders/",
+      "source_title": "Builder: McGuinn Homes Buys Communities in Columbia, South Carolina (Wayback copy)",
+      "note": "Seller identity inferred only from the URL slug; the article text does not name it. Lot count and price not disclosed. Checker 2026-11-19 could not reopen it (builderonline.com returns 403; the Wayback copy is not reachable by the checker's tool); a builderonline.com search snippet repeats the closed asset acquisition of several communities from another local Southeastern builder."
+    }
+  ],
+  "gaps": [
+    "Owned vs optioned lots and total lots controlled: not publicly disclosed",
+    "Land bankers / lot-option partners: none named publicly (pre-sale); post-sale, Clayton runs an in-house land bank per the clayton-properties-group record, but no source ties McGuinn lots to it",
+    "Identity of the 2024 private-equity / family-office capital provider: not publicly disclosed",
+    "Lenders, construction lines and the 2021 non-recourse debt (lender, size, maturity): not publicly disclosed",
+    "No SEC filings: EDGAR company search returns no McGuinn Homes entity (no public debt or Form D found)",
+    "Purchase price and closing date of the Mungo acquisition: not disclosed",
+    "Revenue conflict: Builder 100 ~$128M on 993 closings (spine) vs HousingWire 'roughly $200 million' and Builder's $220M 2025 forecast; not reconciled publicly (BTR bulk pricing may explain a low average)",
+    "No public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon found",
+    "Buyer mortgage partner is Silverton Mortgage (company financing page); this is buyer financing, not builder debt"
+  ],
+  "sources_consulted": [
+    "https://www.mungo.com/mungo-news/mungo-homes-acquires-mcguinn-homes-expands-southeast-presence",
+    "https://www.mungo.com/",
+    "https://www.housingwire.com/articles/mcguinn-homes-sale-scale/",
+    "https://www.housingwire.com/articles/capital-restructure-powers-s-c-based-mcguinns-arc-of-growth/",
+    "https://www.housingwire.com/articles/an-outlier-in-affordable-market-rate-ground-up-homebuilding",
+    "https://prnewswire.com/news-releases/privately-held-homebuilder-poised-for-regional-growth-302248514.html",
+    "https://web.archive.org/web/20260215054653/https://www.builderonline.com/money/ma/mcguinn-homes-buys-communities-from-hurricane-builders/",
+    "https://www.resiclubanalytics.com/p/warren-buffett-heir-buys-homebuilder-mcguin-berkshire-hathaway-clayton-homes",
+    "https://www.bdmag.com/mungo-homes-acquires-rapidly-growing-mcguinn-homes/",
+    "https://www.mcguinnhomes.com/financing/",
+    "https://www.mcguinnhomes.com/contact-us/",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=mcguinn&type=&dateb=&owner=include&count=40"
+  ]
+}

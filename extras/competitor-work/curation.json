@@ -1,0 +1,154 @@
+{
+  "summary": {
+    "millrose-properties": "Millrose (NYSE: MRP) is the only land banker that must publish its book. Spun out of Lennar on 2025-02-07 and run for a 1.25%-of-assets fee by Kennedy Lewis, it had $9.25B invested at 2026-09-30 across 156,729 homesites, 834 communities, 30 states and 22 builder counterparties. Lennar is 63.5% of capital at a fixed 8.5% under filed master agreements; the other 21 builders pay a floating 10.8% (floors about 10%, deposits about 10%, 95-96% of capital in cross-termination pools), but only five non-Lennar names are public: New Home Co (Landsea take-private, about $700M), Dream Finders (Beazer takeover, about $1.07B incl. a $488M 12% preferred), Taylor Morrison's Yardly, JPI (multifamily) and Rausch Coleman's seller-side holdback. It has reported no builder walk-aways, forfeitures or renegotiations since inception. Its constraint is capital: debt-to-capitalization 36% against a 33% target after $1.0B of 6.50%/6.75% notes and a new unsecured bank facility, and it will not issue equity below book ($35.24), so growth now comes from takedown recycling, a $250M buyback signals the stock is cheap, and the August 2026 amendments opened rentals. Lennar's founder rights (most-favoured rate, capital priority, pool caps of $50M/$25M at risk per pool) shape what Millrose can offer everyone else.",
+    "kennedy-lewis": "Kennedy Lewis Investment Management manages Millrose and runs a separate private land-banking business with its own capital (Fund III, Fund IV and Kennedy Lewis Residential Property Income Co, 'KLRES'), built from 2021 around a team that came from Domain. It signs builder commitments (New Home/Landsea, Dream Finders/Beazer, Taylor Morrison's Yardly, JPI) and then allocates them, so far mostly to Millrose; the August 2026 amendment to Millrose's management agreement loosened the rules on how deals are split with its private vehicles. Private-fund pricing and book size are not public; Millrose's non-Lennar yield (about 10.8%) is the best public proxy.",
+    "tpg-angelo-gordon": "TPG Angelo Gordon's land banking is now branded TPG Essential Housing and sits in TPG Credit Solutions, with a Scottsdale asset manager (AGWIP Asset Management). TPG's own fund decks, posted publicly by a pension investor, claim 850+ projects, $22bn+ of project value and about 150,000 homesites originated with 16 builders in 24 states (about 40% California) and zero losses; the fund ladder runs EHF-1 $1.0bn (2020, Lennar only) to EHF-2 $3.0bn, EHF-3 (deck says $2.6bn; trade press reports a $1.62bn final close) and EHF-4, which held a $2bn first close in Q3 2026 toward a $3bn+ target. Its filed Lennar master agreement and decks show the structure: options under 40 months, a ~20% non-refundable deposit (about double Millrose's ~10%), fixed monthly takedowns, a cost-cap construction agreement with completion guarantee, and a first look on Lennar deals. Option rates are not public; secondary sources put target net IRRs at 13-15%. Builder names beyond Lennar come mostly from county LLC names ('TPG AG EHC III (ticker) ...') and are tagged Inferred.",
+    "new-entrants": "2025-2026 brought new, large balance sheets into builder land finance. Apollo launched Olympus Housing Capital (June 2025; about $1B executed land banking per trade press; CEO Andrew Brausa, a Domain co-founder per Apollo's release). Blackstone's real estate debt arm announced a homebuilder lending platform (May 2026; product mix unclear). Blue Owl is funding FivePoint's Hearthstone (up to $1.7B), Guggenheim/Bedrock, Starwood/Trez, and Wafra/Hunt's Strata Land Partners (Nov 2026) all launched land vehicles, and Walton Global, Avila and builder-affiliated lenders (Rooftop Capital, All Pro Capital) publish lot-finance programs. Older names (V\u00e4rde, Brookfield) were quiet. KKR, Ares and Oaktree showed no public builder land finance. Most of these name no builders and publish no terms, so this is a map of who has capital, not of who has won share.",
+    "domain-real-estate-partners": "What a competitor or builder can see about Domain without asking. Domain's own site gives scale ($6.7B+ current gross asset value, about $18.2B committed since 2015, 825 projects, 29 states, 91 MSAs as of 2026-10-31), its three products and its team. DW Partners' Form ADV (May 2026: $2.27B regulatory AUM) and the Domain funds' Form D filings show the vehicles and investor counts (Solaris $565M from 41 investors, Metric $333M from 3, Evergreen $205M from 9). The PGIM partnership (over $4B across seven deals by May 2026) and the CIO's podcast remarks (low-double-digit pricing, insurance private placements) are public. Lennar named Domain among its land bankers on its March 2026 call, and Commercial Observer tied DW Partners to a $164.5M Lennar land-bank site in Sunrise, FL (Jan 2026). Most notable for the team: a May 2024 Domain one-pager marked not for general distribution is downloadable without login from insuranceaum.com, showing median rate (13%), median term, monthly net returns 2016-2024, fee model, leverage cost and client names. Millrose's 10-K names DW Partners as a competitor; EDGAR full-text search finds Domain named in only one builder filing (Hovnanian, FY2015)."
+  },
+  "drop": [
+    "b-3606eb8136",
+    "b-49db107b81",
+    "b-6b828d7124",
+    "b-7a9e3f5860",
+    "b-96d8a67020",
+    "b-b114640621",
+    "b-dbceb686c9",
+    "b-e08fcfdca0",
+    "b-f7368aa723",
+    "f-07c5e04810",
+    "f-13424bc563",
+    "f-17bb2b4750",
+    "f-2134ecc547",
+    "f-2299007650",
+    "f-24abb76800",
+    "f-2a61589b61",
+    "f-2cc9422b42",
+    "f-2f75376f91",
+    "f-38a9eee143",
+    "f-438beff6fe",
+    "f-4549318497",
+    "f-4c3484a6e1",
+    "f-4ee22e1144",
+    "f-5c5834446e",
+    "f-6320fdfe50",
+    "f-64573b1d6c",
+    "f-65ea21105e",
+    "f-672fef7689",
+    "f-6955c1a1b2",
+    "f-6fe0b19ad7",
+    "f-741e77a5dd",
+    "f-74b98858c2",
+    "f-7868b1d960",
+    "f-7b35807969",
+    "f-7cf5318830",
+    "f-7ec68cc8b4",
+    "f-7ef8e99b20",
+    "f-8185c874ee",
+    "f-83afe85d3a",
+    "f-83c79098a6",
+    "f-85b0a28ee0",
+    "f-88378052f5",
+    "f-8b434581e3",
+    "f-8da50e1fdb",
+    "f-9dde408924",
+    "f-a3f8b08c57",
+    "f-a42d571796",
+    "f-a9976ea511",
+    "f-adb43fad8a",
+    "f-b758b36fb4",
+    "f-b93507f624",
+    "f-c18b750607",
+    "f-c5ac321a4d",
+    "f-c6197e0d07",
+    "f-c6f3dc78eb",
+    "f-ca11f05647",
+    "f-cb0c96c60d",
+    "f-cf6319a7fb",
+    "f-d36f4545ec",
+    "f-dbc0095519",
+    "f-df86e2b852",
+    "f-e133c86d20",
+    "f-e1ed93ef8d",
+    "f-e7689667d7",
+    "f-ec0563bdbc",
+    "f-ec55271d4e",
+    "f-fa598a8c10"
+  ],
+  "gaps": {
+    "millrose-properties": [
+      "Source conflict: Rausch Coleman purchase is about 24,000 homesites / M in the FY2024 10-K but about 25,000 homesites / M (net of Lennar-funded deposits and holdbacks) in the FY2025 10-K; the newer filing is used in the headline rows.",
+      "Source conflict: Lennar homesite inventory at 2025-03-31 is .6B in the Q1 2025 release and .7B in the Q1 2025 10-Q related-party note (likely different measures: total program vs related-party balance).",
+      "Source conflict: Lennar retained 33,200,053 Class A shares at the spin (8-K) but exchanged 33,298,754 in Nov 2025 (13D/A); the ~98,700 difference is not explained in what we read.",
+      "Source conflict: first dividend (/bin/zsh.38/share) is M in the declaration release and .1M in a later filing.",
+      "Source conflict: Dream Finders' 8-K shows .1M of land-bank proceeds vs Millrose's ~M net of deposits; Dream Finders' preferred is .0M first closing + .0M commitment (M stated) vs a M balance in Millrose's deck. Measures may differ (gross vs net, OID); not reconciled.",
+      "Source conflict: New Home / Landsea homesites (4,186) are .8M of land in the FY2025 10-K but 'M land assets' in the Q3 2026 deck (M was the commitment size).",
+      "Source conflict: SFR pilot rental homes are excluded from Kennedy Lewis's fee base per the Q3 2026 deck, but described on the call only as a manager proposal; and it is 'about 1% of assets' on the call (net exposure ~M) vs ~3% gross (M of .6B).",
+      "Not a conflict but easy to misread: Lennar can match a lower rate Millrose gives a Lennar-related venture (2025 10-K), while deals for Lennar-related ventures do not themselves carry the matching right (Founder's Rights Agreement).",
+      "Source conflict: 33% debt-to-capitalization target is 'under review' on the Q2 2026 call, described as unchanged on the Q3 2026 call, and not restated in any release since Q1 2026.",
+      "Source conflict: Beazer is described both as 'not a direct option counterparty' (homesites bought at the Dream Finders closing) and as a pre-merger Millrose client on a call; not resolved."
+    ]
+  },
+  "edit_text": [
+    {
+      "match": "Development funding: Millrose funds horizontal development up to a pre-set contr",
+      "set": {
+        "fact": "Development funding: Millrose funds horizontal development up to the budgeted contract sum under the Master Construction Agreement; Lennar performs the work as contractor and is solely responsible for cost overruns unless an independent consultant determines otherwise; home construction is outside the funded work. Lennar Corporation backs this with an unlimited parent Payment and Performance Guaranty covering the program, option and construction agreements."
+      }
+    },
+    {
+      "match": "Forward-flow backlog: on the Q4 2025 call management said forward-flow agreement",
+      "set": {
+        "fact": "Forward-flow backlog (Q4 2025 call, 2026-02-26): management said forward-flow agreements total about $9.0B across roughly 10 counterparties and that about $3.0B of the land portfolio will cycle off in the next year and must be replaced; COO Robert Nitkin said that even with no new counterparties they were confident of deploying about $1.0B by mid-year."
+      }
+    },
+    {
+      "match": "6.250% Senior Notes due 2032",
+      "set": {
+        "maturity": "2032-09-15",
+        "as_of": "2025-09-11",
+        "note": "Issued 2025-09-11 at par; first interest 2026-03-15. This row cites the issuance 8-K; the Q3 2026 10-Q debt note (Capital facts) shows it still outstanding at 2026-09-30."
+      }
+    },
+    {
+      "match": "Up to $700M land-banking commitment announced 2025-05-12 (up",
+      "set": {
+        "description": "Up to $700M land-banking commitment announced 2025-05-12 to back New Home's acquisition of Landsea Homes. Closed 2025-06-25: Millrose paid $494.5M cash for $522.8M of land (4,186 homesites), net of $28.3M of option deposits, and optioned the homesites to New Home.",
+        "amount_usd_m": 494.5,
+        "lots": 4186,
+        "date": "2025-06"
+      }
+    },
+    {
+      "match": "Closing date. Berkshire Hathaway completed its purchase of N",
+      "set": {
+        "description": "Closing date. Berkshire Hathaway completed its purchase of Taylor Morrison for $72.50 per share in cash, about $6.8B equity value and $8.5B enterprise value. Sheryl Palmer stays CEO and oversees integrating Taylor Morrison (including Esplanade, Yardly build-to-rent and Taylor Morrison Home Funding) with Berkshire's site-built builders in Clayton Properties Group (15 regional builders). Combined 2025 closings were nearly 23,000 across 21 states, 52 markets and 700+ communities."
+      }
+    },
+    {
+      "match": "Closing date. Dream Finders completed its all-cash purchase ",
+      "set": {
+        "description": "Closing date. Dream Finders completed its all-cash purchase of Beazer at $33.50 per share, about $2.2B enterprise value; Beazer was delisted from the NYSE. Dream Finders expects $100M+ of annual run-rate cost synergies, will move Beazer communities onto Dream Finders floor plans and aims to bring leverage back to current levels within 18-24 months. The combined company builds in 26 of the top 50 MSAs. Millrose provided about $1.07B of land-bank and preferred-equity financing (see the Millrose profile).",
+        "confidence": "Reported"
+      }
+    },
+    {
+      "match": "Closed 2025-06-25 (announced 2025-05-12). Apollo-backed New ",
+      "set": {
+        "description": "Closed 2025-06-25. Apollo-backed New Home Co, through Lido Holdco, completed a cash tender offer and merger for Nasdaq-listed Landsea Homes at $11.30 per share; about 83.3% of shares were tendered and Landsea was delisted. Landsea's 8-K says the deal was funded with debt, land bank funding and equity (Millrose's own filings show it bought $522.8M of the land; see the Millrose profile). Matthew Zaist became president and CEO; Landsea's executive officers left and its board resigned."
+      }
+    },
+    {
+      "match": "How to spot its deals in county records: land is titled in per-builder",
+      "set": {
+        "fact": "County and state records can reveal its deals: the cited Texas TDLR record lists 'TPG AG EHC III (LEN) Multi State 5, LLC' (Southern Pointe Sec. 501, College Station; registered 2025-08-18) at 8585 E. Hartford Drive, Suite 118, Scottsdale, i.e. a per-builder special-purpose LLC with Lennar's ticker in its name. Other builders' tickers in similar entity names (MTH, EMP) were seen elsewhere and are not confirmed by this record."
+      }
+    },
+    {
+      "match": "Domain's Press page lists five items only: the GSP podcast (Oct 27, 20",
+      "set": {
+        "fact": "Domain's Press page lists five items only: the GSP podcast (Oct 27, 2026), the PGIM release (May 26, 2026), Lennar's Q1 FY2026 earnings call mention (Mar 13, 2026), and two InsuranceAUM podcasts with Bob Clark (Nov 6, 2025 and Oct 28, 2024)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+ "builder_id": "nvr",
+ "part": "financing",
+ "retrieved": "2026-11-19",
+ "financing": {
+  "summary": "NVR (Ryan Homes, NVHomes, Heartland Homes) is the purest land-light model among large US builders: it controls about 185,300 lots, of which about 176,000 (95%) sit under finished-lot purchase agreements (LPAs) with third-party developers, backed by about $1.03 billion of forfeitable cash deposits; it owns almost no land (one parcel of about 1,450 lots) and holds four minority land JVs. Its own balance sheet is net cash: $1.09 billion of homebuilding cash against a single $900 million 3.00% note due May 2030, an undrawn $300 million Bank of America revolver to March 2030 and an undrawn $150 million U.S. Bank mortgage repurchase line; Moody's rates it A3. It returns cash through buybacks ($1.82 billion in 2025, $1.23 billion in the first nine months of 2026) rather than buying land. For a land banker the opening is the developer side: NVR does not take land-bank options itself in any public source, but every lot it buys comes from a developer who must finance horizontal development, and NVR assigns its raw-land contracts (about 38,700 lots) to developers and signs LPAs with them. Deposit stress is rising (allowance up to $156 million on about 24,000 LPA lots), which points to developers and lot prices under strain in some of its markets.",
+  "land_strategy": "Land-light by design and in the company's own words: NVR generally does not develop land and buys substantially all finished lots under LPAs with forfeitable deposits (typically up to 10% of the lot price), so its exposure is limited to the deposit. Raw land it contracts for is normally assigned to a developer, who then sells NVR the finished lots under an LPA; it develops land itself only rarely (one parcel left, about 1,450 lots) and buys some lots through minority JVs. No numeric option target is stated; in practice about 95% of controlled lots are under LPAs.",
+  "lots": {
+   "total_controlled": 185300,
+   "owned": 1450,
+   "optioned": 176000,
+   "pct_optioned": 95.0,
+   "years_supply": 9.3,
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/nvr-20260930.htm",
+   "source_title": "NVR Form 10-Q for quarter ended 2026-09-30",
+   "note": "Owned = land under development only (about 1,450 lots, carrying value $21.8M); a further about 7,850 lots come from four minority JVs ($80.2M invested) and are in the total but in neither owned nor optioned. NVR does not report finished lots held in house inventory as a separate count. pct_optioned = 176,000/185,300. Years supply computed by us: 185,300 / trailing-12-month settlements of 20,009 (FY2025 21,915 minus 9M2025 16,247 plus 9M2026 14,341, from the 10-K and Q3 release). Excludes about 38,700 lots under raw-land contracts ($46.7M deposits, about $13M refundable). Trend: 162,400 (2024-12-31), 175,300 (2025-09-30), 180,100 (2025-12-31; Mid Atlantic 60,100, North East 19,000, Mid East 28,100, South East 72,900 per FY2025 10-K), 185,300 (2026-09-30)."
+  },
+  "land_banking": [
+   {
+    "counterparty": "Third-party land developers (unnamed; finished-lot purchase agreements)",
+    "counterparty_type": "Developer",
+    "description": "NVR's core lot pipeline: about 176,000 finished lots under LPAs with unconsolidated third-party developers (VIEs), secured by about $1,026.4M of cash deposits and $9.9M of letters of credit; NVR's loss on non-performance is generally limited to the deposit. About 24,000 of these lots carry a $156.4M deposit-impairment allowance (up from $111.0M on 18,200 lots at 2025-12-31).",
+    "amount_usd_m": 1026.4,
+    "lots": 176000,
+    "date": "2026-09",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R8.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Variable Interest Entities",
+    "note": "Counterparties are not named in any filing. Amount = cash deposits, not lot purchase price; aggregate purchase price is not disclosed."
+   },
+   {
+    "counterparty": "Landowners (raw-land purchase agreements, to be assigned to developers)",
+    "counterparty_type": "Developer",
+    "description": "Contracts on raw land expected to yield about 38,700 lots, with $46.7M of cash deposits (about $13.0M refundable). NVR expects to assign each feasible contract to a developer and then sign an LPA with that developer for the finished lots: this is the moment a developer needs horizontal-development capital.",
+    "amount_usd_m": 46.7,
+    "lots": 38700,
+    "date": "2026-09",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R8.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Variable Interest Entities",
+    "note": "Not included in the 185,300 lots controlled."
+   },
+   {
+    "counterparty": "Unnamed developer (JV interest sale with LPA back)",
+    "counterparty_type": "Developer",
+    "description": "In Q1 2026 NVR sold its stake in one land JV to a developer for about $21.8M and signed an LPA giving NVR an option to buy the finished lots that developer will produce, converting a JV position into a pure option.",
+    "amount_usd_m": 21.8,
+    "lots": null,
+    "date": "2026",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R9.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Joint Ventures",
+    "note": "Developer not named; transaction occurred in the quarter ended 2026-03-31."
+   },
+   {
+    "counterparty": "Unnamed developer (land parcel sale with LPA back)",
+    "counterparty_type": "Developer",
+    "description": "In Q1 2026 NVR sold a raw land parcel it was developing to a developer for about $24.5M and took an LPA option on the finished lots, cutting owned land under development from about 2,300 to about 1,450 expected lots.",
+    "amount_usd_m": 24.5,
+    "lots": null,
+    "date": "2026",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R10.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Land Under Development",
+    "note": "Developer not named; transaction occurred in the quarter ended 2026-03-31. Lot count of the parcel sold not disclosed."
+   },
+   {
+    "counterparty": "Freehold Communities (via Saratoga Sagebrooke LLC)",
+    "counterparty_type": "Developer",
+    "description": "Master developer of Saratoga Springs (Clay County, FL) sold NVR 78 finished lots in the Sagebrooke 55+ section across 13 deeds, recorded 2026-03-06 to 2026-08-04, for about $14.28M ($160k to $210k per lot on the August takedowns): a phased lot-takedown pattern.",
+    "amount_usd_m": 14.28,
+    "lots": 78,
+    "date": "2026-08",
+    "confidence": "Reported",
+    "source_url": "https://www.jaxdailyrecord.com/news/2026/aug/11/ryan-homes-saratoga-springs-acquisitions-top-1428-million-across-13-deeds/",
+    "source_title": "Jacksonville Daily Record, 2026-08-11",
+    "note": "Article does not say whether an option, land bank or LPA sits behind the deeds."
+   },
+   {
+    "counterparty": "Hines and Krusen-Douglas",
+    "counterparty_type": "Developer",
+    "description": "Sellers of about 153 acres in the Kinfield master plan (I-75/SR 52, Pasco County, FL) to Ryan Homes for a planned 556-home community; price undisclosed. A raw-land purchase by NVR, unusual for its model.",
+    "amount_usd_m": null,
+    "lots": 556,
+    "date": "2026-10",
+    "confidence": "Reported",
+    "source_url": "https://www.businessobserverfl.com/news/2026/oct/30/houston-tampa-developers-sell-153-acres-n-pasco-county/",
+    "source_title": "Business Observer, 2026-10-30",
+    "note": "Buyer entity given only as Ryan Homes; deeds not yet in public records per the article. Whether NVR will assign it to a developer or a land banker is not public."
+   },
+   {
+    "counterparty": "La Cite Development",
+    "counterparty_type": "Developer",
+    "description": "Master developer of Center\\West (Poppleton, West Baltimore) signed an agreement with NVR Ryan Homes for 180 for-sale homes (132 townhomes, 48 condos) on about seven acres; terms not disclosed.",
+    "amount_usd_m": null,
+    "lots": 180,
+    "date": "2024-04",
+    "confidence": "Reported",
+    "source_url": "https://www.stocktitan.net/news/NVR/la-cite-development-signs-agreement-with-nvr-ryan-homes-for-large-0ds1n2ay0sho.html",
+    "source_title": "PR Newswire via StockTitan, 2024-04-25",
+    "note": "Pre-2025, kept as a named developer counterparty in NVR's home market."
+   },
+   {
+    "counterparty": "SeD Maryland Development, LLC",
+    "counterparty_type": "Developer",
+    "description": "Example of NVR's LPA terms: Ballenger Run (Frederick, MD) LPA for 85 single-family lots plus related LPAs, $5.6M aggregate deposit, lot price escalating 0.75% per quarter, rolling minimum of available lots.",
+    "amount_usd_m": 5.6,
+    "lots": 85,
+    "date": "2014-12",
+    "confidence": "Inferred",
+    "source_url": "https://www.lawinsider.com/contracts/4OWPHpIaxzK",
+    "source_title": "Lot Purchase Agreement, Ballenger Run (HF Enterprises S-1 Ex. 10.7, filed 2019-12-23)",
+    "note": "Stale (2014 agreement, copy on Law Insider of an SEC exhibit); shown only as the public template of NVR's LPA economics."
+   }
+  ],
+  "debt": [
+   {
+    "instrument": "3.00% Senior Notes due 2030",
+    "type": "Senior notes",
+    "principal_usd_m": 900,
+    "rate": "3.00%",
+    "maturity": "2030-05-15",
+    "secured": "Unsecured",
+    "lenders_agent": "",
+    "status": "Outstanding",
+    "as_of": "2026-09-30",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R17.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Debt",
+    "note": "Issued in three tranches ($600M at a discount, yield 3.02%; $300M in two taps at a premium, yield 2.00%); carrying value $907.7M; interest paid May 15 / Nov 15. NVR's only debt."
+   },
+   {
+    "instrument": "Senior unsecured revolving credit facility (Second Amended and Restated Credit Agreement, 2025-03-11)",
+    "type": "Revolver",
+    "principal_usd_m": 300,
+    "rate": "Term SOFR + 0.90% (investment-grade pricing); leverage grid SOFR + 1.00% to 1.625%",
+    "maturity": "2030-03-11",
+    "secured": "Unsecured",
+    "lenders_agent": "Bank of America, N.A. (administrative agent, L/C issuer); BofA Securities sole lead arranger",
+    "status": "Undrawn",
+    "as_of": "2026-09-30",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000031/nvr-secondarcreditagreement.htm",
+    "source_title": "NVR Second Amended and Restated Credit Agreement (8-K Ex. 10.1, 2025-03-12)",
+    "note": "Uncommitted accordion to $600M; $100M L/C sublimit with about $15.4M of letters of credit outstanding at 2026-09-30; no borrowings (10-Q Q3 2026 debt note). Covenants: max leverage, interest coverage/min liquidity, min tangible net worth. Other lenders not named in the public exhibit."
+   },
+   {
+    "instrument": "NVR Mortgage Finance repurchase agreement",
+    "type": "Mortgage warehouse",
+    "principal_usd_m": 150,
+    "rate": "",
+    "maturity": "2027-07-08",
+    "secured": "Secured",
+    "lenders_agent": "U.S. Bank National Association (agent and buyer)",
+    "status": "Undrawn",
+    "as_of": "2026-09-30",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R17.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Debt",
+    "note": "Non-recourse to NVR, collateralised by mortgage loans held for sale; extended to 2027-07-08 by Fifth Amendment effective 2026-07-10; no borrowings."
+   }
+  ],
+  "capital_events": [
+   {
+    "date": "2025-03-10",
+    "type": "Rating action",
+    "description": "Moody's upgraded NVR's senior unsecured rating to A3 from Baa1, outlook stable, citing the optioned-lot model and net cash position; downgrade trigger includes debt/book capital above 30%.",
+    "amount_usd_m": null,
+    "confidence": "Reported",
+    "source_url": "https://ng.investing.com/news/stock-market-news/moodys-promotes-nvrs-credit-rating-to-a3-with-stable-forecast-93CH-1806365",
+    "source_title": "Investing.com, 2025-03-10",
+    "note": ""
+   },
+   {
+    "date": "2025-03-11",
+    "type": "Facility amendment",
+    "description": "Entered the Second Amended and Restated Credit Agreement: $300M unsecured revolver (accordion to $600M), maturity extended from 2026-02-11 to 2030-03-11, Bank of America agent.",
+    "amount_usd_m": 300,
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000031/nvr-20250311.htm",
+    "source_title": "NVR 8-K, 2025-03-12 (Items 1.01, 2.03)",
+    "note": ""
+   },
+   {
+    "date": "2025-05-06",
+    "type": "Buyback",
+    "description": "Board authorised up to $750M of share repurchases.",
+    "amount_usd_m": 750,
+    "confidence": "Reported",
+    "source_url": "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-zboadvalzctq.html",
+    "source_title": "NVR release via StockTitan, 2025-05-06",
+    "note": ""
+   },
+   {
+    "date": "2025-08-08",
+    "type": "Buyback",
+    "description": "Board authorised a further $750M of share repurchases.",
+    "amount_usd_m": 750,
+    "confidence": "Reported",
+    "source_url": "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-xjvj6kwogefd.html",
+    "source_title": "NVR release via StockTitan, 2025-08-08",
+    "note": ""
+   },
+   {
+    "date": "2025-12-31",
+    "type": "Buyback",
+    "description": "FY2025 repurchases: 243,082 shares for about $1,818.6M; about $549.6M of authorisation left at year end.",
+    "amount_usd_m": 1818.6,
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000018/nvr-20251231.htm",
+    "source_title": "NVR Form 10-K for FY2025 (filed 2026-02-11)",
+    "note": ""
+   },
+   {
+    "date": "2026-02-11",
+    "type": "Buyback",
+    "description": "Board authorised a further $750M of share repurchases.",
+    "amount_usd_m": 750,
+    "confidence": "Reported",
+    "source_url": "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-p6wxq80mop9k.html",
+    "source_title": "NVR release via StockTitan, 2026-02-11",
+    "note": ""
+   },
+   {
+    "date": "2026-03-31",
+    "type": "Land-bank deal",
+    "description": "Q1 2026: sold one JV interest (about $21.8M) and one land parcel (about $24.5M) to developers, taking LPA options back on the finished lots: off-balance-sheet conversion of owned/JV land.",
+    "amount_usd_m": 46.3,
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R10.htm",
+    "source_title": "NVR 10-Q Q3 2026, Notes: Joint Ventures; Land Under Development",
+    "note": "Counterparties are developers, not named; not a land banker per the filing."
+   },
+   {
+    "date": "2026-05-08",
+    "type": "Buyback",
+    "description": "Board authorised a further $750M of share repurchases (no expiry).",
+    "amount_usd_m": 750,
+    "confidence": "Reported",
+    "source_url": "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-1t7w52c5zw0z.html",
+    "source_title": "NVR release via StockTitan, 2026-05-08",
+    "note": ""
+   },
+   {
+    "date": "2026-07-10",
+    "type": "Facility amendment",
+    "description": "Fifth Amendment to the NVR Mortgage Finance repurchase agreement with U.S. Bank extended maturity to 2027-07-08 (size $150M).",
+    "amount_usd_m": 150,
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R17.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Debt",
+    "note": ""
+   },
+   {
+    "date": "2026-09-30",
+    "type": "Buyback",
+    "description": "Nine months 2026 repurchases: 181,984 shares for about $1,227.0M (Q3: 37,088 shares, $237.2M).",
+    "amount_usd_m": 1227.0,
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000099/q32026ex991_earningsrelease.htm",
+    "source_title": "NVR Q3 2026 earnings release (8-K Ex. 99.1, 2026-10-22)",
+    "note": ""
+   }
+  ],
+  "joint_ventures": [
+   {
+    "partner": "Unnamed land developers (four JVs)",
+    "description": "Four land-development JVs in which NVR is a non-controlling member, $80.2M invested plus $19.5M further commitments, expected to yield about 7,850 finished lots that NVR buys under LPAs. Down from five JVs / about 8,900 lots at 2025-12-31 after one stake was sold to a developer in Q1 2026.",
+    "date": "2026-09-30",
+    "confidence": "Verified",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R9.htm",
+    "source_title": "NVR 10-Q Q3 2026, Note: Joint Ventures",
+    "note": "Partners not named in filings. The filing describes NVR both as non-controlling member and (in one phrase) as controlling the JV lots; read as NVR controlling the lots, not the entities."
+   }
+  ],
+  "key_metrics": {
+   "total_debt_usd_m": 907.7,
+   "cash_usd_m": 1125.4,
+   "liquidity_usd_m": 1375.9,
+   "net_debt_to_capital_pct": -4.2,
+   "credit_ratings": "Net cash (net debt to capital -4.2% on homebuilding cash $1,091.3M; cash_usd_m includes $34.1M mortgage-banking cash; liquidity = homebuilding cash + $284.6M unused revolver). Moody's A3 (stable, upgraded 2025-03-10); the 2025 credit agreement states NVR was rated A-/A3 or higher by at least two of S&P, Moody's and Fitch at closing (2025-03-11)",
+   "fiscal_year_end": "December 31",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000099/q32026ex991_earningsrelease.htm",
+   "source_title": "NVR Q3 2026 earnings release (8-K Ex. 99.1, 2026-10-22)"
+  },
+  "competitor_links": []
+ },
+ "ma": [],
+ "gaps": [
+  "M&A 2025-2026: none found. NVR filed no 8-K under Item 2.01 or 1.01 for an acquisition in 2025-2026 (EDGAR filing list checked), its releases list none, and a search found no deal; its last brand acquisition (Heartland Homes) is historic. Footprint grew organically from 36 to 37 metros (16 states + DC) between the FY2024 and FY2025 10-Ks; the new metro is not named in the sources read.",
+  "Land-banking counterparties: no public source links NVR or Ryan Homes to Millrose, Kennedy Lewis, TPG Angelo Gordon, Domain, Varde, IHP, Essential Housing, Brookfield or other land bankers; the developers behind the 176,000 LPA lots are not named in filings (they may themselves be land-bank or private-credit funded: not publicly disclosed).",
+  "Aggregate purchase price of lots under LPA: not publicly disclosed (only deposits).",
+  "Revolver syndicate beyond Bank of America: not in the public exhibit (Schedule 2.01 and signature pages not reachable in the EDGAR copy).",
+  "S&P and Fitch current ratings: not confirmed from an opened source (credit agreement only implies at least one besides Moody's is A-/A3 or higher as of 2025-03).",
+  "Remaining buyback authorisation at 2026-09-30: not read (10-Q liquidity section not reached).",
+  "Lots controlled by segment at 2026-09-30: not read; segment split given as of 2025-12-31 only.",
+  "Earnings-call commentary on land/lot costs: NVR call transcript for Q3 2026 not found at the guessed fool.com URL."
+ ],
+ "sources_consulted": [
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/nvr-20260930.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R8.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R9.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R10.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R17.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/R38.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000099/q32026ex991_earningsrelease.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616326000018/nvr-20251231.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616325000011/nvr-20241231.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616325000031/nvr-20250311.htm",
+  "https://www.sec.gov/Archives/edgar/data/906163/000090616325000031/nvr-secondarcreditagreement.htm",
+  "https://ng.investing.com/news/stock-market-news/moodys-promotes-nvrs-credit-rating-to-a3-with-stable-forecast-93CH-1806365",
+  "https://www.stocktitan.net/news/NVR/",
+  "https://www.stocktitan.net/news/NVR/page-2.html",
+  "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-zboadvalzctq.html",
+  "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-xjvj6kwogefd.html",
+  "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-p6wxq80mop9k.html",
+  "https://www.stocktitan.net/news/NVR/nvr-inc-announces-share-repurchase-1t7w52c5zw0z.html",
+  "https://www.jaxdailyrecord.com/news/2026/aug/11/ryan-homes-saratoga-springs-acquisitions-top-1428-million-across-13-deeds/",
+  "https://www.businessobserverfl.com/news/2026/oct/30/houston-tampa-developers-sell-153-acres-n-pasco-county/",
+  "https://www.stocktitan.net/news/NVR/la-cite-development-signs-agreement-with-nvr-ryan-homes-for-large-0ds1n2ay0sho.html",
+  "https://www.lawinsider.com/contracts/4OWPHpIaxzK",
+  "https://land.nvrinc.com",
+  "https://data.sec.gov/submissions/CIK0000906163.json"
+ ]
+}

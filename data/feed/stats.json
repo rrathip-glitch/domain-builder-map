@@ -1,0 +1,172 @@
+{
+ "generated": "2026-11-19T16:41:59.551Z",
+ "rubric_version": "v1.4",
+ "targeted": {
+  "collected": 699,
+  "dropped_by_rules": 260,
+  "scored": 547,
+  "s70": 25,
+  "s90": 1,
+  "pct70_of_scored": 4.6,
+  "pct90_of_scored": 0.2
+ },
+ "baseline": {
+  "collected": 80,
+  "dropped_by_rules": 0,
+  "scored": 80,
+  "s70": 0,
+  "s90": 0,
+  "pct70_of_scored": 0
+ },
+ "feed_articles": 545,
+ "dropped_by_scorers": 29,
+ "problems": 0,
+ "problem_list": [],
+ "dropped_list": [
+  {
+   "id": "faca205d2737",
+   "title": "Millrose Properties Inc. Cl A",
+   "reason": "Stock-quote and grading page for MRP, not a story"
+  },
+  {
+   "id": "45817bb011a4",
+   "title": "MRP Investors Have Opportunity to Lead Millrose Properties, Inc. Securities Fraud Lawsuit",
+   "reason": "Law-firm shareholder-alert advertisement (Rosen Law Firm) about the Millrose securities suit; the underlying event is scored once from a better source"
+  },
+  {
+   "id": "7f9df204574a",
+   "title": "TPG Angelo Gordon",
+   "reason": "Reference/profile page about TPG Angelo Gordon, not a news story or event."
+  },
+  {
+   "id": "bea12997ef09",
+   "title": "Hearthstone: Reign of the Black Empire - 10 decks to try on Day 1",
+   "reason": "Different entity with a similar name: Hearthstone the video game, not Hearthstone the land banker."
+  },
+  {
+   "id": "947ed4e3b315",
+   "title": "BlizzCon 2026: Hearthstone Announces The Monk, New Mechanics, While It's Old Gods-Fueled Expansion Gets A Release Date",
+   "reason": "Different Hearthstone: Blizzard's card game, not the land banker"
+  },
+  {
+   "id": "dabb9facf92b",
+   "title": "Hearthstone: Reign of the Black Empire expansion revealed, Monk coming in 2027",
+   "reason": "Different Hearthstone: Blizzard's card game, not the land banker"
+  },
+  {
+   "id": "86c435cfb511",
+   "title": "Hearthstone charts out exciting year ahead with new expansion and Monk class",
+   "reason": "Different Hearthstone: Blizzard's card game, not the land banker"
+  },
+  {
+   "id": "a09204290c37",
+   "title": "Hearthstone: Heroes of WarCraft Guide",
+   "reason": "Different Hearthstone: a video-game wiki guide, not a story and not the land banker"
+  },
+  {
+   "id": "3414bee6f1e8",
+   "title": "Land Acquisition Grant",
+   "reason": "Hawaii DLNR grant-program instructions page (conservation land acquisition), not a news story"
+  },
+  {
+   "id": "5839a574ea09",
+   "title": "Sumitomo Forestry Co Ltd stock (JP3409800004): Japan homebuilder secures bridge loan for Tri Pointe Homes deal",
+   "reason": "stale: the page is a May 9, 2026 report of Sumitomo Forestry's May 7 bridge-loan notice for its Tri Pointe deal, outside the 90-day window"
+  },
+  {
+   "id": "57716a360f8e",
+   "title": "Compulsory acquisition and rural land: What agricultural landowners and businesses need to know",
+   "reason": "Australian law-firm client publication on compulsory acquisition of rural land: firm marketing, not a news story, and not US."
+  },
+  {
+   "id": "197072f9d0f1",
+   "title": "Robert O'Shaughnessy",
+   "reason": "MarketScreener insider profile page for PulteGroup CFO Robert O'Shaughnessy; a reference page, not a story or executive change."
+  },
+  {
+   "id": "f33e8619b5ed",
+   "title": "Christopher Guthrie",
+   "reason": "MarketScreener insider profile page (Christopher Guthrie, Comstock Holding CFO); a reference page, not a story."
+  },
+  {
+   "id": "6db0ff5db9c5",
+   "title": "NVR Inc. stock underperforms Thursday when compared to competitors despite daily gains",
+   "reason": "auto-generated stock-quote recap (daily price move), not a story"
+  },
+  {
+   "id": "c52ca8528478",
+   "title": "Brad O'Connor",
+   "reason": "MarketScreener insider profile page for Hovnanian CFO Brad O'Connor, not a news story"
+  },
+  {
+   "id": "60e528671258",
+   "title": "Charles Merdian",
+   "reason": "MarketScreener insider profile page for LGI Homes CFO Charles Merdian, not a news story"
+  },
+  {
+   "id": "46176af130b0",
+   "title": "Beazer Homes CFO: Discounts but no fire sale ahead",
+   "reason": "Old AP story (Beazer's 2007-era discounting and internal troubles) re-dated by the collector; not published in the last 90 days."
+  },
+  {
+   "id": "fcfdbd539a4f",
+   "title": "Eric Lipar",
+   "reason": "executive profile page on MarketScreener, not a news story"
+  },
+  {
+   "id": "5233633d4919",
+   "title": "Cours Meritage Homes Corporation",
+   "reason": "stock-quote page, not a story"
+  },
+  {
+   "id": "5723560a51d5",
+   "title": "NVR INC's Q2 Profits and Revenue Down",
+   "reason": "published outside the last 90 days (NVR Q2 2026 results, dated 2026-07-23 in the URL)"
+  },
+  {
+   "id": "64350f23cf4a",
+   "title": "Ivy Zelman",
+   "reason": "Bisnow tag index page for Ivy Zelman, not a story; the linked sponsored piece dates from Aug 2025, outside the 90-day window"
+  },
+  {
+   "id": "ca201470ac89",
+   "title": "Elaine Crowley",
+   "reason": "MarketScreener insider profile page for a D.R. Horton director, not a story"
+  },
+  {
+   "id": "19e7ee4a40a6",
+   "title": "Jeffrey Mezger",
+   "reason": "MarketScreener insider profile page for Jeffrey Mezger, not a news story"
+  },
+  {
+   "id": "8499aabdcf07",
+   "title": "Scott Stowell",
+   "reason": "MarketScreener insider profile page for Scott Stowell, not a news story"
+  },
+  {
+   "id": "a6f14c610989",
+   "title": "Former District 65 Superintendent Devon Horton pleads guilty to wire fraud, embezzlement and tax evasion",
+   "reason": "Different subject: Devon Horton, a former school superintendent, not D.R. Horton"
+  },
+  {
+   "id": "396c355a7b3e",
+   "title": "Apply for the National Housing Quality Operational Improvement Program!",
+   "reason": "Pro Builder solicitation for applications to its own quality program, an advertisement, not a news story"
+  },
+  {
+   "id": "507050264b59",
+   "title": "Bridge Builder Core Plus Bond Fund",
+   "reason": "Mutual-fund quote/profile page (Bridge Builder Core Plus Bond Fund), not a story"
+  },
+  {
+   "id": "1fcf8fc457f7",
+   "title": "Bridge Builder Municipal High-Income Bond Fund",
+   "reason": "fund quote page, not a story"
+  },
+  {
+   "id": "e70036728b6f",
+   "title": "Sekisui House Reit (TSE:3309) Stock Could Look Cheap On Current Earnings",
+   "reason": "Different company: Sekisui House Reit is a Tokyo-listed J-REIT, not Sekisui House U.S. homebuilding."
+  }
+ ]
+}

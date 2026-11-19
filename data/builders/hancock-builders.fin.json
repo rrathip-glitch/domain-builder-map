@@ -1,0 +1,174 @@
+{
+  "builder_id": "hancock-builders",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "NOT a conventional for-sale homebuilder and a weak land-banking prospect today. Hancock Builders is a private Phoenix general contractor and fee developer of single-family build-to-rent communities: all 1,374 of its 2025 Builder 100 'closings' are build-to-rent units delivered to third-party owners. The land and the construction debt sit with those owners (TerraLane/IHP Capital Partners, Cavan Companies, Blueprint Capital, Van Tuyl, WestStone, Montgomery Street Partners, UrbanStreet), not with Hancock, so there is no finished-lot pipeline for a land banker to option back. Hancock's own balance sheet, bank lines and bonding are not public. Two things could change the picture: founder Greg Hancock still sources the land for these owners, so he is a route to rental-community land deals, and the company said in September 2025 that it intends to expand into for-sale contracting.",
+    "land_strategy": "Asset-light by design: since about 2017 the company has stopped building its own subdivisions and instead acquires, entitles, develops and builds rental communities on behalf of owners and investors, with parcels bought to the owner's strategy and with the owner's capital. No stated owned/optioned target because it does not carry a lot inventory of its own that is publicly reported.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Verified",
+      "source_url": "https://www.hancock-az.com/az-service",
+      "source_title": "Hancock Builders: A-Z Service page",
+      "note": "No lot counts are published and none are expected: the company describes itself as acquiring land for owners rather than holding it. Activity measures instead: 25 build-to-rent communities delivered since 2017 and 10 under construction as of September 2025 (Builder interview), about 5,000 rental units delivered in total."
+    },
+    "land_banking": [
+      {
+        "counterparty": "TerraLane Communities (build-to-rent division of IHP Capital Partners)",
+        "counterparty_type": "Developer",
+        "description": "Owner-client, not a land banker. TerraLane bought the 22-acre Queen Creek site itself and hired Hancock as general contractor for the 218-unit TerraLane at Hudson Station, the sixth community the two firms have done together. Shows the pattern: the client's capital holds the land.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-06",
+        "confidence": "Reported",
+        "source_url": "https://rebusinessonline.com/terralane-buys-land-breaks-ground-on-218-unit-build-to-rent-project-near-phoenix/",
+        "source_title": "TerraLane Buys Land, Breaks Ground on 218-Unit Build-to-Rent Project Near Phoenix (REBusinessOnline)",
+        "note": "IHP Capital Partners is a residential land and homebuilding investor, so it is itself a capital source in Domain's world. Hancock's projects page lists six TerraLane communities (Goodyear x2, Phoenix x2, Surprise, Queen Creek)."
+      },
+      {
+        "counterparty": "Blueprint Capital (Seattle; principal Dan Duffus, also of SolTrust)",
+        "counterparty_type": "Investor",
+        "description": "Owner-client, not a land banker. Blueprint entities own the Canopy at Sundance (Buckeye), Canopy at Cottonwood (Casa Grande) and Sonoran Row (Phoenix) rental communities; Hancock acted as both developer and general contractor on the Canopy projects.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-03",
+        "confidence": "Reported",
+        "source_url": "https://azbigmedia.com/real-estate/2026-red-awards-build-to-rent-project-finalists",
+        "source_title": "2026 RED Awards: Build-to-rent project of the year finalists (AZ Big Media)",
+        "note": "The awards listing names the owners as 'Blueprint White Tanks' and 'Blueprint Cottonwood' with Hancock Builders as developer and general contractor. Hancock's own projects and testimonials pages confirm the Blueprint relationship (three projects completed, another on the way)."
+      },
+      {
+        "counterparty": "Cavan Companies (Dave Cavan)",
+        "counterparty_type": "Developer",
+        "description": "Owner-client, not a land banker. Hancock was brought in as general contractor to recover six delayed 'Bungalows' build-to-rent projects totalling 1,247 units in Buckeye, Prescott Valley (two), Casa Grande, Goodyear and Phoenix.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://www.hancock-az.com/projects",
+        "source_title": "Hancock Builders: Projects page",
+        "note": "Date is the page-as-of date; the page gives no project dates. Cavan's own construction lenders are not named in connection with these six projects."
+      },
+      {
+        "counterparty": "Van Tuyl Companies (Vlux Communities)",
+        "counterparty_type": "Investor",
+        "description": "Owner-client, not a land banker. Family investment group for which Hancock has delivered three Vlux-branded rental communities (Peoria, Queen Creek, Phoenix).",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://www.hancock-az.com/projects",
+        "source_title": "Hancock Builders: Projects page",
+        "note": "Date is the page-as-of date."
+      },
+      {
+        "counterparty": "WestStone Group",
+        "counterparty_type": "Developer",
+        "description": "Owner-client, not a land banker. Canadian-rooted developer for which Hancock built rental communities in the Arcadia area of Phoenix (Ara and Lyra) and Avondale (Cottages at McDowell). A WestStone vice president credits Hancock with the land purchases as well as the construction.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://www.hancock-az.com/projects",
+        "source_title": "Hancock Builders: Projects page",
+        "note": "Projects page names two projects; the WestStone testimonial on the company site says four multifamily projects completed. Date is the page-as-of date."
+      },
+      {
+        "counterparty": "Montgomery Street Partners (Dallas)",
+        "counterparty_type": "Investor",
+        "description": "Owner-client, not a land banker. Real estate investment firm for which Hancock built The Montgomery at Rancho Mercado in Surprise.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://www.hancock-az.com/projects",
+        "source_title": "Hancock Builders: Projects page",
+        "note": "A testimonial for the same project is signed by Tony Koeijmans of McCarthy Companies. Date is the page-as-of date."
+      },
+      {
+        "counterparty": "UrbanStreet Group (Illinois)",
+        "counterparty_type": "Developer",
+        "description": "Owner-client, not a land banker. Developer for which Hancock built The Douglas at Goodyear Airport Commons in Goodyear.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://www.hancock-az.com/projects",
+        "source_title": "Hancock Builders: Projects page",
+        "note": "Date is the page-as-of date."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2025-06-25",
+        "type": "Other",
+        "description": "Client-level project financing, not Hancock's own debt: Western Alliance Bank and 400 Capital Management are financing TerraLane at Hudson Station (218 units, Queen Creek), which Hancock is building for TerraLane Communities / IHP Capital Partners. Loan size not stated.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://rebusinessonline.com/terralane-buys-land-breaks-ground-on-218-unit-build-to-rent-project-near-phoenix/",
+        "source_title": "TerraLane Buys Land, Breaks Ground on 218-Unit Build-to-Rent Project Near Phoenix (REBusinessOnline)",
+        "note": "The borrower is the owner (TerraLane), so this is recorded as context on who lends against Hancock-built communities. Same facts in In Business Phoenix (2025-06-26) and AZ Big Media (2025-07-07)."
+      },
+      {
+        "date": "2025-09-26",
+        "type": "Other",
+        "description": "New CEO Kelly Whiteley set out the plan: build the project pipeline through business development rather than referrals alone, pursue developers outside Arizona, and close out several large projects in 2026 while advancing pre-development on new ones. She said she is watching capital markets and expects the Phoenix multifamily oversupply to be absorbed by mid-2026.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://web.archive.org/web/20251010212437/https://www.builderonline.com/builder-100/strategy/hancock-builders-new-ceo-talks-build-for-rent-growth-and-future-goals",
+        "source_title": "Hancock Builders' New CEO Talks Build-For-Rent Growth and Future Goals (Builder, archived copy)",
+        "note": "No financing transaction; recorded because it is the only public statement of strategy and capital outlook."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.hancock-az.com/",
+      "source_title": "Hancock Builders: company site (no financial information published)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Hancock's own credit facilities, bank relationships, bonding/surety and balance sheet: not publicly disclosed (private company)",
+    "Ownership structure and any outside equity in Hancock Builders, LLC: not publicly disclosed",
+    "Lot or land positions held in Hancock's own name: none published; land is acquired for and held by client owners",
+    "Whether Hancock co-invests equity in the communities it builds: not publicly disclosed (press lists it as developer and general contractor, with a separate owner)",
+    "Construction lenders on the Blueprint, Cavan, Van Tuyl, WestStone, Montgomery Street and UrbanStreet projects: not named in the sources opened",
+    "Any link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found in a targeted search",
+    "M&A 2025-2026: none found; the only corporate event is the September 2025 CEO succession (Greg Hancock to Chairman, Kelly Whiteley to CEO)",
+    "Progress on the stated move into for-sale and commercial contracting: no project or land purchase announced publicly as of 2026-11-19",
+    "SEC EDGAR full-text search returned 403 to the declared client during this run, so a Form D check was not completed"
+  ],
+  "sources_consulted": [
+    "https://www.hancock-az.com/",
+    "https://www.hancock-az.com/projects",
+    "https://www.hancock-az.com/az-service",
+    "https://www.hancock-az.com/testimonials",
+    "https://www.hancock-az.com/team",
+    "https://rebusinessonline.com/terralane-buys-land-breaks-ground-on-218-unit-build-to-rent-project-near-phoenix/",
+    "https://inbusinessphx.com/commercial-real-estate/developer-acquires-22-acres-in-east-valley-for-amenity-rich-rental-community",
+    "https://azbigmedia.com/real-estate/terralane-at-hudson-station-is-coming-to-queen-creek/",
+    "https://azbigmedia.com/real-estate/2026-red-awards-build-to-rent-project-finalists",
+    "https://azbigmedia.com/real-estate/the-advantages-of-build-to-rent-in-an-uncertain-housing-market",
+    "https://azbigmedia.com/real-estate/residential-real-estate/hancock-builders-celebrates-40th-anniversary-with-new-name/",
+    "https://web.archive.org/web/20251010212437/https://www.builderonline.com/builder-100/strategy/hancock-builders-new-ceo-talks-build-for-rent-growth-and-future-goals",
+    "https://web.archive.org/web/20251006082716/https://www.builderonline.com/builder-100/leadership/hancock-builders-names-kelly-whiteley-ceo/",
+    "https://web.archive.org/web/20260427133037/https://www.builderonline.com/firms/hancock-builders/",
+    "https://www.arizcc.com/post/hancock-builders-announces-leadership-transition-founder-greg-hancock-passes-the-torch-to-ceo-kelly",
+    "https://azbex.com/planning-development/3-new-projects-add-to-build-to-rent-momentum/"
+  ]
+}

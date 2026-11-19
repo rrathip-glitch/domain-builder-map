@@ -1,0 +1,106 @@
+{
+  "builder_id": "olthof-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Olthof Homes is a private family company with no public debt, no SEC filings and no announced capital partner, so almost nothing about its financing is public. What town records show is a builder that buys and develops its own land: parcels are held in affiliated LLCs registered at the home office (Cedar Lake Development, LLC; Integrity Development LLC), it closes on land after entitlement, runs its own land development, and posts performance and maintenance letters of credit with towns (issuing banks not named). No land banker, lot-option financier or joint venture has been named publicly, and it has no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon. It is a plausible but small land-banking prospect: about 530 closings a year, five new communities opened in 2026, and a stated aim to reach the top 50, all funded so far from an owned-land model.",
+    "land_strategy": "Owns and self-develops, in practice: the company acts as land developer in many of its communities, holds land in affiliated single-purpose LLCs at its St. John address, and invites landowners to sell to it directly through a published land contact. No stated owned-versus-optioned target and no land-light framing anywhere public.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Inferred",
+      "source_url": "https://www.olthofhomes.com/communities",
+      "source_title": "Olthof Homes communities page",
+      "note": "No lot counts are published. Context only: 20 communities listed on the company site on 2026-11-19 (three marked coming soon); the largest single entitlement found is Bo-Mar Estates in Plainfield, a 442-lot primary plat on 126 acres (85 single-family, 56 paired villas, 301 townhomes) per a Town of Plainfield staff report dated 2022-08-01. At 532 closings a year, 20 communities imply a pipeline in the low thousands of lots, but that is an estimate, not a disclosed number."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Cedar Lake Development, LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Listed as owner of the Centennial Villas Phase 2 land in Cedar Lake, with Olthof Homes, LLC as petitioner; both use the Olthof home-office address (8051 Wicker Avenue, St. John). Indicates land is held in an affiliated entity rather than by a third-party land banker.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-05",
+        "confidence": "Verified",
+        "source_url": "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2025/2025-05-21_%20Plan_Commission_Minutes.pdf",
+        "source_title": "Cedar Lake Plan Commission minutes, May 21, 2025",
+        "note": "Affiliation is inferred from the shared address; the minutes do not describe ownership of the LLC."
+      },
+      {
+        "counterparty": "Integrity Development LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Listed as owner/petitioner for the Monastery Woods Phase 3A final plat (44 lots) in Cedar Lake at the Olthof home-office address, with an Olthof Homes representative presenting. A second affiliated landholding and development entity.",
+        "amount_usd_m": null,
+        "lots": 44,
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2026/2026-08-19_Plan_Commission_Minutes.html",
+        "source_title": "Cedar Lake Plan Commission minutes, August 19, 2026",
+        "note": "Affiliation is inferred from the shared address and the Olthof representative; the minutes do not describe ownership of the LLC. Lot count is this phase only."
+      },
+      {
+        "counterparty": "133 LBM LLC",
+        "counterparty_type": "Unknown",
+        "description": "Prior owner of the two Centennial Townhomes parcels in Cedar Lake. By June 2026 both parcels had closed and passed to Olthof Homes entities, and Olthof started land development on May 26, 2026. Reads as a land seller that held the ground through entitlement, not a financing partner.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-06",
+        "confidence": "Verified",
+        "source_url": "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2026/2026-06-17_Plan_Commission_Minutes.html",
+        "source_title": "Cedar Lake Plan Commission minutes, June 17, 2026",
+        "note": "Nature of 133 LBM LLC (landowner, developer or investor) is not stated; price and lot count not stated."
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None (private, unrated)",
+      "fiscal_year_end": "",
+      "as_of": "2026-11-19",
+      "confidence": "Inferred",
+      "source_url": "https://www.olthofhomes.com/about-us",
+      "source_title": "Olthof Homes About Us page (family-owned private company; no financial disclosure)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned, optioned, total controlled, years of supply): not publicly disclosed",
+    "Bank lenders, credit facilities, construction or land-development loans: not publicly disclosed (private company); town minutes mention letters of credit but never name the issuing bank",
+    "Land banker, lot-option financier or outside capital partner: none found in any public source",
+    "Joint ventures: none found",
+    "Any relationship with Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found",
+    "M&A 2025-2026: none found (no acquisition by or of Olthof Homes in any source opened); search coverage was limited because the web-search allowance ran out, so absence is not proof",
+    "Revenue, debt, cash, leverage: not publicly disclosed beyond the Builder 100 figures held in the spine",
+    "Ownership split among Olthof family members and any outside equity: not publicly disclosed",
+    "Full list of affiliated landholding LLCs: only two seen (Cedar Lake Development, LLC; Integrity Development LLC), both from Cedar Lake minutes; Indiana Secretary of State records were not checked",
+    "Earlier Northeast Indiana (Fort Wayne) activity: the awards page cites a 2023 Fort Wayne award, but no Fort Wayne communities are listed today; whether the company exited that market is not stated",
+    "Could not be opened in this run: Indianapolis Business Journal coverage of Olthof's Westfield, Noblesville and Fortville proposals, Lakeshore Public Media's 2023 Portage rezoning story, Builder's firm profile"
+  ],
+  "sources_consulted": [
+    "https://www.olthofhomes.com/about-us",
+    "https://www.olthofhomes.com/contact-us",
+    "https://www.olthofhomes.com/communities",
+    "https://www.olthofhomes.com/careers",
+    "https://www.olthofhomes.com/blog/a-season-of-gratitude-thank-you-for-helping-us-build-home-across-indiana",
+    "https://www.olthofhomes.com/awards-affiliations",
+    "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2025/2025-05-21_%20Plan_Commission_Minutes.pdf",
+    "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2026/2026-06-17_Plan_Commission_Minutes.html",
+    "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2026/2026-07-15_Plan_Commission_Minutes.html",
+    "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2026/2026-08-19_Plan_Commission_Minutes.html",
+    "https://cedarlakein.gov/Documents/Agenda_Minutes/Plan_Commission/2026/2026-09-16_Plan_Commission_Minutes.html",
+    "https://s3.amazonaws.com/iworq-upload/PLAINFIELD/601/12399098-FDP-22-053%20PC%20Staff%20Report%20%28Bo-Mar%29.pdf",
+    "https://townepost.com/?p=118691",
+    "https://townepost.com/indiana/brownsburg/building-your-best-life-olthof-homes/",
+    "https://hbanwi.com/meet-our-leadership/"
+  ]
+}

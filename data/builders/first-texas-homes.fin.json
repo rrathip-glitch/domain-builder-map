@@ -1,0 +1,74 @@
+{
+  "builder_id": "first-texas-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "First Texas Homes is a conventional private for-sale builder controlled by one individual (Randall Van Wolfswinkel is the only officer and director on the 2026 Texas state record), with no public debt, no SEC filings and no lender, land banker or capital partner named anywhere public. The one hard data point on how it handles land is a 2021 municipal bond offering document for Legacy Hills in Celina: First Texas Homes, Inc. bought a 132-acre pod from the Centurion American master developer for about $12.0M in cash and planned to develop 490 lots itself in three phases through about 2030, with roughly $21.1M of internal infrastructure to be funded with cash or loans as needed. That points to a builder that puts raw land and development spend on its own balance sheet in at least some communities, alongside finished-lot purchases in other developers' master plans. It is a plausible land-banking customer (the later Legacy Hills phases are exactly the kind of self-developed sections a land banker finances), but there is no public sign that it uses one today, and its owner-funded, cash-buying profile may mean limited appetite.",
+    "land_strategy": "Mixed, and not stated by the company. Public evidence shows both self-development of owned land (Legacy Hills pod, Celina: 132 acres, 490 planned lots, bought for cash in 2021) and building in third-party master-planned communities across DFW. No owned-versus-optioned split or target is disclosed.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Lot counts are not publicly disclosed (private company). The only public figure is the 490 lots planned in its Legacy Hills pod (2021 projection), recorded under land_banking."
+    },
+    "land_banking": [
+      {
+        "counterparty": "MM Celina 3200, LLC (Centurion American Development Group affiliate; Legacy Hills master developer)",
+        "counterparty_type": "Developer",
+        "description": "Not a land-bank deal: an outright land purchase. In the August 2021 sales that funded the master developer's 3,150-acre Legacy Hills acquisition in Celina, First Texas Homes, Inc. bought Parcel 9 Pod 1 (132.077 acres) for $12,005,000 in cash as one of the 'Builder Pod Developers' (with Ashton Woods, Beazer, Lennar and Mattamy). It was to build the lots itself: 490 lots in three phases (163 / 163 / 164), with phase starts projected for Q1 2022, Q3 2024 and Q4 2026 and final home sales in Q2 2030, and about $21.07M of water, sewer, drainage, landscaping and roads to be funded with cash or loans as necessary. Its rights to district reimbursement for those improvements were assigned to the master developer.",
+        "amount_usd_m": 12.005,
+        "lots": 490,
+        "date": "2021-08",
+        "confidence": "Inferred",
+        "source_url": "https://fmsbonds-wpoffload.s3.amazonaws.com/PROD/wp-content/uploads/2022/05/11180352/TXNorthParkway02a-POS.pdf",
+        "source_title": "North Parkway Municipal Management District No. 1 (City of Celina) Contract Revenue Bonds, Series 2021: Preliminary Limited Offering Memorandum",
+        "note": "Source is an official offering document of a Texas political subdivision dated 2021-09-28, so the phase dates and lot counts are 2021 projections, not current status. The company site in November 2026 markets 'The Bluffs' in Legacy Hills as a grand-opening community, which confirms the pod is active. Estimated base lot value in the document: $65,000 for 50- and 60-foot lots. Verification 2026-11-19: the offering memorandum (over 10 MB) could not be opened by the checker, so the parcel, price and lot figures were not reconfirmed; the document is also more than five years old. The company homepage lists The Bluffs in Celina as Grand Opening but does not name Legacy Hills, so the link between The Bluffs and this pod is not confirmed."
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, construction or land loans, lender names: not publicly disclosed (private company, no SEC filings, no rated or 144A debt found).",
+    "Owned versus optioned lots, total lots controlled, years of supply: not publicly disclosed.",
+    "Land banker, lot-option financier or capital partner: none publicly named. No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon was found, but the dedicated searches for those names could not be run because the swarm's shared web-search allowance ran out; treat as 'none found', not 'confirmed none'.",
+    "Ownership and equity: the Texas Comptroller record (report year 2026) shows Randall Van Wolfswinkel as the only officer and director; shareholders are not public. No outside investor or parent was found.",
+    "Finished-lot purchase contracts with developers (takedown schedules, earnest money) in its other communities, for example Centurion American projects in Anna, Little Elm and Farmers Branch: likely described in those cities' PID bond documents, not retrieved in this run.",
+    "Legacy Hills pod: whether phases 2 and 3 (327 lots) started on the 2021 schedule, and how the development spend was financed, is not public.",
+    "M&A 2025 to date: none found for First Texas Homes as acquirer or target (search was limited; the similarly named First America Homes is a different company).",
+    "Joint ventures: none publicly disclosed.",
+    "The preferred mortgage lenders named on the company site (CrossCountry Mortgage, Integrity Home Mortgage Company, Builder Mortgage Direct) are for home buyers and say nothing about the builder's own financing."
+  ],
+  "sources_consulted": [
+    "https://fmsbonds-wpoffload.s3.amazonaws.com/PROD/wp-content/uploads/2022/05/11180352/TXNorthParkway02a-POS.pdf",
+    "https://comptroller.texas.gov/data-search/franchise-tax/17520825393",
+    "https://opencorporates.com/companies/us_tx/0078256300",
+    "https://firsttexashomes.com/about/first-texas-homes",
+    "https://firsttexashomes.com/financing",
+    "https://firsttexashomes.com/community/celina/18189/the-bluffs/",
+    "https://firsttexashomes.com/community/grand-prairie/19667/lakesong/",
+    "https://centurionamerican.com/builder/first-texas-homes",
+    "https://www.bbb.org/us/tx/dallas/profile/home-builders/first-texas-homes-inc-0875-8000500"
+  ]
+}

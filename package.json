@@ -1,0 +1,20 @@
+{
+  "name": "domain-intel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Domain builder map: merged data build, local app and Excel export",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs && node scripts/export-xlsx.mjs",
+    "build:data": "node scripts/build.mjs",
+    "export": "node scripts/export-xlsx.mjs",
+    "start": "node app/server.mjs",
+    "check": "node scripts/check-workbook.mjs --brief"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

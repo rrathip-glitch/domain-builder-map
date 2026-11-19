@@ -1,0 +1,209 @@
+{
+  "builder_id": "the-villages-of-lake-sumter",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Not a conventional for-sale homebuilder: The Villages is a family-owned retirement-community developer that owns its future land outright and builds on its own lots, so it has no option or land-bank programme and none is publicly linked to it. Lot development is financed off its balance sheet through its own community development districts, which sell unrated tax-exempt special assessment bonds (underwritten by Jefferies and Morgan Stanley): $155.5 million and $163 million in District 15 (2023, 2024), $127 million in District 16 (November 2025) and almost $180 million more marketed in October 2026, with District 16 seeking court validation for up to $606.6 million. The developer fronts construction and is reimbursed from bond proceeds, and amenities are financed separately through investment-grade bonds backed by resident amenity fees. Company-level bank debt, cash and leverage are not public. The Morse family also raised liquidity by selling its Citizens First Bank to Seacoast in 2025 (about $711 million at announcement). Room for a land banker is small: the plausible openings are the non-age-restricted Middleton community, the Benderson partnerships, or a future ownership change, not the core business.",
+    "land_strategy": "Owns essentially all of its land, bought years ahead through family entities (The Villages Land Company, LLC, The Villages Development Company, Buffalo Hide and Cattle Company) and developed in-house; no stated owned-versus-optioned target and no evidence of third-party lot purchases. Florida Trend (Feb 2024) reported 26,000 acres owned in Wildwood alone, 18,700 of them undeveloped, plus a 3,200-acre Leesburg tract and 900 acres near Mascotte. The 57,000 acres often quoted is the whole community, most of it already built and sold.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-10-19",
+      "confidence": "Reported",
+      "source_url": "https://www.insurancejournal.com/news/southeast/2026/10/19/889563.htm",
+      "source_title": "Insurance Journal (Bloomberg): World's Largest Retirement Community Set to Borrow $180 Million for More Homes",
+      "note": "No lot count is published. Public proxies: the community as a whole covers about 57,000 acres (built and unbuilt); about 83,400 residential units sold to date and more than 2,100 sold in 2026 through mid-October; the current expansion is about 6,670 units (first phase more than 2,800 homes, second offering 3,860 units); long-range goal of more than 130,000 homes and about 260,000 residents over two decades. District 15 (1,378 acres) was planned for 3,616 plus 3,700 units and had 3,847 homes sold by 2025-09-30 per its audited report. Nothing indicates any optioned lots."
+    },
+    "land_banking": [],
+    "debt": [
+      {
+        "instrument": "Village CDD No. 15 Special Assessment Revenue Bonds, Series 2023",
+        "type": "Project debt",
+        "principal_usd_m": 151.02,
+        "rate": "4.25% to 5.25%",
+        "maturity": "2054-05",
+        "secured": "Secured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2025-09-30",
+        "confidence": "Verified",
+        "source_url": "https://flauditor.gov/pages/specialdistricts_efile%20rpts/2025%20village%20community%20development%20district%20no%2015.pdf",
+        "source_title": "Village Community Development District No. 15 Annual Financial Report, fiscal year ended 2025-09-30 (filed with the Florida Auditor General; auditor's report dated 2026-03-06)",
+        "note": "Original principal $155.49 million; $151.02 million outstanding at 2025-09-30. Funds Phase I infrastructure (3,616 planned units). Obligor is the community development district, not the developer. Repaid from special assessments on the lots in the district: the developer carries the assessments on land it still owns and each homebuyer takes over the lot's share at closing. Non-recourse to the family."
+      },
+      {
+        "instrument": "Village CDD No. 15 Special Assessment Revenue Bonds, Series 2024",
+        "type": "Project debt",
+        "principal_usd_m": 163.0,
+        "rate": "3.75% to 4.80%",
+        "maturity": "2055-05",
+        "secured": "Secured",
+        "lenders_agent": "Jefferies (senior manager), Morgan Stanley (co-manager)",
+        "status": "Outstanding",
+        "as_of": "2025-09-30",
+        "confidence": "Verified",
+        "source_url": "https://flauditor.gov/pages/specialdistricts_efile%20rpts/2025%20village%20community%20development%20district%20no%2015.pdf",
+        "source_title": "Village Community Development District No. 15 Annual Financial Report, fiscal year ended 2025-09-30 (filed with the Florida Auditor General; auditor's report dated 2026-03-06)",
+        "note": "Funds Phase II infrastructure (3,700 planned units); interest capitalised through November 2025. Underwriters per The Bond Buyer, 2024-08-29 (https://bondbuyer.com/news/unrated-bonds-latest-to-fund-floridas-villages-for-senior-citizens), which also describes the bonds as unrated. Obligor is the community development district, not the developer. Repaid from special assessments on the lots in the district: the developer carries the assessments on land it still owns and each homebuyer takes over the lot's share at closing. Non-recourse to the family."
+      },
+      {
+        "instrument": "Village CDD No. 16 Special Assessment Revenue Bonds, Series 2025 (Phase I)",
+        "type": "Project debt",
+        "principal_usd_m": 127.0,
+        "rate": "5.01% (rate shown on the district's per-lot assessment schedules)",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Jefferies, Morgan Stanley",
+        "status": "Outstanding",
+        "as_of": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://www.districtgov.org/wp-content/uploads/2026/10/D16-Financial-Statement-and-Summary-of-Activity.pdf",
+        "source_title": "Village Community Development District No. 16 Financial Statement Summary as of 2026-08-31",
+        "note": "Issued November 2025 for Phase I (more than 2,800 homes in the Villages of Farmstead, Long Prairie and Merritt Field, Wildwood). Per-lot schedules run 30 annual payments from the 2027 tax bill (https://www.districtgov.org/wp-content/uploads/2026/04/Unit-265V.pdf); final maturity not confirmed. Underwriters and unrated status per Bloomberg via Insurance Journal, 2025-10-24 (https://www.insurancejournal.com/news/southeast/2025/10/24/845049.htm). Obligor is the community development district, not the developer. Repaid from special assessments on the lots in the district: the developer carries the assessments on land it still owns and each homebuyer takes over the lot's share at closing. Non-recourse to the family."
+      },
+      {
+        "instrument": "Village CDD No. 16 special assessment bonds, 2026 offering (second phase)",
+        "type": "Project debt",
+        "principal_usd_m": 180.0,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "",
+        "status": "Announced",
+        "as_of": "2026-10-19",
+        "confidence": "Reported",
+        "source_url": "https://www.insurancejournal.com/news/southeast/2026/10/19/889563.htm",
+        "source_title": "Insurance Journal (Bloomberg): World's Largest Retirement Community Set to Borrow $180 Million for More Homes",
+        "note": "Almost $180 million of unrated bonds expected to price 2026-10-20 to fund 3,860 units plus 27 holes of golf and recreation centres. Issuing district is not named in the article (inferred to be District 16, the district that sold the prior year's $127 million first phase); final size, coupons and closing not confirmed. Obligor is the community development district, not the developer. Repaid from special assessments on the lots in the district: the developer carries the assessments on land it still owns and each homebuyer takes over the lot's share at closing. Non-recourse to the family."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-01",
+        "type": "Debt issuance",
+        "description": "A Villages district entity sold nearly $260 million of taxable bonds backed by resident amenity fees and recreation-facility revenue; the 10-year bonds priced at about 5.2% and were rated AA- by S&P. This is the channel through which amenities built by the developer are financed by resident fees.",
+        "amount_usd_m": 260,
+        "confidence": "Reported",
+        "source_url": "https://www.insurancejournal.com/news/southeast/2025/10/24/845049.htm",
+        "source_title": "Insurance Journal (Bloomberg): World's Largest Retirement Community Taps Muni Market to Help Build More Homes",
+        "note": "Issuer is not named in the article; amount is approximate."
+      },
+      {
+        "date": "2025-11",
+        "type": "Debt issuance",
+        "description": "Village CDD No. 16 issued $127.0 million of Series 2025 special assessment revenue bonds for Phase I of the newest expansion area in Wildwood. The district was created 2025-02-24 and asked the Sumter County circuit court to validate up to $606.575 million of bonds in one or more series (hearing set for 2025-07-08).",
+        "amount_usd_m": 127.0,
+        "confidence": "Verified",
+        "source_url": "https://www.districtgov.org/wp-content/uploads/2026/10/D16-Financial-Statement-and-Summary-of-Activity.pdf",
+        "source_title": "Village Community Development District No. 16 Financial Statement Summary as of 2026-08-31",
+        "note": "Validation ceiling per the published court notice (https://floridapublicnotices.com/notices/11169640); the outcome of the hearing was not checked, though the November 2025 issuance implies it was granted."
+      },
+      {
+        "date": "2026-10-20",
+        "type": "Debt issuance",
+        "description": "Almost $180 million of unrated high-yield district bonds marketed to fund 3,860 more units and amenities; the roadshow disclosed about 83,400 units sold to date, more than 2,100 sold in 2026 and an average price just under $500,000.",
+        "amount_usd_m": 180,
+        "confidence": "Reported",
+        "source_url": "https://www.insurancejournal.com/news/southeast/2026/10/19/889563.htm",
+        "source_title": "Insurance Journal (Bloomberg): World's Largest Retirement Community Set to Borrow $180 Million for More Homes",
+        "note": "Expected pricing date; completion not confirmed."
+      },
+      {
+        "date": "2025-07-03",
+        "type": "Other",
+        "description": "The Villages Health, the affiliated primary-care group, filed for bankruptcy over an estimated $360 million Medicare overpayment liability; its assets were sold to Humana's CenterWell for a reported $68 million. Filings showed about $12.7 million of annual rent paid to developer affiliates and interest payments to The Villages of Lake-Sumter, and UnitedHealthcare sought testimony from the three Morse siblings about money taken out before the filing.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.villages-news.com/2025/08/01/rent-payments-and-top-salaries-revealed-in-the-villages-health-bankruptcy-filing/",
+        "source_title": "Villages-News: Rent payments and top salaries revealed in The Villages Health bankruptcy filing",
+        "note": "Sale price and UnitedHealthcare request per Villages-News, 2025-09-13 (https://www.villages-news.com/2025/09/13/unitedhealthcare-wants-to-ask-morse-family-where-the-money-went/). A later Villages-News headline (2026-08-27, not opened) refers to a $541.5 million Medicare settlement by the bankrupt entity. Relevant as reputational and potential clawback exposure for the owners, not as homebuilding debt."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Benderson Development",
+        "description": "Monarch Ranch: an approximately 3,400-acre ranch on State Road 44 near Wildwood bought in 2024 for a reported $40 million in partnership with Benderson, held through 75 Turnpike BDC, LLC and 75 Turnpike VDC, LLC. Martin Dzuro of The Villages filed the annexation application for a 49-acre industrial piece in May 2025.",
+        "date": "2024",
+        "confidence": "Reported",
+        "source_url": "https://www.villages-news.com/2025/05/12/top-official-with-the-villages-submits-monarch-ranch-annexation-application/",
+        "source_title": "Villages-News: Top official with The Villages submits Monarch Ranch annexation application",
+        "note": "Ownership split and financing not disclosed."
+      },
+      {
+        "partner": "Benderson Development (with AdventHealth as anchor)",
+        "description": "Legacy Place: a 700-acre mixed-use retail, dining and wellness district along Florida's Turnpike near County Road 470 at the south end of The Villages, to be developed by Benderson 'in collaboration with The Villages', anchored by a 25-acre, 80-bed AdventHealth hospital. Site work was reported to be starting in autumn 2026.",
+        "date": "2026-05-08",
+        "confidence": "Verified",
+        "source_url": "https://www.thevillages.com/whats-new/growth/announcing-adventhealth/",
+        "source_title": "The Villages news post: AdventHealth to Anchor New Legacy Place With Hospital",
+        "note": "Commercial, not residential. Whether this is a joint venture, ground lease or land sale is not disclosed."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "Developer: not rated. District special assessment bonds: unrated (high-yield). Amenity-fee recreation revenue bonds sold January 2025: AA- (S&P).",
+      "fiscal_year_end": "",
+      "as_of": "2025-10-24",
+      "confidence": "Reported",
+      "source_url": "https://www.insurancejournal.com/news/southeast/2025/10/24/845049.htm",
+      "source_title": "Insurance Journal (Bloomberg): World's Largest Retirement Community Taps Muni Market to Help Build More Homes"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2025-05",
+      "role": "Divestiture",
+      "counterparty": "Seacoast Banking Corporation of Florida",
+      "description": "The Morse family agreed to sell Villages Bancorporation, Inc., parent of Citizens First Bank (about $4.1 billion of assets, more than half of deposits in the Villages area), to Seacoast for about $710.8 million in cash and/or Seacoast stock. Villages-News later reported the completed sale at $829 million.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "No change to the homebuilding map. It gives the owning family a large liquidity event, removes its captive bank, and (with the first non-family CEO in 2026 and the 2025 failure of The Villages Health) suggests the family is simplifying its holdings, which is worth watching for any change in how land is financed.",
+      "confidence": "Reported",
+      "source_url": "https://www.villages-news.com/2025/05/30/the-villages-selling-off-citizens-first-bank/",
+      "source_title": "Villages-News: The Villages selling off Citizens First Bank",
+      "note": "Announced late May 2025; completed in 2025 (regulatory approvals reported September 2025; the District 15 audit expected completion by October 2025), with branch conversion in mid-2026. $829 million figure: https://www.villages-news.com/2025/12/30/morse-family-sells-off-citizens-first-bank-for-829-million/. Sold by the family, not by the homebuilding company."
+    }
+  ],
+  "gaps": [
+    "Lot counts (owned, optioned, years of supply): not publicly disclosed; only acreage and unit plans are public",
+    "Land-banking or lot-option arrangements: none found; the company owns its land and builds on its own lots",
+    "Any link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found (the shared web-search allowance ran out before these specific searches could be run, so this is from the sources opened, not a dedicated search)",
+    "Developer-level bank lines, lenders, cash, total debt and leverage: not publicly disclosed (private family company)",
+    "District bond offering documents on EMMA (the best public source for developer financial detail and officers) were not opened: EMMA needs a browser session and terms acceptance",
+    "Final size, coupons and closing of the October 2026 district bond sale: not confirmed",
+    "Structure and economics of the Benderson partnerships (Monarch Ranch, Legacy Place): not disclosed",
+    "Homebuilding M&A in 2025 to 2026: none found",
+    "2025 closings and revenue: see the ranking spine; the Builder 100 page could not be opened in this run"
+  ],
+  "sources_consulted": [
+    "https://flauditor.gov/pages/specialdistricts_efile%20rpts/2025%20village%20community%20development%20district%20no%2015.pdf",
+    "https://www.districtgov.org/wp-content/uploads/2026/10/D16-Financial-Statement-and-Summary-of-Activity.pdf",
+    "https://www.districtgov.org/districts/residential/sixteen/",
+    "https://www.districtgov.org/wp-content/uploads/2026/04/Unit-265V.pdf",
+    "https://www.districtgov.org/wp-content/uploads/2026/07/D16-Financial-Statement-and-Summary-of-Activity.pdf",
+    "https://www.districtgov.org/wp-content/uploads/2026/09/District-16-Final-Budget-FY2026-27-1.pdf",
+    "https://www.insurancejournal.com/news/southeast/2025/10/24/845049.htm",
+    "https://www.insurancejournal.com/news/southeast/2026/10/19/889563.htm",
+    "https://bondbuyer.com/news/unrated-bonds-latest-to-fund-floridas-villages-for-senior-citizens",
+    "https://floridatrend.com/article/39191/endless-horizon",
+    "https://www.villages-news.com/2025/05/12/top-official-with-the-villages-submits-monarch-ranch-annexation-application/",
+    "https://www.villages-news.com/2025/01/28/village-of-fenney-residents-wary-about-massive-coleman-ridge-development/",
+    "https://www.thevillages.com/whats-new/growth/announcing-adventhealth/",
+    "https://rebusinessonline.com/?p=456356",
+    "https://www.villages-news.com/2026/09/26/site-work-to-begin-on-700-acre-retail-and-wellness-development-in-the-villages/",
+    "https://www.villages-news.com/2025/05/30/the-villages-selling-off-citizens-first-bank/",
+    "https://www.villages-news.com/2025/12/30/morse-family-sells-off-citizens-first-bank-for-829-million/",
+    "https://www.villages-news.com/2025/08/01/rent-payments-and-top-salaries-revealed-in-the-villages-health-bankruptcy-filing/",
+    "https://www.villages-news.com/2025/09/13/unitedhealthcare-wants-to-ask-morse-family-where-the-money-went/",
+    "https://www.villages-news.com/2026/01/17/first-non-family-member-to-serve-as-ceo-of-the-villages/",
+    "https://en.wikipedia.org/wiki/The_Villages,_Florida",
+    "https://floridapublicnotices.com/notices/11169640"
+  ]
+}

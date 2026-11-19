@@ -1,0 +1,345 @@
+{
+  "builder_id": "schuber-mitchell-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Private, 100% ESOP-owned builder with no public debt, ratings or financial statements, so almost all of its capital structure is not publicly disclosed. What county records (as reported by Talk Business) show is a three-part land model in Northwest Arkansas: land banking of finished lots with TPG Angelo Gordon's Essential Housing (three recorded two-year option deals from Dec 2025 to Oct 2026 covering 248 lots and about $22.2M), finished lots bought or contracted from third-party developers (Calara, Kinney Creek, Three Pistols, Saddle Hill Estates), and raw land or lot purchases funded with short local bank loans (First National Bank of Fort Smith, North American Savings Bank, earlier City Bank of Lubbock). It also moves small batches of completed homes into a wholly owned rental affiliate, Steppingstone Home Rentals LLC, financed by Arvest Bank. A competitor is already the incumbent land banker, but only Northwest Arkansas deals are visible; Springfield, Joplin and the new Tulsa market show no public land-bank activity, which is where room for a second provider is most plausible.",
+    "land_strategy": "Mixed and shifting land-lighter. In 2020 the company was described as self-developing most of its lots (buying raw land, entitling it and installing infrastructure), for example the 400-lot Orchard Park subdivision in Centerton. Since late 2025 it has added finished-lot option agreements with Essential Housing and a developer partnership with Calara, while still buying raw land outright (62.85 acres in Gravette, Oct 2026). No stated owned/optioned target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Lot counts are not publicly disclosed (private company). Only deal-level counts are public: 248 lots under Essential Housing option agreements and 154 lots contracted from Calara in Northwest Arkansas."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Essential Housing (TPG Angelo Gordon)",
+        "counterparty_type": "Land banker",
+        "description": "A TPG Angelo Gordon fund bought 100 finished lots in phase two of the Lexington addition in Pea Ridge, AR from Kinney Creek Development; Essential Housing holds a two-year option-to-purchase agreement on the lots with Schuber Mitchell Homes LLC.",
+        "amount_usd_m": 8.08,
+        "lots": 100,
+        "date": "2026-10",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/10/real-deals-100-lots-in-pea-ridge-sell-for-8-08-million/",
+        "source_title": "Talk Business & Politics: Real Deals: 100 lots in Pea Ridge sell for $8.08 million",
+        "note": "Article dated 2026-10-06, built from Benton County records; about $80,850 per lot. The article states the companies have similar agreements on Lexington phase one and Bariloche phase two."
+      },
+      {
+        "counterparty": "Essential Housing (TPG Angelo Gordon)",
+        "counterparty_type": "Land banker",
+        "description": "A TPG Angelo Gordon fund bought 75 finished lots in phase one of the Lexington addition in Pea Ridge, AR; Essential Housing holds a two-year option-to-purchase agreement on them with Schuber Mitchell Homes LLC.",
+        "amount_usd_m": 5.51,
+        "lots": 75,
+        "date": "2026-02",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/02/real-deals-143-lots-in-pea-ridge-sell-for-10-5-million/",
+        "source_title": "Talk Business & Politics: Real Deals: 143 lots in Pea Ridge sell for $10.5 million",
+        "note": "Article dated 2026-02-23. The amount is derived: the article gives $10.51M for 143 lots at $73,500 per lot, of which the TPG fund took 75 (the other 68 went to an unrelated buyer)."
+      },
+      {
+        "counterparty": "Essential Housing (TPG Angelo Gordon)",
+        "counterparty_type": "Land banker",
+        "description": "A TPG Angelo Gordon fund bought 73 finished lots in phase two of the Bariloche addition in Tontitown, AR in a same-day double closing through an intermediary (Hoplon Investments, which paid the developer $7.15M); Essential Housing holds a two-year option-to-purchase agreement on the lots with Schuber Mitchell Homes LLC.",
+        "amount_usd_m": 8.61,
+        "lots": 73,
+        "date": "2025-12",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2025/12/real-deals-tontitown-lots-sell-twice-in-one-day-for-combined-15-76-million/",
+        "source_title": "Talk Business & Politics: Real Deals: Tontitown lots sell twice in one day for combined $15.76 million",
+        "note": "Article dated 2025-12-08; about $118,000 per lot paid by the fund versus $98,000 per lot paid to the developer the same day. First recorded Essential Housing deal for this builder found in this run."
+      },
+      {
+        "counterparty": "Essential Housing (TPG Angelo Gordon)",
+        "counterparty_type": "Land banker",
+        "description": "Program-level announcement: a strategic land-financing partnership under which Essential Housing finances finished lots across multiple developments and markets for the builder, with Whelan Advisory as the builder's exclusive financial advisor. Size not disclosed.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Inferred",
+        "source_url": "https://www.builderonline.com/?p=170593",
+        "source_title": "Builder: Schuber Mitchell Homes Establishes Land Banking Partnership With Essential Housing",
+        "note": "Seen in search snippet, not confirmed: the Builder article returned 403 and could not be opened, and no press release was found on another site. Date not visible; the snippet cites the builder's 2025 Builder 100 rank, so it ran between mid-2025 and spring 2026. The three recorded deals above corroborate the relationship."
+      },
+      {
+        "counterparty": "Calara (Rausch Companies)",
+        "counterparty_type": "Developer",
+        "description": "Land development partnership in Rogers, AR: Calara took assignment of the builder's land contract, bought the site for $3.17M, will develop about 154 large single-family lots and has the finished lots contracted for sale to Schuber Mitchell Homes. Start is tied to a City of Rogers sewer upgrade.",
+        "amount_usd_m": 3.17,
+        "lots": 154,
+        "date": "2026-09",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/09/calara-working-on-estimated-565-million-in-benton-county-housing-projects/",
+        "source_title": "Talk Business & Politics: Calara working on estimated $565 million in Benton County housing projects",
+        "note": "Article dated 2026-09-29, quoting Calara regional president Don Draper. Amount is Calara's land purchase price, not the lot takedown value. Calara is the land arm of John Rausch's Rausch Companies (he sold Rausch Coleman Homes to Lennar in 2025)."
+      },
+      {
+        "counterparty": "Kinney Creek Development LLC",
+        "counterparty_type": "Developer",
+        "description": "Bentonville developer (Michael Seay) that supplies finished lots in Pea Ridge, AR: it sold lots in the Yorktown and Concord additions directly to the builder (about $3.02M in Oct 2024 and $3.06M in Jan 2025, with further purchases to May 2025) and sold both Lexington phases to the TPG Angelo Gordon fund for the builder's option program.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-02",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/02/real-deals-143-lots-in-pea-ridge-sell-for-10-5-million/",
+        "source_title": "Talk Business & Politics: Real Deals: 143 lots in Pea Ridge sell for $10.5 million",
+        "note": "Lot count for the direct purchases is not stated."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "First National Bank of Fort Smith one-year land loan (62.85 acres, Gravette, AR)",
+        "type": "Project debt",
+        "principal_usd_m": 5.43,
+        "rate": "",
+        "maturity": "2027-10",
+        "secured": "Secured",
+        "lenders_agent": "First National Bank of Fort Smith",
+        "status": "Outstanding",
+        "as_of": "2026-10-21",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/10/real-deals-springdale-shopping-center-anchored-by-harps-sells-for-11-million/",
+        "source_title": "Talk Business & Politics: Real Deals: Springdale shopping center anchored by Harps sells for $11 million",
+        "note": "Funds the builder's $5.25M purchase of raw pasture at I-49 and Highway 72 in Gravette. Maturity is derived from the stated one-year term and the article date; the loan exceeds the purchase price, so it likely includes development or carry costs. Near-term maturity on raw land."
+      },
+      {
+        "instrument": "North American Savings Bank construction loan (40 lots, Saddle Hill Estates, Benton County, AR)",
+        "type": "Project debt",
+        "principal_usd_m": 4.08,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "North American Savings Bank, F.S.B. (Grandview, MO)",
+        "status": "Outstanding",
+        "as_of": "2026-07-09",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/07/real-deals-bentonville-medical-office-sells-for-8-33-million/",
+        "source_title": "Talk Business & Politics: Real Deals: Bentonville medical office sells for $8.33 million",
+        "note": "Funds the builder's $5.44M purchase of 40 large finished lots ($136,000 per lot) east of Rogers Executive Airport. Term not stated."
+      },
+      {
+        "instrument": "Arvest Bank eight-year loan to Steppingstone Home Rentals LLC (14 rental homes, Pea Ridge, AR)",
+        "type": "Project debt",
+        "principal_usd_m": 2.95,
+        "rate": "",
+        "maturity": "2034",
+        "secured": "Secured",
+        "lenders_agent": "Arvest Bank",
+        "status": "Outstanding",
+        "as_of": "2026-08-27",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/08/real-deals-pasture-along-interstate-49-in-lowell-sells-for-4-3-million/",
+        "source_title": "Talk Business & Politics: Real Deals: Pasture along Interstate 49 in Lowell sells for $4.3 million",
+        "note": "Borrower is the builder's rental affiliate, which bought 14 new homes from the builder for $4.26M. Maturity year derived from the stated eight-year term."
+      },
+      {
+        "instrument": "Arvest Bank two-year loan to Steppingstone Home Rentals LLC (12 rental homes, Pea Ridge, AR)",
+        "type": "Project debt",
+        "principal_usd_m": 2.98,
+        "rate": "",
+        "maturity": "2028-02",
+        "secured": "Secured",
+        "lenders_agent": "Arvest Bank",
+        "status": "Outstanding",
+        "as_of": "2026-02-23",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/02/real-deals-143-lots-in-pea-ridge-sell-for-10-5-million/",
+        "source_title": "Talk Business & Politics: Real Deals: 143 lots in Pea Ridge sell for $10.5 million",
+        "note": "Borrower is Steppingstone Home Rentals LLC, whose sole member is Schuber Mitchell Homes; it bought 12 new homes from the builder for $3.88M. Maturity derived from the stated two-year term."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-10-21",
+        "type": "Debt issuance",
+        "description": "Bought 62.85 acres of raw land in Gravette, AR for $5.25M with a $5.43M one-year loan from First National Bank of Fort Smith.",
+        "amount_usd_m": 5.43,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/10/real-deals-springdale-shopping-center-anchored-by-harps-sells-for-11-million/",
+        "source_title": "Talk Business & Politics: Real Deals (2026-10-21)",
+        "note": "Date is the article date; the closing was shortly before."
+      },
+      {
+        "date": "2026-10-06",
+        "type": "Land-bank deal",
+        "description": "TPG Angelo Gordon fund bought 100 lots in Lexington phase two, Pea Ridge, for $8.08M under a two-year option agreement between Essential Housing and the builder.",
+        "amount_usd_m": 8.08,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/10/real-deals-100-lots-in-pea-ridge-sell-for-8-08-million/",
+        "source_title": "Talk Business & Politics: Real Deals (2026-10-06)",
+        "note": "Date is the article date."
+      },
+      {
+        "date": "2026-09-29",
+        "type": "Other",
+        "description": "Calara disclosed a land development partnership in Rogers, AR: it took assignment of the builder's land contract, bought the site for $3.17M and will deliver about 154 finished lots contracted for sale to the builder.",
+        "amount_usd_m": 3.17,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/09/calara-working-on-estimated-565-million-in-benton-county-housing-projects/",
+        "source_title": "Talk Business & Politics: Calara working on estimated $565 million in Benton County housing projects",
+        "note": ""
+      },
+      {
+        "date": "2026-08-27",
+        "type": "Other",
+        "description": "Sold 14 new homes in Pea Ridge to its rental affiliate Steppingstone Home Rentals LLC for $4.26M, financed with a $2.95M eight-year Arvest Bank loan.",
+        "amount_usd_m": 4.26,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/08/real-deals-pasture-along-interstate-49-in-lowell-sells-for-4-3-million/",
+        "source_title": "Talk Business & Politics: Real Deals (2026-08-27)",
+        "note": "Date is the article date. Shows a small build-to-hold rental sleeve alongside for-sale building."
+      },
+      {
+        "date": "2026-07-09",
+        "type": "Debt issuance",
+        "description": "Bought 40 finished lots in Saddle Hill Estates (Benton County, AR) for $5.44M with a $4.08M construction loan from North American Savings Bank.",
+        "amount_usd_m": 4.08,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/07/real-deals-bentonville-medical-office-sells-for-8-33-million/",
+        "source_title": "Talk Business & Politics: Real Deals (2026-07-09)",
+        "note": "Date is the article date."
+      },
+      {
+        "date": "2026-02-23",
+        "type": "Land-bank deal",
+        "description": "TPG Angelo Gordon fund bought 75 lots in Lexington phase one, Pea Ridge, under a two-year option agreement between Essential Housing and the builder; in the same report the builder sold 12 new homes to Steppingstone Home Rentals LLC for $3.88M with a $2.98M two-year Arvest Bank loan.",
+        "amount_usd_m": 5.51,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/02/real-deals-143-lots-in-pea-ridge-sell-for-10-5-million/",
+        "source_title": "Talk Business & Politics: Real Deals (2026-02-23)",
+        "note": "Amount is the derived land-bank purchase (75 lots at $73,500). Date is the article date."
+      },
+      {
+        "date": "2025-12-08",
+        "type": "Land-bank deal",
+        "description": "TPG Angelo Gordon fund bought 73 lots in Bariloche phase two, Tontitown, for $8.61M in a same-day double closing, under a two-year option agreement between Essential Housing and the builder.",
+        "amount_usd_m": 8.61,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2025/12/real-deals-tontitown-lots-sell-twice-in-one-day-for-combined-15-76-million/",
+        "source_title": "Talk Business & Politics: Real Deals (2025-12-08)",
+        "note": "Date is the article date."
+      },
+      {
+        "date": "2025-06-19",
+        "type": "Other",
+        "description": "Bought 97 finished lots in the Woodcrest Walk addition, Centerton, AR from developer Three Pistols LLC in two transactions totalling $9.25M (about $95,443 per lot). No lender is named in the report.",
+        "amount_usd_m": 9.25,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2025/06/real-deals-nearly-100-lots-in-centerton-sell-for-9-million/",
+        "source_title": "Talk Business & Politics: Real Deals: Nearly 100 lots in Centerton sell for $9 million",
+        "note": "Date is the article date. Outright finished-lot purchase six months before the first recorded land-bank deal."
+      },
+      {
+        "date": "2024-11-06",
+        "type": "Other",
+        "description": "Sold completed homes in Northwest Arkansas to Joplin entities: 15 homes in Apple Crossing (Highfill) to Peacock Galactic LLC for $4.46M and 17 homes in Columbia Crossing (Decatur) to Columbia Crossing SM DDB LLC for $4.0M, each financed by First State Community Bank (loans of $3.01M for 17 months and $2.6M for 15 months).",
+        "amount_usd_m": 8.46,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2024/11/real-deals-rogers-hotel-along-i-49-sells-for-12-5-million/",
+        "source_title": "Talk Business & Politics: Real Deals: Rogers hotel along I-49 sells for $12.5 million",
+        "note": "An August 2024 report shows an earlier 10-home, $2.97M sale to Peacock Galactic LLC, 'managed by Joseph Harris', with a $2.0M eight-month First State Community Bank mortgage (https://talkbusiness.net/2024/08/walton-led-nonprofit-spends-10-million-for-11-acres-in-bentonville/). The purpose of these bulk sales to related-looking Joplin entities (inventory financing, model leaseback or rentals) is not stated; whether the manager is the builder's CEO is not confirmed."
+      },
+      {
+        "date": "2021-01-12",
+        "type": "Debt issuance",
+        "description": "Bought 162 acres of subdivision-ready land in Centerton, AR for $3.4M, financed by City Bank of Lubbock, Texas (loan amount not stated).",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2021/01/real-deals-schuber-mitchell-pays-3-4-million-for-centerton-land/",
+        "source_title": "Talk Business & Politics: Real Deals: Schuber Mitchell pays $3.4 million for Centerton land",
+        "note": "Historical. A Lubbock lender fits the company's founding tie to Lubbock-based Betenbough Homes, whose founder backed the start-up financially; whether City Bank is still a lender is not public."
+      },
+      {
+        "date": "2020-03-11",
+        "type": "Equity",
+        "description": "The three shareholders (Daman Schuber, Dan Mitchell and Joe Harris) sold 100% of the stock to a newly created employee stock ownership plan; the company had reorganised as a Public Benefit Corporation in February 2020. Atlantic Management Company advised the ESOP trustee.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.einpresswire.com/article/511626597/atlantic-management-company-inc-advises-on-esop-transaction-for-schuber-mitchell-homes",
+        "source_title": "Atlantic Management Company advises on ESOP transaction for Schuber Mitchell Homes (press release)",
+        "note": "Price, seller notes and any ESOP acquisition debt are not disclosed. An ESOP-owned builder cannot easily raise outside equity, which makes off-balance-sheet lot financing more useful to it."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": [
+      {
+        "firm": "TPG Angelo Gordon",
+        "relationship": "Incumbent land banker through its Essential Housing platform: three recorded finished-lot deals in Northwest Arkansas with two-year option-to-purchase agreements to the builder (73 lots in Tontitown, Dec 2025; 75 and 100 lots in the two Lexington phases in Pea Ridge, Feb and Oct 2026), 248 lots and about $22.2M in total. A Builder article (not opened, 403) describes a wider multi-market partnership arranged by Whelan Advisory.",
+        "date": "2026-10",
+        "confidence": "Reported",
+        "source_url": "https://talkbusiness.net/2026/10/real-deals-100-lots-in-pea-ridge-sell-for-8-08-million/",
+        "source_title": "Talk Business & Politics: Real Deals: 100 lots in Pea Ridge sell for $8.08 million",
+        "note": "Totals are summed from three Talk Business reports; the $5.51M Lexington phase one figure is derived from the per-lot price."
+      }
+    ]
+  },
+  "ma": [
+    {
+      "date": "2024-08-19",
+      "role": "Acquirer",
+      "counterparty": "Cronkhite Homes",
+      "description": "Acquired Cronkhite Homes, a Springfield, Missouri builder, to enter the Springfield metro. Terms, lots and closings were not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Created the Springfield, MO market (reported at roughly 200 homes a year under general manager Andy Lett) and brought Cronkhite's communities and land positions into the company; it predates 2025 and is included for context as the only acquisition found.",
+      "confidence": "Verified",
+      "source_url": "https://blog.schubermitchell.com/schuber-mitchell-homes-announces-acquisition-of-cronkhite-homes",
+      "source_title": "Schuber Mitchell Homes Announces Acquisition of Cronkhite Homes (company release)",
+      "note": "Release dated 2024-08-19, posted 2024-08-30. The Springfield volume and Andy Lett's role come from a Builder article seen only as a search snippet."
+    }
+  ],
+  "gaps": [
+    "M&A in 2025 and 2026: none found; no deal announced since the 2026 Builder 100 (May 2026)",
+    "Total lots owned and controlled, years of supply: not publicly disclosed (private company)",
+    "Corporate revolver or builder line of credit, lender group and terms: not publicly disclosed; only project-level loans in Benton and Washington County, AR records are visible",
+    "Total debt, cash, liquidity, leverage and credit ratings: not publicly disclosed (no rated or public debt, no SEC filings)",
+    "Size, term, pricing and markets of the Essential Housing program beyond the three recorded Northwest Arkansas deals: not publicly disclosed; the Builder article on the partnership returned 403 and was not opened",
+    "ESOP transaction financing (seller notes, bank debt) and ESOP trustee: not publicly disclosed",
+    "Land financing in Missouri (Joplin, Springfield) and Oklahoma (Tulsa area): no public records found in this run; Talk Business covers Arkansas only",
+    "Joint ventures: none publicly disclosed (the Calara arrangement is a developer lot-purchase partnership, recorded under land_banking)",
+    "Links to Domain Real Estate Partners, Millrose Properties or Kennedy Lewis: none found",
+    "Relationship with affiliated developer Land Development Group (Joplin) and founder entities such as Shared Services LLC: ownership and lot-supply terms not publicly disclosed",
+    "The shared web-search allowance ran out part-way through this run, so later checks used direct page fetches only"
+  ],
+  "sources_consulted": [
+    "https://talkbusiness.net/?s=%22Schuber+Mitchell%22",
+    "https://talkbusiness.net/2026/10/real-deals-100-lots-in-pea-ridge-sell-for-8-08-million/",
+    "https://talkbusiness.net/2026/10/real-deals-springdale-shopping-center-anchored-by-harps-sells-for-11-million/",
+    "https://talkbusiness.net/2026/09/calara-working-on-estimated-565-million-in-benton-county-housing-projects/",
+    "https://talkbusiness.net/2026/08/real-deals-pasture-along-interstate-49-in-lowell-sells-for-4-3-million/",
+    "https://talkbusiness.net/2026/07/real-deals-bentonville-medical-office-sells-for-8-33-million/",
+    "https://talkbusiness.net/2026/02/real-deals-143-lots-in-pea-ridge-sell-for-10-5-million/",
+    "https://talkbusiness.net/2025/12/real-deals-tontitown-lots-sell-twice-in-one-day-for-combined-15-76-million/",
+    "https://talkbusiness.net/2025/06/real-deals-nearly-100-lots-in-centerton-sell-for-9-million/",
+    "https://talkbusiness.net/2025/05/real-deals-mills-farm-land-in-rogers-sells-for-4-49-million/",
+    "https://talkbusiness.net/2025/02/real-deals-61-acres-in-mills-farm-sell-for-more-than-12-million/",
+    "https://talkbusiness.net/2024/11/real-deals-rogers-hotel-along-i-49-sells-for-12-5-million/",
+    "https://talkbusiness.net/2024/08/walton-led-nonprofit-spends-10-million-for-11-acres-in-bentonville/",
+    "https://talkbusiness.net/2023/04/engineering-firm-with-nwa-ties-changes-name/",
+    "https://talkbusiness.net/2021/01/real-deals-schuber-mitchell-pays-3-4-million-for-centerton-land/",
+    "https://talkbusiness.net/2020/03/new-home-sales-in-bentonville-school-district-triple-all-others-in-nwa/",
+    "https://www.einpresswire.com/article/511626597/atlantic-management-company-inc-advises-on-esop-transaction-for-schuber-mitchell-homes",
+    "https://blog.schubermitchell.com/schuber-mitchell-homes-announces-acquisition-of-cronkhite-homes",
+    "https://blog.schubermitchell.com/love-coming-home-building-a-great-future-together",
+    "https://www.schubermitchell.com/our-story/",
+    "https://www.architectmagazine.com/firms/schuber-mitchell-homes_o/",
+    "https://www.builderonline.com/?p=170593 (403, not opened)"
+  ]
+}

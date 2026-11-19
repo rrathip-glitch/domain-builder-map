@@ -1,0 +1,422 @@
+{
+  "builder_id": "brookfield-residential",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Brookfield Residential is a land developer first: at 30 Sep 2026 it controlled 58,931 lots on a Brookfield-share basis (127,242 managed lots), and it pays for land with Brookfield Corporation equity, four unsecured 144A note series ($1.63B), a $675M unsecured revolver (drawn $586M, only $15M free at Q3 2026) and project loans. It is moving its land book off balance sheet by selling stakes to capital partners: 80% of five master-planned communities in Jan 2025 (NASH invested in five MPCs, announced Mar 2025), the Kolter Land partnership in the Southeast, and the Trez Capital JV. It now puts 5-50% equity into new land deals and also manages land with no equity. Its own land-banking counterparty is affiliate Brookfield Wealth Solutions (lot financing arrangements plus a 2025 land option agreement), and it invests in landbanking vehicles (Homebuilder Finance) and markets land banking to other builders. That makes it more a competitor or co-investor for Domain than a borrower. The opening for a third-party land banker is small but real: the $600M 6.25% notes mature in Sep 2027, Moody's moved the outlook to negative in Oct 2026, and the revolver is almost fully drawn.",
+    "land_strategy": "Mixed, moving to land-light. The company describes an asset-light managed-land model: it sources a capital partner for each new land deal and invests 5-50% equity, keeps its existing wholly owned land, and may manage land with no equity. Growth is to come mainly from JVs and managed-only assets, which earn development management fees and secure finished lots for its own homebuilding. Target leverage is 40-50%, matched to active land and housing inventory.",
+    "lots": {
+      "total_controlled": 58931,
+      "owned": 47518,
+      "optioned": 11413,
+      "pct_optioned": 19.4,
+      "years_supply": null,
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+      "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+      "note": "Brookfield Residential share. Owned = 35,611 lots owned directly (Canada 23,423; U.S. 12,188) + 11,907 lots held through 47 unconsolidated entities. Optioned = 11,413 lots of 'inventory not owned' (consolidated land under financing arrangements and lots under option), of which 11,253 are in Northern California, 57 in Southern California and 103 in Texas. pct_optioned computed here (11,413 / 58,931). Managed lots at 100% (incl. JV partners' and managed-only interests): 127,242. Dec 31 2025: 58,155 controlled (34,213 owned, 12,432 JV, 11,510 not owned). Years supply not disclosed. Note that inventory-not-owned book value is only $19.3M, so most of these lots appear to be optioned or financed rather than balance-sheet land."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Brookfield Wealth Solutions (BWS)",
+        "counterparty_type": "Affiliate",
+        "description": "BWS is a Brookfield Corporation affiliate. It holds land under financing arrangements that Brookfield Residential buys back as lots, and from 2025 a land option agreement under which Brookfield Residential pays option maintenance fees and deposits for the right to buy lots. At 30 Sep 2026 the related liability was $17.2M, inventory not owned was $19.3M, deposits were $12.7M on the financing arrangements and $24.5M on the option agreements, and capitalized option fees were $6.5M. In the first nine months of 2026 it paid $49.2M for lots and $16.1M for land bought from BWS.",
+        "amount_usd_m": 17.2,
+        "lots": null,
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "In the 2025 Annual Report, 2025 lot takedowns from BWS were $83.1M (2024: $60.3M) and the liability fell from $117.3M (Dec 2024) to $53.7M (Dec 2025); the land option agreement with BWS was entered in 2025. amount_usd_m is the outstanding liability at Q3 2026, not the program size, which is not disclosed. Lot count not disclosed."
+      },
+      {
+        "counterparty": "Homebuilder Finance (Brookfield Residential US Land Holdings LLC, II LLC and III)",
+        "counterparty_type": "Affiliate",
+        "description": "Brookfield-affiliated landbanking vehicles that Brookfield Residential invests in, so here it is on the land-banker side. It holds 49.0%, 22.2% and 26.5% interests, carried at fair value as 'Homebuilder Finance Investments' ($63.6M at 30 Sep 2026; $78.0M at Dec 2025). It also lends to Homebuilder Finance: up to $50M at SOFR+2.0-2.75%, with $9.0M outstanding at Dec 2025 (Dec 2024: $56.8M under a $125M line).",
+        "amount_usd_m": 63.6,
+        "lots": null,
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "Ownership percentages and loan terms come from the 2025 Annual Report, Note 3 and receivables note (https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2025-annual-report.pdf). The builders these vehicles land-bank for are not disclosed."
+      },
+      {
+        "counterparty": "Third-party land and lot option sellers (not named)",
+        "counterparty_type": "Unknown",
+        "description": "Off-balance-sheet land and lot option contracts. At 30 Sep 2026 Brookfield Residential had $62M of mostly non-refundable deposits and entitlement costs and a $283M remaining exercise price, up from $21M and $180M at Dec 2025. A further $114.1M of deposits backs land purchase obligations with $1.3B committed (Dec 2025: $637.4M).",
+        "amount_usd_m": 283,
+        "lots": null,
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "Counterparties not disclosed. The remaining exercise price is split into $47.2M on options included in inventory and $235.4M on options held in receivables. The steep rise in purchase commitments ($637M to $1.3B in 2026) is the main sign of new land demand."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "6.250% Senior Notes due 2027",
+        "type": "Senior notes",
+        "principal_usd_m": 600,
+        "rate": "6.250%",
+        "maturity": "2027-09-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "144A private placement co-issued by Brookfield Residential Properties ULC and Brookfield Residential U.S. LLC. Callable at par. The Q3 2026 report says management is evaluating options to refinance before maturity; this is the nearest major maturity. Trustee not disclosed in the reports."
+      },
+      {
+        "instrument": "5.000% Senior Notes due 2029",
+        "type": "Senior notes",
+        "principal_usd_m": 350,
+        "rate": "5.000%",
+        "maturity": "2029-06-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "Co-issued with Brookfield Residential U.S. LLC; callable at par from 15 Jun 2026."
+      },
+      {
+        "instrument": "5.125% Senior Notes due 2029 (C$250M)",
+        "type": "Senior notes",
+        "principal_usd_m": 176,
+        "rate": "5.125%",
+        "maturity": "2029-06-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "C$250M principal, shown as US$176M at the 30 Sep 2026 rate. Co-issued with Brookfield Residential U.S. LLC; callable at par from 15 Jun 2026."
+      },
+      {
+        "instrument": "4.875% Senior Notes due 2030",
+        "type": "Senior notes",
+        "principal_usd_m": 500,
+        "rate": "4.875%",
+        "maturity": "2030-02-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "Co-issued with Brookfield Residential U.S. LLC. Callable at 101.625% at Q3 2026, falling to par from 15 Feb 2028. The incurrence covenants (fixed-charge coverage at least 2.0x; net debt to tangible net worth at most 3.0x) stood at 3.07x and 1.13x at Q3 2026."
+      },
+      {
+        "instrument": "North American unsecured revolving credit facility ($675M)",
+        "type": "Revolver",
+        "principal_usd_m": 586,
+        "rate": "SOFR or CORRA + 2.00-2.75% (ABR or Canadian prime + 1.00-1.75%)",
+        "maturity": "2028",
+        "secured": "Unsecured",
+        "lenders_agent": "Not disclosed",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "$586M drawn with only $15.2M available at 30 Sep 2026 (Dec 2025: $333M drawn, $276.7M available). Borrowable in US or Canadian dollars. Covenants: tangible net worth at least $1.9B (actual $2,214M) and total debt to capitalization at most 65% (actual 53%). The 2028 maturity comes from the Q3 2026 corporate profile (https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/other-documents/quarterly-corporate-profile/2026/q3-2026---corporate-profile.pdf); the agent and lenders are not disclosed."
+      },
+      {
+        "instrument": "Lilia (Honolulu) secured term loan, OliverMcMillan Kuhio LLC",
+        "type": "Project debt",
+        "principal_usd_m": 210,
+        "rate": "SOFR + 1.50% (SOFR capped at 5.0%)",
+        "maturity": "2031-01",
+        "secured": "Secured",
+        "lenders_agent": "Not disclosed",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "Refinanced 9 Jan 2026, replacing a $156M construction loan due Mar 2026. Fully drawn at $210M. Brookfield Residential U.S. LLC must keep net worth of at least $210M (actual $399M)."
+      },
+      {
+        "instrument": "Canadian project-specific financings (3 facilities, C$102M)",
+        "type": "Project debt",
+        "principal_usd_m": 71,
+        "rate": "CORRA + 1.7-2.1% or Canadian prime + 0.2-0.4%",
+        "maturity": "2027-08",
+        "secured": "Secured",
+        "lenders_agent": "Various lenders (not named)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "$35M (C$50M) is Brookfield Residential (Alberta) LP, due Aug 2027 or on demand. $30M (C$42M) is the South Seton facility, due on 240 days' notice. $7M (C$9M) is Edgemont Properties (Edmonton), maturing 30 Nov 2026. The maturity shown is the latest dated one."
+      },
+      {
+        "instrument": "Secured vendor take-back (VTB) mortgages, Ontario (C$52M)",
+        "type": "Other",
+        "principal_usd_m": 37,
+        "rate": "6.0% fixed; Canadian prime + 1.00-2.00%",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Land vendors",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "Three VTB mortgages on Ontario land held by Brookfield Residential (Ontario) LP; no financial covenants."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-01-08",
+        "type": "Other",
+        "description": "MPC Recapitalization: sold an 80% interest in five subsidiaries holding the land of five master-planned communities. Total cash consideration was $654.8M after a purchase-price true-up, with a $73.7M gain. The retained 20% is deconsolidated into unconsolidated entities.",
+        "amount_usd_m": 655,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2025-annual-report.pdf",
+        "source_title": "Brookfield Residential 2025 Annual Report (approved 2026-02-19)",
+        "note": "The filings do not name the buyer. On 2025-03-06 North America Sekisui House announced it had invested in five Brookfield Residential MPCs, which is very likely the same deal, but no source links the two explicitly."
+      },
+      {
+        "date": "2025-01-29",
+        "type": "Facility amendment",
+        "description": "Exercised the third and final extension on the Lilia (Honolulu) construction loan, to March 2026 ($156M capacity).",
+        "amount_usd_m": 156,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2025-annual-report.pdf",
+        "source_title": "Brookfield Residential 2025 Annual Report (approved 2026-02-19)",
+        "note": ""
+      },
+      {
+        "date": "2025-12-31",
+        "type": "Other",
+        "description": "Paid $350M of dividends to Brookfield Corporation in 2025 (2024: $475M). Also placed $299.8M on deposit with Brookfield Corporation under a new interest agreement.",
+        "amount_usd_m": 350,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2025-annual-report.pdf",
+        "source_title": "Brookfield Residential 2025 Annual Report (approved 2026-02-19)",
+        "note": "Dated to fiscal year-end; the quarterly dividends included $300M in the first nine months of 2025."
+      },
+      {
+        "date": "2025",
+        "type": "Land-bank deal",
+        "description": "Entered a land option agreement with affiliate Brookfield Wealth Solutions, paying option maintenance fees for the right to buy lots. Deposits were $15.5M at Dec 2025 and $24.5M at Sep 2026.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2025-annual-report.pdf",
+        "source_title": "Brookfield Residential 2025 Annual Report (approved 2026-02-19)",
+        "note": ""
+      },
+      {
+        "date": "2025-03-06",
+        "type": "JV",
+        "description": "North America Sekisui House invested in five Brookfield Residential MPCs (Austin, Phoenix, Denver, Northern California added). The combined partnership holds about $1.6B of US real estate assets and about 30,000 single-family lots under management across 11 states and 13 markets.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/brookfield-residential-and-north-america-sekisui-house-expand-strategic-partnership-with-1-6-billion-in-us-real-estate-assets-302393654.html",
+        "source_title": "PR Newswire: Brookfield Residential & North America Sekisui House expand strategic partnership (2025-03-06)",
+        "note": "Deal value not disclosed."
+      },
+      {
+        "date": "2025-06-02",
+        "type": "JV",
+        "description": "Joint venture with Trez Capital to develop Osprey Creek, a master-planned community of more than 900 lots in Polk County, Florida.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.trezcapital.com/newsreleases/brookfield-residential-and-trez-capital-form-joint-venture-to-complete-a-master-planned-community-within-the-florida-market",
+        "source_title": "Trez Capital news release: Brookfield Residential and Trez Capital form JV (Osprey Creek) (2025-06-02)",
+        "note": ""
+      },
+      {
+        "date": "2026-01-09",
+        "type": "Debt issuance",
+        "description": "Refinanced the Lilia mixed-use project loan with a new $210M secured term loan at SOFR + 1.50%, due January 2031.",
+        "amount_usd_m": 210,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": ""
+      },
+      {
+        "date": "2026-09-30",
+        "type": "Other",
+        "description": "Seasonal build-up: the revolver was drawn to $586M with only $15M available, and project financings rose to $281M. Net debt to capitalization rose to 50% (Dec 2025: 46%). Land acquisitions in the first nine months were $374M (2025: $174M).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": ""
+      },
+      {
+        "date": "2026-09-30",
+        "type": "Other",
+        "description": "Sold an industrial parcel in Menifee, California, to affiliate Brookfield Strategic Real Estate Partners IV. It was booked as $240M of revenue and $139M of gross margin in Q3 2026, and the related-party note shows $131.6M of cash proceeds.",
+        "amount_usd_m": 240,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": ""
+      },
+      {
+        "date": "2026-10-15",
+        "type": "Rating action",
+        "description": "Moody's affirmed the B1 corporate rating and changed the outlook to Negative, citing the senior notes maturities. S&P stays at B+ / Stable.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": ""
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Kolter Group (Kolter Land)",
+        "description": "Strategic partnership in which Brookfield Residential took an ownership position in Kolter Land. It supplies finished lots and mixed-use pads to builders in Florida, Tennessee, Georgia and the Carolinas and is headed by Jim Harvey, former President of Kolter Land. It closed 11 Nov 2024. Brookfield Residential's 2025 Annual Report says it is adding to its Southeastern managed land through this partnership.",
+        "date": "2024-11-21",
+        "confidence": "Verified",
+        "source_url": "https://www.kolter.com/brookfield-residential-has-acquired-an-ownership-position-in-kolter-land-to-expand-residential-land-development-in-southeast-u-s/",
+        "source_title": "Kolter Group release: Brookfield Residential has acquired an ownership position in Kolter Land (2024-11-21)",
+        "note": "Stake size not disclosed. Closing date 2024-11-11 per Cleary Gottlieb (https://www.clearygottlieb.com/news-and-insights/news-listing/brookfield-residential-in-strategic-partnership-with-kolter-land). In Oct 2026 HousingWire cited 'Newland and Kolter transactions' as Brookfield examples of investing in land operators before buying them outright; no buyout of Kolter has been announced."
+      },
+      {
+        "partner": "North America Sekisui House (NASH)",
+        "description": "Long-running land partnership, expanded in March 2025 when NASH invested in five Brookfield Residential MPCs. It covers about 30,000 managed lots and about $1.6B of US assets in 13 markets, with Brookfield Residential as development manager.",
+        "date": "2025-03-06",
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/brookfield-residential-and-north-america-sekisui-house-expand-strategic-partnership-with-1-6-billion-in-us-real-estate-assets-302393654.html",
+        "source_title": "PR Newswire: Brookfield Residential & North America Sekisui House expand strategic partnership (2025-03-06)",
+        "note": "Equity split not disclosed."
+      },
+      {
+        "partner": "Trez Capital",
+        "description": "JV to develop Osprey Creek, a master-planned community of more than 900 lots aimed at first-time buyers in Polk County, Florida, about 35 miles south of Orlando.",
+        "date": "2025-06-02",
+        "confidence": "Verified",
+        "source_url": "https://www.trezcapital.com/newsreleases/brookfield-residential-and-trez-capital-form-joint-venture-to-complete-a-master-planned-community-within-the-florida-market",
+        "source_title": "Trez Capital news release: Brookfield Residential and Trez Capital form JV (Osprey Creek) (2025-06-02)",
+        "note": ""
+      },
+      {
+        "partner": "47 unconsolidated entities (partners mostly not named)",
+        "description": "Land and housing JVs with combined assets of $3.52B (100% basis) and debt of $1.08B at 30 Sep 2026. Brookfield Residential's investment is $516M, it guarantees $220M of JV debt, and its share is 11,907 lots. It earned $36.1M of development management fees from them in the first nine months of 2026 and bought $222.8M of finished lots from them.",
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": "It also lends C$215M (five loans) to Canadian JVs."
+      },
+      {
+        "partner": "Brookfield Single Family Rental fund (BSFR)",
+        "description": "Brookfield Residential holds a 25.5% share of Brookfield's single-family rental fund, carried at a fair value of $456.9M at 30 Sep 2026.",
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+        "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)",
+        "note": ""
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": 2519,
+      "cash_usd_m": 269,
+      "liquidity_usd_m": 284,
+      "net_debt_to_capital_pct": 50,
+      "credit_ratings": "Moody's B1 (outlook Negative since 2026-10-15); S&P B+ (Stable)",
+      "fiscal_year_end": "December 31",
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+      "source_title": "Brookfield Residential Q3 2026 Interim Report (MD&A and notes, approved 2026-10-28)"
+    },
+    "competitor_links": [
+      {
+        "firm": "Brookfield Residential Land (own land-banking offering)",
+        "relationship": "Brookfield Residential's land website markets land banking to homebuilders ('structured, stable capital' for balance-sheet flexibility) alongside lot servicing. Its Q3 2026 profile says US builders increasingly seek off-balance-sheet capital. The MD&A lists 'providing landbanking services' among the land platform's strategies. This makes it a direct competitor to Domain for builder lot-option capital.",
+        "date": "2026-11-19",
+        "confidence": "Verified",
+        "source_url": "https://www.brookfieldresidentialland.com/",
+        "source_title": "Brookfield Residential Land website (retrieved 2026-11-19)",
+        "note": "The site's counters (managed lots, active land banks) render as 0, so it gives no program size."
+      },
+      {
+        "firm": "Domain Real Estate Partners",
+        "relationship": "Indirect people link only: Andrew Brausa co-founded Domain, later set up and led Brookfield Asset Management's land financing strategies, then left for Apollo in March 2025 to run Olympus Housing Capital. No public Domain-Brookfield Residential transaction was found.",
+        "date": "2025-06-30",
+        "confidence": "Reported",
+        "source_url": "https://realassets.ipe.com/news/brausa-to-lead-apollos-newly-formed-us-homebuilder-finance-company/10131351.article",
+        "source_title": "IPE Real Assets: Brausa to lead Apollo's newly formed US homebuilder finance company (2025-06-30)",
+        "note": ""
+      }
+    ]
+  },
+  "ma": [
+    {
+      "date": "2025-01-08",
+      "role": "Divestiture",
+      "counterparty": "Not named in filings (very likely North America Sekisui House)",
+      "description": "Sold an 80% interest in the land operations of five master-planned communities for $654.8M cash with a $73.7M gain, keeping 20% and the development management role.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Moves about 4/5 of five MPCs' land off Brookfield Residential's balance sheet into a partner JV. Lots now count in the managed and JV columns, not the owned column. Brookfield Residential stays the developer and lot seller, so builder lot buyers still deal with Brookfield in those communities. It funded the $350M of 2025 dividends to Brookfield Corporation.",
+      "confidence": "Verified",
+      "source_url": "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2025-annual-report.pdf",
+      "source_title": "Brookfield Residential 2025 Annual Report (approved 2026-02-19)",
+      "note": "Counterparty identification is Inferred: NASH announced on 2025-03-06 that it had invested in five Brookfield Residential MPCs (Austin, Phoenix, Denver, Northern California added) (https://www.prnewswire.com/news-releases/brookfield-residential-and-north-america-sekisui-house-expand-strategic-partnership-with-1-6-billion-in-us-real-estate-assets-302393654.html), but neither source links the two explicitly."
+    },
+    {
+      "date": "2025-06-02",
+      "role": "Acquirer",
+      "counterparty": "Trez Capital (JV partner)",
+      "description": "Entered Central Florida (Polk County) through a JV with Trez Capital to complete the Osprey Creek MPC (more than 900 lots).",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Adds a Polk County / Lakeland market (Lakeland now appears in the company's market list) and about 900 entry-level lots to be sold to builders.",
+      "confidence": "Verified",
+      "source_url": "https://www.trezcapital.com/newsreleases/brookfield-residential-and-trez-capital-form-joint-venture-to-complete-a-master-planned-community-within-the-florida-market",
+      "source_title": "Trez Capital news release: Brookfield Residential and Trez Capital form JV (Osprey Creek) (2025-06-02)",
+      "note": "A JV and land entry rather than a company acquisition; recorded here because it changes the market map."
+    }
+  ],
+  "gaps": [
+    "Revolver administrative agent and lender group: not publicly disclosed (private company; 144A notes, no SEC filings since 2015).",
+    "Senior notes trustee and CUSIPs: not disclosed in the reports.",
+    "Plan to refinance the $600M 6.25% notes due Sep 2027: management says it is 'evaluating options'; no offering announced as of 2026-11-19.",
+    "Buyer of the 80% MPC Recapitalization stake (Jan 2025): not named in the filings; NASH is the probable counterparty but not confirmed.",
+    "Kolter Land partnership: ownership percentage and capital committed are not publicly disclosed.",
+    "BWS land option agreement: lot count, program size and pricing are not publicly disclosed.",
+    "Third-party land-banking partners (Millrose, Kennedy Lewis, TPG Angelo Gordon, Domain, Varde, Oaktree, GTIS, etc.): none publicly disclosed. Brookfield Residential's lot option financing appears to be with its affiliate BWS.",
+    "Millrose Properties / Kennedy Lewis / TPG Angelo Gordon: no public link to Brookfield Residential found (Millrose names Brookfield Properties among its competitors per the project competitor file).",
+    "Builders served by Brookfield's own land-banking offering and by Homebuilder Finance: not publicly disclosed.",
+    "Years of lot supply: not disclosed.",
+    "No builder acquisition or sale by Brookfield Residential was found for 2025 to Nov 2026 (company press list, sitemap and two web searches checked).",
+    "Brookfield Corporation parent-level support: no guarantee of Brookfield Residential's debt is disclosed; the parent funds it through equity, takes dividends ($350M in 2025, $475M in 2024) and holds an interest-bearing deposit agreement."
+  ],
+  "sources_consulted": [
+    "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q3-interim-report.pdf",
+    "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q2-interim-report.pdf",
+    "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2026/2026-q1-interim-report.pdf",
+    "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/annual-and-quarterly-reports/2025-annual-report.pdf",
+    "https://edge.sitecorecloud.io/097dc95ddd47-brookfieldr25d6-prodb938-e22e/media/project/brp/brp/global/modules/financials-and-disclosures/other-documents/quarterly-corporate-profile/2026/q3-2026---corporate-profile.pdf",
+    "https://www.prnewswire.com/news-releases/brookfield-residential-and-north-america-sekisui-house-expand-strategic-partnership-with-1-6-billion-in-us-real-estate-assets-302393654.html",
+    "https://realassets.ipe.com/news/us-housebuilder-nash-expands-partnership-with-brookfield-residential/10129296.article",
+    "https://www.trezcapital.com/newsreleases/brookfield-residential-and-trez-capital-form-joint-venture-to-complete-a-master-planned-community-within-the-florida-market",
+    "https://www.kolter.com/brookfield-residential-has-acquired-an-ownership-position-in-kolter-land-to-expand-residential-land-development-in-southeast-u-s/",
+    "https://www.clearygottlieb.com/news-and-insights/news-listing/brookfield-residential-in-strategic-partnership-with-kolter-land",
+    "https://www.brookfieldresidentialland.com/",
+    "https://www.housingwire.com/articles/housing-ma-global-capital/",
+    "https://realassets.ipe.com/news/brausa-to-lead-apollos-newly-formed-us-homebuilder-finance-company/10131351.article",
+    "https://www.brookfieldresidential.com/sitemap.xml",
+    "https://www.brookfieldresidential.com/press-releases-events-and-webcasts-landing/brookfield-residential-2026-third-quarter-results-conference-call-notice",
+    "https://www.prnewswire.com/news/brookfield-residential/"
+  ]
+}

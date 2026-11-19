@@ -1,0 +1,101 @@
+﻿Rank,Builder,Rank tier,Public / private,Status,People,Verified,Reported,Inferred,Land,Finance,C-suite,Regional,Division,Other,Regional heads,Regions listed,Regions with named leader,Land head found,Finance head found,Lots split known,Land bankers,Debt instruments,M&A,Feed stories,Gaps recorded
+1,D.R. Horton,Top 25,Public,People + financing,99,84,7,8,9,23,3,16,36,12,16,8,3,Yes,Yes,Yes,1,15,3,18,44
+2,Lennar Corp.,Top 25,Public,People + financing,59,55,0,4,8,5,2,8,27,9,8,12,8,Yes,Yes,Yes,4,12,6,41,28
+3,PulteGroup,Top 25,Public,People + financing,57,48,2,7,5,7,3,5,30,7,5,5,5,No,Yes,Yes,2,10,1,12,34
+4,NVR,Top 25,Public,People + financing,26,6,5,15,9,3,2,4,7,1,4,4,0,No,Yes,Yes,0,3,0,6,44
+5,Meritage Homes,Top 25,Public,People + financing,27,8,5,14,3,4,3,5,7,5,5,6,3,No,Yes,Yes,1,6,0,10,37
+6,Taylor Morrison,Top 25,Subsidiary,People + financing,38,29,3,6,2,5,1,3,19,8,3,4,4,Yes,Yes,Yes,3,8,3,8,37
+7,KB Home,Top 25,Public,People + financing,65,57,5,3,24,6,2,6,22,5,6,8,4,Yes,Yes,Yes,0,9,0,18,33
+8,Sekisui House U.S.,Top 25,Subsidiary,People + financing,38,14,9,15,4,5,4,3,16,6,3,6,1,No,Yes,Yes,0,17,3,8,39
+9,Toll Brothers,Top 25,Public,People + financing,60,50,4,6,3,5,3,11,31,7,11,7,4,No,Yes,Yes,2,10,3,11,48
+10,Century Communities,Top 25,Public,People + financing,41,39,0,2,0,3,3,11,17,7,10,11,9,No,Yes,Yes,1,7,2,18,45
+11,Ashton Woods Homes,Top 25,Private,People + financing,36,19,9,8,2,5,2,2,13,12,2,7,2,Yes,Yes,Yes,1,7,0,2,37
+12,Clayton Properties Group,Top 25,Subsidiary,People + financing,51,33,3,15,13,2,5,4,25,2,4,13,6,No,Yes,No,1,1,3,2,35
+13,M/I Homes,Top 25,Public,People + financing,28,12,1,15,10,3,1,2,9,3,2,2,2,No,Yes,Yes,0,5,0,2,32
+14,Dream Finders Homes,Top 25,Public,People + financing,41,20,5,16,5,3,3,1,21,8,1,5,1,Yes,Yes,No,2,12,7,42,38
+15,DRB Group,Top 25,Subsidiary,People + financing,33,33,0,0,0,4,2,4,17,6,4,5,4,No,Yes,No,0,9,5,4,16
+16,Hovnanian Enterprises,Top 25,Public,People + financing,28,13,5,10,7,5,3,4,7,2,2,6,2,No,Yes,Yes,3,14,4,1,34
+17,David Weekley Homes,Top 25,Private,People + financing,45,31,3,11,5,2,4,4,22,8,4,5,2,Yes,Yes,No,3,3,0,1,38
+18,Stanley Martin Homes,Top 25,Subsidiary,People + financing,31,12,1,18,5,1,3,2,17,3,2,18,14,No,Yes,No,2,4,7,2,23
+19,Tri Pointe Homes,Top 25,Subsidiary,People + financing,35,31,3,1,4,1,2,0,22,6,0,3,0,No,Yes,Yes,0,9,2,4,34
+20,LGI Homes,Top 25,Public,People + financing,44,40,0,4,5,2,2,1,31,3,1,7,1,Yes,Yes,Yes,0,5,0,11,38
+21,Beazer Homes,Top 25,Subsidiary,People + financing,23,12,0,11,5,5,3,1,6,3,1,3,0,Yes,Yes,Yes,2,6,3,39,34
+22,Perry Homes,Top 25,Private,People + financing,60,59,0,1,1,1,2,6,19,31,6,5,5,Yes,Yes,No,0,0,1,0,29
+23,Middleburg Communities,Top 25,Private,People + financing,36,33,1,2,4,9,1,2,12,8,1,2,1,Yes,Yes,No,0,3,0,0,23
+24,Mattamy Homes,Top 25,Subsidiary,People + financing,25,25,0,0,2,3,3,0,10,7,0,4,0,No,Yes,No,0,6,0,5,24
+25,DSLD Homes,Top 25,Private,People + financing,5,1,2,2,1,1,2,0,1,0,0,7,0,Yes,Yes,No,0,1,0,0,21
+26,Green Brick Partners,Top 50,Public,People + financing,19,17,0,2,3,4,3,0,8,1,0,3,1,Yes,Yes,Yes,0,8,0,5,15
+27,Risewell Homes,Top 50,Subsidiary,People + financing,24,18,1,5,1,5,2,0,12,4,0,9,8,Yes,Yes,No,3,7,2,2,19
+28,The Villages of Lake Sumter,Top 50,Private,People + financing,8,1,4,3,2,0,2,0,0,4,0,0,0,Yes,No,No,0,4,1,0,20
+29,Highland Homes,Top 50,Private,People + financing,14,5,7,2,2,2,4,0,4,2,0,3,2,Yes,Yes,No,0,0,0,0,18
+30,Habitat for Humanity International,Top 50,Private,People + financing,18,17,0,1,0,5,3,1,0,9,1,1,1,No,Yes,No,0,13,0,0,21
+31,Adams Homes,Top 50,Private,People + financing,22,5,0,17,2,4,1,2,12,1,2,2,1,No,Yes,No,0,2,0,0,25
+32,Fischer Homes,Top 50,Private,People + financing,24,8,9,7,9,1,4,0,6,4,0,2,0,Yes,Yes,No,0,1,0,1,22
+33,Smith Douglas Homes,Top 50,Public,People + financing,14,13,0,1,0,2,2,1,6,3,1,2,1,No,Yes,Yes,0,4,1,1,17
+34,Shea Homes,Top 50,Subsidiary,People + financing,17,5,4,8,2,0,1,3,11,0,3,8,5,No,No,No,0,3,1,0,17
+35,AMH,Top 50,Public,People + financing,16,10,5,1,2,4,2,1,0,7,0,1,1,Yes,Yes,Yes,1,11,0,4,18
+36,Maronda Homes,Top 50,Private,People + financing,22,0,14,8,2,2,4,5,8,1,4,3,1,No,Yes,No,0,1,0,1,23
+37,Drees Homes,Top 50,Private,People + financing,22,16,6,0,3,5,2,3,7,2,2,3,2,No,Yes,No,0,0,2,0,19
+38,Betenbough Homes,Top 50,Subsidiary,People + financing,23,19,2,2,5,3,2,3,4,6,3,3,3,Yes,Yes,No,0,0,0,0,20
+39,True Homes,Top 50,Private,People + financing,10,5,4,1,2,0,3,0,0,5,0,5,0,Yes,No,No,0,1,0,0,20
+40,CBH Homes,Top 50,Private,People + financing,12,10,1,1,1,1,2,0,0,8,0,0,0,Yes,Yes,No,0,0,0,0,16
+41,Bloomfield Homes,Top 50,Subsidiary,People + financing,11,9,0,2,1,0,2,0,0,8,0,1,0,Yes,No,No,0,11,1,0,23
+42,Minto Communities,Top 50,Subsidiary,People + financing,22,10,1,11,3,2,3,0,1,13,0,2,2,Yes,Yes,No,0,3,4,0,26
+43,Davidson Homes,Top 50,Private,People + financing,19,6,8,5,5,3,2,0,6,3,0,11,6,No,Yes,No,0,0,4,3,28
+44,GL Homes,Top 50,Private,People + financing,18,17,0,1,6,1,3,0,7,1,0,3,2,Yes,Yes,No,0,4,0,0,22
+45,Kolter Homes,Top 50,Subsidiary,People + financing,46,46,0,0,21,7,3,0,8,7,0,4,3,Yes,Yes,No,1,13,1,0,23
+46,Eastwood Homes,Top 50,Private,People + financing,15,8,5,2,0,1,2,0,10,2,0,0,0,No,Yes,No,0,2,3,0,20
+47,Brookfield Residential Properties,Top 50,Subsidiary,People + financing,41,40,1,0,25,3,3,6,0,4,6,12,10,Yes,Yes,Yes,0,8,2,2,20
+48,Castlerock Communities,Top 50,Subsidiary,People + financing,13,5,2,6,4,2,2,0,3,2,0,7,1,Yes,Yes,No,0,5,1,0,27
+49,Legend Homes,Top 50,Private,People + financing,19,15,0,4,2,4,2,0,3,8,0,3,3,Yes,Yes,No,0,0,0,0,20
+50,BBL Building Co.,Top 50,Private,People + financing,9,8,0,1,0,1,3,1,0,4,0,3,2,No,Yes,No,0,0,0,0,16
+51,Hancock Builders,Top 100,Private,People + financing,8,7,1,0,2,1,3,0,0,2,0,0,0,Yes,Yes,No,0,0,0,0,15
+52,Edge Homes,Top 100,Subsidiary,People + financing,17,17,0,0,3,2,3,0,0,9,0,0,0,Yes,Yes,No,0,2,2,0,17
+53,Epcon Communities,Top 100,Private,People + financing,15,2,8,5,1,1,4,3,1,5,3,6,3,Yes,Yes,No,0,9,0,0,19
+54,Hayden Homes,Top 100,Private,People + financing,20,13,2,5,1,3,4,3,4,5,3,6,4,No,Yes,No,0,0,0,0,16
+55,The Challenger Group,Top 100,Private,People + financing,32,29,0,3,3,3,4,0,16,6,0,3,3,Yes,Yes,No,0,2,1,0,19
+56,United Homes Group,Top 100,Subsidiary,People + financing,5,5,0,0,0,0,1,0,3,1,0,5,0,No,No,Yes,3,3,4,0,18
+57,Homes by Westbay,Top 100,Private,People + financing,18,3,9,6,2,2,2,0,6,6,0,3,3,Yes,Yes,No,1,0,0,0,21
+58,Lifestyle Homes,Top 100,Private,People + financing,7,7,0,0,1,2,1,0,0,3,0,0,0,Yes,Yes,No,0,0,0,0,16
+59,Stylecraft Builders,Top 100,Private,People + financing,10,9,1,0,1,1,3,0,0,5,0,0,0,Yes,Yes,No,0,0,0,0,20
+60,Westin Homes,Top 100,Private,People + financing,7,1,0,6,2,0,1,0,0,4,0,2,0,Yes,No,No,0,0,0,0,18
+61,Empire Homes,Top 100,Subsidiary,People + financing,27,25,1,1,7,2,4,5,4,5,5,5,4,Yes,Yes,No,1,5,3,0,23
+62,Holiday Builders,Top 100,Subsidiary,People + financing,13,10,0,3,2,1,2,2,5,1,1,6,4,Yes,Yes,No,0,0,2,0,16
+63,First Texas Homes,Top 100,Private,People + financing,7,1,2,4,0,0,1,0,1,5,0,1,1,No,No,No,0,0,0,0,18
+64,Ivory Homes,Top 100,Private,People + financing,16,1,2,13,4,2,2,0,3,5,0,4,0,Yes,Yes,No,0,0,0,0,19
+65,McGuinn Homes,Top 100,Subsidiary,People + financing,10,5,4,1,0,2,2,0,3,3,0,4,3,No,Yes,No,0,0,3,0,18
+66,Trumark Homes,Top 100,Subsidiary,People + financing,21,16,0,5,6,1,3,0,8,3,0,5,5,Yes,Yes,No,0,2,3,0,25
+67,Allen Edwin Homes,Top 100,Private,People + financing,18,8,9,1,7,1,1,6,0,3,0,4,4,Yes,Yes,No,0,0,0,0,17
+68,Hakes Brothers,Top 100,Private,People + financing,13,1,3,9,0,1,3,0,7,2,0,4,1,No,Yes,No,0,0,0,0,22
+69,HHHunt Corp.,Top 100,Private,People + financing,17,17,0,0,7,2,2,0,2,4,0,3,2,Yes,Yes,No,0,2,0,2,18
+70,Schuber Mitchell Homes,Top 100,Private,People + financing,7,0,4,3,1,1,2,0,1,2,0,4,0,Yes,Yes,No,1,4,1,0,21
+71,Neal Communities,Top 100,Private,People + financing,16,13,2,1,3,2,2,2,0,7,1,2,1,Yes,Yes,No,0,0,0,0,25
+72,NeighborWorks America,Top 100,Private,People + financing,16,16,0,0,0,3,2,2,0,9,2,4,4,No,Yes,No,0,0,0,0,24
+73,View Homes,Top 100,Subsidiary,People + financing,8,6,1,1,1,1,2,0,0,4,0,6,0,Yes,Yes,No,0,0,1,0,17
+74,Long Lake Ltd.,Top 100,Private,People + financing,4,1,1,2,1,1,2,0,0,0,0,1,0,Yes,Yes,No,0,0,0,0,16
+75,First America Homes,Top 100,Subsidiary,People + financing,14,14,0,0,3,2,2,0,3,4,0,4,2,Yes,Yes,No,0,0,0,0,21
+76,McBride & Son Cos.,Top 100,Private,People + financing,12,12,0,0,1,2,3,0,0,6,0,0,0,Yes,Yes,No,0,0,1,0,18
+77,HistoryMaker Homes,Top 100,Subsidiary,People + financing,12,11,0,1,1,3,5,1,1,1,1,1,0,Yes,Yes,No,0,1,3,8,18
+78,Esperanza Homes,Top 100,Subsidiary,People + financing,9,9,0,0,1,1,4,0,0,3,0,4,0,Yes,Yes,No,0,3,0,0,17
+79,Jim Chapman Construction Group,Top 100,Private,People + financing,14,13,1,0,4,1,2,0,1,6,0,0,0,Yes,Yes,No,0,0,0,0,20
+80,Saratoga Homes,Top 100,Private,People + financing,6,4,1,1,1,1,1,0,1,2,0,5,0,Yes,Yes,No,0,5,0,0,14
+81,Ball Homes,Top 100,Private,People + financing,5,2,2,1,1,0,3,0,0,1,0,3,0,Yes,No,No,0,1,0,0,15
+82,Lombardo Homes,Top 100,Private,People + financing,8,4,3,1,1,1,2,0,2,2,0,3,1,Yes,Yes,No,0,0,0,0,18
+83,Colen Built Development,Top 100,Private,People + financing,3,1,1,1,1,0,1,0,0,1,0,0,0,Yes,No,No,0,0,0,0,14
+84,Riverside Homebuilders,Top 100,Subsidiary,People + financing,10,3,0,7,0,0,1,0,0,9,0,4,0,No,No,No,0,6,0,0,20
+85,Stone Martin Builders,Top 100,Private,People + financing,11,4,0,7,0,0,4,0,1,6,0,5,0,No,No,No,0,7,0,0,20
+86,Veridian Homes,Top 100,Private,People + financing,9,7,1,1,2,2,2,0,1,2,0,2,1,Yes,Yes,No,0,0,0,0,20
+87,American Legend Homes,Top 100,Private,People + financing,10,8,0,2,2,2,3,1,1,1,1,3,0,Yes,Yes,No,0,0,0,0,13
+88,Home Creations,Top 100,Private,People + financing,10,3,4,3,0,1,3,0,1,5,0,2,1,No,Yes,No,0,0,0,0,21
+89,Homes by Taber,Top 100,Private,People + financing,4,2,1,1,1,0,2,0,0,1,0,3,0,Yes,No,No,0,0,0,0,19
+90,Chesapeake Homes,Top 100,Subsidiary,People + financing,10,8,1,1,5,1,4,0,0,0,0,4,0,Yes,Yes,No,0,0,0,0,17
+91,Visionary Homes,Top 100,Subsidiary,People + financing,9,8,0,1,1,0,3,0,3,2,0,5,0,Yes,No,No,0,0,1,0,22
+92,ICI Homes,Top 100,Private,People + financing,9,1,7,1,2,1,1,0,2,3,0,3,2,Yes,Yes,No,0,0,0,0,22
+93,Christopher Alan Homes,Top 100,Private,People + financing,14,12,2,0,3,2,2,0,1,6,0,3,1,Yes,Yes,No,0,0,0,0,21
+94,San Joaquin Valley Homes,Top 100,Private,People + financing,16,15,0,1,2,1,4,0,0,9,0,0,0,Yes,Yes,No,1,0,0,0,23
+95,National Home Corp.,Top 100,Private,People + financing,5,0,4,1,0,0,4,0,0,1,0,0,0,No,No,No,0,0,0,1,20
+96,Colina Homes,Top 100,Private,People + financing,1,1,0,0,0,0,1,0,0,0,0,0,0,No,No,No,0,0,0,0,18
+97,Schell Brothers,Top 100,Private,People + financing,30,29,0,1,7,1,2,0,14,6,0,4,4,Yes,Yes,No,0,0,0,0,18
+98,Olthof Homes,Top 100,Private,People + financing,9,6,1,2,3,0,1,0,1,4,0,2,1,Yes,No,No,0,0,0,0,24
+99,Signature Homes,Top 100,Private,People + financing,6,3,1,2,0,1,3,0,0,2,0,2,0,No,Yes,No,0,1,0,0,18
+100,Park Square Homes,Top 100,Private,People + financing,18,6,5,7,6,1,5,1,1,4,0,4,0,Yes,Yes,No,0,0,0,0,12

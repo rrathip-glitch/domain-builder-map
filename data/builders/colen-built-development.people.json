@@ -1,0 +1,123 @@
+{
+  "builder_id": "colen-built-development",
+  "part": "people",
+  "retrieved": "2026-11-19",
+  "profile": {
+    "legal_name": "Colen Built Development, LLC",
+    "brand_names": [
+      "Colen Built",
+      "On Top of the World Communities",
+      "Calesa Township",
+      "Melody Preserve"
+    ],
+    "ownership": "Private",
+    "ticker": null,
+    "parent": null,
+    "hq_city": "Ocala",
+    "hq_state": "FL",
+    "website": "https://colenbuilt.com/",
+    "main_phone": "(866) 228-5878",
+    "states": [
+      "FL"
+    ],
+    "markets": [
+      "Ocala / Marion County, FL"
+    ],
+    "regions": [],
+    "org_note": "Single-market, family-run company: Kenneth D. Colen is President (since 1981) and is listed by Builder as CEO; On Top of the World Communities, LLC is the affiliated community entity and Colen Built Development, LLC the builder/developer (both named in the shared legal notice). Land decisions sit with the Colen family and a VP of land entitlements, acquisitions and development (Robert 'Bo' Stepp, per Jan 2025 press); finance is run by a VP of Finance (seat advertised April 2025, holder not public) who reports to senior leadership and a Board of Directors.",
+    "email_pattern": null,
+    "email_pattern_source_url": null,
+    "summary": "Not a conventional multi-market homebuilder: Colen Built Development, LLC is the family-owned (Colen family) builder-developer of On Top of the World Communities, a 55+ active-adult master plan in Ocala, FL, plus the family-oriented Calesa Township (planned ~5,000 homes on ~1,500 acres) and the newer 55+ Melody Preserve, all in southwest Ocala/Marion County. It builds on land the family has owned since buying the 13,000-acre Circle Square Ranch in 1975, and the company describes itself as debt-free; that makes it a weak land-banking prospect (it owns its pipeline outright and does not buy finished lots), though a possible counterparty as a land seller or for a future out-of-county expansion. Builder 100 2026 rank 83: 650 closings and $289M revenue in 2025, up from 503 closings and $233M in 2024.",
+    "confidence": "Verified",
+    "source_url": "https://colenbuilt.com/"
+  },
+  "people": [
+    {
+      "name": "Robert \"Bo\" Stepp",
+      "title": "Vice President of Land Entitlements, Acquisitions, and Development",
+      "role_category": "Land Acquisition",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "Kenneth D. Colen",
+      "reports_to_confidence": "Inferred",
+      "email": "",
+      "email_confidence": "",
+      "phone": "",
+      "in_role_since": "",
+      "prior_role": "",
+      "confidence": "Reported",
+      "source_url": "https://352today.com/news/257752-build-it-and-they-will-come-colen-built-team-celebrates-growth-and-community-impact/",
+      "source_title": "352today: Build it and they will come: Colen Built Team celebrates growth and community impact",
+      "source_date": "2025-01-16",
+      "retrieved": "2026-11-19",
+      "note": "Spoke for Colen Built on a company panel at the Ocala Metro CEP breakfast (Jan 15, 2025) about Calesa Township and the NEST town center. A company job posting seen only as a search snippet described a Land Development Manager reporting to a 'Director of Land Entitlements, Acquisitions, and Development', so the internal title may differ. Not confirmed on a 2026 source; reporting line inferred from company size. Primary land contact. Verification 2026-11-19: article reopened and gives his title exactly; it does not name his employer in that line (Colen Built attribution is from the article's context); no 2026 confirmation found.",
+      "domain_internal_notes": ""
+    },
+    {
+      "name": "Kenneth D. Colen",
+      "title": "President, Colen Built Development",
+      "role_category": "CEO",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "",
+      "reports_to_confidence": "",
+      "email": "",
+      "email_confidence": "",
+      "phone": "",
+      "in_role_since": "1981",
+      "prior_role": "",
+      "confidence": "Verified",
+      "source_url": "https://colenbuilt.com/",
+      "source_title": "Colen Built Development home page (page modified 2026-10-28)",
+      "source_date": "2026-10-28",
+      "retrieved": "2026-11-19",
+      "note": "Son of founder Sidney Colen; company site says he has been President and Developer of all homebuilding operations since 1981; OTOW 'About' page (2026-11-02) says he has led On Top of the World as President since 1981. Builder firm page (Apr 2026) names Kenneth D Colen as CEO. Owner and final decision-maker on land and capital. Title note: Builder lists him as CEO.",
+      "domain_internal_notes": ""
+    },
+    {
+      "name": "Linda Massarella-Aiosa",
+      "title": "Executive Vice President of Marketing and Technology Communications, On Top of the World Communities",
+      "role_category": "Sales/Marketing",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "Kenneth D. Colen",
+      "reports_to_confidence": "Inferred",
+      "email": "",
+      "email_confidence": "",
+      "phone": "",
+      "in_role_since": "",
+      "prior_role": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.ocalagazette.com/something-for-everyone/",
+      "source_title": "Ocala Gazette: 'Something for everyone' (Calesa Township launch)",
+      "source_date": "2020-10-23",
+      "retrieved": "2026-11-19",
+      "note": "Source is from 2020 and no newer source was opened in this run; may no longer be current.",
+      "domain_internal_notes": ""
+    }
+  ],
+  "gaps": [
+    "CFO / VP of Finance: the company advertised a Vice President of Finance seat in April 2025 (banking relationships, debt structuring, capital planning, reporting to a Board of Directors); the holder is not publicly disclosed",
+    "Treasurer / capital markets: not publicly disclosed (company states it is debt-free)",
+    "Chief Operating Officer: not publicly disclosed",
+    "Director/manager of land development below the land VP: not publicly disclosed (only an expired job posting seen in a search snippet)",
+    "Division or regional leaders: none; single-market company (Ocala, FL)",
+    "Florida Sunbiz officer list: search.sunbiz.org returned a bot check and no mirror loaded, so registered officers/managers of Colen Built Development, LLC were not confirmed",
+    "Company email pattern: not published (public addresses are generic info@ / webmaster@ inboxes on otowfl.net / otowfl.com / mycalesa.net)"
+  ],
+  "sources_consulted": [
+    "https://colenbuilt.com/",
+    "https://colenbuilt.com/wp-json/wp/v2/pages?per_page=100&_fields=slug,modified,link",
+    "https://ontopoftheworldcommunities.com/about/",
+    "https://ontopoftheworldcommunities.com/legal-notice/",
+    "https://ontopoftheworldcommunities.com/contact/",
+    "https://melodypreserveocala.com/about/",
+    "https://www.mycalesa.com/coming-soon-to-calesa/",
+    "https://352today.com/news/257752-build-it-and-they-will-come-colen-built-team-celebrates-growth-and-community-impact/",
+    "https://www.ocalagazette.com/something-for-everyone/",
+    "https://web.archive.org/web/20260427133021/https://www.builderonline.com/firms/colen-built-development_o/",
+    "https://career.com/job/colen-built-development/vice-president-of-finance/j202504220900052373794",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=colen&type=&dateb=&owner=include&count=40"
+  ],
+  "domain_internal_notes": ""
+}

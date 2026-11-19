@@ -1,0 +1,1146 @@
+{
+ "_about": "Query sets for the Domain feed collector (scripts/feed-collect.mjs). Edit this file to tune what is collected; no code change needed. Tier 1 runs first (competitors, new entrants, Millrose filings, financing at the largest builders). Tier 2 widens to all 100 builders. The baseline set is the naive alert we compare against and is never mixed into the targeted set. News search uses Bing News RSS, which only handles short plain queries, so each query is a name plus one or two terms; `must` lists words that have to appear in the headline or snippet for a result to be kept (Bing pads thin results with unrelated headlines). `gdelt` queries are boolean and full-text; they are best-effort because the free GDELT API rate-limits hard. Google News RSS is not used: its robots.txt disallows automated access to the search feed.",
+ "window_days": 90,
+ "user_agent": "domain-intel-research/1.0 (research use)",
+ "rate_ms": {
+  "www.bing.com": 1400,
+  "api.gdeltproject.org": 6500,
+  "data.sec.gov": 600,
+  "efts.sec.gov": 600,
+  "default": 1000
+ },
+ "baseline": {
+  "_about": "What the COO has today: a plain 'land banking' news alert (the phrase quoted and unquoted, newest-first and by relevance, 8 pages each). Collected the same way, scored with the same rubric, reported separately.",
+  "queries": [
+   "land banking"
+  ],
+  "pages": 8
+ },
+ "search_groups": [
+  {
+   "id": "competitors",
+   "tier": 1,
+   "queries": [
+    {
+     "q": "\"Millrose Properties\""
+    },
+    {
+     "q": "Millrose Lennar land",
+     "must": [
+      "millrose"
+     ]
+    },
+    {
+     "q": "Millrose homebuilder lots",
+     "must": [
+      "millrose"
+     ]
+    },
+    {
+     "q": "Millrose \"senior notes\"",
+     "must": [
+      "millrose"
+     ]
+    },
+    {
+     "q": "Millrose earnings",
+     "must": [
+      "millrose"
+     ]
+    },
+    {
+     "q": "Millrose \"Kennedy Lewis\"",
+     "must": [
+      "millrose|kennedy lewis"
+     ]
+    },
+    {
+     "q": "\"Kennedy Lewis\" homebuilder",
+     "must": [
+      "kennedy lewis"
+     ]
+    },
+    {
+     "q": "\"Kennedy Lewis\" land banking",
+     "must": [
+      "kennedy lewis"
+     ]
+    },
+    {
+     "q": "\"Kennedy Lewis Investment Management\""
+    },
+    {
+     "q": "\"TPG Angelo Gordon\" homebuilder",
+     "must": [
+      "angelo gordon"
+     ]
+    },
+    {
+     "q": "\"Angelo Gordon\" land banking",
+     "must": [
+      "angelo gordon"
+     ]
+    },
+    {
+     "q": "\"TPG Angelo Gordon\" residential land",
+     "must": [
+      "angelo gordon"
+     ]
+    },
+    {
+     "q": "\"AG Essential Housing\""
+    },
+    {
+     "q": "\"Domain Real Estate Partners\""
+    },
+    {
+     "q": "\"land banking\" homebuilder",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "\"land banking\" builder lots",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "\"land banking\" fund",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "\"land banking\" Lennar",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "\"land banker\" homebuilder",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "\"land bank\" homebuilder lots",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "\"land bankers\"",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "\"lot option\" homebuilder",
+     "must": [
+      "lot option|option"
+     ]
+    },
+    {
+     "q": "\"land-light\" homebuilder",
+     "must": [
+      "land-light|land light|asset-light|asset light"
+     ]
+    },
+    {
+     "q": "\"asset-light\" homebuilder land",
+     "must": [
+      "asset-light|asset light|land-light|land light"
+     ]
+    },
+    {
+     "q": "homebuilder \"off-balance sheet\" lots",
+     "must": [
+      "home ?builder|lots"
+     ]
+    },
+    {
+     "q": "homebuilder \"finished lots\" option",
+     "must": [
+      "lots"
+     ]
+    },
+    {
+     "q": "homebuilder \"land financing\"",
+     "must": [
+      "land"
+     ]
+    },
+    {
+     "q": "homebuilder \"lot financing\"",
+     "must": [
+      "lot"
+     ]
+    },
+    {
+     "q": "Forestar lots",
+     "must": [
+      "forestar"
+     ]
+    },
+    {
+     "q": "Forestar \"senior notes\"",
+     "must": [
+      "forestar"
+     ]
+    },
+    {
+     "q": "\"Five Point Holdings\""
+    },
+    {
+     "q": "\"Walton Global\" homebuilder",
+     "must": [
+      "walton"
+     ]
+    },
+    {
+     "q": "Hearthstone \"Five Point\" land",
+     "must": [
+      "hearthstone"
+     ]
+    },
+    {
+     "q": "\"IHP Capital Partners\""
+    },
+    {
+     "q": "\"Builder Advisor Group\""
+    },
+    {
+     "q": "\"Essential Housing\" land homebuilder",
+     "must": [
+      "essential housing"
+     ]
+    }
+   ],
+   "gdelt": [
+    "\"Millrose Properties\"",
+    "\"Kennedy Lewis\" (homebuilder OR \"land banking\" OR Millrose)",
+    "\"Angelo Gordon\" (homebuilder OR \"land banking\" OR \"land bank\")",
+    "\"land banking\" (homebuilder OR homebuilders OR \"home builder\")",
+    "\"land banker\" OR \"land bankers\"",
+    "\"lot option\" (homebuilder OR homebuilders)",
+    "(\"land-light\" OR \"asset-light\") (homebuilder OR homebuilders)"
+   ]
+  },
+  {
+   "id": "new-entrants",
+   "tier": 1,
+   "_about": "Capital providers that could move into builder land or builder lending. Each name is searched with builder + land/financing terms; a result is kept only if it names the firm and has a housing word.",
+   "templates": [
+    "\"{name}\" homebuilder financing",
+    "\"{name}\" homebuilder land lots",
+    "\"{name}\" \"land banking\""
+   ],
+   "must_extra": [
+    "home ?builder|builder|lots|land|housing|residential|homes"
+   ],
+   "names": [
+    "Apollo",
+    "Blackstone",
+    "Brookfield",
+    "KKR",
+    "Ares",
+    "Oaktree",
+    "Värde",
+    "Starwood",
+    "Carlyle",
+    "Blue Owl",
+    "Sixth Street",
+    "Fortress",
+    "Pretium",
+    "Cerberus",
+    "Invesco Real Estate",
+    "PGIM",
+    "Goldman Sachs",
+    "Bain Capital",
+    "Centerbridge",
+    "Davidson Kempner",
+    "Stonepeak",
+    "Rithm",
+    "Berkshire Hathaway",
+    "Sumitomo Forestry",
+    "Daiwa House",
+    "Sekisui House",
+    "Värde Partners",
+    "Hines",
+    "Related",
+    "JPMorgan"
+   ],
+   "gdelt_template": "\"{name}\" (homebuilder OR homebuilders) (\"land banking\" OR lots OR financing)"
+  },
+  {
+   "id": "new-entrants-themes",
+   "tier": 1,
+   "queries": [
+    {
+     "q": "\"private credit\" homebuilder land",
+     "must": [
+      "private credit|credit fund|lender"
+     ]
+    },
+    {
+     "q": "\"private credit\" homebuilders lots financing",
+     "must": [
+      "private credit|credit fund|lender"
+     ]
+    },
+    {
+     "q": "homebuilder land \"joint venture\" investor",
+     "must": [
+      "joint venture|venture"
+     ]
+    },
+    {
+     "q": "homebuilder \"land banking\" venture fund raises",
+     "must": [
+      "land bank"
+     ]
+    },
+    {
+     "q": "homebuilder lending platform launches",
+     "must": [
+      "home ?builder|builder"
+     ]
+    },
+    {
+     "q": "\"builder finance\" fund",
+     "must": [
+      "builder finance"
+     ]
+    },
+    {
+     "q": "\"homebuilder finance\"",
+     "must": [
+      "home ?builder finance|builder financ"
+     ]
+    },
+    {
+     "q": "\"build-to-rent\" homebuilder financing fund",
+     "must": [
+      "build-to-rent|btr|build to rent"
+     ]
+    },
+    {
+     "q": "\"acquisition, development and construction\" loan homebuilder",
+     "must": [
+      "construction|ad&c|adc"
+     ]
+    },
+    {
+     "q": "\"AD&C\" lending homebuilders",
+     "must": [
+      "ad&c|construction lend|lending"
+     ]
+    }
+   ],
+   "must_group": [
+    "home ?build|homes\\b|housing|residential|\\blots?\\b|\\bland\\b|builder"
+   ]
+  },
+  {
+   "id": "builder-ma",
+   "tier": 1,
+   "queries": [
+    {
+     "q": "homebuilder acquires homebuilder",
+     "must": [
+      "acqui|buys|merger|purchase"
+     ]
+    },
+    {
+     "q": "homebuilder acquisition announced",
+     "must": [
+      "acqui|buys|merger|purchase"
+     ]
+    },
+    {
+     "q": "home builder \"to acquire\"",
+     "must": [
+      "acqui"
+     ]
+    },
+    {
+     "q": "homebuilder \"definitive agreement\"",
+     "must": [
+      "agreement|acqui|merger"
+     ]
+    },
+    {
+     "q": "homebuilder merger",
+     "must": [
+      "merger|merge|acqui"
+     ]
+    },
+    {
+     "q": "Japanese homebuilder acquires U.S. builder",
+     "must": [
+      "acqui|buys|japan|sekisui|sumitomo|daiwa"
+     ]
+    },
+    {
+     "q": "homebuilder \"take private\"",
+     "must": [
+      "private"
+     ]
+    },
+    {
+     "q": "homebuilder names chief financial officer",
+     "must": [
+      "cfo|chief financial|financial officer"
+     ]
+    },
+    {
+     "q": "homebuilder appoints CFO",
+     "must": [
+      "cfo|chief financial|financial officer"
+     ]
+    },
+    {
+     "q": "homebuilder names division president",
+     "must": [
+      "president"
+     ]
+    },
+    {
+     "q": "homebuilder \"vice president of land\"",
+     "must": [
+      "land"
+     ]
+    },
+    {
+     "q": "homebuilder \"land acquisition\" promotes names",
+     "must": [
+      "land"
+     ]
+    }
+   ],
+   "must_group": [
+    "home ?build|homes\\b|housing|residential|\\blots?\\b|\\bland\\b|builder"
+   ]
+  },
+  {
+   "id": "capital-markets",
+   "tier": 1,
+   "queries": [
+    {
+     "q": "homebuilder \"senior notes\" offering",
+     "must": [
+      "notes"
+     ]
+    },
+    {
+     "q": "homebuilder prices \"senior notes\"",
+     "must": [
+      "notes"
+     ]
+    },
+    {
+     "q": "homebuilder \"credit facility\"",
+     "must": [
+      "credit facility|revolv|facility"
+     ]
+    },
+    {
+     "q": "homebuilder redemption \"senior notes\"",
+     "must": [
+      "notes|redemption|redeem"
+     ]
+    },
+    {
+     "q": "homebuilder Moody's rating",
+     "must": [
+      "moody|rating|upgrade|downgrade|outlook"
+     ]
+    },
+    {
+     "q": "homebuilder Fitch rating",
+     "must": [
+      "fitch|rating|upgrade|downgrade|outlook"
+     ]
+    },
+    {
+     "q": "homebuilder \"S&P\" upgrade downgrade",
+     "must": [
+      "s&p|rating|upgrade|downgrade|outlook"
+     ]
+    },
+    {
+     "q": "homebuilders bonds \"high yield\"",
+     "must": [
+      "bond|high yield|high-yield|notes|debt"
+     ]
+    },
+    {
+     "q": "homebuilders land spending lots earnings",
+     "must": [
+      "land|lots"
+     ]
+    },
+    {
+     "q": "homebuilders \"lot supply\"",
+     "must": [
+      "lot"
+     ]
+    },
+    {
+     "q": "homebuilders land market lot prices",
+     "must": [
+      "land|lot"
+     ]
+    }
+   ],
+   "must_group": [
+    "home ?build|homes\\b|housing|residential|\\blots?\\b|\\bland\\b|builder"
+   ]
+  },
+  {
+   "id": "wires",
+   "tier": 1,
+   "_about": "Press-release wires, searched by site.",
+   "queries": [
+    {
+     "q": "site:prnewswire.com homebuilder \"senior notes\"",
+     "must": [
+      "notes"
+     ]
+    },
+    {
+     "q": "site:businesswire.com homebuilder \"senior notes\"",
+     "must": [
+      "notes"
+     ]
+    },
+    {
+     "q": "site:globenewswire.com homebuilder \"senior notes\"",
+     "must": [
+      "notes"
+     ]
+    },
+    {
+     "q": "site:prnewswire.com homes \"credit facility\"",
+     "must": [
+      "credit|facility"
+     ]
+    },
+    {
+     "q": "site:businesswire.com homes \"credit facility\"",
+     "must": [
+      "credit|facility"
+     ]
+    },
+    {
+     "q": "site:prnewswire.com homebuilder acquisition",
+     "must": [
+      "acqui"
+     ]
+    },
+    {
+     "q": "site:businesswire.com homebuilder acquisition",
+     "must": [
+      "acqui"
+     ]
+    },
+    {
+     "q": "site:globenewswire.com homebuilder acquisition",
+     "must": [
+      "acqui"
+     ]
+    },
+    {
+     "q": "site:prnewswire.com homes \"division president\"",
+     "must": [
+      "president"
+     ]
+    },
+    {
+     "q": "site:businesswire.com homes \"chief financial officer\"",
+     "must": [
+      "financial officer|cfo"
+     ]
+    }
+   ],
+   "must_group": [
+    "home ?build|homes\\b|housing|residential|\\blots?\\b|\\bland\\b|builder"
+   ]
+  }
+ ],
+ "builder_queries": {
+  "_about": "Run for every builder in data/spine.json. {name} is the builder's search name (builder_search_names; default is the quoted spine name). A result is kept only if the builder's name (builder_must, default the search name) appears in the headline or snippet. Tier 1 runs tier1_terms for ranks 1 to tier1_max_rank, newest-first and by relevance; tier 2 runs every term for everyone else and the remaining terms for the top group.",
+  "tier1_max_rank": 26,
+  "tier1_terms": [
+   "\"senior notes\"",
+   "\"credit facility\"",
+   "\"land banking\"",
+   "acquisition",
+   "CFO"
+  ],
+  "tier2_terms": [
+   "land lots",
+   "\"joint venture\"",
+   "names president",
+   "Moody's Fitch rating",
+   "earnings lots"
+  ],
+  "small_builder_from_rank": 51,
+  "small_builder_terms": [
+   "acquisition",
+   "financing land",
+   "names president"
+  ],
+  "gdelt_template": "{name} (\"senior notes\" OR \"credit facility\" OR \"land banking\" OR \"land bank\" OR acquisition OR \"chief financial officer\")"
+ },
+ "builder_search_names": {
+  "_about": "Search names where the spine name is too long, too generic or ambiguous. Anything not listed is searched as the quoted spine name.",
+  "d-r-horton": "\"D.R. Horton\"",
+  "lennar": "Lennar",
+  "pultegroup": "PulteGroup",
+  "nvr": "\"NVR Inc\"",
+  "meritage-homes": "\"Meritage Homes\"",
+  "taylor-morrison": "\"Taylor Morrison\"",
+  "kb-home": "\"KB Home\"",
+  "sekisui-house-us": "\"Sekisui House\"",
+  "toll-brothers": "\"Toll Brothers\"",
+  "century-communities": "\"Century Communities\"",
+  "ashton-woods": "\"Ashton Woods\"",
+  "clayton-properties-group": "\"Clayton Properties Group\"",
+  "m-i-homes": "\"M/I Homes\"",
+  "dream-finders-homes": "\"Dream Finders\"",
+  "drb-group": "\"DRB Group\"",
+  "k-hovnanian": "Hovnanian",
+  "david-weekley-homes": "\"David Weekley\"",
+  "stanley-martin": "\"Stanley Martin Homes\"",
+  "tri-pointe-homes": "\"Tri Pointe Homes\"",
+  "lgi-homes": "\"LGI Homes\"",
+  "beazer-homes": "\"Beazer Homes\"",
+  "perry-homes": "\"Perry Homes\"",
+  "middleburg-communities": "\"Middleburg Communities\"",
+  "mattamy-homes-us": "\"Mattamy Homes\"",
+  "dsld-homes": "\"DSLD Homes\"",
+  "green-brick-partners": "\"Green Brick Partners\"",
+  "risewell-homes": "\"Risewell Homes\"",
+  "the-villages-of-lake-sumter": "\"The Villages\" developer Florida",
+  "highland-homes": "\"Highland Homes\"",
+  "habitat-for-humanity-international": "\"Habitat for Humanity International\"",
+  "adams-homes": "\"Adams Homes\"",
+  "fischer-homes": "\"Fischer Homes\"",
+  "smith-douglas-homes": "\"Smith Douglas Homes\"",
+  "shea-homes": "\"Shea Homes\"",
+  "amh": "\"American Homes 4 Rent\"",
+  "brookfield-residential": "\"Brookfield Residential\"",
+  "united-homes-group": "\"United Homes Group\"",
+  "legend-homes": "\"Legend Homes\"",
+  "empire-homes": "\"Empire Homes\"",
+  "edge-homes": "\"Edge Homes\"",
+  "true-homes": "\"True Homes\"",
+  "view-homes": "\"View Homes\"",
+  "long-lake-ltd": "\"Long Lake Ltd\"",
+  "signature-homes": "\"Signature Homes\"",
+  "home-creations": "\"Home Creations\"",
+  "lifestyle-homes": "\"Lifestyle Homes\"",
+  "neighborworks-america": "\"NeighborWorks America\""
+ },
+ "trade_rss": {
+  "_about": "Trade press and research feeds read whole; each item is kept if it is in the window. They return only recent items, so the 90-day depth comes from the search groups above.",
+  "tier": 1,
+  "feeds": [
+   {
+    "publisher": "HousingWire",
+    "url": "https://www.housingwire.com/feed/",
+    "source_type": "Trade press"
+   },
+   {
+    "publisher": "Pro Builder",
+    "url": "https://www.probuilder.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D",
+    "source_type": "Trade press"
+   },
+   {
+    "publisher": "NAHB Eye on Housing",
+    "url": "https://eyeonhousing.org/feed/",
+    "source_type": "Research"
+   },
+   {
+    "publisher": "Bisnow",
+    "url": "https://www.bisnow.com/rss",
+    "source_type": "Trade press"
+   },
+   {
+    "publisher": "PR Newswire (financial services)",
+    "url": "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss",
+    "source_type": "Press release"
+   }
+  ],
+  "site_searches": [
+   {
+    "q": "site:builderonline.com land lots",
+    "must": [
+     "land|lot"
+    ]
+   },
+   {
+    "q": "site:builderonline.com acquisition",
+    "must": [
+     "acqui"
+    ]
+   },
+   {
+    "q": "site:builderonline.com financing",
+    "must": [
+     "financ|notes|credit|capital"
+    ]
+   },
+   {
+    "q": "site:builderonline.com \"land banking\"",
+    "must": [
+     "land"
+    ]
+   },
+   {
+    "q": "site:probuilder.com acquisition",
+    "must": [
+     "acqui"
+    ]
+   },
+   {
+    "q": "site:probuilder.com land lots",
+    "must": [
+     "land|lot"
+    ]
+   },
+   {
+    "q": "site:housingwire.com homebuilder land",
+    "must": [
+     "builder|land|lot"
+    ]
+   },
+   {
+    "q": "site:housingwire.com homebuilder acquisition",
+    "must": [
+     "builder|acqui"
+    ]
+   },
+   {
+    "q": "site:housingwire.com \"land banking\"",
+    "must": [
+     "land"
+    ]
+   },
+   {
+    "q": "site:bisnow.com homebuilder land",
+    "must": [
+     "builder|land|lot"
+    ]
+   },
+   {
+    "q": "site:johnburns.com land",
+    "must": [
+     "land|lot|builder"
+    ]
+   },
+   {
+    "q": "site:zondahome.com land lots",
+    "must": [
+     "land|lot|builder"
+    ]
+   },
+   {
+    "q": "site:bizjournals.com homebuilder land acquisition lots",
+    "must": [
+     "builder|land|lot"
+    ]
+   }
+  ],
+  "must_group": [
+   "home ?build|homes\\b|housing|residential|\\blots?\\b|\\bland\\b|builder"
+  ]
+ },
+ "edgar": {
+  "_about": "SEC EDGAR via data.sec.gov (no key). All Millrose filings; 8-Ks (and 10-Q/10-K as markers) for public builders. expect is checked against the registrant name so a wrong CIK is skipped, not trusted.",
+  "tier": 1,
+  "all_forms_for": [
+   "millrose-properties"
+  ],
+  "forms": [
+   "8-K",
+   "10-Q",
+   "10-K",
+   "424B5",
+   "424B2",
+   "FWP",
+   "S-3ASR",
+   "8-K/A"
+  ],
+  "full_text_queries": [
+   "\"land banking\"",
+   "\"land bank\" \"homebuilder\"",
+   "\"Millrose\"",
+   "\"Kennedy Lewis\" lots",
+   "\"lot option\" \"land banker\""
+  ],
+  "companies": [
+   {
+    "id": "millrose-properties",
+    "cik": "2017206",
+    "expect": "millrose",
+    "builder_id": null,
+    "competitor": "Millrose Properties"
+   },
+   {
+    "id": "d-r-horton",
+    "cik": "882184",
+    "expect": "horton",
+    "builder_id": "d-r-horton"
+   },
+   {
+    "id": "lennar",
+    "cik": "920760",
+    "expect": "lennar",
+    "builder_id": "lennar"
+   },
+   {
+    "id": "pultegroup",
+    "cik": "822416",
+    "expect": "pulte",
+    "builder_id": "pultegroup"
+   },
+   {
+    "id": "nvr",
+    "cik": "906163",
+    "expect": "nvr",
+    "builder_id": "nvr"
+   },
+   {
+    "id": "meritage-homes",
+    "cik": "833079",
+    "expect": "meritage",
+    "builder_id": "meritage-homes"
+   },
+   {
+    "id": "taylor-morrison",
+    "cik": "1562476",
+    "expect": "taylor morrison",
+    "builder_id": "taylor-morrison"
+   },
+   {
+    "id": "kb-home",
+    "cik": "795266",
+    "expect": "kb home",
+    "builder_id": "kb-home"
+   },
+   {
+    "id": "toll-brothers",
+    "cik": "794170",
+    "expect": "toll",
+    "builder_id": "toll-brothers"
+   },
+   {
+    "id": "century-communities",
+    "cik": "1576940",
+    "expect": "century",
+    "builder_id": "century-communities"
+   },
+   {
+    "id": "m-i-homes",
+    "cik": "799292",
+    "expect": "m/i",
+    "builder_id": "m-i-homes"
+   },
+   {
+    "id": "dream-finders-homes",
+    "cik": "1825088",
+    "expect": "dream finders",
+    "builder_id": "dream-finders-homes"
+   },
+   {
+    "id": "k-hovnanian",
+    "cik": "357294",
+    "expect": "hovnanian",
+    "builder_id": "k-hovnanian"
+   },
+   {
+    "id": "tri-pointe-homes",
+    "cik": "1561680",
+    "expect": "tri pointe",
+    "builder_id": "tri-pointe-homes"
+   },
+   {
+    "id": "lgi-homes",
+    "cik": "1580670",
+    "expect": "lgi",
+    "builder_id": "lgi-homes"
+   },
+   {
+    "id": "beazer-homes",
+    "cik": "915840",
+    "expect": "beazer",
+    "builder_id": "beazer-homes"
+   },
+   {
+    "id": "green-brick-partners",
+    "cik": "1373670",
+    "expect": "green brick",
+    "builder_id": "green-brick-partners"
+   },
+   {
+    "id": "smith-douglas-homes",
+    "cik": "1982518",
+    "expect": "smith douglas",
+    "builder_id": "smith-douglas-homes"
+   },
+   {
+    "id": "amh",
+    "cik": "1562401",
+    "expect": "american homes",
+    "builder_id": "amh"
+   },
+   {
+    "id": "united-homes-group",
+    "cik": "1830188",
+    "expect": "united homes",
+    "builder_id": "united-homes-group"
+   },
+   {
+    "id": "forestar",
+    "cik": "1406587",
+    "expect": "forestar",
+    "builder_id": null
+   }
+  ]
+ },
+ "prefilter": {
+  "_about": "Rule-based junk filter run before any LLM effort (scripts/feed-prefilter.mjs). A title or publisher match is dropped unless the title also carries a keep term.",
+  "drop_publishers": [
+   "marketbeat",
+   "zacks",
+   "simply wall st",
+   "simplywall",
+   "motley fool",
+   "fool.com",
+   "investorplace",
+   "tipranks",
+   "benzinga",
+   "insider monkey",
+   "stocktitan",
+   "stock titan",
+   "investing.com",
+   "tickerreport",
+   "ticker report",
+   "defense world",
+   "american banking and market news",
+   "etf daily news",
+   "watchlist news",
+   "quiver quantitative",
+   "gurufocus",
+   "stockstory",
+   "tradingview",
+   "ainvest",
+   "kalkine",
+   "247wallst",
+   "24/7 wall st",
+   "barchart",
+   "finviz",
+   "investopedia",
+   "the cerbat gem",
+   "zolmax",
+   "transcript daily",
+   "com-unik",
+   "dakota financial news",
+   "wkrb",
+   "baseball news source",
+   "themarketsdaily",
+   "sports perspectives",
+   "stock observer",
+   "enterprise leader",
+   "moomoo",
+   "futu",
+   "sahm capital",
+   "trefis",
+   "smartkarma",
+   "kavout",
+   "meyka",
+   "intellectia",
+   "stocktwits",
+   "chartmill",
+   "public.com",
+   "wallstreetzen",
+   "briefglance",
+   "newmediawire",
+   "claimsfiler",
+   "tmcnet",
+   "financialcontent",
+   "chroniclejournal"
+  ],
+  "drop_title_patterns": [
+   "price target",
+   "shares (sold|bought|acquired|purchased) by",
+   "(buys|sells|acquires|purchases|trims|boosts|raises|lowers|cuts|reduces|increases|grows|decreases|has|holds|takes) [^|]{0,60}(stake|position|holdings|shares) (in|of)",
+   "stock position",
+   "stock holdings",
+   "shares of [^|]{0,60}(sold|bought)",
+   "short interest",
+   "insider (selling|buying|sale)",
+   "\\b(nyse|nasdaq):",
+   "stocks? to (buy|watch|sell)",
+   "top .{0,20}stocks",
+   "is it time to buy",
+   "should you (buy|sell)",
+   "(buy|sell|hold) rating",
+   "analyst (rating|upgrade|downgrade)s?\\b",
+   "(upgraded|downgraded) (by|to|at) ",
+   "earnings call transcript",
+   "ex-dividend",
+   "dividend (declared|announcement|of \\$)",
+   "quarterly dividend",
+   "stock (soars|jumps|slides|falls|drops|rises|surges|plunges|dips|gains|climbs|tumbles)",
+   "shares (soar|jump|slide|fall|drop|rise|surge|plunge|dip|gain|climb|tumble|gap)",
+   "technical analysis",
+   "moving average",
+   "52-week (high|low)",
+   "market cap",
+   "valuation (check|after)",
+   "grand opening",
+   "model home",
+   "now selling",
+   "new homes? (for sale|now available|starting from)",
+   "ribbon[- ]cutting",
+   "floor ?plans?",
+   "open house",
+   "homes? for sale",
+   "best places to",
+   "mortgage rates today",
+   "obituar",
+   "horoscope",
+   "recipe",
+   "(wins|earns|receives|named) .{0,40}(award|best places to work)",
+   "charity|donat(es|ion)|fundrais|volunteer|toy drive|food drive",
+   "what to know before (buying|you buy)",
+   "ipo calendar",
+   "options (trading|activity|traders)",
+   "institutional (investors?|ownership)",
+   "hedge funds? (are|is|were)",
+   "\\bllc (buys|sells|acquires|purchases)",
+   "(asset management|advisors|capital management|wealth|investment management|financial group|retirement system|pension)[^|]{0,40}(buys|sells|acquires|purchases|trims|boosts|invests)",
+   "class action",
+   "lead plaintiff",
+   "shareholder alert",
+   "investor alert",
+   "investors? (who lost|seeking recovery|to contact|should contact)",
+   "securities (fraud|litigation) (lawsuit|investigation)",
+   "law (firm|offices) ",
+   "rosen law|levi & korsinsky|pomerantz|robbins llp|kaplan fox|faruqi|glancy|bragar|bernstein liebhard|schall law|suewallst|gross law|portnoy",
+   "deadline (reminder|alert)",
+   "perfect stock portfolio",
+   "^[A-Z][A-Za-z.,&' ]{2,40}(Inc\\.?|Corp\\.?|Cl A|Class A)$",
+   "key takeaways for long-term investors",
+   "earnings snapshot",
+   "stock (quote|price)\\b",
+   "übernimmt|koopt"
+  ],
+  "keep_title_terms": [
+   "land bank",
+   "millrose",
+   "kennedy lewis",
+   "angelo gordon",
+   "senior notes",
+   "credit facility",
+   "term loan",
+   "revolv",
+   "lot option",
+   "land-light",
+   "land light",
+   "acquire",
+   "acquisition",
+   "merger",
+   "cfo",
+   "chief financial",
+   "8-k",
+   "notes due",
+   "refinanc",
+   "joint venture",
+   "rating"
+  ],
+  "junk_overrides_keep": [
+   "price target",
+   "stake",
+   "position",
+   "holdings",
+   "shares sold",
+   "shares bought",
+   "short interest",
+   "insider",
+   "stock to",
+   "stocks to",
+   "moving average",
+   "52-week",
+   "market cap",
+   "class action",
+   "lead plaintiff",
+   "shareholder alert",
+   "investor alert",
+   "law (firm|offices)",
+   "deadline"
+  ]
+ },
+ "builder_also_search": {
+  "_about": "Extra names searched for a builder (brands, former names, parents).",
+  "nvr": [
+   "\"Ryan Homes\""
+  ],
+  "sekisui-house-us": [
+   "\"MDC Holdings\"",
+   "\"Richmond American Homes\"",
+   "\"SH Residential\""
+  ],
+  "clayton-properties-group": [
+   "\"Clayton Home Building Group\""
+  ],
+  "risewell-homes": [
+   "\"Landsea Homes\""
+  ],
+  "pultegroup": [
+   "\"Pulte Homes\""
+  ],
+  "amh": [
+   "AMH homebuilding"
+  ],
+  "k-hovnanian": [
+   "\"K. Hovnanian\""
+  ]
+ },
+ "builder_must": {
+  "_about": "Words that must appear in a result for it to count as about this builder. Default: the search name without quotes.",
+  "nvr": "\\bnvr\\b|ryan homes",
+  "sekisui-house-us": "sekisui|mdc holdings|richmond american|sh residential|woodside homes",
+  "clayton-properties-group": "clayton",
+  "risewell-homes": "risewell|landsea",
+  "pultegroup": "pulte",
+  "amh": "\\bamh\\b|american homes 4 rent",
+  "k-hovnanian": "hovnanian",
+  "the-villages-of-lake-sumter": "the villages",
+  "drb-group": "\\bdrb\\b",
+  "d-r-horton": "horton",
+  "m-i-homes": "m/i homes",
+  "tri-pointe-homes": "tri pointe",
+  "stanley-martin": "stanley martin",
+  "dream-finders-homes": "dream finders",
+  "david-weekley-homes": "weekley"
+ },
+ "deep": {
+  "_about": "Used by --deep: extra result pages for the most important searches.",
+  "pages": [
+   11,
+   21
+  ],
+  "max_rank": 50,
+  "groups": [
+   "competitors",
+   "new-entrants-themes",
+   "builder-ma",
+   "capital-markets"
+  ]
+ }
+}

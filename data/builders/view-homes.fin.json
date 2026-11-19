@@ -1,0 +1,120 @@
+{
+  "builder_id": "view-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "View Homes is a conventional for-sale, entry-level homebuilder and a plausible land-banking customer, but since early October 2025 it has been a subsidiary of Hunt Companies, a private, family-owned El Paso holding company, so its capital now comes through the parent and none of its own debt, lenders or lot counts are public. HousingWire framed the sale as a private builder squeezed by tight acquisition, development and construction lending pairing with patient capital, and expects Hunt to fund growth in existing markets. The parent also owns a lot source: Hunt Communities develops master-planned communities in El Paso and Austin (about 10,000 acres and more than 15,000 single-family lots over their life), and View Homes is one of the builders in Hunt's Verdancia in Horizon City. Outside El Paso (Colorado Springs, Denver, Northern Colorado, Las Cruces, San Antonio, New Braunfels) Hunt has no communities of its own on its site, so View Homes still has to source lots from third parties there; that is where a land banker has room, with the decision likely sitting with the CEO, the CFO and the Hunt-appointed board. No land banker, lot-option partner or lender to View Homes was named in any source opened.",
+    "land_strategy": "Not stated by the company. Trade press describes growth through its own land acquisition plus franchise-style brand partnerships (the company still advertises a Local Builder franchise programme asking partners for $200,000 to $1,000,000 of capital). In practice it sells in a mix of its own neighbourhoods and lots inside other developers' master-planned communities, including its parent's Verdancia. No owned-versus-optioned split or target is public.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "No lot counts are published. The only scale indicators found: about 33 community pages on the company site in November 2026, and Verdancia (a parent-affiliate community shared with other builders) is described as 770 acres planned for over 2,000 homes."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Hunt Communities (Hunt Companies affiliate)",
+        "counterparty_type": "Affiliate",
+        "description": "Parent's master-planned community developer. View Homes is listed as one of the builders in Hunt Communities' Verdancia in Horizon City, TX, and sells there from $289,900; View Homes' own page describes Verdancia as 770 acres planned for over 2,000 homes. This is an affiliate developer supplying finished lots, not a land-bank or lot-option facility; terms are not public.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026",
+        "confidence": "Verified",
+        "source_url": "https://liveatverdancia.com/builders/",
+        "source_title": "Verdancia (Hunt Communities) builders page",
+        "note": "Also confirmed on https://yourviewhome.com/communities/verdancia/. View Homes' share of Verdancia lots is not disclosed; the page lists eleven other builders. Hunt Communities' other communities (Mission Ridge, Cimarron, Franklin Hills in El Paso; The Colony near Austin; River Farm in Belton) were not checked for View Homes."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2025-10",
+        "type": "Equity",
+        "description": "Hunt Companies completed its acquisition of View Homes in early October 2025; the deal was not announced at closing and terms were not disclosed. View Homes' site now states it is a subsidiary of Hunt Companies.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.housingwire.com/articles/hunt-companies-buys-view-homes-amid-m-a-wave/",
+        "source_title": "HousingWire / The Builder's Daily: Hunt Companies Buys View Homes Amid M&A Wave",
+        "note": "Article dated 2025-10-27. Subsidiary status verified on https://yourviewhome.com/about/."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "NFM Lending LLC",
+        "description": "Mortgage arrangement, not a land venture: 'View Homes Lending' is a division (dba) of NFM Lending, which discloses a financial relationship with View Homes. Listed here only so the mortgage partner is on record.",
+        "date": "2026",
+        "confidence": "Verified",
+        "source_url": "https://viewhomeslending.com/",
+        "source_title": "View Homes Lending site footer disclosure",
+        "note": ""
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2025-10",
+      "role": "Target",
+      "counterparty": "Hunt Companies, Inc.",
+      "description": "Hunt Companies, a privately held El Paso holding company (real estate, infrastructure, financial services), took control of View Homes in a deal finalised in early October 2025. Terms undisclosed. Trade press read it as Hunt adding in-house single-family construction alongside its Hunt Communities master plans and its Avanta Residential build-to-rent platform.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Changes who decides: the board is now four Hunt executives (Chris Hunt, Ryan McCrory, Kara Harchuck, Guy Arnold); founder Randy O'Leary handed the CEO role to Natasha Gandhi in March 2026 and is an adviser. Capital now comes from the parent, and the parent's communities are a lot source in El Paso. View Homes' Builder 100 standing and footprint are unchanged by the deal itself.",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/hunt-companies-buys-view-homes-amid-m-a-wave/",
+      "source_title": "HousingWire / The Builder's Daily: Hunt Companies Buys View Homes Amid M&A Wave",
+      "note": "Size of the stake is not confirmed: HousingWire calls it an acquisition and says Hunt assumed control; View Homes' site says it is a subsidiary of Hunt Companies. Follow-up article 2026-03-10: https://www.housingwire.com/articles/natasha-gandhi-view-homes-ceo-hunt-companies/"
+    }
+  ],
+  "gaps": [
+    "Lot counts (owned, optioned, total controlled, years of supply): not publicly disclosed.",
+    "Credit facilities, lenders and debt of View Homes: not publicly disclosed (private subsidiary; no source mentions any public securities of View Homes).",
+    "Land banker, lot-option or outside capital partner for View Homes: none named in any source opened.",
+    "Public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found, but the swarm's shared web-search allowance was exhausted, so the specific name searches the brief asks for could not be run.",
+    "Deal terms for the Hunt acquisition (price, percentage acquired, whether the founder kept equity): not disclosed.",
+    "Parent funding: Hunt Companies, Inc. has financed itself with Rule 144A senior secured notes (its January 2018 release priced $600 million of 6.250% notes due 15 February 2026, https://www.huntcompanies.com/news/hunt-companies-inc-announces-pricing-of-600-million-senior-secured-notes-due-2026). That maturity has passed and the parent's current debt, ratings and any refinancing were not confirmed in this run, so no parent debt row is recorded.",
+    "How much of View Homes' lot supply comes from Hunt Communities versus third-party developers: not disclosed.",
+    "Acquisitions by View Homes in 2025 to 2026: none found in the sources opened (search limited as above).",
+    "A December 2025 El Paso Times article on the Hunt deal would not open (access restricted) and is not used."
+  ],
+  "sources_consulted": [
+    "https://yourviewhome.com/about/",
+    "https://yourviewhome.com/own-a-home-building-company/",
+    "https://yourviewhome.com/communities/verdancia/",
+    "https://yourviewhome.com/contact/",
+    "https://www.huntcompanies.com/holdings",
+    "https://www.huntcompanies.com/about-us/leadership",
+    "https://www.huntcommunities.com/leadership",
+    "https://www.huntcommunities.com/",
+    "https://liveatverdancia.com/",
+    "https://liveatverdancia.com/builders/",
+    "https://www.huntcompanies.com/assets/files/hunt-companies-overview.pdf",
+    "https://www.huntcompanies.com/news",
+    "https://www.huntcompanies.com/news/archive",
+    "https://www.huntcompanies.com/news/hunt-companies-inc-announces-pricing-of-600-million-senior-secured-notes-due-2026",
+    "https://www.huntcompanies.com/news/hunt-acquires-land-for-new-master-planned-community",
+    "https://www.huntcompanies.com/news/avanta-residential-and-iron-point-partners-enter-joint-venture-agreement",
+    "https://www.housingwire.com/articles/hunt-companies-buys-view-homes-amid-m-a-wave/",
+    "https://www.housingwire.com/articles/natasha-gandhi-view-homes-ceo-hunt-companies/",
+    "https://viewhomeslending.com/",
+    "https://campodelsol.com/builders/desert-view-homes"
+  ]
+}

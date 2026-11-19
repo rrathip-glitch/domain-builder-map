@@ -1,0 +1,60 @@
+{
+  "builder_id": "colen-built-development",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Not a conventional for-sale homebuilder and not a plausible land-banking customer today: Colen Built is the family-owned developer-builder of its own master plans (On Top of the World 55+, Calesa Township, Melody Preserve) on land the Colen family has owned since buying the 13,000-acre Circle Square Ranch in Ocala in 1975. The company says publicly and repeatedly that it is debt-free and privately owned, so it self-funds land development and construction; no lender, facility, land banker, lot-option or capital partner is named in any public source found. A 2025 Vice President of Finance posting mentions managing banking relationships and supporting debt structuring, which suggests some bank relationships or contemplated borrowing, but no terms are public. Room for a land banker is minimal in Ocala; the only angles are a future expansion off the family land or the family as a seller of land.",
+    "land_strategy": "Owns most / all: develops its own land. The Colen family bought the 13,000-acre Circle Square Ranch in 1975 and has developed On Top of the World there since 1982; Calesa Township (launched 2020) covers about 1,500 acres with about 5,000 homes in 19 neighborhoods planned over 15 to 20 years. No stated optioned-lot target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-02",
+      "confidence": "Verified",
+      "source_url": "https://ontopoftheworldcommunities.com/about/",
+      "source_title": "On Top of the World Communities: About (page modified 2026-11-02)",
+      "note": "No lot counts are published. Land base described in acres: 13,000 acres (Circle Square Ranch, incl. 418 acres of conservation land) per the company; Calesa Township ~1,500 acres / ~5,000 planned homes per Ocala Gazette 2020-10-23."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": 0,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None (private, no rated debt)",
+      "fiscal_year_end": "",
+      "as_of": "2026-11-02",
+      "confidence": "Verified",
+      "source_url": "https://ontopoftheworldcommunities.com/about/",
+      "source_title": "On Top of the World Communities: About ('remains completely debt-free and privately owned'); colenbuilt.com home page also says 'debt-free company'"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned / optioned / total): not publicly disclosed; company describes its land in acres only",
+    "Credit facilities, construction loans, lenders: not publicly disclosed; company states it is debt-free",
+    "Land-banking or lot-option partners: none found; no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon",
+    "Joint ventures / capital partners: none found",
+    "Community development district (CDD) bond financing for Calesa Township or On Top of the World: not checked in public bond records this run",
+    "M&A 2025-2026: none found (no acquisition, sale or merger reported in sources opened)",
+    "SEC filings: none; EDGAR company search for 'Colen' returns only individuals, no Colen Built entity"
+  ],
+  "sources_consulted": [
+    "https://colenbuilt.com/",
+    "https://ontopoftheworldcommunities.com/about/",
+    "https://ontopoftheworldcommunities.com/legal-notice/",
+    "https://352today.com/news/257752-build-it-and-they-will-come-colen-built-team-celebrates-growth-and-community-impact/",
+    "https://www.ocalagazette.com/something-for-everyone/",
+    "https://web.archive.org/web/20260427133021/https://www.builderonline.com/firms/colen-built-development_o/",
+    "https://career.com/job/colen-built-development/vice-president-of-finance/j202504220900052373794",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=colen&type=&dateb=&owner=include&count=40",
+    "https://melodypreserveocala.com/about/",
+    "https://www.mycalesa.com/coming-soon-to-calesa/"
+  ]
+}

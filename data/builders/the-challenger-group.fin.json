@@ -1,0 +1,182 @@
+{
+  "builder_id": "the-challenger-group",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Private and founder-owned, so there is no public balance sheet, lot count or rating. What is public: the group funds homes and land with bank financing (more than $100 million, lenders not named) and with investor debt raised by its affiliate All Pro Capital, whose current fund (All Pro Funding V) lends to National Builder Group at Prime + 3% (10% today, 7% floor, 10% cap) against deeds of trust at no more than 75% of value, with a corporate guarantee from The Challenger Group, Inc., maturing 31 December 2031. In February 2024 the controlling owner bought back Green Brick Partners' minority stake for about $64 million, removing its one institutional equity partner. No land banker or lot-option partner is named anywhere; National Builder Group buys only finished lots a few at a time, so the room for a land banker is mainly Challenger Homes' Colorado community pipeline and any larger finished-lot takedowns the owner-operators cannot stage, where land-bank pricing would compete with roughly 10% affiliate money that carries a parent guarantee.",
+    "land_strategy": "Mixed and not quantified. National Builder Group is explicitly finished-lot only: each owner-operator starts with 2 finished lots and adds at least 2 a month, finds the lots locally, and headquarters approves and arranges 100% of lot and construction financing on a non-recourse basis. Challenger Homes sells in about 11 Colorado communities, several inside third-party master plans (Sterling Ranch, Wolf Ranch, Meridian Ranch); whether those lots are bought finished, optioned or self-developed is not disclosed. The affiliate debt fund says its loans fund new homes and land development. No stated owned-versus-optioned target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2017-08-21",
+      "confidence": "Inferred",
+      "source_url": "https://www.probuilder.com/home/article/55211064/texas-based-real-estate-company-set-to-acquire-colorado-home-builder",
+      "source_title": "Pro Builder: Texas-Based Real Estate Company Set To Acquire Colorado Home Builder",
+      "note": "No current lot count is public. The only published figure is from August 2017 (Pro Builder, citing the Colorado Springs Gazette): about 1,800 home sites and more than 4,000 lots. It is nine years old and is recorded here as context only."
+    },
+    "land_banking": [
+      {
+        "counterparty": "All Pro Capital / All Pro Funding V, LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Investor debt fund managed by All Pro Capital (founded by Brian Bahr) that lends to National Builder Group to build homes and develop land. Loans are secured by first or second deeds of trust at 75% of value or less, and The Challenger Group, Inc. guarantees the fund. This is secured lending, not a lot-option land bank.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2021-02",
+        "confidence": "Verified",
+        "source_url": "https://www.allprocapital.com/current-offerings",
+        "source_title": "All Pro Capital: Current Offerings (All Pro Funding V)",
+        "note": "Amount outstanding is not public. The fund's 2021 SEC Form D set a maximum offering of $100 million; the website currently markets $10 million as available. First sale 2021-02-18 per Form D."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "All Pro Funding V investor debt (affiliate fund lending to National Builder Group; guaranteed by The Challenger Group, Inc.)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "WSJ Prime + 3%, floor 7%, cap 10% (10% currently), reset quarterly",
+        "maturity": "2031-12",
+        "secured": "Secured",
+        "lenders_agent": "All Pro Capital, LLC (manager); accredited retail investors, $50,000 minimum",
+        "status": "Outstanding",
+        "as_of": "2026-11-19",
+        "confidence": "Verified",
+        "source_url": "https://www.allprocapital.com/all-pro-vertical-fund-v",
+        "source_title": "All Pro Capital: All Pro Funding V fund page",
+        "note": "Balance outstanding not disclosed. At least two-thirds of the money is in first-lien position per the fund page. Investors can request half their money back after 6 months and the rest after 12, so the funding is not locked to maturity."
+      },
+      {
+        "instrument": "Bank financing (lenders and facility terms not named)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "Not disclosed",
+        "status": "Outstanding",
+        "as_of": "",
+        "confidence": "Verified",
+        "source_url": "https://goodwinknight.com/about-us/",
+        "source_title": "Goodwin Knight: About Us (Kyle Simon bio)",
+        "note": "The only public reference: a staff bio says The Challenger Group's treasury managed more than $100 million of bank financing. Undated (sometime 2022 to 2025); size today, lenders, maturities and whether it is still outstanding at that level are not public."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2024-02-01",
+        "type": "Equity",
+        "description": "The controlling owner of GB Challenger, LLC (the entity that operates Challenger Homes) bought back Green Brick Partners' non-controlling interest. Green Brick reported proceeds of about $64 million. Green Brick had held the stake since August 2017.",
+        "amount_usd_m": 64,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1373670/000137367024000002/grbk-20240201.htm",
+        "source_title": "Green Brick Partners Form 8-K, event date 2024-02-01",
+        "note": "The 8-K does not state the percentage or how the buyer financed the purchase; press coverage seen in search results describes the stake as 49.9%."
+      },
+      {
+        "date": "2021-03-05",
+        "type": "Debt issuance",
+        "description": "All Pro Funding V, LLC filed a Form D/A for a Rule 506(c) debt offering of up to $100 million; $3.78 million had been sold to 13 investors at that date. All Pro Capital, LLC is the manager.",
+        "amount_usd_m": 100,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1848528/000184852821000002/xslFormDX01/primary_doc.xml",
+        "source_title": "All Pro Funding V, LLC Form D/A filed 2021-03-05",
+        "note": "The $100 million is the maximum offering, not the amount raised. No later Form D amendment is on EDGAR, so the amount raised to date is not public."
+      },
+      {
+        "date": "2020-06-08",
+        "type": "Debt issuance",
+        "description": "All Pro Funding IV, LLC, the predecessor fund, reported $29.2 million sold to 125 investors of a $40 million Rule 506(c) debt offering. All Pro Capital's site says Funding IV raised $40 million in 24 months.",
+        "amount_usd_m": 40,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1759162/000175916220000001/xslFormDX01/primary_doc.xml",
+        "source_title": "All Pro Funding IV, LLC Form D/A filed 2020-06-08",
+        "note": "The pages opened do not name Funding IV's borrower; it is listed in the lending track record on the Funding V page, which describes the Challenger relationship. Treat the link to Challenger as likely, not confirmed."
+      },
+      {
+        "date": "",
+        "type": "Debt issuance",
+        "description": "A $50 million debt raise by The Challenger Group is mentioned in a staff bio (investor reporting support by the treasury team). No date, lender or instrument is given.",
+        "amount_usd_m": 50,
+        "confidence": "Inferred",
+        "source_url": "https://goodwinknight.com/about-us/",
+        "source_title": "Goodwin Knight: About Us (Kyle Simon bio)",
+        "note": "Date is unknown (sometime between 2022 and 2025, before the staff member moved to Goodwin Knight). It may be the same money as All Pro Funding V."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "National Builder Group owner-operators (16 local builders listed, 19 claimed)",
+        "description": "Each local builder is a separate company owned 20% by its operator and the balance by National Builder Group. Starting capital is $300,000 ($60,000 from the operator, $240,000 from NBG); NBG then arranges all lot and construction financing with no personal guarantee and charges 1.5% of revenue as a service fee.",
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://www.nationalbuildergroup.com/partner/how-we-work/",
+        "source_title": "National Builder Group: How We Work",
+        "note": "Operators are named in the people file. A mature operation targets 50 homes a year."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.allprocapital.com/all-pro-vertical-fund-v",
+      "source_title": "All Pro Capital: All Pro Funding V fund page (says Challenger Group financial statements are audited and shared with fund investors; none are public)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2024-02-01",
+      "role": "Acquirer",
+      "counterparty": "Green Brick Partners (minority stake in GB Challenger, LLC)",
+      "description": "The controlling owner bought out Green Brick Partners' non-controlling interest in the entity that operates Challenger Homes for about $64 million, ending a partnership that began in August 2017.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Challenger is fully founder-controlled again and has no public-company partner; Green Brick is no longer a route to the company or a source of capital for it. Earlier than the 2025 window but it is the event that defines today's ownership.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1373670/000137367024000002/grbk-20240201.htm",
+      "source_title": "Green Brick Partners Form 8-K, event date 2024-02-01",
+      "note": "Verification 2026-11-19: 8-K confirms the closed sale on 2024-02-01 for about $64 million; the August 2017 start of the partnership is not stated in this filing."
+    }
+  ],
+  "gaps": [
+    "Current lots owned and controlled, years of supply: not publicly disclosed (private company).",
+    "Credit facility lenders, size, maturity and terms: not publicly disclosed. Only a staff-bio reference to more than $100 million of bank financing.",
+    "Total debt, cash, liquidity, leverage, ratings: not publicly disclosed. Audited statements exist but go only to All Pro fund investors.",
+    "Amount outstanding under All Pro Funding V and earlier affiliate funds: not publicly disclosed; no Form D amendment since March 2021.",
+    "How Challenger Homes controls its Colorado lots (finished-lot purchase contracts, options, own development): not publicly disclosed.",
+    "How the February 2024 buyback of Green Brick's stake (about $64 million) was financed: not publicly disclosed.",
+    "Land banker or lot-option partner: none named in any source opened. No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon was found, but the swarm's shared web-search allowance ran out before the dedicated competitor-name searches could be run, so this is 'none found', not 'confirmed none'.",
+    "M&A in 2025 and 2026: none found. National Builder Group grows by starting new owner-operator companies (for example Whitestar Homes and Osborne Homes in 2024), not by buying builders. The dedicated 2025 to 2026 acquisition search was not completed for the same search-allowance reason.",
+    "Goodwin Knight (rental arm) project debt and equity partners: not researched in depth (outside the for-sale land question).",
+    "SEC EDGAR full-text search returned 403 to curl during this run; company lookups were done through WebFetch only."
+  ],
+  "sources_consulted": [
+    "https://www.allprocapital.com/all-pro-vertical-fund-v",
+    "https://www.allprocapital.com/current-offerings",
+    "https://www.allprocapital.com/debt-funds",
+    "https://www.allprocapital.com/",
+    "https://www.allprocapital.com/team",
+    "https://www.nationalbuildergroup.com/partner/how-we-work/",
+    "https://www.nationalbuildergroup.com/partner/faqs/",
+    "https://www.nationalbuildergroup.com/partner/",
+    "https://www.nationalbuildergroup.com/builders/",
+    "https://goodwinknight.com/about-us/",
+    "https://goodwinknight.com/projects/",
+    "https://goodwinknight.com/testimonials-press/",
+    "https://www.sec.gov/Archives/edgar/data/1373670/000137367024000002/grbk-20240201.htm",
+    "https://www.sec.gov/Archives/edgar/data/1848528/000184852821000002/xslFormDX01/primary_doc.xml",
+    "https://www.sec.gov/Archives/edgar/data/1759162/000175916220000001/xslFormDX01/primary_doc.xml",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=All+Pro+Funding&type=D&dateb=&owner=include&count=40",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Challenger&State=CO&type=D&dateb=&owner=include&count=40",
+    "https://www.probuilder.com/home/article/55211064/texas-based-real-estate-company-set-to-acquire-colorado-home-builder",
+    "https://challengerhomes.com/",
+    "https://challengerhomes.com/about/"
+  ]
+}

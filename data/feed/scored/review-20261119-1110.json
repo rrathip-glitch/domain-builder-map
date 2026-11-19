@@ -1,0 +1,497 @@
+{
+ "batch": "review-20261119-1110",
+ "rubric_version": "v1.3",
+ "articles": [
+  {
+   "id": "25010d751466",
+   "summary": "Dream Finders closed its all-cash Beazer purchase Oct. 20, 2026 ($33.50 a share, about $2.2B enterprise value), becoming the sixth-largest US builder. Funding: $572.1M Millrose land bank facility (about 7,000 homesites) and $675M of 12% preferred, about $488M Millrose's.",
+   "category": "Land banking & competitors",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 22,
+    "financing_capital_markets": 24,
+    "land_lot_supply": 9,
+    "materiality_actionability": 8
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "Millrose put land banking and about $488M of 12% preferred behind a top-25 builder merger, a whole-company financing package Domain will be asked to match and a sign Beazer's land now sits on a competitor's platform.",
+   "builder_ids": [
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties",
+    "Kennedy Lewis"
+   ],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Land banking",
+    "text": "Closed the acquisition of Beazer Homes on 2026-10-20 ($33.50 a share, about $878.4M), funded by $572.1M from a Millrose land bank facility and $675M of 12% Series B convertible preferred, about $488M of it bought by Millrose."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "ef17c22b721c",
+   "summary": "Millrose Q3 2026: net income $130.0M, AFFO $0.80/share, invested capital about $9.25B ($3.4B outside Lennar, 22 counterparties); non-Lennar yield 10.8% vs 8.5% on Lennar; $250M buyback. Funded $1.1B of Dream Finders' Beazer deal: $580M land banking, $488M 12% preferred.",
+   "category": "Land banking & competitors",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 18,
+    "financing_capital_markets": 20,
+    "land_lot_supply": 8,
+    "materiality_actionability": 9
+   },
+   "adjustment": "floor75-competitor",
+   "why_it_matters": "Millrose is pricing non-Lennar option capital at about 10.8% and pairing land banking with preferred equity to win whole-company deals, while leverage above its own target may slow how fast it can keep bidding against Domain.",
+   "builder_ids": [
+    "lennar",
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [
+    "Darren Richman",
+    "Robert Nitkin"
+   ],
+   "competitors": [
+    "Millrose Properties",
+    "Kennedy Lewis"
+   ],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Land banking",
+    "text": "Millrose closed about $1.1B of capital support on Oct. 20, 2026 for the Beazer acquisition: about $580M of land banking across roughly 7,000 homesites plus about $488M of preferred equity at a 12% dividend."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "ddb348c6cfea",
+   "summary": "Millrose priced $1.0B of senior notes Sept. 22 and closed Oct. 6, 2026: $500M 6.500% due 2029 and $500M 6.750% due 2031. Proceeds and a $500M term-loan draw may buy Dream Finders–Beazer homesites and repay an $850M revolver balance.",
+   "category": "Land banking & competitors",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 15,
+    "financing_capital_markets": 25,
+    "land_lot_supply": 7,
+    "materiality_actionability": 7
+   },
+   "adjustment": "floor75-competitor",
+   "why_it_matters": "Millrose raised about $1.5B of fresh debt partly to take on Dream Finders–Beazer homesites; its 6.5%–6.75% unsecured cost of funds is a benchmark for how cheaply Domain's main rival can price option deals.",
+   "builder_ids": [
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties"
+   ],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Land banking",
+    "text": "Millrose priced $1.0B of senior notes on Sept 22, 2026, partly to acquire homesites from the combined Dream Finders–Beazer; the 2031 tranche must be redeemed if the deal had not closed by May 13, 2027."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "b340f44e72bc",
+   "summary": "Dream Finders is exchanging Beazer's $250M 7.500% 2031 and $400M 8.000% 2032 notes for its own notes, with consents stripping covenants; 99.22% and 98.28% tendered by Nov. 4. Settles about Nov. 23. September consents had waived change of control.",
+   "category": "Builder financing",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 18,
+    "financing_capital_markets": 15,
+    "land_lot_supply": 2,
+    "materiality_actionability": 4
+   },
+   "adjustment": "none",
+   "why_it_matters": "A mechanical follow-on of the Beazer takeover: Dream Finders now carries Beazer's $650M of bonds itself with the covenants stripped, a modest gain in flexibility for how it funds land, including option deals Domain could bid on.",
+   "builder_ids": [
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Financing",
+    "text": "Exchange offer for Beazer's $250M 7.500% notes due 2031 and $400M 8.000% notes due 2032 into new Dream Finders notes drew 99.22% and 98.28% by Nov. 4, 2026, with settlement expected Nov. 23, 2026."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "86f8e5d0c3fc",
+   "summary": "Beazer issued a conditional notice on Sept 28, 2026 to redeem all $350.0M of its 7.250% senior notes due 2029 at 101.208% on Oct 20, conditional on the Dream Finders merger closing and funds being received.",
+   "category": "Builder financing",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 3,
+    "builder_customer": 18,
+    "financing_capital_markets": 15,
+    "land_lot_supply": 2,
+    "materiality_actionability": 4
+   },
+   "adjustment": "none",
+   "why_it_matters": "A mechanical follow-on of the Dream Finders takeover: Beazer's $350M 2029 bonds were retired at closing, so Beazer's funding, including for land, is now set at the Dream Finders level.",
+   "builder_ids": [
+    "beazer-homes",
+    "dream-finders-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "beazer-homes",
+    "kind": "Financing",
+    "text": "Conditional notice issued Sept 28, 2026 to redeem all $350.0M of 7.250% senior notes due 2029 at 101.208% on Oct 20, 2026, subject to the Dream Finders merger closing."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "35402b520a06",
+   "summary": "Lennar Q3 (Aug 31): net earnings $284M ($1.19/share) on $8.0B revenue; deliveries 20,840, orders down 9%, gross margin 15.8%. Controls about 488,000 homesites, under 2.5% owned; called rising option maintenance fees a real cost. Delivery guide cut to 80,000-81,000.",
+   "category": "Earnings & guidance",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 14,
+    "builder_customer": 25,
+    "financing_capital_markets": 15,
+    "land_lot_supply": 10,
+    "materiality_actionability": 7
+   },
+   "adjustment": "none",
+   "why_it_matters": "Lennar is almost fully land-light with $7.33B of deposits and pre-acquisition costs outstanding, so its lower delivery guide and thinner margin bear directly on takedown pace and option pricing for its land bankers, Domain included.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties"
+   ],
+   "suggested_update": {
+    "builder_id": "lennar",
+    "kind": "Land banking",
+    "text": "At Aug 31, 2026 Lennar owned or controlled about 488,000 homesites with under 2.5% owned; homebuilding debt to total capital 16.6%; fiscal 2026 delivery guide lowered to 80,000-81,000 homes."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "e9e39b9fa203",
+   "summary": "Century Communities' board on Nov. 4, 2026 elected James (Jim) Francescon, 37, EVP of corporate operations, President effective Jan. 1, 2027, overseeing homebuilding, land and M&A. Robert Francescon stays CEO and sole principal executive officer; Dale Francescon stays Executive Chairman.",
+   "category": "Executive change",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 22,
+    "financing_capital_markets": 2,
+    "land_lot_supply": 4,
+    "materiality_actionability": 7
+   },
+   "adjustment": "floor75-exec-top25",
+   "why_it_matters": "The next-generation leader at a top-10 builder is now named, and he comes from private equity and investment banking, so he is a person Domain should get in front of on land-capital decisions.",
+   "builder_ids": [
+    "century-communities"
+   ],
+   "people": [
+    "James Francescon",
+    "Robert J. Francescon",
+    "Dale Francescon"
+   ],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "century-communities",
+    "kind": "Executive change",
+    "text": "James Francescon (EVP, Corporate Operations) becomes President effective 2027-01-01; Robert J. Francescon remains CEO and becomes sole principal executive officer (8-K filed 2026-11-09)."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "3c0e1e4e3edc",
+   "summary": "Century Communities bought substantially all assets of HistoryMaker Homes (HMH Lifestyles), a Dallas-Fort Worth builder founded in 1949, closing Oct. 7, 2026; price undisclosed. It roughly triples Century's DFW community count, adding 29 communities, in one Grapevine division.",
+   "category": "Builder M&A",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 4,
+    "builder_customer": 22,
+    "financing_capital_markets": 5,
+    "land_lot_supply": 10,
+    "materiality_actionability": 8
+   },
+   "adjustment": "floor75-builder-ma",
+   "why_it_matters": "The 10th-largest builder absorbed the 77th, consolidating DFW lot positions; any option or land-bank contracts HistoryMaker held now sit with Century, so Domain should check its exposure and approach Century's DFW land team.",
+   "builder_ids": [
+    "century-communities",
+    "historymaker-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "century-communities",
+    "kind": "Deal",
+    "text": "Acquired substantially all assets of HistoryMaker Homes (DFW) on Oct 7, 2026 (price undisclosed), tripling its Dallas-Fort Worth community count."
+   },
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "1113f546fa22",
+   "summary": "Meritage Q3 2026: 3,187 closings, down 14%; EPS $1.04; no Q4 guidance. Land spend $329M versus $528M. Of about 71,800 lots, 69% owned and 31% optioned, against a roughly 40% off-balance-sheet target. Net debt-to-capital 18.9%; revolver undrawn.",
+   "category": "Earnings & guidance",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 12,
+    "builder_customer": 20,
+    "financing_capital_markets": 10,
+    "land_lot_supply": 10,
+    "materiality_actionability": 6
+   },
+   "adjustment": "none",
+   "why_it_matters": "Meritage owns 69% of its lots against a 40% off-balance-sheet target while cutting land spend, so the fifth-largest builder has room to move lots into option structures; worth a call to its land and finance team.",
+   "builder_ids": [
+    "meritage-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "e3f076965112",
+   "summary": "Century Q3 2026: 2,442 deliveries, EPS $0.44; full-year guidance lowered. Revolver upsized to $1.2B, extended to November 2030. Lots 60,969, 45.1% controlled; finished lot costs fell 3% sequentially. Record 343 communities; 360-370 expected at year-end including 29 from HistoryMaker.",
+   "category": "Builder financing",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 6,
+    "builder_customer": 20,
+    "financing_capital_markets": 21,
+    "land_lot_supply": 9,
+    "materiality_actionability": 8
+   },
+   "adjustment": "none",
+   "why_it_matters": "Century's net leverage rose to 34.9% from 25.9% at year-end as it drew on its revolver and bought HistoryMaker, which makes it a builder with a reason to move more lots off balance sheet and one Domain should call (the revolver upsizing itself is scored on its own 8-K).",
+   "builder_ids": [
+    "century-communities",
+    "historymaker-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "century-communities",
+    "kind": "Deal",
+    "text": "Acquired substantially all assets of HistoryMaker Homes on Oct. 7, 2026 (Dallas active communities from 12 to 41) and at the end of Q3 2026 upsized its revolver to $1.2B with maturity extended to November 2030."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "c6c788e129b4",
+   "summary": "LGI Homes Q3 2026: 1,189 closings, up 11.6%; EPS $1.05. Lots 58,400 (50,270 owned, 8,130 controlled). Net debt-to-capital 40.6%; liquidity $447.7M. 2026 closings guide narrowed to 4,600-4,800; targets 180-plus communities by end-2027 from 151, partly via developers' finished lots.",
+   "category": "Earnings & guidance",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 8,
+    "builder_customer": 15,
+    "financing_capital_markets": 12,
+    "land_lot_supply": 9,
+    "materiality_actionability": 6
+   },
+   "adjustment": "none",
+   "why_it_matters": "LGI still owns 86% of its lots at 40.6% net leverage and calls its position predominantly self-developed and on balance sheet, which makes it one of the larger untapped candidates for a land-bank conversation.",
+   "builder_ids": [
+    "lgi-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "7331f9448c63",
+   "summary": "Berkshire Hathaway closed its Taylor Morrison purchase July 24, 2026 at $72.50 a share (about $6.8B equity, $8.5B enterprise value), pairing it with Clayton Properties; it now calls itself the fourth-largest US builder and holds over 10% of Lennar.",
+   "category": "Builder M&A",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 3,
+    "builder_customer": 22,
+    "financing_capital_markets": 9,
+    "land_lot_supply": 3,
+    "materiality_actionability": 6
+   },
+   "adjustment": "none",
+   "why_it_matters": "Berkshire now owns a top-10 builder through Taylor Morrison and Clayton and holds over 10% of Lennar, a deep-pocketed owner that can fund land on balance sheet rather than through land bankers like Domain; the deal closed before the window, so no M&A floor.",
+   "builder_ids": [
+    "taylor-morrison",
+    "clayton-properties-group",
+    "lennar"
+   ],
+   "people": [
+    "Sheryl Palmer"
+   ],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "taylor-morrison",
+    "kind": "Deal",
+    "text": "Acquired by Berkshire Hathaway on Jul 24, 2026 at $72.50 per share cash (about $6.8B equity, $8.5B EV); delisted from NYSE and run alongside Clayton Properties Group."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "566bd9f0f8f5",
+   "summary": "Pretium (about $70B AUM) is expanding its residential real estate debt platform by adding London-based Hilltop Capital Partners' team for U.K. development lending; the platform has lent about $8B since its December 2024 launch, including to homebuilders.",
+   "category": "New entrant",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 14,
+    "builder_customer": 0,
+    "financing_capital_markets": 12,
+    "land_lot_supply": 2,
+    "materiality_actionability": 5
+   },
+   "adjustment": "none",
+   "why_it_matters": "Pretium's expansion is UK development lending, not US builder land, so it adds no new competing capacity against Domain this week; worth tracking only because the platform has lent to homebuilders before.",
+   "builder_ids": [],
+   "people": [
+    "Jonathan Pruzan",
+    "Paul Oberschneider",
+    "Tiger Craft"
+   ],
+   "competitors": [
+    "Pretium",
+    "Hilltop Capital Partners"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "844adb12111d",
+   "summary": "Nevada sold the roughly 23-acre former Grant Sawyer state office site in downtown Las Vegas for $10.6 million to a New York investment firm, which reportedly gave Lennar an option for a 1,000-plus-home project (snippet only; paywalled).",
+   "category": "Land & lots",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 16,
+    "builder_customer": 16,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 8,
+    "materiality_actionability": 5
+   },
+   "adjustment": "none",
+   "why_it_matters": "If the paywalled report holds, an unnamed New York investor is land-banking a Lennar site, so Domain should find out which firm is taking Lennar option deals in Las Vegas; scored from the snippet only.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "lennar",
+    "kind": "Land banking",
+    "text": "Reported 2026-11-15: a New York investment firm bought the former Grant Sawyer site in downtown Las Vegas for $10.6 million and gave Lennar an option on it for a planned 1,000-plus-home project."
+   },
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "1a72b7393a37",
+   "summary": "Home Depot CEO Ted Decker is stepping down after a medical leave; CFO Richard McPhail succeeds him as CEO, announced November 17, 2026.",
+   "category": "Executive change",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A leadership change at a home-improvement retailer, not a builder or capital provider; no action for Domain.",
+   "builder_ids": [],
+   "people": [
+    "Ted Decker",
+    "Richard McPhail"
+   ],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "820c2a09ea65",
+   "summary": "Home Depot appointed Jordan Broggi, a 13-year company veteran, as CFO effective November 23, 2026, replacing Richard McPhail, who becomes CEO.",
+   "category": "Executive change",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A CFO change at a home-improvement retailer, not a homebuilder; nothing for Domain to act on.",
+   "builder_ids": [],
+   "people": [
+    "Jordan Broggi"
+   ],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "964faefbb2b9",
+   "summary": "PCL Construction, a Canadian general contractor, appointed Danny Dodds as chief financial officer effective immediately.",
+   "category": "Executive change",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A CFO change at a commercial contractor, not a homebuilder customer; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [
+    "Danny Dodds"
+   ],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "18ff1d8df035",
+   "summary": "Republic Business Credit, a New Orleans commercial finance firm, promoted Brian Daray to EVP, head of credit, and Jerry Friedrichs to SVP, underwriting manager.",
+   "category": "Executive change",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap10-off-topic",
+   "why_it_matters": "A business-credit lender's internal promotions; no builder-land financing role, so nothing for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  }
+ ]
+}

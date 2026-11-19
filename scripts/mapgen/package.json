@@ -1,0 +1,9 @@
+{
+  "name": "mapgen",
+  "private": true,
+  "description": "One-off generator for app/public-next/usstates-paths.js (US state outlines from us-atlas, ISC licence, US Census public-domain data).",
+  "type": "module",
+  "dependencies": {
+    "us-atlas": "^3.0.1"
+  }
+}

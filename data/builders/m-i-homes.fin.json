@@ -1,0 +1,249 @@
+{
+  "builder_id": "m-i-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "M/I Homes funds land almost entirely on its own balance sheet: cash of $620.6M, an undrawn $900M unsecured revolver (PNC agent, matures September 2030) and just two unsecured notes series totalling $700M (4.95% due February 2028, 3.95% due February 2030). Homebuilding debt-to-capital was 18% and company-stated net debt-to-capital 2% at September 30, 2026; cash plus revolver availability ($808.9M after letters of credit) is about $1.43B (our sum, not a company-reported figure). It controls 48,934 lots, 52% under option or contingent purchase contracts with unnamed land sellers ($1.7B aggregate purchase price, $78.4M of deposits), and it developed over 80% of its lots itself in 2025. No land banker is named in its filings, and on the Q3 2026 call the CEO said the company does virtually no land banking and prefers to control its land, while conceding that perhaps it should have. Room for a land banker is therefore a greenfield conversation rather than a share-take from a rival: $1.85B of lots and land sits on balance sheet, the company keeps buying back stock ($250M authorisation, August 2026), and the $400M 2028 notes (callable at par) are the next financing decision.",
+    "land_strategy": "Mixed, leaning owner-developer. The 10-K states a target of roughly a three-to-five-year lot supply, acquired mainly through contingent purchase agreements and options with minimum cash down and takedowns where available; every purchase is approved by a corporate land acquisition committee. Over 80% of lots were developed internally in 2025. At September 30, 2026 it owned 23,425 lots (about 2.5 years, per the earnings call) and had 25,509 under contract, about five years in total. At year-end 2025 owned lots were 10,487 developed, 6,361 under development and 8,804 undeveloped. Land spend was $523.7M purchases plus $645.6M development in 2025, and $345.5M plus $413.5M in the first nine months of 2026. Management says it does virtually no land banking or other off-balance-sheet land structures, will not start selling land, and will be more careful on new deals.",
+    "lots": {
+      "total_controlled": 48934,
+      "owned": 23425,
+      "optioned": 25509,
+      "pct_optioned": 52.1,
+      "years_supply": 5,
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000799292/000079929226000030/exhibit991earningspressrel.htm",
+      "source_title": "Q3 2026 earnings release (8-K Exhibit 99.1, 2026-10-21), Land Position Summary",
+      "note": "Northern region 6,880 owned / 13,396 under contract; Southern region 16,545 owned / 12,113 under contract. Prior year (2025-09-30): 24,408 owned / 26,217 under contract / 50,625 total. pct_optioned is our calculation (25,509 / 48,934). Years supply ('approximately five-year') is from the 10-Q MD&A and is based on trailing-twelve-month deliveries; it includes some lots the company expects to sell to third parties. Owned supply about 2.5 years per the Q3 2026 call. 'Under contract' covers both option contracts and contingent purchase agreements."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Land sellers and third-party developers (not named)",
+        "counterparty_type": "Unknown",
+        "description": "Not a land-bank programme: these are ordinary option and contingent purchase agreements for land and developed lots covering the 25,509 lots under contract. Aggregate purchase price is about $1.7B, backed by $78.4M of land purchase deposits plus $16.2M of letters of credit posted as deposits.",
+        "amount_usd_m": 1700,
+        "lots": 25509,
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "Counterparties are described only as 'land sellers'. The company concluded it is not the primary beneficiary of any land-seller VIE; consolidated inventory not owned was $21.1M (down from $30.3M at 2025-12-31). At 2025-12-31 the 24,329 lots under contract ($1.6B) were scheduled to be bought from 2026 through 2031 (10-K). Deposit write-offs were $2.8M in the first nine months of 2026 and $11.8M (deposits and pre-acquisition costs) in 2025."
+      },
+      {
+        "counterparty": "No land banker (company statement: virtually no land banking)",
+        "counterparty_type": "Unknown",
+        "description": "On the Q3 2026 earnings call the CEO, answering a question on strategy into 2027, said M/I is one of the few builders that does virtually no land banking and was never drawn into off-balance-sheet structures. He prefers controlling the land directly, said the company is not paying a premium for that control, and noted its best deals are not exposed to a land banker's cross-collateral; he added that perhaps the company should have used it.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-10",
+        "confidence": "Reported",
+        "source_url": "https://www.tradingkey.com/news/transcripts/262229779-tradingkey",
+        "source_title": "M/I Homes Q3 2026 earnings call transcript (TradingKey, 2026-10-21)",
+        "note": "Statement of absence, recorded so the map shows why no counterparty is listed. Seen in one transcript provider only; a second summary of the same call (MarketBeat) does not carry the remark. Neither 'land bank' nor 'land banking' appears in the portions of the FY2025 10-K and 2026 10-Qs read in this run."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "4.95% Senior Notes due 2028",
+        "type": "Senior notes",
+        "principal_usd_m": 400,
+        "rate": "4.95%",
+        "maturity": "2028-02-01",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "Issued 2020-01-22. Net carrying value $399.0M. Guaranteed on a senior unsecured basis by the same subsidiaries that guarantee the Credit Facility. Redeemable in whole or in part at any time at 100% of principal plus accrued interest, so it can be refinanced without a premium; this is the nearest maturity. Its indenture sets the restricted payments basket ($824.6M at 2026-09-30). Trustee not captured."
+      },
+      {
+        "instrument": "3.95% Senior Notes due 2030",
+        "type": "Senior notes",
+        "principal_usd_m": 300,
+        "rate": "3.95%",
+        "maturity": "2030-02-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "Issued 2021-08-23. Net carrying value $298.3M. Subsidiary-guaranteed. Make-whole call before 2029-08-15, par call on or after that date. Trustee not captured."
+      },
+      {
+        "instrument": "Unsecured revolving Credit Facility ($900M commitment)",
+        "type": "Revolver",
+        "principal_usd_m": 900,
+        "rate": "Adjusted term SOFR + 150 bps (leverage-based grid); 25 bps commitment fee",
+        "maturity": "2030-09-18",
+        "secured": "Unsecured",
+        "lenders_agent": "PNC Bank, N.A. (administrative agent, swingline lender); Wells Fargo Bank (syndication agent); other lenders signing the Seventh Amendment: Fifth Third, Huntington, Regions, JPMorgan Chase, U.S. Bank, Comerica, Flagstar, Texas Capital Bank, Truist, Citizens. Citibank exited in the amendment.",
+        "status": "Undrawn",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "principal_usd_m is the commitment, not a drawn balance: borrowings were zero, letters of credit $91.1M (inside a $250M sub-facility), net availability $808.9M. Accordion to $1.05B. Originally dated 2013-07-18; Seventh Amendment 2025-09-18 raised it from $650M and extended it (agent and lender names from the 8-K and its Exhibit 10.1: https://www.sec.gov/Archives/edgar/data/799292/000079929225000071/exhibit101seventhamendme.htm). Subject to a borrowing base. Covenants at 2025-12-31 per the 10-K: minimum consolidated tangible net worth $2,172.7M (actual $3,061.4M), maximum leverage 0.60 (actual 0.02), minimum interest coverage 1.5x (actual 18.64x), investments in unrestricted subsidiaries and joint ventures capped at $918.4M (actual $6.8M). Per-lender commitments not captured."
+      },
+      {
+        "instrument": "M/I Financial: New MIF Mortgage Repurchase Facility ($300M committed)",
+        "type": "Mortgage warehouse",
+        "principal_usd_m": 300,
+        "rate": "Daily Reset Term SOFR + margin",
+        "maturity": "2027-10-18",
+        "secured": "Secured",
+        "lenders_agent": "U.S. Bank",
+        "status": "Outstanding",
+        "as_of": "2026-10-20",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "principal_usd_m is the facility limit. Entered 2026-10-20 (after quarter-end) to replace the $200M MIF Mortgage Repurchase Facility, which expired the same day. Borrower is the mortgage subsidiary M/I Financial, LLC; finances eligible residential mortgage loans (the filing does not use the word 'secured'; marked Secured because it is a loan repurchase facility). Combined borrowings under the two MIF facilities in place at 2026-09-30 were $230.4M; the split is not given. Not guaranteed by the homebuilding entities per the 10-K description of the predecessor facility."
+      },
+      {
+        "instrument": "M/I Financial: MIF Master Repurchase Facility ($100M uncommitted)",
+        "type": "Mortgage warehouse",
+        "principal_usd_m": 100,
+        "rate": "Daily Simple SOFR + margin",
+        "maturity": "2027-10-19",
+        "secured": "Secured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-10-20",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "principal_usd_m is the uncommitted maximum. First entered 2025-10-21; renewed 2026-10-20 to 2027-10-19. Counterparty not named in the text read. $78.7M was outstanding at 2025-12-31 (10-K). Marked Secured on the same basis as the facility above."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-02-11",
+        "type": "Buyback",
+        "description": "Board approved a new share repurchase programme of up to $250M, replacing the 2024 programme. Q1 2025 repurchases were about 0.4M shares for $50.1M.",
+        "amount_usd_m": 250,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0000799292/000079929225000033/mho-20250331.htm",
+        "source_title": "Form 10-Q for the quarter ended March 31, 2025 (filed 2025-04-25)",
+        "note": ""
+      },
+      {
+        "date": "2025-09-18",
+        "type": "Facility amendment",
+        "description": "Seventh Amendment to the unsecured revolver: commitment raised from $650M to $900M, maturity extended to 2030-09-18, accordion to $1.05B, SOFR margin cut from 175 to 150 bps, commitment fee cut 5 bps to 25 bps, and higher borrowing-base advance rates. PNC Bank is administrative agent; Citibank left the syndicate.",
+        "amount_usd_m": 900,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929225000071/mho-20250918.htm",
+        "source_title": "Form 8-K, Items 1.01/2.03: Seventh Amendment to Credit Agreement (filed 2025-09-19)",
+        "note": "No borrowings and $88.5M of letters of credit were outstanding at 2025-06-30. Press release dated 2025-09-19."
+      },
+      {
+        "date": "2025-10-21",
+        "type": "Facility amendment",
+        "description": "M/I Financial amended its mortgage repurchase facility, cutting the commitment from $300M to $200M and setting expiry at 2026-10-20, and added a separate uncommitted $100M master repurchase facility.",
+        "amount_usd_m": 300,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000006/mho-20251231.htm",
+        "source_title": "Form 10-K for fiscal year 2025 (filed 2026-02-13)",
+        "note": "amount_usd_m is the combined capacity after the change. Financial-services borrowings were $276.9M at 2025-12-31."
+      },
+      {
+        "date": "2025-11-12",
+        "type": "Buyback",
+        "description": "Board approved a second 2025 share repurchase programme of up to $250M with no expiry, replacing the February 2025 programme. Full-year 2025 repurchases were 1.6M shares for $202.0M.",
+        "amount_usd_m": 250,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000006/mho-20251231.htm",
+        "source_title": "Form 10-K for fiscal year 2025 (filed 2026-02-13)",
+        "note": "$220.4M remained at 2025-12-31."
+      },
+      {
+        "date": "2026-08-12",
+        "type": "Buyback",
+        "description": "Board approved the 2026 Share Repurchase Program of up to $250M. Repurchases were $50.1M (334,000 shares) in Q3 2026 and $150.2M (1,076,000 shares) in the first nine months of 2026.",
+        "amount_usd_m": 250,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "$206.7M remained available at 2026-09-30. About $50M has been repurchased each quarter since early 2025, funded from cash."
+      },
+      {
+        "date": "2026-10-20",
+        "type": "Facility amendment",
+        "description": "M/I Financial entered a new $300M committed mortgage repurchase facility with U.S. Bank (expires 2027-10-18) to replace the expiring $200M facility, and renewed the $100M uncommitted master repurchase facility to 2027-10-19.",
+        "amount_usd_m": 400,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "amount_usd_m is the combined capacity after the change. Subsequent event disclosed in the Q3 2026 10-Q."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Other homebuilders (not named): joint ownership and development agreements (JODAs)",
+        "description": "M/I co-owns land, usually with other builders, and funds development jointly until the finished lots are divided among the partners; generally no separate legal entity. Investment was $77.5M at 2026-09-30, down from $99.9M at 2025-12-31.",
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "Total investment in joint venture arrangements was $87.2M at 2026-09-30 ($106.3M at 2025-12-31; $65.3M at 2024-12-31). Nine-month 2026 movement: $60.4M of lot distributions, $41.0M of cash contributions. Maximum exposure equals the amount invested."
+      },
+      {
+        "partner": "Other partners (not named): land development LLCs",
+        "description": "Equity-method LLCs that develop lots for their members; M/I owns 25% to 50%. Investment was $9.7M at 2026-09-30, up from $6.4M at 2025-12-31.",
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+        "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23)",
+        "note": "Joint-venture raw land was expected to yield 2,263 lots at 2025-12-31 and is counted in undeveloped owned lots (10-K). The revolver caps investments in unrestricted subsidiaries and joint ventures at $918.4M (2025-12-31), far above current use."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": 927.7,
+      "cash_usd_m": 620.6,
+      "liquidity_usd_m": 1429.5,
+      "net_debt_to_capital_pct": 2,
+      "credit_ratings": "",
+      "fiscal_year_end": "December 31",
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+      "source_title": "Form 10-Q for the quarter ended September 30, 2026 (filed 2026-10-23); Q3 2026 earnings release"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit ratings (Moody's, S&P, Fitch): not stated in the SEC filings or IR pages read, and rating-agency releases were not located. Left blank.",
+    "Land-banking counterparties: none publicly disclosed. The CEO said on the Q3 2026 call that the company does virtually no land banking (one transcript source).",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found in the filings and call transcript read. A press search by firm name (also Essential Housing, IHP, Brookfield, Varde, Oaktree, GTIS, Hearthstone, Walton, Forestar) was not completed.",
+    "Names of the land sellers and developers behind the 25,509 lots under contract: not publicly disclosed. Split between finished-lot option contracts and raw-land purchase agreements: not disclosed.",
+    "Joint-venture (JODA and LLC) partner names: not publicly disclosed.",
+    "M&A: no acquisition, merger or divestiture appears in the FY2025 10-K, the 2026 10-Qs, the 2025 to 2026 8-K list (no Item 2.01 filings) or the company's full 2025 to 2026 press-release list; goodwill ($16.4M) still relates only to the March 2018 Pinnacle Homes (Detroit) purchase. Trade press was not searched for small unannounced deals.",
+    "Per-lender commitment amounts under the $900M revolver (Exhibit B schedule) and the senior notes trustee: not captured.",
+    "Counterparty for the $100M MIF Master Repurchase Facility and the split of the $230.4M outstanding between the two MIF facilities: not stated in the text read.",
+    "liquidity_usd_m (1,429.5) is our sum of cash ($620.6M) and net revolver availability ($808.9M); the company does not publish a liquidity figure. total_debt_usd_m is carrying value: $697.3M homebuilding senior notes plus $230.4M financial-services borrowings. net_debt_to_capital_pct of 2 is the figure management gave on the Q3 2026 call (our calculation from the 10-Q gives 2.3).",
+    "Covenant actuals at 2026-09-30: not in the portion of the 10-Q read (year-end 2025 figures recorded instead).",
+    "Investor presentations: the IR site's presentation feed is behind a bot check and was not read."
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/Archives/edgar/data/799292/000079929226000033/mho-20260930.htm",
+    "https://www.sec.gov/Archives/edgar/data/0000799292/000079929226000030/exhibit991earningspressrel.htm",
+    "https://www.sec.gov/Archives/edgar/data/799292/000079929226000006/mho-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/799292/000079929225000071/mho-20250918.htm",
+    "https://www.sec.gov/Archives/edgar/data/799292/000079929225000071/exhibit101seventhamendme.htm",
+    "https://www.sec.gov/Archives/edgar/data/799292/000079929226000028/mho-20260630.htm",
+    "https://www.sec.gov/Archives/edgar/data/0000799292/000079929225000033/mho-20250331.htm",
+    "https://www.sec.gov/Archives/edgar/data/799292/000079929226000012/mho-20260227.htm",
+    "https://data.sec.gov/submissions/CIK0000799292.json",
+    "https://investors.mihomes.com/feed/PressRelease.svc/GetPressReleaseList?LanguageId=1&bodyType=0&pressReleaseDateFilter=3&pageSize=-1&pageNumber=0&includeTags=true&year=2025",
+    "https://investors.mihomes.com/feed/PressRelease.svc/GetPressReleaseList?LanguageId=1&bodyType=0&pressReleaseDateFilter=3&pageSize=-1&pageNumber=0&includeTags=true&year=2026",
+    "https://www.tradingkey.com/news/transcripts/262229779-tradingkey",
+    "https://www.marketbeat.com/instant-alerts/transcript-mi-homes-q3-earnings-call-highlights-2026-10-21/",
+    "https://investors.mihomes.com/"
+  ]
+}

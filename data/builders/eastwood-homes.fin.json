@@ -1,0 +1,169 @@
+{
+  "builder_id": "eastwood-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Eastwood is a private, family-owned, conventional for-sale builder that publishes no financials, lot counts or facility terms. What is visible points to a bank-and-balance-sheet model: a public-records aggregator shows Fifth Third Bank as by far its largest recorded lender, the CFO talks about staying 'relevant to banking partners', and the seller of Napolitano Homes said Eastwood has the financial strength to carry land that a 200-home builder could not. No land banker, lot-option fund or outside equity partner is named anywhere public, and no link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. It is a plausible land-banking prospect: about 1,500 closings growing toward roughly 1,800 through two acquisitions in 14 months, a new block of about 1,000 Atlanta assets to carry, and a CFO who is on conference panels about land-long versus land-light models and bank versus private capital.",
+    "land_strategy": "Not stated in the company's own words. Indicators are mixed: Eastwood develops some of its own communities (an affiliate named Eastwood Development Corp appears in public records) and also buys lots from developers (it entered Richmond by buying lots in master plans, and in Atlanta keeps Cotter Properties as a development partner after buying Peachtree Building Group). Third parties describe it as able to hold land on its own balance sheet; no land-light target has been published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-05-27",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
+      "source_title": "HousingWire: Scale is now table stakes for private builders, Eastwood proves it",
+      "note": "Company-wide lot counts are not publicly disclosed. Only data point: the May 2026 Peachtree Building Group deal brought about 1,000 assets across land, pipeline and work-in-progress in metro Atlanta. Community count is 'more than 140' per 2025-2026 company releases."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Cotter Properties",
+        "counterparty_type": "Developer",
+        "description": "Development company of Peachtree Building Group principal Doug Cotter. Eastwood's CFO says it remains an active land development partner for the Atlanta division after the May 2026 acquisition, i.e. a continuing source of developed lots.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-05",
+        "confidence": "Reported",
+        "source_url": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
+        "source_title": "HousingWire: Scale is now table stakes for private builders, Eastwood proves it",
+        "note": "Terms (lot takedown schedule, pricing, any option structure) are not public."
+      },
+      {
+        "counterparty": "Model Homes LLC (Stewart family affiliate)",
+        "counterparty_type": "Affiliate",
+        "description": "A North Carolina entity that a public-records aggregator ties to the Stewart family and describes as buying homes in Eastwood developments, which reads like an in-family model-home ownership vehicle rather than third-party capital.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026",
+        "confidence": "Inferred",
+        "source_url": "https://elementix.ai/companies/eastwood-homes",
+        "source_title": "Elementix company profile: Eastwood Homes (public-records aggregator)",
+        "note": "Derived by the aggregator from recorded documents; purpose inferred from the entity name and activity, not confirmed by the company."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Bank borrowings secured by recorded deeds of trust: Fifth Third Bank (lead lender by recorded volume)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Fifth Third Bank",
+        "status": "Outstanding",
+        "as_of": "2026",
+        "confidence": "Reported",
+        "source_url": "https://elementix.ai/companies/eastwood-homes",
+        "source_title": "Elementix company profile: Eastwood Homes (public-records aggregator)",
+        "note": "Aggregator shows about $4.5 billion of recorded mortgage face amount across 172 loans to Eastwood entities with Fifth Third Bank. That figure is cumulative recorded face value over time (a facility re-recorded across counties and renewals counts repeatedly), not debt outstanding. Facility type, size, maturity, pricing and whether Fifth Third leads a syndicate are not publicly disclosed; 'Outstanding' means only that a current lending relationship is indicated."
+      },
+      {
+        "instrument": "Bank borrowings secured by recorded deeds of trust: Blueharbor Bank and Pinnacle Financial Partners",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Blueharbor Bank; Pinnacle Financial Partners",
+        "status": "Outstanding",
+        "as_of": "2026",
+        "confidence": "Reported",
+        "source_url": "https://elementix.ai/companies/eastwood-homes",
+        "source_title": "Elementix company profile: Eastwood Homes (public-records aggregator)",
+        "note": "Aggregator shows about $78.6 million across 21 recorded loans with Blueharbor Bank and about $54.0 million across 9 with Pinnacle Financial Partners, again cumulative recorded face value, not balances. Likely project or community-level loans; whether any are still outstanding is not public."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-05-26",
+        "type": "Other",
+        "description": "Bought Peachtree Building Group (Atlanta), including about 1,000 land, pipeline and work-in-progress assets. Price and how it was funded were not disclosed; JTW Advisors advised Eastwood and Williams Parker was its counsel.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
+        "source_title": "HousingWire: Scale is now table stakes for private builders, Eastwood proves it",
+        "note": "A new block of Atlanta land and WIP to finance, and a reason to revisit capital sources."
+      },
+      {
+        "date": "2026-11-19",
+        "type": "Other",
+        "description": "CFO Kevin Hutchins listed as a speaker at IMN's Residential Ground-Up Construction conference (19-20 Nov 2026) on a session about choosing between bank, private and hybrid financing, and at IMN Land & Homebuilding Capital Markets East (June 2027) on land-long versus land-light models.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://informaconnect.com/imn-residential-ground-up-construction/speakers/kevin-hutchins",
+        "source_title": "IMN Residential Ground-Up Construction (Fall) speaker page: Kevin Hutchins",
+        "note": "Not a transaction; a signal that the CFO is actively weighing non-bank and land-light capital."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None found (private company, no public debt identified)",
+      "fiscal_year_end": "",
+      "as_of": "2026-11-19",
+      "confidence": "Inferred",
+      "source_url": "https://www.prnewswire.com/news-releases/eastwood-homes-expands-further-into-metro-atlanta-through-acquisition-of-peachtree-building-group-302782093.html",
+      "source_title": "Eastwood Homes press release: acquisition of Peachtree Building Group (describes the company as privately held)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-05-26",
+      "role": "Acquirer",
+      "counterparty": "Peachtree Building Group (metro Atlanta; principals Doug Cotter and Scott Schmidt)",
+      "description": "Eastwood announced the acquisition of Atlanta builder Peachtree Building Group, which it calls its 11th division. Trade press reports about 1,000 land, pipeline and WIP assets came with it and that Eastwood's Atlanta volume goes from roughly 120 closings a year to 350-400. Terms undisclosed. JTW Advisors (buy side), Zelman & Associates (introduced the seller), Williams Parker (Eastwood counsel).",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "Adds an Atlanta operation several times the size of Eastwood's existing one and lifts company volume from 1,506 closings (2025) toward roughly 1,800 on a combined basis (estimate: a Builder search snippet gives Peachtree 307 closings in 2025). Atlanta leadership after the deal is not public; the Peachtree principals are exiting owners, with Doug Cotter's Cotter Properties staying on as land development partner. Headcount about 450.",
+      "confidence": "Verified",
+      "source_url": "https://www.prnewswire.com/news-releases/eastwood-homes-expands-further-into-metro-atlanta-through-acquisition-of-peachtree-building-group-302782093.html",
+      "source_title": "Eastwood Homes press release: Expands Further into Metro Atlanta Through Acquisition of Peachtree Building Group",
+      "note": "The release announces the acquisition without a separate closing date; citybiz (2026-05-26) reports it as completed. Asset count, closings uplift and adviser detail are from HousingWire (2026-05-26 and 2026-05-27), i.e. Reported."
+    },
+    {
+      "date": "2025-03-31",
+      "role": "Acquirer",
+      "counterparty": "Napolitano Homes (Virginia Beach / Hampton Roads, VA)",
+      "description": "Eastwood completed the acquisition of family-owned Napolitano Homes, creating its 10th division and second in Virginia. Napolitano built up to about 200 homes a year; Eastwood's CFO expected about 125 added closings in 2025. The Napolitano brand was kept. Zelman & Associates was exclusive sell-side adviser. Terms undisclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Added the Hampton Roads market and its division leadership (Vince Napolitano stayed in charge). The seller said Eastwood's balance sheet lets the division carry land it could not carry alone, so Hampton Roads land spend now runs through Charlotte.",
+      "confidence": "Verified",
+      "source_url": "https://www.prnewswire.com/news-releases/eastwood-homes-announces-the-acquisition-of-napolitano-homes-302415238.html",
+      "source_title": "Eastwood Homes press release: Announces the Acquisition of Napolitano Homes",
+      "note": "Volume figures and the land-carrying remark are from The Builder's Daily (2025-03-31), i.e. Reported. Eastwood's earlier deal, Fortress Builders in Columbia, SC (2017), is outside the window."
+    }
+  ],
+  "gaps": [
+    "Lot counts (owned, optioned, years of supply): not publicly disclosed (private company).",
+    "Credit facility size, type, maturity, pricing and lender group: not publicly disclosed. Fifth Third Bank, Blueharbor Bank and Pinnacle Financial Partners appear only through a public-records aggregator's recorded-mortgage totals.",
+    "Land banker, lot-option financier or outside equity partner: none named in any public source found.",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found. A dedicated search for these names was not run, so this is 'not found', not 'confirmed absent'.",
+    "Total debt, cash, liquidity, leverage, credit ratings: not publicly disclosed.",
+    "Purchase prices and funding of the Napolitano (2025) and Peachtree (2026) acquisitions: not disclosed.",
+    "Joint ventures: none found in public sources.",
+    "Ownership split within the Stewart family and any parent or holding company funding: not publicly disclosed.",
+    "SEC filings: EDGAR company lookup returned its automated-tool block during this run, so absence of filings was not confirmed directly; every source describes Eastwood as privately held and none mentions public debt.",
+    "Builder's own coverage (builderonline.com) and eastwoodhomes.com were not read; 2024 and 2025 closings and revenue seen in a Builder search snippet (1,542 / $785M and 1,506 / $731M) are left to the spine."
+  ],
+  "sources_consulted": [
+    "https://www.prnewswire.com/news-releases/eastwood-homes-expands-further-into-metro-atlanta-through-acquisition-of-peachtree-building-group-302782093.html",
+    "https://www.prnewswire.com/news-releases/eastwood-homes-announces-the-acquisition-of-napolitano-homes-302415238.html",
+    "https://www.prnewswire.com/news-releases/eastwood-homes-named-virginias-builder-of-the-year-by-home-builders-association-of-virginia-302838145.html",
+    "https://www.thebuildersdaily.com/eastwood-homes-napolitano-unite-in-culture-first-m-a-deal",
+    "https://www.housingwire.com/articles/eastwood-peachtree-acquisition-atlanta/",
+    "https://www.housingwire.com/articles/eastwood-atlanta-builder-ma/",
+    "https://elementix.ai/companies/eastwood-homes",
+    "https://informaconnect.com/imn-land-homebuilding/speakers/kevin-hutchins",
+    "https://informaconnect.com/imn-residential-ground-up-construction/speakers/kevin-hutchins",
+    "https://www.citybiz.co/article/851156/eastwood-homes-expands-atlanta-presence-with-acquisition-of-peachtree-building-group/",
+    "https://metroatlantaceo.com/news/2026/05/eastwood-homes-expands-further-metro-atlanta-through-acquisition-peachtree-building-group/",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=eastwood+homes (blocked; not read)"
+  ]
+}

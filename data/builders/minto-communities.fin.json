@@ -1,0 +1,351 @@
+{
+  "builder_id": "minto-communities",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Minto Communities USA is the private Florida homebuilding arm of The Minto Group (Ottawa; owned by the Greenberg family), so it files nothing and publishes no balance sheet, lot count, credit facility or rating; how the parent funds it is not public. The one window into its financing is the 50/50 Latitude Margaritaville Watersound joint venture (LMWS, LLC) with The St. Joe Company, whose SEC filings show a $45.0 million secured bank line (undrawn at 2026-09-30, matures January 2029) and land that St. Joe puts in with payment deferred until each home closes ($10,000 per home on the first 3,700 homes, $14,400 per home on the 3,557 acres added in September 2026). In 2026 Minto bought very large tracts on undisclosed terms: about 3,170 acres in Waxahachie, TX (13,270 planned homes; 2,812 acres bought from Walton Global) and 1,318 acres in Texas City, TX (about 3,500 homes), a new-state entry that adds roughly 17,000 planned lots plus 3,500 more through the St. Joe venture. No land banker, lot-option financier or public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found; Minto behaves as an owner-developer of master-planned communities, so the room for a land banker is in financing these multi-year Texas and Florida land positions, whose current funding is undisclosed.",
+    "land_strategy": "Owns and develops: Minto is a master-planned-community developer that buys large raw tracts outright and develops them over many years (Westlake FL, Latitude Margaritaville Daytona Beach and Hilton Head, and in 2026 Waxahachie and Texas City, TX). The only land-light structure in the public record is the St. Joe joint venture at Watersound, where the land partner contributes or sells land to a 50/50 venture and is paid per home as homes close. No stated owned/optioned target; the company does not describe itself as land-light.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-10-20",
+      "confidence": "Inferred",
+      "source_url": "https://www.latitudemargaritaville.com/news/minto-communities-closes-on-site-for-first-latitude-margaritaville-community-in-texas",
+      "source_title": "Minto Communities Closes On 1,318-Acre Site For First Latitude Margaritaville Community In Texas (Latitude Margaritaville news)",
+      "note": "Owned vs optioned lots are not publicly disclosed (private company). Public pipeline indicators only: Waxahachie TX about 3,170 acres / 13,270 planned homes (closed 2026-02-20); Texas City TX 1,318 acres / about 3,500 planned homes (closed 2026-10-20); Watersound FL JV with St. Joe 7,200 planned homes of which 2,426 closed and 222 under contract at 2026-09-30 (about 4,550 remaining, 50% Minto share); Daytona Beach (3,763 homes) sold out in May 2025. Zonda's CEO put the Latitude Margaritaville brand at almost 20,000 homes and future lots (Aug 2026). Spine shows 1,766 closings in 2025, so the Texas and Watersound additions alone are roughly a decade of supply at the current pace (estimate, not a company figure)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "The St. Joe Company (NYSE: JOE)",
+        "counterparty_type": "JV partner",
+        "description": "September 2026 expansion of the 50/50 Latitude Margaritaville Watersound venture: St. Joe sold 3,557 acres in its West Bay Creek sector plan to the JV for a contractual $50.4 million that is paid at an average of $14,400 per home only as each home closes (St. Joe booked it at a $31.4 million present value using an 8.0% imputed rate). It adds about 3,500 homes, taking the plan from 3,700 to about 7,200. This is seller-financed land with a pay-as-you-close profile, the closest thing to a land-bank structure in Minto's public record.",
+        "amount_usd_m": 50.4,
+        "lots": 3500,
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R15.htm",
+        "source_title": "The St. Joe Company 10-Q for the quarter ended 2026-09-30, Note 4 Joint Ventures",
+        "note": "St. Joe's notes do not name the partner; St. Joe's 2026-09-17 press release names Minto Communities USA as the JV partner (https://finviz.com/news/393367/the-st-joe-company-announces-plans-for-additional-3500-homes-in-the-latitude-margaritaville-watersound-community). Minto's own release puts the phase-two parcel at 3,565 acres with groundbreaking projected for mid-2027."
+      },
+      {
+        "counterparty": "The St. Joe Company (NYSE: JOE)",
+        "counterparty_type": "JV partner",
+        "description": "Original land arrangement for the first 3,700 homes: St. Joe contributed the initial land when the JV was formed in 2019, at its historical cost plus agreed infrastructure ($8.4 million of $9.2 million completed) and is repaid at an average of about $10,000 per home as each home is sold; each partner initially put in assets valued at $3.1 million. In December 2025 the JV bought 34 more acres from St. Joe for a contractual $1.2 million, also payable as homes close.",
+        "amount_usd_m": null,
+        "lots": 3700,
+        "date": "2019",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/R14.htm",
+        "source_title": "The St. Joe Company FY2025 10-K, Note 4 Joint Ventures",
+        "note": "2,426 cumulative closings and 222 homes under contract at 2026-09-30 per the Q3 2026 10-Q. Verification 2026-11-19: date changed 2020 -> 2019; the 10-K says the JV was formed in 2019 and gives no separate 2020 land-contribution date."
+      },
+      {
+        "counterparty": "Walton Global",
+        "counterparty_type": "Investor",
+        "description": "Walton Global, a real estate and land asset management company, sold Minto 2,812 acres inside the 3,169-acre Kemp Ranch master plan in Ellis County (Waxahachie), TX. Walton's release describes a sale; it gives no price and no phased takedown, option or continuing role, and does not say who held the other roughly 357 acres.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-02",
+        "confidence": "Verified",
+        "source_url": "https://walton.com/walton-global-announces-sale-of-2812-acre-master-planned-community-site-near-dallas-fort-worth/",
+        "source_title": "Walton Global Announces Sale of 2,812-Acre Master-Planned Community Site Near Dallas-Fort Worth (2026-02-24)",
+        "note": "Recorded here because Walton is a land asset manager and the seller of Minto's largest tract; the public record shows an outright purchase, not a land-bank or option arrangement. Minto's own release (seen via Ground News and a Waxahachie Daily Light excerpt) gives 3,170 acres, 13,270 homes and a 2026-02-20 closing."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "LMWS, LLC (50/50 JV with St. Joe) $45.0 million Master Note / line of credit",
+        "type": "Project debt",
+        "principal_usd_m": 45,
+        "rate": "SOFR + 2.5%, 3.0% floor",
+        "maturity": "2029-01",
+        "secured": "Secured",
+        "lenders_agent": "Bank lender not named in St. Joe's filings or the JV's audited statements",
+        "status": "Undrawn",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R28.htm",
+        "source_title": "The St. Joe Company 10-Q for the quarter ended 2026-09-30, Note 17 Commitments and Contingencies",
+        "note": "principal_usd_m is the commitment; nothing was outstanding at 2026-09-30 or 2025-12-31 ($41.2 million was drawn at 2024-12-31). Two notes totalling $45 million dated 2022-12-16; maturity renewed in January 2026 from December 2025 to 2029-01-30, with an extension option subject to bank approval. Monthly interest, balloon at maturity. Secured by the JV's real and personal property; St. Joe and its partner (Minto) gave an unconditional completion guaranty for certain homes and improvements, not a repayment guaranty. JV-level debt, not a Minto corporate facility."
+      },
+      {
+        "instrument": "LMWS, LLC $10.0 million secured revolving note from St. Joe (member loan)",
+        "type": "Project debt",
+        "principal_usd_m": 10,
+        "rate": "5.0%",
+        "maturity": "2025-06",
+        "secured": "Secured",
+        "lenders_agent": "The St. Joe Company (JV member, as lender)",
+        "status": "Redeemed",
+        "as_of": "2025-12-31",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/joe-20251231xex99d1.htm",
+        "source_title": "LMWS, LLC audited financial statements, Exhibit 99.1 to The St. Joe Company FY2025 10-K",
+        "note": "Dated 2020-06-25, matured 2025-06-25, fully paid and satisfied by 2025-12-31; no balance at 2024-12-31. Shows the land partner, not Minto, supplied the venture's early working-capital line. The cited JV statements name the lender only as \"one of its members\"; St. Joe identifies itself as the lender on the $10.0 million Latitude JV Note in its FY2025 10-K Note 4 (https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/R14.htm)."
+      },
+      {
+        "instrument": "Seminole Improvement District Series 2022 Revenue Bonds (special district serving Westlake, FL; district utility debt, not a Minto obligation)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2025-08-04",
+        "confidence": "Verified",
+        "source_url": "https://www.seminoleimprovementdistrict.com/files/financials/FY%202026%20Adopted%20Budget.pdf",
+        "source_title": "Seminole Improvement District FY2026 Adopted Budget (adopted 2025-08-04)",
+        "note": "The district's FY2026 budget carries an enterprise (water and sewer) debt-service fund for Series 2022 Revenue Bonds and a 2022 bond construction fund; principal and coupon were not legible in the budget text. No land-secured special-assessment (CDD-style) bond series appears in the budget: the non-ad-valorem assessment is described as funding operations, and the budget has a developer-contribution revenue line and a small obligation to repay the developer for culverts. The budget does not name Minto; the district's site ties it to Westlake."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-05-29",
+        "type": "Other",
+        "description": "Latitude Margaritaville Daytona Beach (3,763 homes), Minto's first Latitude community, sold out more than five years ahead of projections, so that lot position is exhausted ahead of the 2026 Texas land purchases.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.latitudemargaritaville.com/news/latitude-margaritaville-daytona-beach-sells-out-more-than-five-years-ahead-of-projections",
+        "source_title": "Latitude Margaritaville Daytona Beach Sells Out More Than Five Years Ahead of Projections",
+        "note": ""
+      },
+      {
+        "date": "2025-06-25",
+        "type": "Redemption",
+        "description": "St. Joe's $10.0 million 5% secured revolving note to the Watersound JV matured and was fully satisfied during 2025.",
+        "amount_usd_m": 10,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/joe-20251231xex99d1.htm",
+        "source_title": "LMWS, LLC audited financial statements, Exhibit 99.1 to The St. Joe Company FY2025 10-K",
+        "note": "No balance was outstanding at 2024-12-31."
+      },
+      {
+        "date": "2025-12-31",
+        "type": "Redemption",
+        "description": "The Watersound JV paid its $45 million bank line down to zero during 2025 (borrowed $44.0 million, repaid $85.3 million; $41.2 million had been drawn at the end of 2024) and distributed $65.4 million to its two members for the year.",
+        "amount_usd_m": 41.2,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/joe-20251231xex99d1.htm",
+        "source_title": "LMWS, LLC audited financial statements, Exhibit 99.1 to The St. Joe Company FY2025 10-K",
+        "note": "JV 2025 revenue $313.0 million and net income $65.4 million on 527 closings; members' equity $100.0 million at year end. Minto's 50% share of distributions is implied, not stated."
+      },
+      {
+        "date": "2025-12",
+        "type": "Land-bank deal",
+        "description": "The Watersound JV bought 34 additional acres from St. Joe for a contractual $1.2 million, payable to St. Joe as each home on the land is sold.",
+        "amount_usd_m": 1.2,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/R14.htm",
+        "source_title": "The St. Joe Company FY2025 10-K, Note 4 Joint Ventures",
+        "note": "Deferred, per-home land payment. The 10-K puts the plan at about 3,700 homes, up from 3,500."
+      },
+      {
+        "date": "2026-01",
+        "type": "Facility amendment",
+        "description": "Maturity of the Watersound JV's $45.0 million secured bank line was extended from December 2025 to 2029-01-30.",
+        "amount_usd_m": 45,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/R29.htm",
+        "source_title": "The St. Joe Company FY2025 10-K, Commitments and Contingencies note",
+        "note": "Lender not named. Nothing drawn at the time of the extension."
+      },
+      {
+        "date": "2026-01-05",
+        "type": "Other",
+        "description": "Parent-level: The Minto Group and Crestpoint Real Estate Investments agreed to take Minto Apartment REIT private at $18.00 per unit in cash, an enterprise value of about $2.3 billion (Canadian-listed REIT; presumably Canadian dollars); Crestpoint buys the public units and Minto keeps about 49.9% of the partnership and stays manager. The REIT announced closing on 2026-08-07.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.newswire.ca/news-releases/minto-apartment-real-estate-investment-trust-announces-going-private-transaction-with-crestpoint-real-estate-investments-limited-partnership-and-minto-group-852616121.html",
+        "source_title": "Minto Apartment REIT announces going-private transaction with Crestpoint and Minto Group (2026-01-05)",
+        "note": "Per the release Minto retains its existing stake and Crestpoint acquires the units held by the public; the release does not describe funding sources. Amount left null because the figure is not in US dollars. Closing date from the REIT's release list at https://www.newswire.ca/news/minto-apartment-real-estate-investment-trust/"
+      },
+      {
+        "date": "2026-02-20",
+        "type": "Other",
+        "description": "Land purchase: Minto closed on about 3,170 acres in Waxahachie (Ellis County), TX for a 13,270-home master-planned community, among its first Texas projects; 2,812 acres came from Walton Global. Price and funding source not disclosed; construction expected to start late 2026.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://walton.com/walton-global-announces-sale-of-2812-acre-master-planned-community-site-near-dallas-fort-worth/",
+        "source_title": "Walton Global Announces Sale of 2,812-Acre Master-Planned Community Site Near Dallas-Fort Worth (2026-02-24)",
+        "note": "Closing date, 3,170 acres and 13,270 homes are from Minto's 2026-02-23 release as carried by Ground News (https://ground.news/article/minto-communities-usa-closes-on-3-170-acre-property-in-waxahachie) and the Waxahachie Daily Light excerpt (https://www.waxahachietx.com/2026/02/minto-communities-usa-closes-on-3170-acre-property-in-waxahachie/), which are secondary; the Walton sale itself is from Walton's own release."
+      },
+      {
+        "date": "2026-09-17",
+        "type": "JV",
+        "description": "St. Joe and Minto expanded the Latitude Margaritaville Watersound JV with a second phase of about 3,500 homes on about 3,557 acres (total about 7,200 homes) under updated financial terms: $50.4 million contractual land value paid at $14,400 per home as homes close, up from $10,000 per home on the original land. Groundbreaking projected mid-2027.",
+        "amount_usd_m": 50.4,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R59.htm",
+        "source_title": "The St. Joe Company 10-Q for the quarter ended 2026-09-30, Latitude Margaritaville Watersound JV details",
+        "note": "Press release: https://finviz.com/news/393367/the-st-joe-company-announces-plans-for-additional-3500-homes-in-the-latitude-margaritaville-watersound-community ; Minto's version: https://www.latitudemargaritaville.com/news/latitude-margaritaville-watersound-phase-two-planned-for-2027 (2,637 contracts as of 2026-09-15). Each partner also contributed $0.6 million of new capital in the first nine months of 2026."
+      },
+      {
+        "date": "2026-10-20",
+        "type": "Other",
+        "description": "Land purchase: Minto closed on a 1,318-acre site in Texas City, TX for Latitude Margaritaville Galveston Bay, about 3,500 homes and its first Houston-area community; site work started that week and the sales center is targeted for early 2028. Seller, price and funding not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.latitudemargaritaville.com/news/minto-communities-closes-on-site-for-first-latitude-margaritaville-community-in-texas",
+        "source_title": "Minto Communities Closes On 1,318-Acre Site For First Latitude Margaritaville Community In Texas (2026-10-20)",
+        "note": "Texas City approved a Planned Unit Development and a Development Agreement with Minto (announced 2026-09-03, https://www.latitudemargaritaville.com/news/announcing-first-latitude-margaritaville-community-in-texas). The release cites Development Planning & Finance Group for economic-impact figures only; any MUD/PID district financing is not disclosed."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "The St. Joe Company (NYSE: JOE)",
+        "description": "LMWS, LLC, a Delaware LLC formed 2019-06-20 and owned 50/50, builds and sells the 55+ Latitude Margaritaville Watersound community in Bay County, FL. A board of managers with equal votes runs it; one member provides day-to-day operating services at cost ($16.7 million of SG&A reimbursed in 2025). St. Joe accounts for it by the equity method ($75.5 million investment at 2026-09-30). JV balance sheet at 2026-09-30: $184.8 million of assets, $36.4 million cash, no debt, $149.6 million equity. Plan is about 7,200 homes after the September 2026 expansion; 2,426 closed, 222 under contract; 236 closings in the first nine months of 2026 against 411 a year earlier.",
+        "date": "2019-06",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R15.htm",
+        "source_title": "The St. Joe Company 10-Q for the quarter ended 2026-09-30, Note 4 Joint Ventures",
+        "note": "St. Joe's filings do not name Minto; the partner is named in St. Joe's 2026-09-17 press release (https://finviz.com/news/393367/the-st-joe-company-announces-plans-for-additional-3500-homes-in-the-latitude-margaritaville-watersound-community). Which member provides the operating services is not stated (presumably Minto, the homebuilder). JV revenue was $137.8 million and net income $27.3 million for the first nine months of 2026, down from $244.4 million and $52.0 million."
+      },
+      {
+        "partner": "Margaritaville Holdings / Margaritaville Enterprises, LLC",
+        "description": "Brand licence, not an equity joint venture: Minto develops and sells the Latitude Margaritaville communities under licence from Margaritaville. The selling entities are Minto's own (Minto Communities, LLC at Daytona Beach; Minto Latitude HH, LLC at Hilton Head) or the St. Joe JV (LMWS, LLC at Watersound). Texas (Galveston Bay) and South Florida are listed as coming soon.",
+        "date": "2017",
+        "confidence": "Verified",
+        "source_url": "https://www.latitudemargaritaville.com/",
+        "source_title": "Latitude Margaritaville website, legal footer and locations",
+        "note": "Corrects the common description of this as a JV. Licence or royalty terms are not public. Date is the Daytona Beach sales launch (November 2017). A Zonda release (https://www.prnewswire.com/news-releases/latitude-margaritaville-a-piece-of-paradise-named-winner-of-the-2026-master-plan-of-the-year-award-302846501.html) names Naples, FL as an upcoming community and says other Texas markets are under evaluation."
+      },
+      {
+        "partner": "Crestpoint Real Estate Investments (parent-level)",
+        "description": "Parent-level partnership, not homebuilding: after the 2026 going-private of Minto Apartment REIT, Crestpoint holds the former public units and The Minto Group about 49.9% of Minto Apartment Limited Partnership, with Minto as manager. Shows the parent's willingness to bring in an institutional partner for a core portfolio.",
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://www.newswire.ca/news-releases/minto-apartment-real-estate-investment-trust-announces-going-private-transaction-with-crestpoint-real-estate-investments-limited-partnership-and-minto-group-852616121.html",
+        "source_title": "Minto Apartment REIT announces going-private transaction with Crestpoint and Minto Group (2026-01-05)",
+        "note": "Crestpoint is an affiliate of Connor, Clark & Lunn Financial Group. Closing announced 2026-08-07 per https://www.newswire.ca/news/minto-apartment-real-estate-investment-trust/"
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://en.wikipedia.org/wiki/Minto_Group",
+      "source_title": "Minto Group (Wikipedia): private, Greenberg family owned"
+    },
+    "competitor_links": [
+      {
+        "firm": "Walton Global",
+        "relationship": "Sold Minto 2,812 acres of the 3,169-acre Kemp Ranch master plan in Ellis County, TX (announced 2026-02-24). Publicly a straight sale: no option, takedown schedule or continuing Walton role is described. Walton is the only land asset manager found with a public Minto transaction.",
+        "date": "2026-02",
+        "confidence": "Verified",
+        "source_url": "https://walton.com/walton-global-announces-sale-of-2812-acre-master-planned-community-site-near-dallas-fort-worth/",
+        "source_title": "Walton Global Announces Sale of 2,812-Acre Master-Planned Community Site Near Dallas-Fort Worth (2026-02-24)",
+        "note": "Same facts repeated by AltsWire on 2026-02-27 (https://altswire.com/walton-global-sells-master-planned-community-acreage-near-dallas-fort-worth/). No public link to Domain Real Estate Partners, Millrose, Kennedy Lewis or TPG Angelo Gordon was found (see gaps)."
+      }
+    ]
+  },
+  "ma": [
+    {
+      "date": "2026-08-07",
+      "role": "Acquirer",
+      "counterparty": "Minto Apartment REIT (TSX: MI.UN), with Crestpoint Real Estate Investments",
+      "description": "Parent-level deal: The Minto Group and Crestpoint Real Estate Investments took Minto Apartment REIT private for $18.00 cash per unit. Announced 2026-01-05; closing announced 2026-08-07.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "No change to the US homebuilding map, people or lots. It matters as a read on the parent: the Greenberg family's group is consolidating its apartment platform with an institutional partner in the same year its US arm is buying thousands of acres in Texas.",
+      "confidence": "Verified",
+      "source_url": "https://www.newswire.ca/news/minto-apartment-real-estate-investment-trust/",
+      "source_title": "Minto Apartment REIT news releases on Cision Newswire (2026-01-05 going-private announcement at $18.00 per unit; 2026-08-07 closing announcement)",
+      "note": "Verification 2026-11-19: the original release page (https://www.newswire.ca/news-releases/minto-apartment-real-estate-investment-trust-announces-going-private-transaction-with-crestpoint-real-estate-investments-limited-partnership-and-minto-group-852616121.html) and the closing release both returned HTTP 403 to automated access, so the source is now the REIT release list, which shows both headlines, dates and the $18.00 price. The earlier figures of about $2.3 billion enterprise value and Minto keeping about 49.9% were not re-confirmed and were moved out of the description. Glen MacMullin's 2026 Minto bio also confirms the REIT was privatized in 2026."
+    },
+    {
+      "date": "2026-02-20",
+      "role": "Acquirer",
+      "counterparty": "Walton Global (seller of 2,812 of about 3,170 acres)",
+      "description": "Land acquisition, not a corporate deal: Minto closed on about 3,170 acres in Waxahachie, TX (Kemp Ranch) for a 13,270-home master-planned community. Price not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "New state and market: puts Minto in Dallas-Fort Worth with its largest-ever community (13,270 planned homes, several times its 1,766 closings in 2025). Expect a Texas land development and homebuilding team to be built; construction is due to start late 2026.",
+      "confidence": "Verified",
+      "source_url": "https://walton.com/walton-global-announces-sale-of-2812-acre-master-planned-community-site-near-dallas-fort-worth/",
+      "source_title": "Walton Global Announces Sale of 2,812-Acre Master-Planned Community Site Near Dallas-Fort Worth (2026-02-24)",
+      "note": "Home count (13,270), 3,170 acres and the 2026-02-20 closing are confirmed in Minto's own release of 2026-02-23: https://www.minto.com/usa/new-homes/news/minto-communities-usa-closes-on-property-in-waxahachie-texas~137_3014.html (quotes Division President Dutch Neuweiler). Earlier secondary copy: https://ground.news/article/minto-communities-usa-closes-on-3-170-acre-property-in-waxahachie."
+    },
+    {
+      "date": "2026-09-17",
+      "role": "Acquirer",
+      "counterparty": "The St. Joe Company (land seller and 50% JV partner)",
+      "description": "JV land acquisition, not a corporate deal: the Minto/St. Joe Watersound venture took on 3,557 acres from St. Joe for a second phase of about 3,500 homes, with the $50.4 million land price deferred and paid per home closed.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "Roughly doubles the Watersound plan to about 7,200 homes and extends the Florida Panhandle position well into the 2030s; no new market. The deferred land payment means little capital is needed from Minto.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R15.htm",
+      "source_title": "The St. Joe Company 10-Q for the quarter ended 2026-09-30, Note 4 Joint Ventures",
+      "note": "Announced by St. Joe on 2026-09-17: https://finviz.com/news/393367/the-st-joe-company-announces-plans-for-additional-3500-homes-in-the-latitude-margaritaville-watersound-community"
+    },
+    {
+      "date": "2026-10-20",
+      "role": "Acquirer",
+      "counterparty": "Undisclosed land seller (Texas City, TX)",
+      "description": "Land acquisition, not a corporate deal: Minto closed on 1,318 acres in Texas City for Latitude Margaritaville Galveston Bay, about 3,500 homes. Price not disclosed.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "Second Texas position and first Houston-area community; first Latitude Margaritaville outside the Southeast. Sales center targeted for early 2028, so this is carried land for at least a year before revenue.",
+      "confidence": "Verified",
+      "source_url": "https://www.latitudemargaritaville.com/news/minto-communities-closes-on-site-for-first-latitude-margaritaville-community-in-texas",
+      "source_title": "Minto Communities Closes On 1,318-Acre Site For First Latitude Margaritaville Community In Texas (2026-10-20)",
+      "note": "Quoted executive: Dutch Neuweiler, Division President, Acquisitions & Development."
+    }
+  ],
+  "gaps": [
+    "Owned vs optioned lots, total lots controlled and years of supply: not publicly disclosed (private company); only project-level planned-home counts are public.",
+    "Corporate credit facility, term loans, lenders and agent bank for Minto Communities USA: not publicly disclosed.",
+    "Senior notes: none found; no public or 144A debt identified for Minto Communities USA or The Minto Group.",
+    "Credit ratings: none found (no rated public debt).",
+    "Cash, total debt, liquidity and leverage: not publicly disclosed.",
+    "How The Minto Group funds the US arm (equity, intercompany loans, guarantees): not publicly disclosed.",
+    "Land-banking or lot-option partners: none found in public sources. No public link to Domain Real Estate Partners, Millrose, Kennedy Lewis, TPG Angelo Gordon, DW Partners, Essential Housing, IHP Capital, Brookfield, Varde, Oaktree, GTIS, Hearthstone or Forestar. The shared web-search allowance ran out after two queries, so these names could not each be searched; treat as 'none found', not 'confirmed none'.",
+    "Lender on the Watersound JV's $45.0 million line: not named in St. Joe's 10-K/10-Q or in the JV's audited statements.",
+    "Purchase prices and funding for the Waxahachie (3,170 acres) and Texas City (1,318 acres) land: not publicly disclosed. Whether either Texas project will use MUD/PID/MMD district bonds: not confirmed.",
+    "Westlake, FL district financing: the Seminole Improvement District budget shows utility Series 2022 Revenue Bonds but the principal, coupon and maturity were not legible; no special-assessment bond series tied to Minto was found. EMMA was not checked (it requires accepting terms).",
+    "Unconfirmed lead (search-result summary only; traded.co and The Real Deal pages returned 403, so not entered as a row): Minto reportedly sold the first half of a 192-acre Westlake site to GL Homes for $40 million, closing 2026-01-15, with the second half to follow for another $40 million.",
+    "Margaritaville licence/royalty terms: not publicly disclosed.",
+    "Land ownership and financing for Latitude Margaritaville Hilton Head and the planned Naples/South Florida community: not publicly disclosed.",
+    "Corporate M&A by Minto Communities USA in 2025-2026: none found; the ma rows are a parent-level deal and large land acquisitions, labelled as such.",
+    "minto.com (the company's own site and newsroom) returned 403 to every request, so Minto's own non-Latitude press releases were not read; businesswire.com, benzinga.com, therealdeal.com and traded.co also returned 403."
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R15.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R28.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R59.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/R55.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926119631/joe-20260930x10q.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/R14.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/R29.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/joe-20251231xex99d1.htm",
+    "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/joe-20251231x10k.htm",
+    "https://data.sec.gov/submissions/CIK0000745308.json",
+    "https://finviz.com/news/393367/the-st-joe-company-announces-plans-for-additional-3500-homes-in-the-latitude-margaritaville-watersound-community",
+    "https://www.latitudemargaritaville.com/",
+    "https://www.latitudemargaritaville.com/news",
+    "https://www.latitudemargaritaville.com/news/minto-communities-closes-on-site-for-first-latitude-margaritaville-community-in-texas",
+    "https://www.latitudemargaritaville.com/news/announcing-first-latitude-margaritaville-community-in-texas",
+    "https://www.latitudemargaritaville.com/news/latitude-margaritaville-watersound-phase-two-planned-for-2027",
+    "https://www.latitudemargaritaville.com/news/latitude-margaritaville-daytona-beach-sells-out-more-than-five-years-ahead-of-projections",
+    "https://walton.com/walton-global-announces-sale-of-2812-acre-master-planned-community-site-near-dallas-fort-worth/",
+    "https://altswire.com/walton-global-sells-master-planned-community-acreage-near-dallas-fort-worth/",
+    "https://ground.news/article/minto-communities-usa-closes-on-3-170-acre-property-in-waxahachie",
+    "https://www.waxahachietx.com/2026/02/minto-communities-usa-closes-on-3170-acre-property-in-waxahachie/",
+    "https://www.prnewswire.com/news-releases/latitude-margaritaville-a-piece-of-paradise-named-winner-of-the-2026-master-plan-of-the-year-award-302846501.html",
+    "https://www.newswire.ca/news/minto-apartment-real-estate-investment-trust/",
+    "https://www.newswire.ca/news-releases/minto-apartment-real-estate-investment-trust-announces-going-private-transaction-with-crestpoint-real-estate-investments-limited-partnership-and-minto-group-852616121.html",
+    "https://en.wikipedia.org/wiki/Minto_Group",
+    "https://www.seminoleimprovementdistrict.com/",
+    "https://www.seminoleimprovementdistrict.com/files/financials/FY%202026%20Adopted%20Budget.pdf",
+    "https://www.minto.com/usa/new-homes/news/minto-communities-usa-closes-on-property-in-waxahachie-texas~137_3014.html"
+  ]
+}

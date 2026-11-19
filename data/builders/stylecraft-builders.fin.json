@@ -1,0 +1,82 @@
+{
+  "builder_id": "stylecraft-builders",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Conventional private for-sale builder, family-owned with no outside equity, public debt or SEC filings found; nothing about its lenders, facilities or lot counts is public. It controls its land in-house: one VP of Development & Acquisition handles acquisition, entitlement, design and development, and the company also buys lots in smaller pocket neighborhoods in secondary Texas markets. No land banker, lot-option financier or capital partner is named anywhere public, and no link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. The CEO describes the balance sheet as in good order; with about 1,000-1,200 homes a year at roughly $300K and stated growth into new underserved Texas markets, it is a plausible but small land-banking customer, most likely for self-developed sections in Waco, Temple/Killeen, Georgetown and Tyler.",
+    "land_strategy": "Mixed, leaning to self-development. The company states that its Development & Acquisition group oversees all land assets (acquisition, entitlement, design and development); trade press adds that it buys lots in smaller pocket neighborhoods that larger builders skip, targets A locations in B and C markets, and treats lot cost as the main driver of its attainable pricing. No owned/optioned split or stated land-light target is public.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Inferred",
+      "source_url": "https://www.stylecraft.com/team/",
+      "source_title": "Stylecraft Builders 'Meet the Team' page",
+      "note": "No lot counts are published (private company). The source only confirms that land is acquired, entitled and developed in-house. The site listed about 52 community names in its contact form on 2026-11-19, which is not a lot count."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [
+      {
+        "partner": "Kangaroo Home Lending, LLC (NMLS 2400403)",
+        "description": "Mortgage lender that the Stylecraft website's 'Financing' menu sends buyers to; its office is at 4094 State Highway 6 South, next door to Stylecraft's 4090 home office. Looks like the builder's captive or affiliated mortgage channel (buyer financing, not land or corporate financing).",
+        "date": "",
+        "confidence": "Inferred",
+        "source_url": "https://www.houseloan.com/kangaroohomelending/prequalify.html",
+        "source_title": "Kangaroo Home Lending prequalification page (linked from stylecraft.com)",
+        "note": "Ownership or JV structure is not stated on either site; affiliation is inferred from the site link and adjacent address."
+      },
+      {
+        "partner": "Leading Realty Group (owner affiliate)",
+        "description": "Separate company operated by owner/CEO Doug French that develops and manages single-family rental property in Bryan, Temple and College Station. Stylecraft's own build-for-rent division is South Six Construction Group.",
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://www.stylecraft.com/team/",
+        "source_title": "Stylecraft Builders 'Meet the Team' page",
+        "note": "Whether Leading Realty Group buys or holds the homes South Six builds is not stated. Not a joint venture in the formal sense; recorded here as the owner's related rental platform."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None found (private, no rated debt)",
+      "fiscal_year_end": "",
+      "as_of": "2026-10-27",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/stylecraft-builders-playbook-scaling/",
+      "source_title": "HousingWire / The Builder's Daily: Stylecraft Builders scaling playbook"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned, optioned, years of supply): not publicly disclosed (private company)",
+    "Land banker, lot-option financier or capital partner: none named in any public source found",
+    "Banks, credit facility, construction or A&D lenders: not publicly disclosed (county deed-of-trust records were not searched)",
+    "Debt, cash, liquidity, leverage: not publicly disclosed; only the CEO's statement (HousingWire, 2026-10-27) that the balance sheet is in good order",
+    "Outside equity or parent funding: none found; company describes itself as family-owned, with Doug French as owner",
+    "Links to Domain Real Estate Partners, Millrose, Kennedy Lewis or TPG Angelo Gordon: none found in public sources",
+    "M&A 2025-2026: none found as acquirer or target. Related non-M&A changes: exited Houston about 2023-2024 and is exiting one unnamed underperforming market in 2026 (HousingWire)",
+    "Kangaroo Home Lending ownership structure: not publicly disclosed",
+    "2025 volume differs by source: Builder 100 shows 1,068 closings / $316M; HousingWire shows 973 sales / about $310M",
+    "Builder Online articles on Stylecraft returned 403 to the fetch tool and were not read; an elementix.com public-records profile of the owner was rate-limited and not read"
+  ],
+  "sources_consulted": [
+    "https://www.stylecraft.com/team/",
+    "https://www.stylecraft.com/about-us",
+    "https://www.stylecraft.com/new-homes/",
+    "https://www.housingwire.com/articles/stylecraft-builders-margin-pace-and-growth/",
+    "https://www.housingwire.com/articles/stylecraft-builders-leadership-basics/",
+    "https://www.housingwire.com/articles/stylecraft-builders-playbook-scaling/",
+    "https://www.probuilder.com/executive-corner-doug-french-stylecraft-builders",
+    "https://www.bbb.org/us/tx/college-station/profile/home-builders/stylecraft-builders-inc-0825-7003105",
+    "https://www.tdlr.texas.gov/TABS/Search/Print/EABPRJB3818195",
+    "https://www.houseloan.com/kangaroohomelending/prequalify.html"
+  ]
+}

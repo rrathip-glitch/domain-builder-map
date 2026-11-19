@@ -1,0 +1,450 @@
+{
+ "batch": "batch-20261119-1559-009",
+ "rubric_version": "v1.2",
+ "articles": [
+  {
+   "id": "8f6a3817927d",
+   "summary": "PNC Financial is redeeming its 6.615% fixed/floating senior notes due October 2027; a bank liability-management item, not a homebuilder.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No builder or land-finance angle; PNC's bank debt redemption does not affect Domain's customers or competitors.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "a2ee3d053a2d",
+   "summary": "Morningstar piece on private credit lenders pulling back from software loans, with 2026 software deals mostly refinancings.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 2,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "About private credit in software, not builder lending; at most a faint signal of where private-credit capital may look next.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "566bd9f0f8f5",
+   "summary": "Pretium (about $70B AUM) is expanding its residential real estate debt platform by adding London-based Hilltop Capital Partners' team for U.K. development lending; the platform has lent about $8B since its December 2024 launch, including to homebuilders.",
+   "category": "New entrant",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 14,
+    "builder_customer": 0,
+    "financing_capital_markets": 12,
+    "land_lot_supply": 2,
+    "materiality_actionability": 5
+   },
+   "adjustment": "floor75-competitor",
+   "why_it_matters": "Pretium's residential debt platform, which lends to homebuilders and developers, has deployed about $8B in under two years, a sizeable competing capital source; this step itself is a U.K. expansion, so watch for its U.S. builder lending rather than act now.",
+   "builder_ids": [],
+   "people": [
+    "Jonathan Pruzan",
+    "Paul Oberschneider",
+    "Tiger Craft"
+   ],
+   "competitors": [
+    "Pretium",
+    "Hilltop Capital Partners"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "b84566dd1823",
+   "summary": "Better Homes and Gardens Real Estate named 'Blue Becoming' its 2027 home color of the year.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Consumer brokerage marketing; nothing for a land banker.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "18ff1d8df035",
+   "summary": "Republic Business Credit, a New Orleans commercial finance firm, promoted Brian Daray to EVP, head of credit, and Jerry Friedrichs to SVP, underwriting manager.",
+   "category": "Executive change",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "A business-credit lender's internal promotions; no builder-land financing role, so nothing for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "205e5c7c62d9",
+   "summary": "Prophetic launched SiteAI Drafter, a tool that lets homebuilder land teams draw subdivision plans and see lot yield in real time.",
+   "category": "Land & lots",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 3,
+    "materiality_actionability": 2
+   },
+   "adjustment": "none",
+   "why_it_matters": "A land-team software product; marginal for Domain beyond faster lot-yield underwriting by builders.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "42b3a7fab838",
+   "summary": "A Japanese-language blog post (part 1 of a series) analyzing Lennar's annual report, focusing on its very low years of owned land supply and its land-light model.",
+   "category": "Land & lots",
+   "source_type": "Research",
+   "subscores": {
+    "land_banking_competitor": 5,
+    "builder_customer": 10,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 6,
+    "materiality_actionability": 1
+   },
+   "adjustment": "none",
+   "why_it_matters": "Third-party commentary on Lennar's land-light model that Domain already knows from the filings; no new facts about Lennar's land-bank partners.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "2952e403d6ac",
+   "summary": "QXO, the building-products distributor, says homebuilders are its main growth market, pushing cross-selling, sales incentives and tech after 5.4% daily sales growth and 2.2% pricing.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 3,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 2
+   },
+   "adjustment": "none",
+   "why_it_matters": "Supplier strategy aimed at builders; no land, lot or financing angle for Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "ada9d4ba0f7c",
+   "summary": "Klarna appointed Chris Koegel as CFO effective January 1, 2027, subject to regulatory approval.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Fintech CFO change unrelated to homebuilders or land finance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "9be441d3cd4f",
+   "summary": "HealthSpan Partners, a Bon Secours affiliate, plans to take Surgery Partners private in a deal valued at about $5.7B.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Healthcare take-private; no relevance to builders or land banking.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "b9cb32db5f1a",
+   "summary": "Century Communities bought substantially all assets of HistoryMaker Homes (HMH Lifestyles, L.P.), Texas' oldest private production builder, announced October 8, 2026; the deal roughly triples Century's Dallas-Fort Worth community count. Terms were not disclosed.",
+   "category": "Builder M&A",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 23,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 9,
+    "materiality_actionability": 7
+   },
+   "adjustment": "none",
+   "why_it_matters": "A top-10 builder absorbed a ranked DFW private builder and its lot pipeline; any option or land-bank positions HistoryMaker held now sit with Century, worth a call to Century's land team about how it will finance the expanded DFW pipeline.",
+   "builder_ids": [
+    "century-communities",
+    "historymaker-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "century-communities",
+    "kind": "Deal",
+    "text": "Acquired substantially all assets of HistoryMaker Homes (DFW), announced October 8, 2026, roughly tripling its DFW community count; terms undisclosed."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "63c07ee7cc29",
+   "summary": "Snowflake priced an upsized $3.75B private placement of 0% convertible senior notes in two tranches.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Tech convertible issuance; no builder or land-finance relevance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "e02faba16a8f",
+   "summary": "Ram Realty Advisors, a multifamily and retail investment manager, named Justin McDaniel CFO.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "CFO change at a multifamily and retail investor, not a builder or land lender.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "a0a551ff296b",
+   "summary": "Century Communities promoted James (Jim) Francescon, EVP of corporate operations since November 2023, to President effective January 1, 2027; he will oversee homebuilding operations, land activities and strategy.",
+   "category": "Executive change",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 20,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 5,
+    "materiality_actionability": 6
+   },
+   "adjustment": "floor65-exec",
+   "why_it_matters": "Francescon will run land at a top-10 builder from January, making him the person Domain should know for Century's land and option financing decisions.",
+   "builder_ids": [
+    "century-communities"
+   ],
+   "people": [
+    "Jim Francescon"
+   ],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "century-communities",
+    "kind": "Executive change",
+    "text": "Jim Francescon, EVP corporate operations, becomes President overseeing homebuilding and land effective January 1, 2027 (announced November 2026)."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "4087d5c9f27e",
+   "summary": "Arkema named Anneli Carlot CFO and executive committee member, effective January 2027.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Chemicals-company CFO change; not relevant to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "2be4ee95bbf3",
+   "summary": "Hackensack Meridian Health signed a definitive agreement to acquire Hunterdon Health with a $230M commitment.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Hospital M&A; no relevance to builders or land banking.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "6db85bed4cdf",
+   "summary": "Salesforce agreed to acquire customer-engagement platform Braze.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Software M&A; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "a38e19d78e54",
+   "summary": "CCC Intelligent Solutions agreed to a $6.1B take-private by a GTCR-led consortium including Elliott.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Insurance-software take-private; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "e4f8fd7c48d7",
+   "summary": "Penske Automotive Group agreed to be taken private at a $16.3B valuation, $212 a share.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Auto-dealer take-private; no relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "8f4cba3636f7",
+   "summary": "Delek US priced $400M of 0% convertible senior notes due 2031.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Refiner's convertible issuance; no builder or land-finance relevance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  }
+ ]
+}

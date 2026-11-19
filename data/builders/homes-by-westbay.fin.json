@@ -1,0 +1,174 @@
+{
+  "builder_id": "homes-by-westbay",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Private, founder-led company with no public debt or SEC filings found, so its bank lines and land loans are not disclosed. It is a land-heavy self-developer: it reports 11,490 owned or controlled lots (close to ten years of supply at about 1,155 closings), develops its own master-planned communities through HBWB Development, and also buys finished lots from outside developers. The one named outside capital partner is GTIS Partners, which formed a $50M equity joint venture with the Casa Fresca subsidiary in 2021; the founder has also referred to unnamed 'capital partners'. No public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. A long owned pipeline, growth into new counties and new build-to-rent and multifamily lines, plus a leadership and CFO handover through 2027, suggest real room for a land banker, but nothing public shows it using one today.",
+    "land_strategy": "Mixed, leaning toward owning and developing its own land. The company describes itself as a developer and homebuilder: it has put nearly $96M into large land purchases and is developing four master-planned communities (Hawkstone, Crosswind Ranch, Pasadena Ridge, Mitchell Falls), while also buying homesites in third-party communities such as Verona, Wellen Park, Lakewood Ranch and Waterset. No stated owned-versus-optioned target.",
+    "lots": {
+      "total_controlled": 11490,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-04",
+      "confidence": "Reported",
+      "source_url": "https://www.businessobserverfl.com/news/2026/apr/08/tampa-area-homebuilder-new-ceo/",
+      "source_title": "Business Observer: Tampa Bay homebuilder names CEO for attainable housing unit",
+      "note": "Company release figure: 11,490 owned or controlled lots in the pipeline; the owned versus optioned split is not disclosed. At the 1,155 closings in the 2026 Builder 100 that is roughly ten years of supply (our arithmetic, not a company figure)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "GTIS Partners",
+        "counterparty_type": "JV partner",
+        "description": "GTIS formed a joint venture with Casa Fresca, the wholly owned entry-level subsidiary, to put $50M of equity into buying, developing, building and selling entry-level homes across the Tampa area. At announcement the venture had invested in three developments and committed to more than 440 homes.",
+        "amount_usd_m": 50,
+        "lots": null,
+        "date": "2021-02",
+        "confidence": "Inferred",
+        "source_url": "https://www.prnewswire.com/news-releases/gtis-partners-forms-joint-venture-with-casa-fresca-to-build-entry-level-homes-in-tampa-301230821.html",
+        "source_title": "GTIS Partners press release: GTIS Partners Forms Joint Venture with Casa Fresca to Build Entry-Level Homes in Tampa",
+        "note": "Equity joint venture, not a lot-option land bank. A May 2022 Business Observer profile still described Casa Fresca as a $50M joint partnership with GTIS. Whether the venture is still active or has been extended is not publicly disclosed. Verification 2026-11-19: downgraded Verified -> Inferred; the 2021 release confirms the JV was formed, but its only source is older than 24 months and nothing newer confirms GTIS is still a partner."
+      },
+      {
+        "counterparty": "Eisenhower Property Group",
+        "counterparty_type": "Developer",
+        "description": "Homes by WestBay bought 174 homesites at Verona, a planned 2,500-home community on State Road 52 in Pasco County, the largest share of the first 667 homesites sold to five builders. Home sales are expected from late 2027.",
+        "amount_usd_m": null,
+        "lots": 174,
+        "date": "2026-07",
+        "confidence": "Reported",
+        "source_url": "https://tbbwmag.com/?p=91851",
+        "source_title": "Tampa Bay Business & Wealth: Five homebuilders buy first homesites at Pasco development",
+        "note": "Reported as an acquisition of homesites from the developer; price, takedown schedule and any option or financing structure were not disclosed."
+      },
+      {
+        "counterparty": "Wellen Park (master developer)",
+        "counterparty_type": "Developer",
+        "description": "Selected as one of four builders in the EVERLY neighborhood at Wellen Park in Venice, with 40 homesites; this was the company's first move south of the Tampa area.",
+        "amount_usd_m": null,
+        "lots": 40,
+        "date": "2023-08",
+        "confidence": "Verified",
+        "source_url": "https://www.homesbywestbay.com/blog/2023/08/10/homes-by-westbay-expands-reach-to-southwest-florida/",
+        "source_title": "Homes by WestBay release: Homes by WestBay Expands Reach to Southwest Florida",
+        "note": "Lot purchase terms not disclosed. Older item, kept to show the builder-in-a-master-plan pattern."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-07-07",
+        "type": "Other",
+        "description": "Bought 174 homesites at Verona in Pasco County from Eisenhower Property Group, the largest allocation among the five opening builders.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://tbbwmag.com/?p=91851",
+        "source_title": "Tampa Bay Business & Wealth: Five homebuilders buy first homesites at Pasco development",
+        "note": "Date is the article date; purchase price not disclosed."
+      },
+      {
+        "date": "2025-07-10",
+        "type": "Other",
+        "description": "Announced an executive succession plan and a search for a new chief financial officer (through Ferguson Partners) to support growth as a developer and builder of for-sale and build-for-rent communities. Founder becomes CEO and board chair at end of 2027; Mark Metheny becomes president; the long-time CFO moves to COO and retires at end of 2027.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.businessobserverfl.com/news/2025/jul/10/leading-tampa-homebuilder-future-president/",
+        "source_title": "Business Observer: Leading Tampa homebuilder names future president, seeks CFO",
+        "note": "Not a financing, but it changes who decides on land and capital."
+      },
+      {
+        "date": "2024-07-25",
+        "type": "Other",
+        "description": "Entered multifamily and build-to-rent; the head of land said the company had invested nearly $96M in large land acquisitions and was planning communities with selected business partners. The new multifamily head's remit includes capitalization of rental projects.",
+        "amount_usd_m": 96,
+        "confidence": "Reported",
+        "source_url": "https://www.multifamilyexecutive.com/design-development/homes-by-westbay-expands-into-multifamily-and-build-to-rent-sectors_s",
+        "source_title": "Multifamily Executive: Homes by WestBay Expands Into Multifamily and Build-to-Rent Sectors",
+        "note": "The $96M is cumulative land investment as described by the company, not a single transaction; funding source not disclosed."
+      },
+      {
+        "date": "2021-02-18",
+        "type": "JV",
+        "description": "GTIS Partners and Casa Fresca formed a $50M equity joint venture for entry-level communities in the Tampa area.",
+        "amount_usd_m": 50,
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/gtis-partners-forms-joint-venture-with-casa-fresca-to-build-entry-level-homes-in-tampa-301230821.html",
+        "source_title": "GTIS Partners press release: GTIS Partners Forms Joint Venture with Casa Fresca to Build Entry-Level Homes in Tampa",
+        "note": ""
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "GTIS Partners",
+        "description": "$50M equity joint venture with the Casa Fresca subsidiary covering land acquisition, development, construction and sale of entry-level homes in the Tampa area; three developments and more than 440 homes committed at announcement.",
+        "date": "2021-02",
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/gtis-partners-forms-joint-venture-with-casa-fresca-to-build-entry-level-homes-in-tampa-301230821.html",
+        "source_title": "GTIS Partners press release: GTIS Partners Forms Joint Venture with Casa Fresca to Build Entry-Level Homes in Tampa",
+        "note": "Current status not publicly disclosed."
+      },
+      {
+        "partner": "Unnamed capital partners",
+        "description": "The founder credited the company's relationships with its capital partners for letting it buy land quickly in spring 2020 when larger builders dropped contracts. The partners were not named.",
+        "date": "2022-05",
+        "confidence": "Reported",
+        "source_url": "https://www.businessobserverfl.com/news/2022/may/12/2022-top-entrepreneur-willy-nunn-homes-by-westbay-president-and-ceo-riverview/",
+        "source_title": "Business Observer: 2022 Top Entrepreneur: Willy Nunn",
+        "note": "Shows the company already uses outside capital for land, but gives no names or terms."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None found (private company; no SEC registrant under this name)",
+      "fiscal_year_end": "",
+      "as_of": "2025-12-31",
+      "confidence": "Reported",
+      "source_url": "https://www.businessobserverfl.com/news/2026/apr/08/tampa-area-homebuilder-new-ceo/",
+      "source_title": "Business Observer: Tampa Bay homebuilder names CEO for attainable housing unit"
+    },
+    "competitor_links": [
+      {
+        "firm": "GTIS Partners",
+        "relationship": "Equity joint-venture partner of the Casa Fresca subsidiary since 2021 ($50M). GTIS is a real-asset investor with a US land development and homebuilding programme, so it is the incumbent outside capital source for at least part of the entry-level land pipeline.",
+        "date": "2021-02",
+        "confidence": "Inferred",
+        "source_url": "https://www.prnewswire.com/news-releases/gtis-partners-forms-joint-venture-with-casa-fresca-to-build-entry-level-homes-in-tampa-301230821.html",
+        "source_title": "GTIS Partners press release: GTIS Partners Forms Joint Venture with Casa Fresca to Build Entry-Level Homes in Tampa",
+        "note": "No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon was found in the searches run. Verification 2026-11-19: downgraded Verified -> Inferred; the 2021 release confirms the JV was formed, but its only source is older than 24 months and nothing newer confirms GTIS is still a partner."
+      }
+    ]
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, lenders, land loans and terms: not publicly disclosed (private company, no SEC filings; EDGAR company search for the name returns no registrant)",
+    "Owned versus optioned split of the 11,490 lots: not publicly disclosed",
+    "Any land-banking or lot-option programme with a named land banker: none found in public sources; the founder's 'capital partners' are unnamed",
+    "Current status, size and term of the GTIS Partners joint venture after 2022: not publicly disclosed",
+    "Funding for the build-to-rent and multifamily lines: not publicly disclosed",
+    "Total debt, cash, liquidity, leverage and fiscal year end: not publicly disclosed (only sales are public: more than $700M in 2025, $677.67M in 2024, $700.44M in 2023 per Business Observer)",
+    "M&A in 2025 to 2026: none found; the only ownership event on record is the internal succession plan announced July 2025",
+    "Community development district (CDD) bond financing for its master-planned communities was not researched; county and district records would show it",
+    "County mortgage and UCC records, which would name its lenders, were not searched",
+    "Capital Analytics interview with Mark Metheny (July 2026) on land buying was not read; search snippets said the company has bought about 32 flood-damaged infill lots to rebuild on and sees openings while some national builders pause land purchases",
+    "Web search allowance for the swarm ran out before lender-name and build-to-rent financing searches could be repeated"
+  ],
+  "sources_consulted": [
+    "https://www.businessobserverfl.com/news/2026/apr/08/tampa-area-homebuilder-new-ceo/",
+    "https://www.businessobserverfl.com/news/2025/jul/10/leading-tampa-homebuilder-future-president/",
+    "https://www.businessobserverfl.com/news/2024/jul/24/homebuilder-multifamily-build-to-rent-market/",
+    "https://www.businessobserverfl.com/news/2023/oct/20/homebuilder-sets-sights-new-counties-multifamily-market/",
+    "https://www.businessobserverfl.com/news/2022/may/12/2022-top-entrepreneur-willy-nunn-homes-by-westbay-president-and-ceo-riverview/",
+    "https://www.multifamilyexecutive.com/design-development/homes-by-westbay-expands-into-multifamily-and-build-to-rent-sectors_s",
+    "https://www.prnewswire.com/news-releases/gtis-partners-forms-joint-venture-with-casa-fresca-to-build-entry-level-homes-in-tampa-301230821.html",
+    "https://tbbwmag.com/?p=91851",
+    "https://www.homesbywestbay.com/blog/2023/08/10/homes-by-westbay-expands-reach-to-southwest-florida/",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=westbay&type=&dateb=&owner=include&count=40",
+    "https://www.homesbywestbay.com/westbay-story",
+    "https://web.archive.org/web/20240913084327/https://www.builderonline.com/builder-100/homes-by-westbay-expands-into-new-florida-markets_o",
+    "https://web.archive.org/web/20260721212017/https://www.builderonline.com/firms/homes-by-westbay/"
+  ]
+}

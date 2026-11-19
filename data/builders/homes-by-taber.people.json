@@ -1,0 +1,166 @@
+{
+  "builder_id": "homes-by-taber",
+  "part": "people",
+  "retrieved": "2026-11-19",
+  "profile": {
+    "legal_name": "Homes by Taber (trade name; the legal operating entity was not confirmed in any source opened in this run)",
+    "brand_names": [
+      "Homes by Taber"
+    ],
+    "ownership": "Private",
+    "ticker": null,
+    "parent": null,
+    "hq_city": "Oklahoma City",
+    "hq_state": "OK",
+    "website": "https://www.homesbytaber.com",
+    "main_phone": "(405) 984-1185",
+    "states": [
+      "OK"
+    ],
+    "markets": [
+      "Oklahoma City metro (Edmond, Deer Creek, Yukon, Mustang, Piedmont, Moore, Norman, Choctaw, Guthrie, Cashion, Washington)",
+      "Tulsa metro (Broken Arrow, Bixby)",
+      "Stillwater area (Perkins)"
+    ],
+    "regions": [
+      {
+        "name": "Oklahoma City Area",
+        "geography": "25 of the 29 listed communities: Edmond/Deer Creek, Yukon, Mustang, Piedmont, Moore, Norman, Choctaw, Guthrie, Cashion, Washington",
+        "leader": null
+      },
+      {
+        "name": "Tulsa Area",
+        "geography": "Broken Arrow (Whiskey Ridge active, Buff Creek coming soon) and Bixby (Painted Sky Ranch coming soon); entered in 2022",
+        "leader": null
+      },
+      {
+        "name": "Stillwater Area",
+        "geography": "Perkins (Trophy Ridge)",
+        "leader": null
+      }
+    ],
+    "org_note": "Founder-run, single-office private builder with no divisions and no published leadership page; the three 'areas' on the website are sales groupings, not divisions with presidents. Taber LeBlanc (Owner and President) makes the land calls himself and develops land through his affiliate Premium Land, LLC; a COO (Travis Davidson) runs operations. No CFO, controller, treasurer or land executive is named in any public source found. A 2018 company release called his father-in-law John Alexander, a long-time Oklahoma City land developer, a partner in the business; whether he still holds a stake is not public. HQ on the company site is 305 West Memorial Rd, Ste A-2, Oklahoma City 73114 (Builder magazine lists Edmond).",
+    "email_pattern": "first@homesbytaber.com",
+    "email_pattern_source_url": "https://www.homesbytaber.com/blog/homes-by-taber-partners-with-tunnel-to-towers-to-build-functional-home-for-disabled-veteran",
+    "summary": "Private, founder-owned Oklahoma builder (founded 2000) that calls itself the state's largest: 633 closings in 2025 per the Builder 100, after a peak of 883 in 2021 per the company, selling from 29 listed communities, almost all around Oklahoma City, with a small Tulsa presence since 2022 and one community near Stillwater. A conventional for-sale builder aimed at move-up and first-time buyers. It is a developer-builder: the owner buys and develops most of its own land through an affiliate rather than buying finished lots, and nine of the 29 communities are in 'coming soon' or 'grand opening' status, so new land is being brought on now.",
+    "confidence": "Verified",
+    "source_url": "https://www.homesbytaber.com/about-the-builder"
+  },
+  "people": [
+    {
+      "name": "Taber LeBlanc",
+      "title": "Owner and President",
+      "role_category": "CEO",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "",
+      "reports_to_confidence": "",
+      "email": "",
+      "email_confidence": "",
+      "phone": "(405) 984-1185",
+      "in_role_since": "2000",
+      "prior_role": "",
+      "confidence": "Verified",
+      "source_url": "https://www.homesbytaber.com/about-the-builder",
+      "source_title": "Homes by Taber: About the Home Builder (company site)",
+      "source_date": "2026-11-19",
+      "retrieved": "2026-11-19",
+      "note": "Founder (June 2000) and the only owner the company names; the site styles him Owner and President, while the Builder 100 listing shows him as CEO (seen in a search snippet only, builderonline.com blocks fetches). He is the land decision-maker: the company's own history says he personally finds and develops the land, and his land entity Premium Land, LLC is the named applicant on plats for Taber communities (City of Moore minutes of 2021-03-09 read 'Premium Land LLC/Taber LeBlanc'). No separate land head or finance head is published, so land-bank conversations start with him. Phone is the company main line.",
+      "domain_internal_notes": ""
+    },
+    {
+      "name": "Zach Holland",
+      "title": "Director of Land Development, Premium Land",
+      "role_category": "Land Development",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "Taber LeBlanc",
+      "reports_to_confidence": "Inferred",
+      "email": "",
+      "email_confidence": "",
+      "phone": "",
+      "in_role_since": "",
+      "prior_role": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "Search-result snippet of a homes.com agent profile (page returned 403, not opened)",
+      "source_date": "",
+      "retrieved": "2026-11-19",
+      "note": "Seen in search snippet, not confirmed. Query: \"Premium Land, LLC\" \"owner and developer\" Oklahoma City PUD Ashleaf Farms. The snippet described a homes.com profile listing him as Director of Land Development at Premium Land, with the Timber Crest addition in east Edmond named as a project. Premium Land, LLC is Taber LeBlanc's land-development entity (Verified separately from City of Moore minutes), but that this is the same Premium Land, and that he is still in the role, are both unconfirmed. Treat as a lead to check before calling; he is the only named land-side person found. Title note: Title as shown in a search snippet.",
+      "domain_internal_notes": ""
+    },
+    {
+      "name": "Travis Davidson",
+      "title": "Chief Operating Officer",
+      "role_category": "President/COO",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "Taber LeBlanc",
+      "reports_to_confidence": "Inferred",
+      "email": "",
+      "email_confidence": "",
+      "phone": "",
+      "in_role_since": "",
+      "prior_role": "Earlier roles in sales, estimating, construction and purchasing (per Pro Builder profile)",
+      "confidence": "Reported",
+      "source_url": "https://probuilder.com/55200806",
+      "source_title": "Pro Builder contributor profile: Travis Davidson",
+      "source_date": "",
+      "retrieved": "2026-11-19",
+      "note": "Pro Builder's live contributor page (undated; page footer reads 2026) calls him chief operating officer at Homes by Taber. The company's own blog called him COO on 2019-05-15 (https://www.homesbytaber.com/blog/whats-trending-in-design-details-for-new-homes). No dated 2025-2026 source names him, so confirm he is still in the seat. Reporting line inferred from titles.",
+      "domain_internal_notes": ""
+    },
+    {
+      "name": "Lindsay Haltom",
+      "title": "Director of Sales and Marketing",
+      "role_category": "Sales/Marketing",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "",
+      "reports_to_confidence": "",
+      "email": "lindsay@homesbytaber.com",
+      "email_confidence": "Verified",
+      "phone": "(405) 285-5105",
+      "in_role_since": "",
+      "prior_role": "",
+      "confidence": "Verified",
+      "source_url": "https://www.homesbytaber.com/blog/homes-by-taber-partners-with-tunnel-to-towers-to-build-functional-home-for-disabled-veteran",
+      "source_title": "Homes by Taber press release on company site: Tunnel to Towers veteran home ribbon-cutting",
+      "source_date": "2025-01-29",
+      "retrieved": "2026-11-19",
+      "note": "Named as the company's media contact with this title, email and phone in the 2025-01-29 release. She was Director of Marketing in company posts from 2018 to 2021, so the sales remit was added later; Myers Barnes, hired in July 2018 as VP of sales and marketing, does not appear in any later company material. Not a land or finance contact, but she is the only executive with published direct contact details.",
+      "domain_internal_notes": ""
+    }
+  ],
+  "gaps": [
+    "CFO / head of finance / controller / treasurer: not publicly disclosed (no finance executive is named on the company site, in press or in trade listings)",
+    "Head of land acquisition: not publicly disclosed; the owner, Taber LeBlanc, is the land decision-maker per the company's own history",
+    "Director of Land Development at Premium Land (Zach Holland): seen in a search snippet only; the homes.com page returned 403 and the web-search allowance ran out before a second source could be found",
+    "Travis Davidson as COO: no dated 2025-2026 confirmation (Pro Builder contributor page is undated; company blog reference is from 2019)",
+    "Director of Construction: the role appears in current careers-page postings but no current holder is named (last named holder, Devin Akins, in a 2017 company post)",
+    "Legal operating entity and ownership split (including whether John Alexander, called a partner in 2018, still holds a stake): not publicly confirmed; the Oklahoma Secretary of State record was not opened",
+    "Tulsa and Stillwater market leaders: none named publicly",
+    "The email pattern rests on a single published address (lindsay@homesbytaber.com); no other personal addresses are published, so none were built for other people",
+    "June 2025 '25 years' press release (accessnewswire.com) returned 403 and its mirror was rate-limited, so it was not read",
+    "Central Oklahoma Home Builders Association 2026 board page lists nobody from Homes by Taber"
+  ],
+  "sources_consulted": [
+    "https://www.homesbytaber.com/",
+    "https://www.homesbytaber.com/about-the-builder",
+    "https://www.homesbytaber.com/communities",
+    "https://www.homesbytaber.com/careers",
+    "https://www.homesbytaber.com/blog/homes-by-taber-partners-with-tunnel-to-towers-to-build-functional-home-for-disabled-veteran",
+    "https://www.homesbytaber.com/blog/taber-turns-20",
+    "https://www.homesbytaber.com/blog/whats-trending-in-design-details-for-new-homes",
+    "https://www.homesbytaber.com/blog/executive-builder-magazine-ranks-homes-by-taber-as-a-top-100-builder",
+    "https://www.homesbytaber.com/blog/homes-by-taber-outranks-other-oklahoma-builders-on-a-national-scale",
+    "https://probuilder.com/55200806",
+    "https://www.probuilder.com/home/article/55204439/under-40-home-builders-working-the-market",
+    "https://www.newswire.com/news/myers-barnes-joins-homes-by-taber-20544586",
+    "https://www.newswire.com/news/new-home-builder-in-broken-arrow-open-for-customers-21861159",
+    "https://topworkplaces.com/company/homes-by-taber/",
+    "https://cityofmoore.com/sites/default/files/uploads/planning-commission-meeting/agendas/agenda_5.pdf",
+    "https://cohba.org/board-of-directors/"
+  ],
+  "domain_internal_notes": ""
+}

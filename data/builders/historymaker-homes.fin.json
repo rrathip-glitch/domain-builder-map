@@ -1,0 +1,146 @@
+{
+  "builder_id": "historymaker-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Conventional for-sale builder that no longer finances itself: since 2026-10-07 its communities, lots and work in process sit on Century Communities' balance sheet, bought for about $160.2M of initial cash that Century drew on its $1.2B unsecured revolver (U.S. Bank agent, upsized and extended to November 2030 one week earlier). HistoryMaker's own pre-sale bank lines, lot counts and any land-bank arrangements were never public. The family model was integrated: sister company Jabez Development developed lots and HistoryMaker built on them; Jabez was not sold and keeps developing and delivering lots to Century under an ongoing contract, so the seller is now Century's lot developer in Dallas-Fort Worth. Century says it uses land banking only on a very limited basis and controls 45.1% of its 60,969 lots (2026-09-30, before HistoryMaker) through options, while its revolver balance rose from $51.5M to $456.0M in nine months and its stated priority is to hold debt to capital. Room for a land banker therefore sits in two places: Century's enlarged DFW lot pipeline (a parent-level conversation), and Jabez Development, a private developer that now carries horizontal risk for a public builder and has no disclosed capital partner.",
+    "land_strategy": "Before the sale: an integrated family platform, with Jabez Development (land acquisition, entitlement and development) feeding HistoryMaker Homes (for-sale) and ONM Living (build-to-rent); no owned/optioned split or target was ever published. After the sale: Century's strategy applies. Century describes its lots as 54.9% owned and 45.1% controlled at 2026-09-30, says it is moving toward lower-deposit lot contracts, and will take finished lots in DFW from Jabez Development on current and future communities.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-10-07",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1576940/000157694026000071/R8.htm",
+      "source_title": "Century Communities Q3 2026 Form 10-Q, Note 1 Basis of Presentation, Subsequent Event (EDGAR page R8)",
+      "note": "HistoryMaker lot counts were not disclosed by either party: the 10-Q note gives 29 active communities and no lots; the release says only that the lot pipeline expands meaningfully. Scale indicators instead: 29 active communities and about 458 trailing-twelve-month deliveries through Q3 2026 (derived: Century's Dallas division goes from 211 to 669). For reference, the parent held 60,969 lots at 2026-09-30 (33,473 owned, 27,496 controlled) before the acquisition; see the century-communities record."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Jabez Development",
+        "counterparty_type": "Developer",
+        "description": "Sister land development company owned by the Mitchell family; not part of the sale. Historically the in-house lot developer for HistoryMaker Homes. Under the Century deal it completes land development on select (per the Q3 release, current and future) Century communities in Dallas-Fort Worth, and the two expect to pursue more DFW land together. Century's CEO called it an ongoing contractual relationship; the seller's adviser described the pattern as the seller continuing to sell finished lots to the acquirer.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-10",
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/century-communities-triples-dallas-fort-worth-footprint-with-acquisition-of-historymaker-homes-302901878.html",
+        "source_title": "Century Communities press release 2026-10-08: Century Communities Triples Dallas-Fort Worth Footprint with Acquisition of HistoryMaker Homes",
+        "note": "No lot counts, takedown schedule, pricing, deposits or funding source for Jabez disclosed. Not a land banker: a private developer affiliated with the seller, and a possible land-bank customer or channel in its own right. 'Ongoing contractual relationship' is from the Q3 2026 call transcript (Motley Fool); the finished-lot comment is from HousingWire, 2026-10-08."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Parent facility: Century Communities $1.2B senior unsecured revolving credit facility (funded the HistoryMaker purchase)",
+        "type": "Revolver",
+        "principal_usd_m": 456.0,
+        "rate": "SOFR-based; margins not stated in the filing read",
+        "maturity": "2030-11",
+        "secured": "Unsecured",
+        "lenders_agent": "U.S. Bank National Association (administrative agent, sole book runner). Co-syndication agents Bank of America, JPMorgan Chase Bank, BMO Bank; co-documentation agents Fifth Third Bank, PNC Bank, Zions Bancorporation dba Vectra Bank Colorado. Flagstar Bank and Morgan Stanley Senior Funding joined in the 2026-09-30 amendment; BMO did not extend.",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1576940/000114036126038259/ef20083014_form8k.htm",
+        "source_title": "Century Communities Form 8-K filed 2026-10-01: First Amendment to Credit Agreement",
+        "note": "This is the parent's debt, not HistoryMaker's; listed once here because it is what now funds the business. $456.0M drawn at 2026-09-30 (10-Q balance sheet), before roughly $160.2M more was drawn for HistoryMaker on 2026-10-07 (funding source per the Q3 2026 call). Century also has senior notes due 2029 and 2033; the full debt table is on the century-communities record. HistoryMaker's own pre-sale credit facilities were never disclosed and are presumed repaid or left with the seller."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-10-07",
+        "type": "Other",
+        "description": "Century Communities paid initial cash consideration of about $160.2M for substantially all HistoryMaker Homes assets (and assumed certain liabilities), subject to customary holdbacks and post-closing adjustments. Century's CEO said it was funded entirely with cash drawn on the revolver.",
+        "amount_usd_m": 160.2,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1576940/000157694026000071/R8.htm",
+        "source_title": "Century Communities Q3 2026 Form 10-Q, Note 1 Basis of Presentation, Subsequent Event (EDGAR page R8)",
+        "note": "Price was not in the press release and management declined to discuss valuation on the call; the figure is only in the 10-Q. Purchase price allocation and goodwill not yet available. Funding source is from the Q3 2026 call transcript (Motley Fool)."
+      },
+      {
+        "date": "2026-09-30",
+        "type": "Facility amendment",
+        "description": "One week before closing, the parent raised its revolver commitments to $1.2B and extended maturity to 2030-11-01 for extending lenders.",
+        "amount_usd_m": 1200.0,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1576940/000114036126038259/ef20083014_form8k.htm",
+        "source_title": "Century Communities Form 8-K filed 2026-10-01: First Amendment to Credit Agreement",
+        "note": "Parent-level event. Parent liquidity was $863.8M at 2026-09-30 including $119.8M of cash, with net homebuilding debt to net capital of 34.9% (Q3 2026 release)."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "December 31 (parent)",
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001576940/000157694026000069/ccs-20261028xex99_1.htm",
+      "source_title": "Century Communities Q3 2026 results press release (8-K Exhibit 99.1). HistoryMaker has no stand-alone figures; parent metrics are on the century-communities record."
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-10-07",
+      "role": "Target",
+      "counterparty": "Century Communities, Inc. (NYSE: CCS)",
+      "description": "Century bought substantially all the assets and assumed certain liabilities of HMH Lifestyles, L.P. (d/b/a HistoryMaker Homes) for initial cash of about $160.2M, subject to holdbacks and post-closing adjustments. Announced 2026-10-08. Adds 29 active communities in greater Dallas to Century's Texas segment. Vestra Advisors advised the seller. The Mitchell family kept Jabez Development (land development) and ONM Living (build-to-rent). Century's tenth acquisition since its 2014 IPO.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "HistoryMaker (Builder 100 #77) stops being an independent, family-owned builder and becomes part of Century's Dallas-Fort Worth division, based in Grapevine: Century's DFW active communities go from 12 to 41 and trailing-twelve-month deliveries from 211 to 669. Land and financing decisions move to Century in Colorado (Jim Francescon on land and M&A, Scott Dixon as CFO), so the call list for HistoryMaker's lots is now Century's. The division leader and land head are not yet named. Nelson Mitchell becomes the owner of an independent DFW lot developer (Jabez) supplying Century. About 100 HistoryMaker deliveries are in Century's 2026 guidance, so HistoryMaker will not appear as a separate builder in next year's ranking.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1576940/000157694026000071/R8.htm",
+      "source_title": "Century Communities Q3 2026 Form 10-Q, Note 1 Basis of Presentation, Subsequent Event (EDGAR page R8)",
+      "note": "Price and community count from the 10-Q; structure, Jabez and ONM details from Century's 2026-10-08 press release; pro forma division figures from the Q3 2026 results release (8-K Exhibit 99.1, 2026-10-28); acquisition count from the Q3 call transcript."
+    },
+    {
+      "date": "2025-12-21",
+      "role": "Divestiture",
+      "counterparty": "Brohn Homes (a Clayton company; Berkshire Hathaway group)",
+      "description": "HistoryMaker left Houston: its Houston division became part of Austin-based Brohn Homes and the Houston communities were rebranded as Brohn. Price, lots and structure not disclosed. HistoryMaker entered Houston in 2016.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Removes Houston from HistoryMaker's footprint (and from what Century later bought). HistoryMaker's 2025 closings in the Builder 100 still include Houston, so they overstate what Century acquired, which was about 458 trailing-twelve-month DFW deliveries. Houston land contacts moved to Brohn / Clayton Properties Group.",
+      "confidence": "Verified",
+      "source_url": "https://www.pr.com/press-release/956694",
+      "source_title": "Brohn Homes press release (PR.com): Brohn Homes Expands Into Houston, Growing Its Texas Legacy of Heart-Driven Homebuilding",
+      "note": "Date is the release date; closing date not stated. The release is Brohn's and quotes HistoryMaker CEO Nelson Mitchell; it says HistoryMaker is exiting Houston, not that Brohn bought the company. The Real Deal covered it on 2025-12-30 (page returned 403, not read)."
+    }
+  ],
+  "gaps": [
+    "HistoryMaker lots owned and controlled, at sale or before: not publicly disclosed by either party.",
+    "HistoryMaker's pre-sale lenders, credit facilities and any land-bank or lot-option financing: not publicly disclosed (private company). Whether Century assumed or repaid any HistoryMaker debt is not stated; the 10-Q says only that certain liabilities were assumed.",
+    "Terms of the Century / Jabez Development lot relationship (lot counts, takedown pace, pricing, deposits, exclusivity) and how Jabez funds development: not publicly disclosed. This is the main open question for a land banker.",
+    "Final purchase price after holdbacks and adjustments, purchase price allocation and goodwill: not yet available (expected in Century's FY2026 10-K).",
+    "San Antonio exit: HistoryMaker entered San Antonio in 2023, and Century's October 2026 release says it builds exclusively in Dallas-Fort Worth, so San Antonio was closed or sold before the deal. Date, buyer and terms not found.",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found in the documents read. Not a full negative check, because the shared web-search allowance ran out before firm-name searches could be run and EDGAR full-text search was not available.",
+    "Joint ventures: none disclosed. Century and Jabez say they expect to pursue further DFW land opportunities together, but no JV entity or terms have been announced.",
+    "ONM Living (build-to-rent sister company, about ten Dallas-Fort Worth communities plus one in Katy listed on its site): capital partners and lenders not researched in depth and not stated on its site.",
+    "Unread lead: a Connect CRE headline seen in search results says HistoryMaker bought 6,000 lots in Houston and Dallas (date and seller unknown; page returned 403)."
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/Archives/edgar/data/1576940/000157694026000071/R8.htm",
+    "https://www.prnewswire.com/news-releases/century-communities-triples-dallas-fort-worth-footprint-with-acquisition-of-historymaker-homes-302901878.html",
+    "https://www.sec.gov/Archives/edgar/data/0001576940/000157694026000069/ccs-20261028xex99_1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1576940/000114036126038259/ef20083014_form8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1576940/000114036126042623/ef20085122_8k.htm",
+    "https://www.fool.com/earnings/call-transcripts/2026/10/28/century-communities-ccs-q3-2026-earnings-call-transcript/",
+    "https://www.housingwire.com/articles/century-historymaker-local-scale/",
+    "https://www.housingwire.com/articles/mitchells-sell-builder-keep-land/",
+    "https://investors.centurycommunities.com/news/news-details/2026/Century-Communities-Announces-Promotion-of-Jim-Francescon-to-President/default.aspx",
+    "https://www.pr.com/press-release/956694",
+    "https://pulse2.com/century-communities-acquires-historymaker-homes-and-triples-dallas-fort-worth-footprint/",
+    "https://www.sec.gov/Archives/edgar/data/1576940/000157694026000071/ccs-20260930x10q.htm",
+    "https://www.sec.gov/Archives/edgar/data/1576940/000157694026000071/R24.htm",
+    "https://www.historymaker.com/our-legacy",
+    "https://onmliving.com/who-we-are/",
+    "https://www.vestraadvisors.com/",
+    "https://data.sec.gov/submissions/CIK0001576940.json"
+  ]
+}

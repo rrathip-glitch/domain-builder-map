@@ -1,0 +1,153 @@
+{
+  "builder_id": "westin-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Westin Homes is a conventional private for-sale builder, wholly controlled by founder Jason Golan, with no public debt, no SEC filings and no disclosed lenders, lot counts or capital partners. Its land model is asset-light by habit: it builds on finished lots bought from third-party master-plan developers (Johnson Development, Hines, Hillwood, Ashton Gray and others) in 41 communities across Houston and Austin, so developers already carry most of its land. No land banker, lot-option financier or outside investor is named anywhere public, and nothing links it to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon. It is a plausible but modest land-banking customer: the opening is finished-lot takedown financing inside developer communities, and the builder-partner land purchases with Hines (Fulshear, 2025) show it will commit to land ahead of lot delivery.",
+    "land_strategy": "Finished-lot buyer in third-party master-planned communities; the company states that amenities and common areas in its communities are planned and run by third-party developers or HOAs. No stated owned-versus-optioned target and no evidence of self-developed communities.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed. Private company with no filings. The only public scale markers are 41 active communities on the company site (29 Houston, 12 Austin) and the Builder 100 closings figure held in the spine."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Hines",
+        "counterparty_type": "Developer",
+        "description": "Hines bought about 2,951 acres at FM 1093 and Texas Heritage Parkway near Fulshear for a master-planned community of more than 7,000 homes, and is reported to have partnered with eight builders, Westin Homes among them, to acquire the land. First lots are expected in 2027.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-01",
+        "confidence": "Reported",
+        "source_url": "https://realtynewsreport.com/hines-buys-3000-acres-for-residential-community/",
+        "source_title": "Realty News Report: Hines Buys 3,000 Acres for Residential Community",
+        "note": "Westin's lot allocation and any deposit or capital commitment are not disclosed. Same builder list in Community Impact and Bisnow (both 2025-01-23/24). The other builders are Toll Brothers, Perry Homes, Highland Homes, Village Builders/Lennar, Coventry/Dream Finders, Newmark Homes and Beazer Homes."
+      },
+      {
+        "counterparty": "Hines",
+        "counterparty_type": "Developer",
+        "description": "Hines acquired more than 1,500 acres on the west side of League City (the Lloyd tract) for a master-planned community with 2,730 single-family lots on 50-, 60- and 70-foot frontages. Westin Homes is one of five named builders. First lots late 2027, home starts early 2028.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-10",
+        "confidence": "Reported",
+        "source_url": "https://realtynewsreport.com/hines-buys-1500-acres-for-2700-new-homes/",
+        "source_title": "Realty News Report: Hines Buys 1,500 Acres for 2,700 New Homes",
+        "note": "The 2,730 lots are the whole community, not Westin's share, which is not disclosed. The article says financing for Hines's purchase was provided by Rocky Lai and Associates; that is the developer's financing, not Westin's. The other builders are Highland Homes, Newmark Homes, David Weekley Homes and Chesmar Homes."
+      },
+      {
+        "counterparty": "Johnson Development",
+        "counterparty_type": "Developer",
+        "description": "Westin is a long-standing builder in Johnson Development master-planned communities; Johnson's own site carried a Westin feature for Grange (Katy) in June 2025 and the Sienna community site lists Westin on 60-foot homesites.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-06",
+        "confidence": "Reported",
+        "source_url": "https://www.johnsondevelopment.com/news/10156/westin-homes-reveals-granges-next-big-deal",
+        "source_title": "Johnson Development community news: Westin Homes Reveals Grange's Next Big Deal",
+        "note": "Derived count, not a published figure: matching Westin's live community list against the communities named on Johnson Development's site suggests about 13 of Westin's 41 communities are Johnson Development or Johnson Land Ventures projects (Cross Creek West, Grand Central Park, Grange, Harvest Green, Jordan Ranch, Jubilee, Kresston, Sienna, The George, Briarley, Candela, Everly, Nolina), making Johnson the largest single lot source visible in public. Lot contract terms are not disclosed."
+      },
+      {
+        "counterparty": "Ashton Gray Development",
+        "counterparty_type": "Developer",
+        "description": "Westin is one of three builders (with Chesmar and Brightland) in Newhaven, a 94-acre, 278-lot community in Manor, east of Austin; Westin's live Austin community page lists Newhaven (Manor) with pricing.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-03",
+        "confidence": "Inferred",
+        "source_url": "https://therealdeal.com/texas/austin/2024/03/12/ashton-gray-targets-austin-suburbs/",
+        "source_title": "The Real Deal: Ashton Gray developments saturate Austin suburbs",
+        "note": "278 lots is the whole community; Westin's share is not disclosed. Verification 2026-11-19: The Real Deal returned 403, so the developer, acreage and builder list could not be reconfirmed; Westin's own Austin page (westin-homes.com/communities/austin) confirms Westin builds in Newhaven but does not name the developer. Earlier text said the site shows Newhaven as preselling; the Preselling label belongs to Nolina."
+      },
+      {
+        "counterparty": "Masonwood Development",
+        "counterparty_type": "Developer",
+        "description": "Westin is one of five builders named for the second phase of Masonwood's Provence community near Bee Cave (50- to 80-foot lots), alongside Chesmar, Drees, Newmark and David Weekley.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-06",
+        "confidence": "Inferred",
+        "source_url": "https://therealdeal.com/texas/2025/06/27/thousands-more-homes-planned-on-austins-outskirts/",
+        "source_title": "The Real Deal: Thousands more homes on the way to Austin's outskirts",
+        "note": "Lot count for Westin not disclosed. Verification 2026-11-19: The Real Deal returned 403, so the developer and builder list could not be reconfirmed; Westin's own Austin page (westin-homes.com/communities/austin) lists Provence but does not name the developer."
+      },
+      {
+        "counterparty": "Owen Holdings (Parmer Ranch)",
+        "counterparty_type": "Developer",
+        "description": "Community Impact reported in March 2023 that Westin was set to become the fifth builder at Parmer Ranch in Georgetown, taking a portion of 131 lots due for delivery that month; Westin's live Austin page lists Parmer Ranch as Coming Soon.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2023-03",
+        "confidence": "Reported",
+        "source_url": "https://communityimpact.com/georgetown/housing-real-estate/about-1000-homes-to-be-built-in-georgetowns-parmer-ranch-community-in-coming-years/",
+        "source_title": "Community Impact: About 1,000 homes to be built in Georgetown's Parmer Ranch community in coming years",
+        "note": "Older source (March 2023) described the takedown as upcoming, not completed; newer confirmation that Westin is building there is its own Austin community page (westin-homes.com/communities/austin, 2026-11-19), which shows Parmer Ranch as Coming Soon. Westin's share of the 131 lots is not stated. Verification 2026-11-19: description corrected from a completed lot takedown with 40- and 60-foot product (not confirmed) to the upcoming takedown the source describes."
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [
+      {
+        "partner": "Hines (with seven other builders)",
+        "description": "Press coverage of Hines's roughly 2,951-acre Fulshear purchase says Hines partnered with multiple homebuilders, including Westin Homes, to acquire the land. This reads as a builder-partner land purchase for a community of more than 7,000 homes, with first lots due in 2027.",
+        "date": "2025-01",
+        "confidence": "Reported",
+        "source_url": "https://www.bisnow.com/news/houston/deal-sheet/this-weeks-houston-deal-sheet-hines-buys-3000-acres-for-master-planned-community-127710",
+        "source_title": "Bisnow Houston Deal Sheet: Hines Buys 3,000 Acres For Master-Planned Community",
+        "note": "The legal structure is not disclosed: it may be an equity joint venture or builder lot-purchase commitments made at land closing. Westin's commitment and how it is funded are not public. Same deal as the first Hines row under land_banking."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lots owned, optioned and total controlled, and years of supply: not publicly disclosed (private company, no filings).",
+    "Lenders, credit facilities, construction lines and any term debt: not publicly disclosed. No lender is named in any press or company source found; county deed-of-trust and UCC records were not searched.",
+    "Land banker, lot-option financier or outside capital partner: none publicly named. Searches for Westin Homes with Millrose, Kennedy Lewis, Angelo Gordon, Domain Real Estate and land banking returned nothing on Westin.",
+    "Cash, total debt, liquidity, leverage, fiscal year end, credit ratings: not publicly disclosed; the company is unrated with no public debt.",
+    "Ownership and parent funding: state records show only Jason Golan as officer and registered agent of the seven Westin entities; limited partners, any family or outside equity, and the purpose of the June 2023 holding entities (Westin Homes Group, Ltd. and Westin Homes Holdings GP, LLC) are not public.",
+    "Westin's lot allocation and financial commitment in the two Hines communities (Fulshear and League City), and the legal form of the Fulshear builder partnership: not disclosed.",
+    "M&A 2025 to date: none found, as acquirer or target. No sale, recapitalisation or acquisition announcement located.",
+    "A real-estate data aggregator snippet claimed three Austin-area land purchases under the Westin Homes and Properties name with the latest in December 2025; the page did not load and the figures looked unreliable, so nothing from it is recorded.",
+    "The shared web-search allowance ran out near the end of this run; a further pass on lenders (for example business-journal coverage or county records) was not possible."
+  ],
+  "sources_consulted": [
+    "https://www.westin-homes.com/",
+    "https://westin-homes.com/communities/houston",
+    "https://westin-homes.com/communities/austin",
+    "https://comptroller.texas.gov/data-search/franchise-tax?name=westin%20homes",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32035712895",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32090903009",
+    "https://realtynewsreport.com/hines-buys-3000-acres-for-residential-community/",
+    "https://realtynewsreport.com/hines-buys-1500-acres-for-2700-new-homes/",
+    "https://communityimpact.com/katy-north/development/hines-to-debut-3k-acre-master-planned-community-near-fulshear/",
+    "https://communityimpact.com/houston/bay-area/development/2025/11/10/hines-acquires-over-15k-acres-of-land-in-league-city",
+    "https://www.bisnow.com/news/houston/deal-sheet/this-weeks-houston-deal-sheet-hines-buys-3000-acres-for-master-planned-community-127710",
+    "https://www.johnsondevelopment.com/news/10156/westin-homes-reveals-granges-next-big-deal",
+    "https://www.siennatx.com/home-builders/350/westin-homes",
+    "https://therealdeal.com/texas/austin/2024/03/12/ashton-gray-targets-austin-suburbs/",
+    "https://therealdeal.com/texas/2025/06/27/thousands-more-homes-planned-on-austins-outskirts/",
+    "https://communityimpact.com/georgetown/housing-real-estate/about-1000-homes-to-be-built-in-georgetowns-parmer-ranch-community-in-coming-years/",
+    "https://www.bbb.org/us/tx/sugar-land/profile/home-builders/westin-homes-properties-lp-0915-49000324",
+    "https://www.builderonline.com/firms/westin-homes (HTTP 403, not readable)"
+  ]
+}

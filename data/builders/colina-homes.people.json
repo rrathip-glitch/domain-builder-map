@@ -1,0 +1,85 @@
+{
+  "builder_id": "colina-homes",
+  "part": "people",
+  "retrieved": "2026-11-19",
+  "profile": {
+    "legal_name": "Colina Homes (trade name). Operating entity believed to be Nuway Homes Texas, L.P. (general partner Nuway Homes, LLC); not confirmed by a filing that names both",
+    "brand_names": [
+      "Colina Homes"
+    ],
+    "ownership": "Private",
+    "ticker": null,
+    "parent": null,
+    "hq_city": "Houston",
+    "hq_state": "TX",
+    "website": "https://www.colinahomes.com",
+    "main_phone": null,
+    "states": [
+      "TX"
+    ],
+    "markets": [
+      "Houston (city infill, Katy, Hockley, Magnolia, Montgomery, Willis, Splendora, Dayton, Crosby, Baytown, Texas City, Iowa Colony)"
+    ],
+    "regions": [],
+    "org_note": "Single-market, founder-run private builder with one corporate office (1314 N Durham Dr, Suite 200, Houston 77008) and no divisions. The company site names only the founder, Ken Williams; no land, finance or operations executive is published anywhere I could open, so land and financing decisions should be assumed to sit with Williams. Texas Comptroller records show Kenneth B. Williams as member or manager of the controlling entities at that address (Nuway Homes, LLC, which is general partner of Nuway Homes Texas, L.P.; Nuway Holdings, L.L.C.; Lexington 26 GP, L.L.C., general partner of Lexington 26, L.P.) and as registered agent of the two partnerships. Community pages publish only on-site sales counsellors.",
+    "email_pattern": "first initial + last name @colinahomes.com (e.g. kwilliams@, jbourelle@, lgarcia@)",
+    "email_pattern_source_url": "https://www.colinahomes.com/creekhaven",
+    "summary": "Private, founder-owned entry-level builder working only in greater Houston, founded 2007 by Ken Williams; the site lists 14 communities (4 marked new or coming, 2 in close-out) with homes advertised from $190,990 and most product in the $200s to $300s. A conventional for-sale builder and a plausible, if small, land-banking customer: it mainly takes finished lots in third-party master plans (five current communities are Land Tejas developments) and discloses nothing about lot counts, lenders or capital partners. Size check: the Builder 100 figures in the spine (540 closings, $84M) imply about $156K a home, below the company's own lowest advertised price, so Pro Builder's roughly $124M (about $229K a home) looks the more consistent revenue number.",
+    "confidence": "Verified",
+    "source_url": "https://www.colinahomes.com/about"
+  },
+  "people": [
+    {
+      "name": "Ken Williams",
+      "title": "Founder",
+      "role_category": "Chair/Founder",
+      "level": "Corporate",
+      "geography": "",
+      "reports_to": "",
+      "reports_to_confidence": "",
+      "email": "kwilliams@colinahomes.com",
+      "email_confidence": "Verified",
+      "phone": "",
+      "in_role_since": "2007",
+      "prior_role": "",
+      "confidence": "Verified",
+      "source_url": "https://www.colinahomes.com/about",
+      "source_title": "Colina Homes: Our History (Meet our founder)",
+      "source_date": "2026-11-19",
+      "retrieved": "2026-11-19",
+      "note": "Owner and sole named executive; the only person Domain can call on for land and finance from public sources. The site calls him founder (2007); it gives no CEO or president title. Builder Online's Builder 100 profile lists 'Kenneth Williams' as CEO, but I saw that only in a search snippet (the page returned 403), so the CEO title is unconfirmed. Texas Comptroller franchise-tax records (opened this run) list Kenneth B. Williams as member of Nuway Homes, LLC (general partner of Nuway Homes Texas, L.P.) and managing member of Nuway Holdings, L.L.C., all at the Colina office address: https://comptroller.texas.gov/data-search/franchise-tax/32033048748 and https://comptroller.texas.gov/data-search/franchise-tax/32071157054. Email: this address is the mailto target behind the 'info@colinahomes.com' link on the company's contact page (https://www.colinahomes.com/contact), not a displayed address; it matches the first-initial-plus-last-name pattern the site publishes for sales staff. No direct phone published.",
+      "domain_internal_notes": ""
+    }
+  ],
+  "gaps": [
+    "Head of land acquisition / land development: not publicly disclosed (no title of this kind appears on the company site or in any source opened)",
+    "CFO, controller or other finance head: not publicly disclosed",
+    "President / COO or any second-in-command: not publicly disclosed",
+    "CEO title for Ken Williams: Builder Online lists him as CEO, seen in a search snippet only (page blocked); company site says founder",
+    "Legal operating entity: 'Colina Homes' is not a registered Texas entity name at the company address; Nuway Homes Texas, L.P. (formed June 2007, same address, same registered agent) is the likely operating entity but no document opened names both",
+    "A company representative surnamed Laporte was quoted in a 2022 KHOU story on cancelled contracts (search snippet only; the page returned 403). First name and title unconfirmed, so left out",
+    "Corporate main phone: none published; the site gives only community sales lines and info@colinahomes.com",
+    "Greater Houston Builders Association roster and Houston Business Journal: not checked (GHBA site returned a bot challenge; the shared web-search allowance ran out before an HBJ search)",
+    "On-site sales counsellors are named on each community page (with direct lines and emails) but are left out of the people list as they are not land or finance contacts"
+  ],
+  "sources_consulted": [
+    "https://www.colinahomes.com/",
+    "https://www.colinahomes.com/about",
+    "https://www.colinahomes.com/contact",
+    "https://www.colinahomes.com/communities",
+    "https://www.colinahomes.com/careers",
+    "https://www.colinahomes.com/lets-get-started",
+    "https://www.colinahomes.com/creekhaven",
+    "https://www.colinahomes.com/sunterra",
+    "https://www.colinahomes.com/tidwell-lakes",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32033048748",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32035013484",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32071157054",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32035208506",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32019401317",
+    "https://comptroller.texas.gov/data-search/franchise-tax?name=colina%20homes",
+    "https://endcorporateprofiteering.org/colina-homes/",
+    "https://www.fox26houston.com/news/some-homebuyers-say-builders-are-cancelling-contracts"
+  ],
+  "domain_internal_notes": ""
+}

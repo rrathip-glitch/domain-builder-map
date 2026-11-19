@@ -1,0 +1,214 @@
+{
+  "builder_id": "mcbride-and-son-cos",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Private company with no SEC filings or rated debt, so lenders, facility terms, debt and lot counts are not public. What is visible is a self-development model: an in-house land arm (McBride Land Strategy) buys, entitles and develops large master plans, topped up with finished lots bought from other builders, builder joint ventures and public-private structures in which a city or county carries land or infrastructure cost. No land banker, lot-option financier or outside capital partner is named in any source opened, and no link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. The pipeline announced since 2025 is large relative to roughly 750 to 800 closings a year (854 lots at Havenwood, 700+ at the Jamestown Mall site, 587 in Rolla), which makes McBride a plausible land-banking prospect on paper, but there is no public sign that it uses third-party land capital today.",
+    "land_strategy": "Owns and develops its own land, in the company's framing a selective, margin-first approach. The CEO told Builder (Sept 2026, as relayed by STL.News) that McBride matches starts to demand, can cut starts because it is private, and follows a 'Next Exit' strategy of exurban sites near interstates chosen on job growth, access and land cost, with plans to grow beyond current volume over five to ten years. Land is sometimes bought through project-level entities (a 31.8-acre Union, MO purchase in Dec 2022 was made by St. Andrews Drive Development LLC, per the broker's release). No owned-versus-optioned target is stated.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.stl.news/mcbride-plans-854-home-foristell-development/",
+      "source_title": "STL.News: McBride Plans 854-Home Foristell Development",
+      "note": "No total lot count is public. Announced project sizes only (not a total, and not all owned or closed): Havenwood, Foristell 854 lots (plan approved Sept 2026); former Jamestown Mall 700+ homes on 144.5 acres (master developer agreement Oct 2026); Highlands, Rolla 587 homesites (Jan 2025); Harvest, O'Fallon 896 homes (announced 2023, selling); Walnut Hills, Jefferson City 140 homesites; Progress Pointe, Ste. Genevieve 137 homes; Woods Mill Crossing, Town and Country 112 condominiums. The website lists 50+ locations."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-10-27",
+        "type": "Other",
+        "description": "Signed an agreement with the St. Louis County Port Authority to be master developer of the vacant 144.5-acre former Jamestown Mall site: 700+ homes plus about 11 acres of retail, built at roughly 70 homes a year over about eight years. Land price and funding structure are not stated.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-to-redevelop-former-jamestown-mall-site-into-new-mixed-use-community-in-north-st-louis-county",
+        "source_title": "McBride Homes press release: McBride Homes to Redevelop Former Jamestown Mall Site",
+        "note": ""
+      },
+      {
+        "date": "2026-11-04",
+        "type": "Other",
+        "description": "Broke ground on Progress Pointe (137 homes), its first Ste. Genevieve community. The city set up a $10 million bond initiative that pays for the subdivision's infrastructure and for repairs to existing city roads, cutting the developer's cost.",
+        "amount_usd_m": 10,
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-celebrates-groundbreaking-of-progress-pointe-in-ste-genevieve",
+        "source_title": "McBride Homes press release: McBride Homes Celebrates Groundbreaking of Progress Pointe in Ste. Genevieve",
+        "note": "The $10M is the city's bond programme, not McBride debt, and covers existing road repairs as well as the subdivision's infrastructure."
+      },
+      {
+        "date": "2026-09",
+        "type": "Other",
+        "description": "Foristell's Board of Aldermen approved McBride's revised Havenwood plan for 854 single-family lots, across Highway T from its Liberty community. Land price and financing are not public.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.stl.news/mcbride-plans-854-home-foristell-development/",
+        "source_title": "STL.News: McBride Plans 854-Home Foristell Development",
+        "note": "STL.News relays a St. Louis Business Journal report of 2026-09-30."
+      },
+      {
+        "date": "2026-09-08",
+        "type": "Other",
+        "description": "Announced it will buy the remaining homesites at Alder Creek, Wright City from Houston Homes (see M&A).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-will-acquire-alder-creek-manors-in-wright-city-from-houston-homes",
+        "source_title": "McBride Homes press release: McBride Homes Will Acquire Alder Creek Manors in Wright City from Houston Homes",
+        "note": ""
+      },
+      {
+        "date": "2026-11-05",
+        "type": "Other",
+        "description": "Broke ground on Walnut Hills (140 homesites), its first Jefferson City community; paving expected spring 2027 and first closings by end of 2027.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-celebrates-groundbreaking-of-first-jefferson-city-community",
+        "source_title": "McBride Homes press release: McBride Homes Celebrates Groundbreaking of First Jefferson City Community",
+        "note": ""
+      },
+      {
+        "date": "2025-01-27",
+        "type": "Other",
+        "description": "Entered Rolla (Phelps County) with Highlands, a 587-homesite master plan, its first community there.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/new-master-planned-community-coming-soon-to-rolla-mo",
+        "source_title": "McBride Homes press release: New Master Planned Community Coming Soon to Rolla, MO",
+        "note": ""
+      },
+      {
+        "date": "2024-12-12",
+        "type": "Other",
+        "description": "Bought 103 fully developed lots at Boulevard at Wilmer Valley, Wentzville from Payne Family Homes; price not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-acquires-103-lots-at-boulevard-at-wilmer-valley-in-wentzville",
+        "source_title": "McBride Homes press release: McBride Acquires 103 Lots at Boulevard at Wilmer Valley in Wentzville",
+        "note": "Earlier than 2025; kept as an example of finished-lot buying from another builder."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "J.H. Berra Construction (as Elite Development; also seen as McBride Berra Land Co)",
+        "description": "Land-development joint venture with the St. Louis site contractor J.H. Berra: the venture buys and develops ground and McBride builds on it. In Dec 2020 it closed on 10 acres in Affton for a 44-lot subdivision.",
+        "date": "2020-12",
+        "confidence": "Inferred",
+        "source_url": "https://callnewspapers.com/mcbride-buys-land-for-subdivision-in-affton/",
+        "source_title": "St. Louis Call Newspapers: McBride buys land for subdivision in Affton",
+        "note": "Only source opened is from Dec 2020. Search snippets of later St. Louis Business Journal items (via KSDK, pages blocked) show 'McBride Berra Land Co' and 'Elite Development' filing subdivision plans in Wildwood, Florissant and south St. Louis County, so the venture appears to continue, but its current status and terms are unconfirmed."
+      },
+      {
+        "partner": "St. Louis County Port Authority",
+        "description": "Master developer agreement (a public-private arrangement, not an equity joint venture) for the 144.5-acre former Jamestown Mall site: 700+ homes, about 11 acres of retail, 38+ acres of amenities.",
+        "date": "2026-10-27",
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-to-redevelop-former-jamestown-mall-site-into-new-mixed-use-community-in-north-st-louis-county",
+        "source_title": "McBride Homes press release: McBride Homes to Redevelop Former Jamestown Mall Site",
+        "note": ""
+      },
+      {
+        "partner": "City of Ste. Genevieve",
+        "description": "Public-private partnership for Progress Pointe (137 homes): the city funds subdivision infrastructure through a $10 million bond initiative; McBride builds and sells the homes.",
+        "date": "2026-11-04",
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-celebrates-groundbreaking-of-progress-pointe-in-ste-genevieve",
+        "source_title": "McBride Homes press release: McBride Homes Celebrates Groundbreaking of Progress Pointe in Ste. Genevieve",
+        "note": ""
+      },
+      {
+        "partner": "Dierbergs Markets",
+        "description": "McBride and the grocer Dierbergs together bought the 47-acre former Crestwood Mall site (closed 2022-01-26) and redeveloped it as Crestwood Crossing: homes by McBride, a grocery store and retail.",
+        "date": "2022-01-26",
+        "confidence": "Inferred",
+        "source_url": "https://rejournals.com/sansone-helps-close-deal-to-turn-former-mall-in-st-louis-market-into-mixed-use-development/",
+        "source_title": "REjournals: Sansone helps close deal to turn former mall in St. Louis market into mixed-use development",
+        "note": "Source is from Jan 2022. McBride's Oct 2026 Jamestown release still cites Crestwood Crossing as its own redevelopment, but Dierbergs' continuing ownership role is not confirmed by a newer source."
+      },
+      {
+        "partner": "Fischer & Frichtel; Consort Homes",
+        "description": "Three-builder joint venture for the master-planned Reserve at Lakeview Farms in St. Charles; McBride took 35 homesites in phase 1.",
+        "date": "2022-02-24",
+        "confidence": "Inferred",
+        "source_url": "https://www.mcbridehomes.com/blog/new-community-in-st-charles-off-towers-road-set-to-open-in-march",
+        "source_title": "McBride Homes press release: New Community in St. Charles off Towers Road Set to Open in March",
+        "note": "Company release from Feb 2022; shown as evidence that McBride shares land with other local builders. Current status of the venture is not confirmed."
+      },
+      {
+        "partner": "Golden Oak Lending",
+        "description": "Joint-venture mortgage company, HomeKey Mortgage, LLC, formed May 2023 to finance McBride's buyers. This is homebuyer mortgage lending, not land or corporate finance.",
+        "date": "2023-05-01",
+        "confidence": "Verified",
+        "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-and-golden-oak-lending-announce-joint-venture-mortgage-company",
+        "source_title": "McBride Homes press release: McBride Homes and Golden Oak Lending Announce Joint Venture Mortgage Company",
+        "note": "The live financing page (retrieved 2026-11-19) still names HomeKey Mortgage as McBride's preferred lender."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.mcbridehomes.com/history",
+      "source_title": "McBride Homes: History page"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-09-08",
+      "role": "Acquirer",
+      "counterparty": "Houston Homes",
+      "description": "McBride announced it will acquire the remaining homesites at Alder Creek in Wright City (Warren County) from the local builder Houston Homes and finish the community; grand opening was set for 2026-09-26. This is a purchase of lots in one community, not of the company. Price and lot count are not disclosed.",
+      "status": "Announced",
+      "after_ranking": true,
+      "map_impact": "Small: adds one Warren County community and its lots to McBride's pipeline; no change to people or rank. It is the second time since late 2024 that McBride has bought remaining lots from another local builder (Payne Family Homes lots in Dec 2024).",
+      "confidence": "Verified",
+      "source_url": "https://www.mcbridehomes.com/blog/mcbride-homes-will-acquire-alder-creek-manors-in-wright-city-from-houston-homes",
+      "source_title": "McBride Homes press release: McBride Homes Will Acquire Alder Creek Manors in Wright City from Houston Homes",
+      "note": "Closing not confirmed in a source opened."
+    }
+  ],
+  "gaps": [
+    "Credit facility, lenders, facility size and maturity: not publicly disclosed (private company; no lender is named in any release or article opened)",
+    "Total debt, cash, liquidity, leverage, credit ratings: not publicly disclosed",
+    "Lots owned versus optioned, total lots controlled, years of supply: not publicly disclosed; only individual project sizes are announced",
+    "Land banker, lot-option financier or outside capital partner: none publicly named",
+    "Link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found in the sources opened; an early search on land banking and lot options returned nothing, and the name-by-name search could not be run because the swarm's shared web-search allowance ran out",
+    "Current status, ownership split and financing of the J.H. Berra venture (Elite Development / McBride Berra Land Co): not publicly disclosed; newer St. Louis Business Journal coverage was seen only as search snippets (pages blocked)",
+    "Prices for the Jamestown Mall site, Havenwood land, the Payne Family Homes lots and the Houston Homes lots: not publicly disclosed",
+    "Corporate M&A in 2025-2026: none found; the only deal is the Alder Creek lot purchase. McBride has not been reported as a buyer or target of a company-level deal in the sources opened",
+    "Mentions of McBride in other companies' SEC filings: not checked; McBride itself is not an SEC filer as far as the sources read show",
+    "Fiscal year end: not publicly disclosed"
+  ],
+  "sources_consulted": [
+    "https://www.mcbridehomes.com/blog/mcbride-homes-to-redevelop-former-jamestown-mall-site-into-new-mixed-use-community-in-north-st-louis-county",
+    "https://www.mcbridehomes.com/blog/mcbride-homes-celebrates-groundbreaking-of-progress-pointe-in-ste-genevieve",
+    "https://www.mcbridehomes.com/blog/mcbride-homes-announces-progress-pointe-in-ste-genevieve",
+    "https://www.mcbridehomes.com/blog/mcbride-homes-celebrates-groundbreaking-of-first-jefferson-city-community",
+    "https://www.mcbridehomes.com/blog/mcbride-homes-will-acquire-alder-creek-manors-in-wright-city-from-houston-homes",
+    "https://www.mcbridehomes.com/blog/mcbride-acquires-103-lots-at-boulevard-at-wilmer-valley-in-wentzville",
+    "https://www.mcbridehomes.com/blog/new-master-planned-community-coming-soon-to-rolla-mo",
+    "https://www.mcbridehomes.com/blog/groundbreaking-ceremony-marks-new-era-at-woods-mill-crossing-in-town-and-country",
+    "https://www.mcbridehomes.com/blog/mcbride-announces-harvest-new-homes-in-ofallon-off-highway-n-and-hopewell-road",
+    "https://www.mcbridehomes.com/blog/new-community-in-st-charles-off-towers-road-set-to-open-in-march",
+    "https://www.mcbridehomes.com/blog/mcbride-homes-and-golden-oak-lending-announce-joint-venture-mortgage-company",
+    "https://www.mcbridehomes.com/financing",
+    "https://www.mcbridehomes.com/history",
+    "https://www.stl.news/mcbride-plans-854-home-foristell-development/",
+    "https://www.newstribune.com/news/2026/nov/06/walnut-hills-housing-project-breaks-ground/",
+    "https://callnewspapers.com/mcbride-buys-land-for-subdivision-in-affton/",
+    "https://rejournals.com/sansone-helps-close-deal-to-turn-former-mall-in-st-louis-market-into-mixed-use-development/",
+    "https://sbj.net/stories/stl-homebuilder-buys-former-high-school-property-for-subdivision,77633",
+    "https://hillikercorp.com/?p=10770",
+    "https://pac.org/job/legislative-public-policy-director",
+    "https://www.jhberra.com/about/"
+  ]
+}

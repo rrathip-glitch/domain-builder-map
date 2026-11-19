@@ -1,0 +1,163 @@
+{
+  "builder_id": "neal-communities",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Neal Communities is a conventional for-sale homebuilder, privately owned by founder Pat Neal, and it publishes no financial statements, lot counts, lenders or facilities. What is public points to a self-funded, land-heavy model: the company says it purchases the land it develops, a 2024 Business Observer profile credits it with an aversion to debt, and in November 2025 Pat Neal said he is holding cash to buy land and expects to go further into the land business as other builders give up positions. Infrastructure is financed where possible through special district (CDD / stewardship district) municipal bonds, which he has said cost less than bank development loans, and raw land is typically tied up under long contracts with the sellers and closed only once permits are in hand (the $34.1M, 788-acre Alva purchase closed in August 2026 after about four years). No land banker, lot-option financier or outside capital partner is named anywhere public. As a land-banking customer it is plausible but not an obvious one: the owner prefers to own land and has cash, yet 2025 revenue fell about 27% to roughly $586M, he rated 2025 margins 3 out of 10, a new president arrived around August 2026, and large new positions (Alva, Boca Royale at Wellen Park, Kingston, Burnt Store Road) all need development capital.",
+    "land_strategy": "Owns and develops most of its own land, by choice. Company wording: 'we purchase the land we develop, build and sell the homes'. Founder's framing (November 2025): 'I'm a land guy', holding cash to buy land, will 'go more in the land business', and notes that the stock market penalises public builders for holding land. It also builds inside third-party master plans (Lakewood Ranch, Wellen Park, Kingston by Cameratta Companies) and in North River Ranch, developed by the family affiliate Neal Land & Neighborhoods. No stated owned/optioned target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "https://nealcommunities.com/neal-communities-zeroes-in-on-a-big-annual-revenue-figure-1-billion/",
+      "source_title": "Business Observer profile (April 2024) reposted on the Neal Communities site",
+      "note": "No lot count is public. Indicators only: in April 2024 the company had 18 selling communities, 4 under construction and 8 in entitlements. Named pipeline since then: Alva (788 acres bought August 2026, entitled for up to 1,099 homes, plus about 200 adjacent acres at Owl Creek); Boca Royale Golf & Country Club at Wellen Park (825 homes on about 500 acres by end of 2029); a share of the 3,625-home Kingston South in Estero; Palm Grove in Lakewood Ranch (900 homes); and 1,316 homes planned in Charlotte County's Burnt Store Road corridor (Gulfshore Business, March 2026). Closings were 902 in 2025 per the Builder 100 (spine)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Neal Land & Neighborhoods",
+        "counterparty_type": "Affiliate",
+        "description": "Separate Neal family company run by John Neal (Pat Neal's son): a master-planned community developer whose flagship North River Ranch in Parrish is approved for 6,000 residences. It partners with Neal Communities on some projects (Neal Communities sells homes at Wildleaf at North River Ranch) and sells land to other builders; it is a family source of developed land rather than a land banker.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-05",
+        "confidence": "Reported",
+        "source_url": "https://www.businessobserverfl.com/news/2026/may/18/explore-del-webb-north-river-ranch-sales-start/",
+        "source_title": "Business Observer: After nearly $39M land deal, Parrish residential project begins selling homes",
+        "note": "The partnership with Neal Communities is described in the April 2024 Business Observer profile (https://nealcommunities.com/neal-communities-zeroes-in-on-a-big-annual-revenue-figure-1-billion/). Terms between the two family companies (purchase, option or takedown) are not public. Checker 2026-11-19: neither cited source ties Wildleaf to North River Ranch; the 2024 profile states the partnership only in general terms."
+      },
+      {
+        "counterparty": "Cameratta Companies",
+        "counterparty_type": "Developer",
+        "description": "Master developer of Kingston in Estero (more than 7,700 acres, approved for up to 10,000 homes). Neal Communities is one of three builders, with Pulte and Lennar, in the 3,625-home Kingston South neighbourhood, where it is building six models and selling villas and single-family homes; grand opening was 17 October 2026.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://nealcommunities.com/kingston-community-in-estero-features-four-quality-builders-impressive-amenities/",
+        "source_title": "Neal Communities release: Kingston Community in Estero Features Four Quality Builders",
+        "note": "Neal's lot count and whether it bought its Kingston South land outright or takes lots down over time are not disclosed. Florida Weekly (October 2026) describes Kingston as developed by 'Cameratta Companies and Neal Communities'; Gulfshore Business describes Neal as a participating Phase 1 builder."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-10-27",
+        "type": "Other",
+        "description": "Announced 825 more homes on about 500 acres at Boca Royale Golf & Country Club at Wellen Park (south Sarasota County) by the end of 2029, after the final sale in the original 1,151-home Boca Royale; the article gives 2025 revenue of $586.33M, down 26.72% from $800.17M in 2024.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.businessobserverfl.com/news/2026/oct/27/neal-south-sarasota-county/",
+        "source_title": "Business Observer: Builder plans 825-home community in south Sarasota County",
+        "note": "A multi-year development commitment on land the company already controls (it bought Boca Royale in 2011-2012)."
+      },
+      {
+        "date": "2026-08-07",
+        "type": "Other",
+        "description": "Bought 788 acres in Alva (Lee County) for $34.1M in two back-to-back deeds from the Cary-Duke and Povia-Flint families. The land was rezoned in March 2025 for up to 1,099 homes; Pat Neal said the deal took about four years and he could not close until all permits were in hand, with about $1.2M spent on permitting. Groundbreaking targeted January 2027, first homes March 2028.",
+        "amount_usd_m": 34.1,
+        "confidence": "Reported",
+        "source_url": "https://www.gulfshorebusiness.com/real_estate/neal-communities-buys-788-acres-in-alva-for-341-million/article_904404f9-445e-40bb-a16c-924376289c88.html",
+        "source_title": "Gulfshore Business: Neal Communities buys 788 acres in Alva for $34.1 million",
+        "note": "How the purchase was funded (cash or loan) is not stated. The structure, a long contract with the landowners closed after entitlement, is the company's substitute for a land bank."
+      },
+      {
+        "date": "2025-11-21",
+        "type": "Other",
+        "description": "On a Business Observer panel Pat Neal said he is holding cash to buy land, expects some builders to give up land positions, and will go further into the land business; he also said 2025 sales would miss the 1,000-home plan by about 50 and rated margins 3 out of 10.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.businessobserverfl.com/news/2025/nov/28/area-homebuilders-seize-opportunities/",
+        "source_title": "Business Observer: Area's biggest homebuilders to seize opportunities in 2026 after rocky '25",
+        "note": "Panel held 21 November 2025, published 28 November 2025. Signals a buyer of distressed land positions rather than a seller."
+      },
+      {
+        "date": "2025-05-02",
+        "type": "Other",
+        "description": "Pat Neal told Suncoast Searchlight that special district municipal bonds (high-5% to low-6% range) are cheaper than traditional bank infrastructure loans, which he put at about 10% citing Bank of America's current terms; the article describes him as involved in several special districts.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://suncoastsearchlight.org/developers-cdd-special-district-bonds-sarasota-manatee/",
+        "source_title": "Suncoast Searchlight: Power and profit: Developers gained government status, then got bonds to build big",
+        "note": "Bank of America is cited by him as a pricing reference; the article does not say it is Neal's lender."
+      },
+      {
+        "date": "2025-02",
+        "type": "Other",
+        "description": "Family affiliate Neal Land & Neighborhoods sold a 400-plus acre North River Ranch site to PulteGroup's Del Webb for $38.7M, its largest land sale to date (901-home Explore by Del Webb community).",
+        "amount_usd_m": 38.7,
+        "confidence": "Reported",
+        "source_url": "https://www.businessobserverfl.com/news/2026/may/18/explore-del-webb-north-river-ranch-sales-start/",
+        "source_title": "Business Observer: After nearly $39M land deal, Parrish residential project begins selling homes",
+        "note": "Affiliate transaction, not Neal Communities itself; shows the family also acts as a land seller to public builders."
+      },
+      {
+        "date": "2023-10-27",
+        "type": "Other",
+        "description": "A proposed Duke Farm Stewardship District in Alva, sought for Neal Communities and the landowners as an infrastructure financing vehicle, went to the Lee County legislative delegation; the article says Neal had bought 344 acres there for $5.5M in May 2023 through Takoda Land Group LLC.",
+        "amount_usd_m": 5.5,
+        "confidence": "Reported",
+        "source_url": "https://www.gulfshorebusiness.com/construction-development/spencer-roach-seeks-special-district-for-neal-communities-judge-cary-s-alva-development/article_453bee01-981b-5ff3-9b93-4321666acf4c.html",
+        "source_title": "Gulfshore Business: Spencer Roach seeks special district for Neal Communities, Judge Cary's Alva development",
+        "note": "Background (outside the 2025-2026 window). Whether the district was finally created was not confirmed in this run; a later Gulfshore headline says lawmakers delayed the vote. The August 2026 Gulfshore article instead describes the adjacent 2023 purchase as about 200 acres at Owl Creek bought from D.R. Horton; the two accounts differ on acreage."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "https://www.businessobserverfl.com/news/2026/oct/27/neal-south-sarasota-county/",
+      "source_title": "Business Observer: Builder plans 825-home community in south Sarasota County"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lots owned / optioned / total controlled and years of supply: not publicly disclosed (private company).",
+    "Credit facility, lenders, land or construction loans, total debt, cash and liquidity: not publicly disclosed. The only bank named in connection with Neal is Bank of America, cited by Pat Neal as a pricing reference for infrastructure loans, not confirmed as a lender.",
+    "Land banker, lot-option financier or outside capital partner: none publicly named. No public link found to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon.",
+    "Special district bonds: Pat Neal is described as involved in several special districts, but the specific districts, bond series and amounts tied to Neal Communities projects were not compiled in this run.",
+    "Joint ventures: none publicly documented. The Kingston relationship with Cameratta Companies is recorded under land_banking as a developer relationship because its terms are not public.",
+    "M&A 2025-2026: none found for Neal Communities as acquirer or target. The last known acquisition was truss maker HITEK in February 2022 (outside the window; https://nealcommunities.com/neal-communities-acquires-hitek-truss-company/).",
+    "Ownership detail and succession: Pat Neal is described as owner; family stakes, any trust structure and a succession plan are not public. Forbes coverage of his net worth (May 2025) was blocked to this run and is not used.",
+    "Funding of the $34.1M Alva purchase (cash or debt): not stated.",
+    "A February 2024 Multifamily Housing News headline says Neal Communities sold a 172-unit build-to-rent asset; the article would not load, so it is not recorded as a fact.",
+    "Revenue figures differ slightly by source for 2024: $800.17M (Business Observer Big Book, October 2026), $787.7M (Business Observer panel box, November 2025), and $800M with 811 Tampa Bay area closings (company post citing the Tampa Bay Business Journal).",
+    "SEC EDGAR: full-text and company search returned Forbidden / the automated-tool block in this run; no SEC filer or public debt for Neal Communities is known, and nothing here relies on EDGAR."
+  ],
+  "sources_consulted": [
+    "https://nealcommunities.com/about-neal/",
+    "https://nealcommunities.com/neal-communities-zeroes-in-on-a-big-annual-revenue-figure-1-billion/",
+    "https://www.businessobserverfl.com/news/2025/nov/28/area-homebuilders-seize-opportunities/",
+    "https://www.businessobserverfl.com/news/2026/oct/27/neal-south-sarasota-county/",
+    "https://www.businessobserverfl.com/news/2026/may/18/explore-del-webb-north-river-ranch-sales-start/",
+    "https://www.gulfshorebusiness.com/real_estate/neal-communities-buys-788-acres-in-alva-for-341-million/article_904404f9-445e-40bb-a16c-924376289c88.html",
+    "https://www.gulfshorebusiness.com/construction-development/spencer-roach-seeks-special-district-for-neal-communities-judge-cary-s-alva-development/article_453bee01-981b-5ff3-9b93-4321666acf4c.html",
+    "https://www.gulfshorebusiness.com/real_estate/understanding-southwest-floridas-housing-market-correction/article_6a18752f-60df-4a48-9b74-75ae90b95731.html",
+    "https://www.gulfshorebusiness.com/development/work-begins-on-kingston-a-11-000-home-lee-county-project/article_9c2938a5-f840-4db5-8bef-a9dc2d6ccd97.html",
+    "https://suncoastsearchlight.org/developers-cdd-special-district-bonds-sarasota-manatee/",
+    "https://nealcommunities.com/kingston-community-in-estero-features-four-quality-builders-impressive-amenities/",
+    "https://www.floridaweekly.com/arts-entertainment/kingston-south-grand-opening-event-celebrates-new-community/article_ab817479-2af6-48c4-9ef5-9b07722c9600.html",
+    "https://nealcommunities.com/neal-communities-in-the-2025-tampa-bay-rankings-what-it-means-for-homebuyers-and-our-region/",
+    "https://nealcommunities.com/neal-communities-acquires-hitek-truss-company/",
+    "https://www.gulfshorebusiness.com/development/cameratta-closes-92-8m-land-deal-for-kingston-project-in-lee-county/article_393b9fe5-063b-5fef-9dd4-6bcea14c7777.html",
+    "https://www.gulfshorebusiness.com/gb-daily/kingston-model-homes-take-shape-ahead-of-october-opening/article_4f951dba-ab85-4b35-9883-bc101f94e069.html",
+    "https://www.gulfshorebusiness.com/featured/neal-communities-receives-rezoning-to-build-1-099-homes-in-alva/article_6fae6377-bac0-5789-b755-01666802c4fd.html",
+    "https://www.businessobserverfl.com/news/2026/apr/17/lakewood-ranch-builder-march-sales-boost/",
+    "https://www.businessobserverfl.com/news/2025/aug/20/builder-pat-neal-developers-must-help-infrastructure/",
+    "https://nealcommunities.com/palm-grove-amenities-open/",
+    "https://nealcommunities.com/strong-sales-in-third-quarter/",
+    "https://nealcommunities.com/boca-royale-golf-and-country-club-to-transition-to-private-club/",
+    "https://www.forbes.com/profile/pat-neal/"
+  ]
+}

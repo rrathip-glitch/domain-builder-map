@@ -1,0 +1,56 @@
+{
+  "builder_id": "lombardo-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Lombardo Homes is a conventional for-sale homebuilder, privately owned by the Lombardo family, with no public debt and no public financial statements; no lender, credit facility, land banker, lot-option partner or outside investor is named in any source opened in this run. The company presents itself as a self-performing land developer: it buys and develops land, sells lots to other builders and also buys finished lots from other developers, which points to family equity and (undisclosed) bank debt carrying the land rather than a land-bank programme. The family also owns an apartment business and a custom-home brand run from the same Shelby Township office, so the group has assets beyond homebuilding. It is a plausible land-banking customer (roughly 700 closings a year across Southeast Michigan, St. Louis and Columbia, with raw land held through entitlement), but nothing public shows it has used one, and the decision would rest with the family owners.",
+    "land_strategy": "Owns and develops its own land, by its own description: operations span land acquisition, land development, lot sales to other builders and purchases of developed lots from other developers. No land-light target or owned-versus-optioned split is published. A local news item seen only in search results describes a Macomb Township rezoning petition for land it expects to start developing around 2028, which, if accurate, means it carries raw land for years through entitlement.",
+    "lots": {
+      "total_controlled": null, "owned": null, "optioned": null, "pct_optioned": null, "years_supply": null,
+      "as_of": "",
+      "confidence": "Verified",
+      "source_url": "https://lombardohomes.com/about-us",
+      "source_title": "Lombardo Homes: About Us",
+      "note": "No lot counts are published. Only public scale indicators: the company site advertises 50+ communities, and its sitemap on 2026-11-19 listed 29 Michigan and 27 Missouri community pages (these include build-on-your-lot listings, so they are not a count of land positions). The About page says the St. Louis division builds more than 160 homes a year."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null, "cash_usd_m": null, "liquidity_usd_m": null, "net_debt_to_capital_pct": null,
+      "credit_ratings": "", "fiscal_year_end": "", "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://lombardohomes.com/about-us",
+      "source_title": "Lombardo Homes: About Us"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lots owned / optioned / controlled: not publicly disclosed (private company).",
+    "Lenders, credit facilities, construction or land loans: not publicly disclosed. No lender is named on the company sites or in the press opened.",
+    "Land banker, lot-option partner or outside capital partner: none publicly disclosed. No public link found to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon.",
+    "Joint ventures: none confirmed. A St. Louis Business Journal item carried by KSDK (seen only in search results; the page returned 403) says Lombardo Homes, McKelvey Homes and Payne Family Homes broke ground together on a 253-home development in St. Charles, MO; the date, the developer and whether this is a joint venture or simply shared lot purchases could not be read, so it is not recorded as a row.",
+    "Unconfirmed land-pipeline lead: C&G Newspapers (search snippet only; page returned 404) reports a rezoning of 22550 and 22600 24 Mile Road, Macomb Township, from agricultural to R-1 for a Lombardo Homes single-family project, with development expected around 2028.",
+    "M&A 2025-2026: none found. Growth appears organic (St. Louis entered 2011, Columbia 2020, Lake of the Ozarks build-on-your-lot more recently, all per company pages or a May 2025 article). The shared web-search allowance for this run was used up before dedicated acquisition, lender and land-bank searches could be completed, so absence here is not proof of absence.",
+    "Revenue, debt, cash and leverage: not publicly disclosed beyond the Builder 100 ranking figures held in the spine.",
+    "SEC EDGAR full-text search for the company name returned 403 in this run, so mentions in other companies' filings (for example a lender or land seller) were not checked.",
+    "Crain's Detroit Business and St. Louis Business Journal coverage (paywalled or blocked) could not be opened."
+  ],
+  "sources_consulted": [
+    "https://lombardohomes.com/about-us",
+    "https://lombardohomes.com/careers",
+    "https://lombardohomes.com/sitemap.xml",
+    "https://lombardohomes.com/on-your-lot/lake-of-the-ozarks",
+    "https://lombardohomes.com/co-market-land-listings",
+    "https://lombardoapartments.com/",
+    "https://lombardoapartments.com/values/",
+    "https://www.cranbrookcustomhomes.com/",
+    "https://citylifestyle.com/articles/introducing-lombardo-homes",
+    "https://citylifestyle.com/articles/making-dream-homes-reality",
+    "https://www.dbusiness.com/from-the-top-lists/top-20-home-builders-in-metro-detroit-2022/",
+    "https://altswire.com/walton-global-adds-525-builder-direct-lots-in-three-states/",
+    "https://walton.com/walton-global-strengthens-land-portfolio-with-acquisitions-across-key-southern-growth-regions/"
+  ]
+}

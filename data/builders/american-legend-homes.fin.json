@@ -1,0 +1,108 @@
+{
+  "builder_id": "american-legend-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Private, family- and employee-owned builder (Bright Industries family; ESOP since 2017) with no SEC filings and no public debt, so its credit lines, lenders and lot counts are not public. Its model is to buy developer-finished lots in third-party master-planned communities in DFW and on the Colorado Front Range (Hillwood, at Treeline, is the named developer partner), plus lots in the family's own Castle Hills (Bright Realty). There is no public land-banking or lot-option partner and no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon. The parent's balance sheet (Bright Industries, a diversified real-estate and energy family company) is the most likely funding backstop, which may reduce the need for outside land capital; equally, a builder of about 600 closings a year that buys finished lots from developers on takedown schedules is a natural lot-option prospect. The one land decision-maker is Forrest Hartley.",
+    "land_strategy": "Buys finished homesites in master-planned communities from outside developers; the company credits long-standing developer relationships and fast response to new opportunities for its growth (CEO Kevin Egan, Dec 2022). No owned-versus-optioned target is published. Also builds in Castle Hills, developed by affiliate Bright Realty.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?company=american+legend+homes&action=getcompany",
+      "source_title": "SEC EDGAR company search: no matching companies",
+      "note": "Private company with no SEC filings; lot counts not publicly disclosed."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Bright Realty, LLC (Castle Hills)",
+        "counterparty_type": "Affiliate",
+        "description": "Sister company under Bright Industries that developed the 2,900-acre Castle Hills master plan in Lewisville; ALH is building townhomes in Castle Hills Northpointe, described as the community's final phase. A captive lot source, terms not public.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://www.amlegendhomes.com/blog/the-dfw-financial-unicorn-why-savvy-urbanists-are-flocking-to-the-final-phase-of-castle-hills",
+        "source_title": "The DFW Financial Unicorn: ... Final Phase of Castle Hills (company blog, 2026-11-19)",
+        "note": "Bright Realty describes Castle Hills on https://www.brightrealty.com/about. Not a land-banking arrangement; recorded as the affiliate lot source."
+      },
+      {
+        "counterparty": "Hillwood Communities",
+        "counterparty_type": "Developer",
+        "description": "Lot seller in Treeline (Justin, TX); ALH says it builds in several Hillwood communities, naming Treeline. The same post names Ramble (Celina) and Landmark (Denton) as upcoming Hillwood communities but does not say ALH builds there.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-05",
+        "confidence": "Verified",
+        "source_url": "https://www.amlegendhomes.com/blog/celebrating-success-treeline-developer-hillwood-communities-shines-in-2025",
+        "source_title": "Celebrating Success: Treeline Developer Hillwood Communities Shines in 2025 (company blog, 2025-05-29)",
+        "note": "Developer lot-purchase relationship, not a land bank; lot counts and takedown terms not public."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2017",
+        "type": "Equity",
+        "description": "Established an Employee Stock Ownership Plan (ESOP); the company now calls itself family and employee owned.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.amlegendhomes.com/blog/twenty-years-of-building-dream-homes-a-journey-worth-celebrating",
+        "source_title": "Twenty Years of Building Dream Homes (company blog, 2023-08-22)",
+        "note": "ESOP size and any ESOP-related debt not disclosed."
+      },
+      {
+        "date": "2026-04",
+        "type": "Other",
+        "description": "Supreme Lending became the preferred mortgage lender in Texas from April 2026 (buyer mortgages, not company finance).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.amlegendhomes.com/blog/welcoming-our-new-texas-preferred-lender-supreme-lending",
+        "source_title": "Welcoming Our New Texas Preferred Lender: Supreme Lending (company blog, 2026-04-02)",
+        "note": "Earlier preferred lender was Academy Mortgage. Shows no captive mortgage company."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?company=american+legend+homes&action=getcompany",
+      "source_title": "SEC EDGAR company search: no matching companies"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, construction lenders and land loans: not publicly disclosed (private, no SEC filings, no public debt)",
+    "Owned vs optioned lots, total lots controlled, years of supply: not publicly disclosed",
+    "Land-banking or lot-option partners: none publicly disclosed; no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon found",
+    "Parent (Bright Industries) funding of ALH land: not publicly disclosed; Bright Realty's own site quotes a First United Bank & Trust officer as a banking relationship of Bright Realty (https://www.brightrealty.com/team), not shown to lend to ALH",
+    "Joint ventures: none publicly disclosed",
+    "M&A 2025-2026: none found (company blog through 2026-11-19 and search showed no acquisition or sale)",
+    "Revenue and closings: per Builder 100 spine only; company last self-reported 'more than 950 closings and more than $600M' in Dec 2022"
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/cgi-bin/browse-edgar?company=american+legend+homes&action=getcompany",
+    "https://www.amlegendhomes.com/blog/american-legend-homes-announces-new-ceo-and-leadership-team",
+    "https://www.amlegendhomes.com/blog/twenty-years-of-building-dream-homes-a-journey-worth-celebrating",
+    "https://www.amlegendhomes.com/blog/celebrating-success-treeline-developer-hillwood-communities-shines-in-2025",
+    "https://www.amlegendhomes.com/blog/the-dfw-financial-unicorn-why-savvy-urbanists-are-flocking-to-the-final-phase-of-castle-hills",
+    "https://www.amlegendhomes.com/blog/welcoming-our-new-texas-preferred-lender-supreme-lending",
+    "https://www.amlegendhomes.com/blog/introducing-our-newest-alh-community-ramble",
+    "https://www.amlegendhomes.com/about-us",
+    "https://www.brightrealty.com/about",
+    "https://www.brightrealty.com/team",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32035740177",
+    "https://comptroller.texas.gov/taxes/franchise/account-status/search/32046125467"
+  ]
+}

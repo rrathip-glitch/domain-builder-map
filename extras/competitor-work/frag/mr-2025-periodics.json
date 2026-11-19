@@ -1,0 +1,907 @@
+{
+ "agent": "mr-2025-periodics",
+ "summary": "In calendar 2025 Millrose took the share of its invested capital outside the Lennar Master Program Agreement from zero at the Feb 2025 spin to about 28% ($2.37B of $8.47B) by year end, funding $2.6B under Other Agreements against a target raised three times ($1.0B, $1.5B, $2.2B). The price gap is the headline: Lennar paid a weighted-average 8.5% all year while Other Agreements earned 11.7%, 11.4%, 11.3% and 11.0% at successive quarter ends, so the premium over Lennar narrowed from about 320 bps to about 250 bps as volume scaled; Millrose says only that newer counterparties generally pay more than Lennar, and Lennar holds a most-favoured-rate right on future assets. The Other Agreements bucket is less third-party than it looks: it includes Lennar Related Ventures and about $330M of 12% development loans, and truly independent counterparties produced only $69.4M (12%) of 2025 option fees. Only two non-Lennar builders are named in the 2025 filings, New Home Co (Landsea, $494.5M for 4,186 homesites with a deposit of about 5.4%) and Taylor Morrison's Yardly build-to-rent program via Kennedy Lewis; the other counterparties (12 in total at Sep 30, 15 at Dec 31 with 9 in the top 25) are not named. Structurally, 96% of the investment balance sits in cross-termination pools, non-Lennar deals run shorter (2.0 years remaining life vs 3.3 for Lennar), and 2026 growth (up to $2B net new) is capped by a 33% debt-to-capital ceiling and a promise not to issue equity below book.",
+ "facts": [
+  {
+   "topic": "Portfolio",
+   "fact": "At 2025-03-31 Millrose reported total assets of $7,152.4M and homesite inventory and other related assets of $6,998.9M, covering about 111,000 homesites in 876 communities across 29 states. Builder deposits were $684.6M and stockholders' equity $5,875.9M (book value $35.40 per share).",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Q1 2025 (Feb 7 spin-off to Mar 31): Lennar homesite inventory balance was $6.6B; Millrose received $645M of net cash proceeds from homesite sales to Lennar and funded $635M of new Lennar land acquisitions and development. Outside Lennar it deployed $351M.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Rausch Coleman: on 2025-02-10, three days after the spin-off, Millrose bought 100% of RCH Holdings (parent of Rausch Coleman Companies), about 25,000 homesites, for about $859M in cash net of Lennar-funded option deposits and holdbacks, and simultaneously optioned the homesites back to Lennar. Recorded land was $1,158.3M including $90.3M of option deposits, a $100.0M development guarantee holdback owed to Rausch and a $116.7M deferred tax liability.",
+   "as_of": "2025-02-10",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+   "source_title": "Millrose FY2025 10-K, Note 3 Spin-Off and Other Significant Business Transactions"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "At 2025-03-31 the weighted-average yield was 8.5% on Lennar investments and 11.7% on third-party (Other Agreements) investments, 8.7% for the total portfolio. New Lennar land acquisitions in Q1 2025 carried a weighted-average option rate of 8.7% under the Lennar Master Program Agreement.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Q1 2025 (partial quarter from the Feb 7, 2025 spin-off): option fee revenues and other related income $82.7M; GAAP net income $39.8M; net income attributable to common shareholders after adding back $25.0M of pre-spin expenses $64.8M ($0.39 per share on 166.0M shares). Management fee expense $12.1M. AFFO was not yet reported.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "First dividend: $0.38 per share ($63.1M) declared 2025-03-17, paid 2025-04-15, covering the stub period from Feb 7 to Mar 31, 2025; Millrose described this as equivalent to $0.65 per share for a full quarter.",
+   "as_of": "2025-03-17",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "In the Q1 2025 release (2025-05-14) Millrose raised its full-year 2025 target for new transaction funding outside the Lennar Master Program Agreement to $1.5B from $1.0B, and raised its year-end quarterly earnings run-rate guidance to $0.69-$0.71 per share. It said it had executed programmatic (forward-flow) commitments with five other homebuilders, none named.",
+   "as_of": "2025-05-14",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "On 2025-05-12 Millrose announced a $700M commitment to New Home Company (owned by Apollo-affiliated funds) to support its acquisition of Landsea Homes, expected to close in Q3 2025 alongside the acquisition.",
+   "as_of": "2025-05-12",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "At 2025-03-31 Millrose had $350M of debt (about 5% debt-to-capitalization), $1.1B of liquidity and a $1.3B revolver; it states a maximum debt-to-capitalization of 33%. After quarter end it obtained a $1B delayed-draw term loan commitment from Goldman Sachs and JPMorgan.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+   "source_title": "Millrose Q1 2025 earnings release (8-K Ex. 99.1, filed 2025-05-14)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "At 2025-06-30 total assets were $7,973.6M and homesite inventory and other related assets $7,845.2M, of which $6,591.3M under the Lennar Master Program Agreement and $1,253.9M under Other Agreements; about 129,000 homesites in about 1,000 communities across 29 states. Builder deposits $799.6M.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Invested capital (inventory net of deposits and holdbacks, non-GAAP) at 2025-06-30: Lennar $6,274.8M, Other Agreements $1,134.0M, total $7,408.8M; at 2025-03-31: Lennar $6,363.3M, Other $349.6M, total $6,712.9M.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Q2 2025 capital flows per the invested-capital reconciliation: land acquisition and development funding $717.8M Lennar and $812.6M Other Agreements ($1,530.4M total); takedown proceeds $806.4M Lennar and $28.2M Other ($834.6M total). The release text quotes net cash proceeds from homesite sales of $797M in total and $768M from Lennar.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "At 2025-06-30 weighted-average yield was 8.5% on Lennar invested capital and 11.4% on Other Agreements, 8.9% for the total portfolio (up 20 bps from Q1). The $813M funded under Other Agreements during Q2 carried a weighted-average 11.2% yield; new Lennar acquisitions carried an 8.6% option rate.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Q2 2025 (first full quarter): option fee revenues and other related income $149.0M; net income $112.8M ($0.68 per share); AFFO $115.0M ($0.69 per share); management fee expense $22.0M; interest expense $10.3M. Dividend of $0.69 per share ($114.5M) declared 2025-06-16, paid 2025-07-15.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Q2 2025: Millrose closed an approximately $500M (net of deposits) land-banking investment with The New Home Company tied to its acquisition of Landsea Homes, with option agreements on the acquired homesites. It also said the majority of a $3B land and construction financing facility that an affiliate of its manager (Kennedy Lewis) announced for Taylor Morrison's Yardly build-to-rent platform is expected to be allocated to Millrose.",
+   "as_of": "2025-07-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "In the Q2 2025 release (2025-07-31) Millrose raised year-end AFFO run-rate guidance to $0.70-$0.73 per share per quarter and said about $200M more had been deployed outside the Lennar Master Program Agreement since quarter end.",
+   "as_of": "2025-07-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "At 2025-06-30 debt was $1.0B (about 15% debt-to-capitalization) with $1.4B of liquidity; the $1B delayed-draw term loan with Goldman Sachs and JPMorgan closed in Q2 2025.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q2 2025 earnings release (8-K Ex. 99.1, filed 2025-07-31)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "At 2025-09-30 total assets were $9,023.7M; homesite inventory $8,360.4M ($6,656.1M Lennar Master Program Agreement, $1,704.3M Other Agreements) plus $340.4M of development loan receivables; about 139,000 homesites across 876 communities in 30 states (the Q4 release later cites 880 communities for this date). Builder deposits $874.3M.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2025 earnings release (8-K Ex. 99.1, filed 2025-10-23)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Invested capital at 2025-09-30: Lennar $6,335.9M, Other Agreements $1,817.6M, total $8,153.4M. Q3 2025 funding was $858.3M Lennar and $769.8M Other ($1,628.0M total); takedown proceeds were $797.2M Lennar and $86.2M Other ($883.4M total). Release text quotes net cash proceeds from homesite sales of $852M including $766M from Lennar.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2025 earnings release (8-K Ex. 99.1, filed 2025-10-23)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "At 2025-09-30 weighted-average yield was 8.5% on Lennar invested capital and 11.3% on Other Agreements, 9.1% for the total portfolio. The $770M funded under Other Agreements in Q3 carried a weighted-average 11.1% yield; new Lennar acquisitions carried an 8.5% option rate.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2025 earnings release (8-K Ex. 99.1, filed 2025-10-23)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Q3 2025: total revenues $179.3M (option fee revenues $170.3M, development loan income $8.9M); net income $105.1M ($0.63 per share) after $11.9M of accelerated amortization from terminating the delayed-draw term loan; AFFO $122.5M ($0.74 per share). Dividend $0.73 per share ($121.2M) declared 2025-09-22, paid 2025-10-15.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2025 earnings release (8-K Ex. 99.1, filed 2025-10-23)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "In the Q3 2025 release (2025-10-23) Millrose raised its full-year 2025 target for new funding under Other Agreements to $2.2B (from $1.5B) and raised year-end quarterly AFFO run-rate guidance to $0.74-$0.76 per share.",
+   "as_of": "2025-10-23",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2025 earnings release (8-K Ex. 99.1, filed 2025-10-23)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "At 2025-09-30 debt was $2.0B (about 25% debt-to-capitalization, 33% stated maximum) and liquidity $1.6B. In Q3 2025 Millrose issued $1.25B of 6.375% senior notes due 2030 and $750M of 6.25% senior notes due 2032, repaid the $1B term loan and cut revolver borrowings by $450M.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2025 earnings release (8-K Ex. 99.1, filed 2025-10-23)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "At 2025-12-31 total assets were $9,258.1M; homesites under option contracts $8,872.7M and development loan receivables $329.0M; about 142,000 homesites in 933 communities across 30 states. Stockholders' equity $5,856.3M.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Invested capital at 2025-12-31: Lennar $6,102.0M, Other Agreements $2,367.6M, total $8,469.7M. Weighted-average remaining life: 3.3 years Lennar, 2.0 years Other Agreements, 3.0 years total.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Q4 2025 flows: funding $650.9M Lennar and $689.4M Other ($1,340.3M total); takedown proceeds $884.7M Lennar and $139.3M Other ($1,024.0M total). Full-year 2025: funding $2,862.4M Lennar and $2,622.5M Other ($5,484.9M total); takedown proceeds $3,168.0M Lennar and $254.9M Other ($3,422.8M total). Over 31,000 homesites were delivered to builders in 2025 with zero option terminations.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "At 2025-12-31 weighted-average yield was 8.5% on Lennar invested capital and 11.0% on Other Agreements, 9.2% for the total portfolio (up 70 bps since the Feb 2025 spin). The $2.6B funded under Other Agreements in 2025 carried a weighted-average 11.0% yield.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Other Agreements weighted-average yield by quarter end in 2025: 11.7% (Mar 31), 11.4% (Jun 30), 11.3% (Sep 30), 11.0% (Dec 31); Lennar held at 8.5% each quarter. The spread over Lennar narrowed from about 320 bps to about 250 bps as non-Lennar capital grew from $350M to $2.37B (spread calculated from the four releases).",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Q4 2025: total revenues $189.5M (option fee revenue $179.5M, development loan income $10.0M); net income $122.2M ($0.74 per share); AFFO $125.6M ($0.76 per share). FY2025: revenues $600.5M (option fees $571.0M, development loan income $29.5M); net income $379.9M; AFFO $427.9M ($2.58 per share). Dividend $0.75 per share ($124.5M) declared 2025-12-22, paid 2026-01-15.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "At 2025-12-31 Millrose reported 15 distinct counterparties, 9 of them among the top 25 US homebuilders; only Lennar is named in the Q4 release.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "2026 outlook given 2026-02-26: about $1B of additional invested capital by mid-2026 funded from existing debt capacity (about $900M of room under the 33% debt-to-capital cap), a Q2 2026 exit AFFO run rate of $0.78-$0.80 per share per quarter, and up to $2B of net new deployment for full-year 2026; no equity issuance below book value. Year-end 2025 run rate was about $0.77 per share.",
+   "as_of": "2026-02-26",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "At 2025-12-31 debt was $2,112.1M (26% debt-to-capitalization) with $1.3B of liquidity including availability under the $1.3B revolver; no near-term maturities.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "The Q4 2025 deck counts 15 counterparties in the total portfolio including Lennar, i.e. 14 distinct counterparties outside Lennar at 2025-12-31, with $2.4B of invested capital outside the Master Program Agreement and zero terminations in 2025.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Counterparty count through 2025, compiled from rows cited separately in this file: five forward-flow commitments with unnamed builders by May 2025 (Q1 release); no count given for Q2; 12 distinct counterparties at 2025-09-30 (Q3 deck); 15 including Lennar at 2025-12-31, 9 of them top-25 national builders (Q4 release). That implies about three additions in Q4 2025 if the Q3 and Q4 counts are on the same basis (the Q3 deck does not say whether its 12 includes Lennar).",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Q3 2025 earnings deck states 12 distinct counterparties and third-party deals totalling $1.8B at 2025-09-30; counterparties are not named.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q3 2025 earnings presentation (8-K Ex. 99.2, 2025-10-23)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "The only non-Lennar builders named in Millrose's calendar-2025 periodic filings and decks are The New Home Company (Landsea acquisition financing) and Taylor Morrison (Yardly build-to-rent, through Kennedy Lewis). The Q3 and Q4 releases and decks and the Feb 2026 investor deck name no counterparty other than Lennar; the FY2025 10-K names New Home only. This is a reading across the documents listed in sources_consulted, not a statement by Millrose.",
+   "as_of": "2026-03-02",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "New Home / Landsea: commitment of up to $700M of land-banking capital signed 2025-05-12, with up to $600M due at closing. On 2025-06-25 the acquisition closed and Millrose paid $494.5M cash for $522.8M of land assets (4,186 homesites), net of $28.3M of option deposits, and optioned the homesites to New Home.",
+   "as_of": "2025-06-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+   "source_title": "Millrose FY2025 10-K, Note 3 Spin-Off and Other Significant Business Transactions"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Taylor Morrison / Yardly: on 2025-07-23 Taylor Morrison and Kennedy Lewis Investment Management announced a $3B financing facility for the Yardly build-to-rent brand, with a right of first refusal on Yardly funding during a 2.5-year exclusivity term. Millrose's Q2 deck said initial Millrose closings were scheduled through Q3 2025 and that about $200M had been deployed outside the Lennar agreement in July 2025.",
+   "as_of": "2025-07-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q2 2025 earnings presentation (8-K Ex. 99.2, 2025-07-31)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Early non-Lennar pace: about $250M closed outside the Lennar Master Program Agreement between the Feb 7 spin and 2025-03-17 at yields above 11%, with at least $100M more expected within 30 days and a first full-year target of at least $1B. Initial guidance was Q2 2025 EPS of $0.65-$0.68 and a year-end quarterly run rate of $0.67-$0.69.",
+   "as_of": "2025-03-17",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669dex991.htm",
+   "source_title": "Millrose press release on inaugural dividend and outlook (8-K Ex. 99.1, 2025-03-17)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Between 2025-04-01 and 2025-05-09 Millrose deployed about $130M outside the Lennar Master Program at yields above 11%, bringing the total since the spin to about $480M.",
+   "as_of": "2025-05-09",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex992.htm",
+   "source_title": "Millrose Q1 2025 earnings presentation (8-K Ex. 99.2, 2025-05-14)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Full-year 2025 target for funding outside the Lennar Master Program Agreement was set at at least $1.0B (2025-03-17), raised to $1.5B (2025-05-14) and to $2.2B (2025-10-23); actual 2025 funding under Other Agreements was $2,622.5M. Year-end quarterly run-rate guidance moved from $0.67-$0.69 EPS (March) to $0.69-$0.71 (May), $0.70-$0.73 AFFO (July) and $0.74-$0.76 AFFO (October); the actual year-end run rate was about $0.77. Compiled from the March 17, Q1, Q2, Q3 and Q4 releases, each cited separately in this file.",
+   "as_of": "2026-02-26",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Feb 2026 decks frame 2026 growth as similar in volume to 2025's roughly $2.4B of net new deployment outside Lennar: an illustrative $2B of net new capital at 11% yields would lift annualized AFFO from $3.00 to about $3.30 per share (about +10%), assuming 5.7% interest on $1.3B of new debt and new equity issued at book value. Millrose labels this illustrative, not guidance.",
+   "as_of": "2026-02-26",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Strategy",
+   "fact": "Lennar's ownership: Lennar kept about 20% of Millrose at the spin (33.2M Class A shares) and disposed of it through an exchange offer launched 2025-10-10 and closed 2025-11-28 (33,298,754 Millrose shares exchanged for 8,049,594 Lennar shares). Lennar now holds a de minimis stake.",
+   "as_of": "2025-11-28",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+   "source_title": "Millrose FY2025 10-K, Note 3 Spin-Off and Other Significant Business Transactions"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "The FY2025 10-K says newer homebuilder counterparties generally pay higher option rates than Lennar pays under the Master Program Agreement, and that Other Counterparties may not get the same rights and rates as Lennar. It gives no explanation tied to credit quality, size or builder type, and no rate schedule.",
+   "as_of": "2026-03-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Lennar holds an 'Applicable Rate Adjustment Right' under the Founder's Rights Agreement: if Millrose agrees a lower option rate with a Lennar Related Venture or any Other Counterparty, Lennar can take that lower rate on future assets it proposes under the Master Program Agreement. In effect a most-favoured-rate clause that discourages Millrose from pricing a third party below Lennar.",
+   "as_of": "2026-03-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Non-Lennar pricing is a mix of fixed and floating: the Q1 2025 deck footnotes the third-party weighted-average yield as based on a mix of fixed and floating rate deals, and the Q2 release says quoted yields use the option rate and/or loan rate assuming three-month SOFR at a recent date.",
+   "as_of": "2025-05-14",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex992.htm",
+   "source_title": "Millrose Q1 2025 earnings presentation (8-K Ex. 99.2, 2025-05-14)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Yield on capital newly funded under Other Agreements by quarter in 2025: 11.7% (Q1, $351M), 11.2% (Q2, $813M), 11.1% (Q3, $770M); full-year $2.6B at 11.0%. New Lennar acquisitions were priced at 8.7% (Q1), 8.6% (Q2) and 8.5% (Q3). Compiled from the four quarterly releases, each cited separately in this file.",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Weighted-average duration of new acquisitions shown in the quarterly decks: Q1 2025 31 and 52 months, Q2 51 and 41 months, Q3 58 and 45 months, listed alongside the Lennar and third-party new-acquisition yields in that order. The extracted slide text does not label the columns, so the Lennar-first mapping is inferred from the order of the yield figures.",
+   "as_of": "2025-09-30",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q3 2025 earnings presentation (8-K Ex. 99.2, 2025-10-23)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "2025 option fee revenue of $570.9M split: Lennar Master Program Agreement $484.8M (85%); Lennar plus Lennar Related Ventures $501.5M (88%); all non-Master-Program counterparties $86.1M (15%); Other Counterparties (independent of Lennar) $69.4M (12%).",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Lennar Related Ventures (builders Lennar owns part of or refers to Millrose) paid about $16.7M of 2025 option fees (calculated: $501.5M Lennar plus related ventures minus $484.8M Master Program). They sit inside 'Other Agreements', so that bucket overstates truly independent business; none of the ventures is named.",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "For full-year 2025 Lennar generated about 84% of Millrose's total revenues and about 88% of option fee revenue (85% under the Master Program Agreement alone); Millrose states it does not consider itself significantly exposed to Lennar credit risk.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R16.htm",
+   "source_title": "Millrose FY2025 10-K, Note 5 Related Party Transactions"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Lennar accounted for 97% of total operating revenues in Q1 2025 (and more than 99% of option fee revenue per the accounting-policies note).",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025071540/ck0002017206-20250331.htm",
+   "source_title": "Millrose 10-Q for Q1 2025 (filed 2025-05-14), Notes 2-4"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Lennar's share of total revenue by quarter in 2025, compiled from the 10-Q and 10-K related-party notes cited separately in this file: 97% (Q1), 95% (Q2), 85% (Q3), 84% for the full year.",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R16.htm",
+   "source_title": "Millrose FY2025 10-K, Note 5 Related Party Transactions"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Lennar share of total operating revenues was 95% for the three months and 97% for the six months ended 2025-06-30.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100912/R13.htm",
+   "source_title": "Millrose 10-Q for Q2 2025 (filed 2025-07-31), Note 4 Related Party Transactions"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Lennar share of total operating revenues was 85% for the three months and 92% for the nine months ended 2025-09-30 (84% and 91% of option fee revenue).",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R13.htm",
+   "source_title": "Millrose 10-Q for Q3 2025, Note 4 Related Party Transactions"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Development loans: Millrose held two secured residential development loans at 2025-12-31, both at 12% with interest paid in kind: Borrower A $287.7M (maturity 2026-01-31, extended on 2026-01-29 to 2026-07-31) and Borrower B $35.6M (maturity 2029-09-30). Net receivable $329.0M after a $1.0M allowance; 2025 development loan income $29.5M. Borrowers are not named.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R13.htm",
+   "source_title": "Millrose FY2025 10-K, Note 2 Significant Accounting Policies"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "The Q3 2025 10-Q lists $302.7M of development loan receivables among related-party balances with Lennar at 2025-09-30 (out of $334.5M of loan principal), alongside $7.1B of homesite inventory and $697.0M of option deposits. A large part of the 12% development-loan book inside 'Other Agreements' is therefore Lennar-related rather than independent third-party business.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R38.htm",
+   "source_title": "Millrose 10-Q for Q3 2025, Related Party Transactions details"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Of the $351M deployed outside the Lennar agreement in Q1 2025 at 11.7%, $250.2M was investment in development loans per the Q1 10-Q inventory roll-forward (the decks state that development-loan funding is counted in Other Agreements funding). Linking the two figures is an inference from those two disclosures.",
+   "as_of": "2025-03-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025071540/ck0002017206-20250331.htm",
+   "source_title": "Millrose 10-Q for Q1 2025 (filed 2025-05-14), Notes 2-4"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Millrose's cost floor: the manager (Kennedy Lewis) is paid 1.25% a year of tangible assets, $87.8M in 2025 ($27.8M in Q4); 2025 interest expense was $91.8M and income tax $20.5M.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Q4 2025 book value per share moved from $35.29 to $35.28 ($0.74 of net income less the $0.75 dividend); the dividend equals an 8.4% yield on equity and management intends to distribute 100% of AFFO.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Dividends declared for 2025 total $2.55 per share ($0.38 stub, $0.69, $0.73, $0.75) and book value per share held at $35.40 (Mar 31), $35.39 (Jun 30), $35.29 (Sep 30) and $35.28 (Dec 31): Millrose pays out everything it earns and does not grow book value. Compiled from the four quarterly releases and decks cited in this file.",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Implied income run rate at 2025-12-31: $131M a quarter from Lennar and $65M from Other Agreements ($196M total), or $519M and $260M annualized ($779M).",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "At 2025-12-31 Other Agreements were about 28% of invested capital ($2,367.6M of $8,469.7M) but about 33% of run-rate income ($65M of $196M a quarter); both shares calculated from the Q4 deck figures.",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Share of invested capital outside the Lennar Master Program Agreement, calculated from the quarterly reconciliations: 5.2% at 2025-03-31 ($349.6M of $6,712.9M), 15.3% at 2025-06-30 ($1,134.0M of $7,408.8M), 22.3% at 2025-09-30 ($1,817.6M of $8,153.4M), 28.0% at 2025-12-31 ($2,367.6M of $8,469.7M).",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Cross-termination pooling: at 2025-12-31, 96% of Millrose's portfolio investment balance was in pooling arrangements. If a counterparty lets its option lapse on one pooled property it forfeits the option deposits for the whole pool and Millrose may terminate the options on the other pooled properties and sell them free of the option. Pools are built to mix geographies, communities and product types.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Terms",
+   "fact": "At 2025-06-30 all Lennar assets were pooled and 55 communities outside the Lennar Master Program Agreement were pooled for cross-termination, per the Q2 deck's pooling slide (the Q1 deck had said no third-party assets were pooled).",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q2 2025 earnings presentation (8-K Ex. 99.2, 2025-07-31)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "At 2025-03-31 the Q1 earnings deck's pooling slide stated there was currently no pooling among third-party assets.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex992.htm",
+   "source_title": "Millrose Q1 2025 earnings presentation (8-K Ex. 99.2, 2025-05-14)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Under the Lennar Master Program Agreement, Lennar's payment obligations are capped at $50M per pool for spin-off assets and $25M per pool for other admitted properties (the 10-K does not spell out which payments the cap covers). A Lennar party can cure a default by electing a bulk purchase of the affected property, which cancels cross-termination rights already exercised.",
+   "as_of": "2026-03-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Option deposits are non-refundable, fully earned at signing, set as a percentage of the land purchase price in each agreement, and credited against the takedown price; the percentage is not disclosed for Lennar or anyone else. Takedown price is land acquisition cost plus the pre-agreed development budget funded by Millrose; the builder bears overruns above the agreed maximum and must finish land development even if it walks.",
+   "as_of": "2026-03-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Deposit levels implied by disclosed deals (all calculated): spin-off assets $584.8M of deposits on $5,556M of land contributed (about 10.5%); Rausch $90.3M on $1,049M of land (about 8.6%); New Home / Landsea $28.3M on $522.8M (about 5.4%). At 2025-12-31 Lennar-related option deposit liabilities were $726.7M against $6.9B of homesites (about 10.5%).",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R16.htm",
+   "source_title": "Millrose FY2025 10-K, Note 5 Related Party Transactions"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Builder deposit liability roll-forward for 2025: $584.8M from the spin-off, $90.3M from Rausch, $417.0M of additions, less $165.1M credited on takedowns, ending at $927.0M at 2025-12-31.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R13.htm",
+   "source_title": "Millrose FY2025 10-K, Note 2 Significant Accounting Policies"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Deposits netted in the invested-capital reconciliation at 2025-12-31 were $482.7M ($201.9M Lennar Master Program, $280.8M Other Agreements) versus $927.0M of builder deposits on the balance sheet; the release does not explain the difference. On that basis Other Agreements deposits equal about 12.0% of the $2,341.9M of Other Agreements homesites (calculated).",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "At 2025-09-30 the invested-capital reconciliation netted $392.3M of builder deposits: $171.0M under the Master Program Agreement and $221.3M under Other Agreements.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525235180/d62880dex991.htm",
+   "source_title": "Millrose preliminary Q3 2025 results press release (8-K Ex. 99.1, 2025-10-09)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Weighted-average remaining life at 2025-12-31: 3.3 years Lennar Master Program, 2.0 years Other Agreements, 3.0 years total; weighted-average maturity (months to the final scheduled homesite sale per community, weighted by investment balance): 64, 35 and 57 months.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Lennar pause rights: the Master Option Agreement allows pause periods of up to six months each (two periods per the risk factors) in a significant market decline or public-health emergency, during which takedown deadlines are extended and Lennar's monthly option payment can drop to 50% of the applicable rate. The 10-K also lists a Lennar right to designate a pause period.",
+   "as_of": "2026-03-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Investment guidelines in the management agreement: no more than 40% of the real estate portfolio's value in one state; limited discretionary entitlement risk; a construction agreement with cost-overrun guarantees and an option agreement with a defined takedown schedule at closing; single-family detached or attached product only; an environmental assessment no older than 180 days. No single-counterparty or single-metro limit is stated.",
+   "as_of": "2026-03-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Lennar's continuing rights: a 'Capital Priority Right' reserving part of Millrose's available capital for future Lennar-designated acquisitions and development (amount not stated), approval over any financing that would take debt-to-equity above 1:1, and a consent right over mixing Lennar-related assets into a shared collateral pool. Millrose's own leverage ceiling is 33% debt-to-capitalization.",
+   "as_of": "2026-03-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 1 Business"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Accounting and credit: option contracts are treated as sales-type leases under ASC 842 because exercise is considered reasonably certain; option fee income is recognized on an effective-yield basis. Millrose reported no delinquencies, defaults or option terminations in 2025 and judged credit loss on the option assets immaterial; the only allowance is $1.0M on development loans.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R15.htm",
+   "source_title": "Millrose FY2025 10-K, Note 4 Homesites Under Option Contracts"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Future land development funding commitments at 2025-12-31: $5.8B under Lennar option contracts and $1.6B under other counterparties' option contracts.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R20.htm",
+   "source_title": "Millrose FY2025 10-K, Note 9 Commitments and Contingencies"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Land development commitments at 2025-06-30: $5.7B under Lennar option contracts and $0.6B under other customers' option contracts.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100912/R17.htm",
+   "source_title": "Millrose 10-Q for Q2 2025, Note 8 Commitments and Contingencies"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Land development commitments at 2025-09-30: $5.9B under Lennar option contracts and $1.4B under other customers' option contracts.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R17.htm",
+   "source_title": "Millrose 10-Q for Q3 2025, Note 8 Commitments and Contingencies"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Land development commitments at 2025-03-31 were $5.3B in total (no Lennar / other split given).",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025071540/R18.htm",
+   "source_title": "Millrose 10-Q for Q1 2025, Commitments and Contingencies note"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Expected undiscounted option fee cash flows on contracts in place at 2025-12-31: $792.0M (2026), $726.1M (2027), $524.7M (2028), $331.8M (2029), $224.4M (2030) and $516.5M thereafter.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R15.htm",
+   "source_title": "Millrose FY2025 10-K, Note 4 Homesites Under Option Contracts"
+  },
+  {
+   "topic": "Terms",
+   "fact": "Rausch holdback: Millrose owes Rausch a $100M site-improvement guarantee holdback, payable within ten business days after the later of 2027-02-10 or completion of 50% of the guaranteed assets' development, reduced by development cost overruns.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R13.htm",
+   "source_title": "Millrose FY2025 10-K, Note 2 Significant Accounting Policies"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Homesites under option contracts roll-forward, spin-off to 2025-12-31: $5,496.1M contributed by Lennar, $1,158.3M from Rausch, $5,599.4M invested (land $3,914M including $522.8M from New Home, development $1,686M), less $3,381.1M of takedowns, ending at $8,872.7M.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R15.htm",
+   "source_title": "Millrose FY2025 10-K, Note 4 Homesites Under Option Contracts"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "GAAP homesites under option contracts at 2025-12-31 split $6,530.8M Master Program Agreement and $2,341.9M Other Agreements; Other Agreements also hold $330.0M of gross development loan receivables. Invested capital nets out $482.7M of builder deposits ($201.9M Master Program, $280.8M Other), the $100M Rausch holdback, $56.8M of net deferred tax and $33M of purchase-money mortgages.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+   "source_title": "Millrose FY2025 Form 10-K (filed 2026-03-02), Item 7 MD&A"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "At the spin-off (2025-02-07) Lennar contributed about $5.5B of land (about 87,000 homesites) and about $1.0B of cash, including $585M of deposits on Lennar option contracts. Opening invested capital on 2025-02-10 after Rausch was $6,408M, all Lennar.",
+   "as_of": "2025-02-10",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+   "source_title": "Millrose FY2025 10-K, Note 3 Spin-Off and Other Significant Business Transactions"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Homesite counts: 111,181 (Mar 31, 2025, 876 communities, 29 states), 128,904 (Jun 30, about 1,000 communities, 29 states), 138,691 (Sep 30, 30 states), 142,139 (Dec 31, 933 communities, 30 states); counts exclude homesites behind development loans. For Sep 30 the Q3 release says 876 communities while the Q4 release cites 880 for the same date. 31,575 homesites were delivered in 2025. Compiled from the four quarterly earnings decks and releases cited in this file.",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Estimated future takedown proceeds: about $10.9B (Mar 31, 2025), $13.1B (Jun 30), $15.3B (Sep 30) and $16.1B (Dec 31, 2025). Compiled from the four quarterly earnings decks cited in this file.",
+   "as_of": "2025-12-31",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Top states at 2025-12-31 by estimated takedown proceeds: California $3.4B (21.1%, 13,345 homesites), Texas $2.9B (18.2%, 37,548), Florida $1.9B (12.1%, 20,526), South Carolina $1.0B (6.4%, 9,554), North Carolina $0.8B (4.9%, 5,227), Oklahoma $0.7B (4.3%, 10,486), Maryland $0.6B (3.6%), Colorado $0.5B (3.3%), Arizona $0.5B (3.2%), Virginia $0.4B (2.7%); top ten 79.8%.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q4 2025 earnings presentation (8-K Ex. 99.2, 2026-02-26)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Top states at 2025-03-31 by estimated takedown proceeds: California $2.3B (20.8%, 11,031 homesites), Texas $1.7B (15.4%, 25,704), Florida $1.3B (11.5%, 14,878), South Carolina $0.9B (8.1%), Oklahoma $0.7B (6.3%, 11,112), Maryland $0.5B (4.9%), Colorado $0.4B (3.6%), Alabama $0.4B (3.2%, 5,241), Arizona $0.3B (3.0%), Arkansas $0.3B (2.8%, 4,633); top ten 79.7%.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex992.htm",
+   "source_title": "Millrose Q1 2025 earnings presentation (8-K Ex. 99.2, 2025-05-14)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Lennar-related balances at 2025-12-31: homesites under option contracts $6.9B and option deposit liabilities $726.7M. In 2025 Lennar paid about $3.1B in cash on takedowns plus $127.5M of deposit credits, $452.9M of option payments and $171.7M of new option deposits; Millrose paid Lennar about $2.0B for land purchases and $1.3B for development draws.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R16.htm",
+   "source_title": "Millrose FY2025 10-K, Note 5 Related Party Transactions"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Lennar-related balances at 2025-03-31: homesite inventory $5.7B, option deposit liabilities $559.2M, option fee receivables $47.2M.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025071540/ck0002017206-20250331.htm",
+   "source_title": "Millrose 10-Q for Q1 2025 (filed 2025-05-14), Notes 2-4"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Lennar-related balances at 2025-06-30: homesite inventory $6.9B and option deposit liabilities $679.7M.",
+   "as_of": "2025-06-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100912/R13.htm",
+   "source_title": "Millrose 10-Q for Q2 2025 (filed 2025-07-31), Note 4 Related Party Transactions"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Lennar-related balances at 2025-09-30: homesite inventory $7.1B, development loan receivables $302.7M and option deposit liabilities $697.0M.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R13.htm",
+   "source_title": "Millrose 10-Q for Q3 2025, Note 4 Related Party Transactions"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Homesites delivered in 2025 carried average home selling prices about 20% below the national average for new single-family homes, per the Q4 release.",
+   "as_of": "2025-12-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "topic": "Portfolio",
+   "fact": "Q1 2025 invested-capital roll-forward (Feb 10 to Mar 31): Lennar opened at $6,408M, takedowns $680M, funding $635M, closing $6,363M; Other Agreements funding $351M, closing $350M; total $6,713M.",
+   "as_of": "2025-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex992.htm",
+   "source_title": "Millrose Q1 2025 earnings presentation (8-K Ex. 99.2, 2025-05-14)"
+  }
+ ],
+ "builder_relationships": [
+  {
+   "builder_id": "lennar",
+   "builder_name": "Lennar Corp.",
+   "description": "Master Program Agreement (Lennar's programmatic land bank with Millrose since the Feb 2025 spin-off): invested capital $6,102M at 2025-12-31 at a weighted-average 8.5% yield and 3.3 years remaining life; FY2025 funding $2,862M and takedown proceeds $3,168M.",
+   "amount_usd_m": 6102,
+   "lots": null,
+   "date": "2025-12",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings release (8-K Ex. 99.1, filed 2026-02-26)"
+  },
+  {
+   "builder_id": "lennar",
+   "builder_name": "Lennar Corp. (Rausch Coleman Homes assets)",
+   "description": "On 2025-02-10 Millrose bought RCH Holdings (parent of Rausch Coleman Companies), about 25,000 homesites, for about $859M cash net of $90.3M of Lennar-funded option deposits and a $100M development holdback, and optioned the homesites back to Lennar, enabling Lennar's acquisition of the builder.",
+   "amount_usd_m": 859,
+   "lots": 25000,
+   "date": "2025-02",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+   "source_title": "Millrose FY2025 10-K, Note 3 Spin-Off and Other Significant Business Transactions"
+  },
+  {
+   "builder_id": "new-home-co",
+   "builder_name": "The New Home Company (listed as Risewell Homes in the builder spine)",
+   "description": "Up to $700M land-banking commitment announced 2025-05-12 (up to $600M at closing) to back New Home's acquisition of Landsea Homes. Closed 2025-06-25: Millrose paid $494.5M cash for $522.8M of land (4,186 homesites), net of $28.3M of option deposits, and optioned the homesites to New Home.",
+   "amount_usd_m": 494.5,
+   "lots": 4186,
+   "date": "2025-06",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+   "source_title": "Millrose FY2025 10-K, Note 3 Spin-Off and Other Significant Business Transactions"
+  },
+  {
+   "builder_id": "taylor-morrison",
+   "builder_name": "Taylor Morrison (Yardly build-to-rent)",
+   "description": "$3B land and construction financing facility for Taylor Morrison's Yardly build-to-rent platform announced 2025-07-23 by Taylor Morrison and Kennedy Lewis (Millrose's manager), with a right of first refusal on Yardly funding over a 2.5-year exclusivity term; The Q2 deck says initial Millrose closings were scheduled through Q3 2025 and that about $200M had been deployed outside the Lennar agreement as of Jul 31, 2025; the Q2 earnings release adds that the majority of the facility is expected to be allocated to Millrose. Amount funded by Millrose on Yardly alone is not disclosed.",
+   "amount_usd_m": null,
+   "lots": null,
+   "date": "2025-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q2 2025 earnings presentation (8-K Ex. 99.2, 2025-07-31)"
+  },
+  {
+   "builder_id": null,
+   "builder_name": "Unnamed 'Borrower A' (development loan; listed among Lennar related-party balances)",
+   "description": "Secured residential development loan across multiple US markets at 12% paid-in-kind interest; carrying amount $287.7M at 2025-12-31, maturity 2026-01-31 extended on 2026-01-29 to 2026-07-31. The Q3 2025 10-Q lists $302.7M of development loan receivables among balances with Lennar, so this borrower appears to be Lennar-related (identity not disclosed).",
+   "amount_usd_m": 287.7,
+   "lots": null,
+   "date": "2025-12",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R38.htm",
+   "source_title": "Millrose FY2025 10-K, schedule of development loans secured by residential properties"
+  },
+  {
+   "builder_id": null,
+   "builder_name": "Unnamed 'Borrower B' (development loan)",
+   "description": "Secured residential development loan across multiple US markets at 12% paid-in-kind interest; carrying amount $35.6M at 2025-12-31, maturity 2029-09-30. Borrower not named.",
+   "amount_usd_m": 35.6,
+   "lots": null,
+   "date": "2025-12",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R38.htm",
+   "source_title": "Millrose FY2025 10-K, schedule of development loans secured by residential properties"
+  }
+ ],
+ "debt": [],
+ "people": [],
+ "gaps": [
+  "Names of the non-Lennar counterparties: Millrose discloses counts only (12 at 2025-09-30; 15 including Lennar at 2025-12-31, 9 in the top 25). Only New Home Co and Taylor Morrison (Yardly) are named in the 2025 10-Qs, earnings releases, decks and the FY2025 10-K. Trade-press naming could not be checked because the shared web-search budget was exhausted during this run.",
+  "Amount committed or funded per counterparty: disclosed only for New Home / Landsea ($494.5M funded of up to $700M). Millrose's funded share of the $3B Taylor Morrison Yardly facility is not disclosed; nor are the five forward-flow commitments mentioned in May 2025.",
+  "Option deposit percentages by counterparty: not disclosed (10-K says only 'a percentage of the purchase price'). The percentages in this file are calculated from deal-level figures.",
+  "Explanation of why non-Lennar pricing is about 250-320 bps above Lennar (credit, size, product): not given in any 2025 filing or deck read.",
+  "Share of invested capital covered by cross-termination pools split between Lennar and Other Agreements: only the combined 96% (Dec 31, 2025) is disclosed in text; the pooling slide tables in the decks are images and did not extract.",
+  "Identity of Lennar Related Ventures and of development-loan Borrowers A and B: not disclosed.",
+  "Number of counterparties at 2025-06-30: not stated in the Q2 release or deck.",
+  "Could not read the MD&A sections of the three 2025 10-Qs or the back half of the FY2025 10-K MD&A (the fetch tool truncates the inline-XBRL documents; sec.gov is not reachable by curl today). Notes were read through the filings' R-page renderings and the MD&A tables through the earnings releases and decks, which carry the same reconciliations.",
+  "Earnings-call transcripts for Q1-Q4 2025 were not read (not SEC documents; search budget exhausted), so any counterparties named verbally on calls are not captured.",
+  "Community count at 2025-09-30 conflicts within Millrose's own releases (876 in the Q3 release, 880 in the Q4 release's prior-quarter comparison)."
+ ],
+ "sources_consulted": [
+  "https://data.sec.gov/api/xbrl/companyfacts/CIK0002017206.json",
+  "https://data.sec.gov/submissions/CIK0002017206.json",
+  "https://www.millroseproperties.com/",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025071540/R14.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025071540/R18.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025071540/ck0002017206-20250331.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025086799/ck0002017206-20250616.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_2.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100912/R13.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100912/R17.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100912/R22.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525055699/d903669dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex992.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525211319/ck0002017206-20250922.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525235180/d62880d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525235180/d62880dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_2.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R13.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R17.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R22.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R38.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525328840/ck0002017206-20251222.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_2.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526083052/ck0002017206-20260227.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/FilingSummary.xml",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R13.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R15.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R16.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R20.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R25.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R36.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R38.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R44.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R48.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm"
+ ]
+}

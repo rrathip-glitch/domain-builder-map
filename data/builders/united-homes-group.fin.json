@@ -1,0 +1,297 @@
+{
+  "builder_id": "united-homes-group",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Until May 2026 United Homes Group (Great Southern Homes, Rosewood Communities; Columbia, SC) was a Nasdaq-listed, almost fully land-light builder: at 2025 year end it owned 284 lots and controlled 6,941 through lot option contracts (96%), with $40.5M of deposits against $270.6M of remaining option purchase price. Lots came from third-party developers, land developers affiliated with controlling holder Michael Nieri (Land to Lots, PC Land Development, Pennington Development) and land bank partners, including a $150M land fund agreed with Developers Capital Fund LLC in 2024 and a 'third party land bank' called GSH Land Fund, LLC. Corporate funding was a $220M Wells Fargo-agented secured construction revolver ($78.2M drawn) and a $70M subordinated term loan agented by Kennedy Lewis (SOFR + 675-775 bps); both needed covenant relief in Sept 2025 and March 2026 and were repaid and terminated when Stanley Martin (Daiwa House) closed its all-cash merger on 2026-05-04. UHG is now a wholly owned Stanley Martin subsidiary, so new land-bank capital would be decided and priced at the Stanley Martin/Daiwa level. Those parents have far more balance sheet than UHG had, which may reduce the need for outside land-bank capital in the South Carolina markets.",
+    "land_strategy": "Land-light, in the company's own words: it buys finished lots through lot option contracts with third-party developers, related-party developers and land bank partners, putting up deposits of typically 15-20% of the purchase price with staggered takedowns. On land bank contracts UHG usually pays development costs and is reimbursed the next month. At 2025-12-31, 96% of about 7,200 owned or controlled lots were controlled through options. In 2023 CEO Jack Micenko said UHG would not carry large owned lot inventories and would hold lots as options through Pennington, the Nieri-affiliated land business. No numeric target was stated. Post-merger strategy under Stanley Martin is not disclosed.",
+    "lots": {
+      "total_controlled": 7225,
+      "owned": 284,
+      "optioned": 6941,
+      "pct_optioned": 96.1,
+      "years_supply": 6.1,
+      "as_of": "2025-12-31",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/uhg-20251231.htm",
+      "source_title": "United Homes Group FY2025 Form 10-K (filed 2026-03-13)",
+      "note": "Item 1 table by division (owned/controlled): Midlands 151/3,935; Coastal 59/1,499; Upstate 11/1,352; Rosewood 38/109; Raleigh 25/46. The 10-K says 96% of about 7,200 lots were controlled through lot option contracts. years_supply is our own calculation (7,225 lots / 1,192 closings in 2025), not a company figure. This is the last public lot count: no Q1 2026 10-Q was filed before the merger closed, and the company deregistered (Form 15, 2026-05-14)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Developers Capital Fund LLC",
+        "counterparty_type": "Land banker",
+        "description": "Definitive agreement for a newly created land fund of up to $150M to fund development of raw land into finished lots for UHG's markets. Sponsor/manager and pricing not disclosed.",
+        "amount_usd_m": 150,
+        "lots": null,
+        "date": "2024-05",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018824000014/uhg-q12024xex99x1.htm",
+        "source_title": "UHG Q1 2024 earnings release (8-K Ex. 99.1, filed 2024-05-10)",
+        "note": "Announced with Q1 2024 results. Whether this fund is the same vehicle as 'GSH Land Fund, LLC' (named in the 2026 information statement) is not disclosed; no Form D was found on EDGAR under either name."
+      },
+      {
+        "counterparty": "GSH Land Fund, LLC",
+        "counterparty_type": "Land banker",
+        "description": "Described in the merger information statement as the third-party land bank working on UHG's behalf. A December 2025 proposal from Nieri-affiliated developers asked UHG to direct the fund to sell common-area acreage and road access at the Halton Oaks community to one of those developers.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-12",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000114036126014128/ny20067664x2_defm14c.htm",
+        "source_title": "UHG DEFM14C information statement (filed 2026-04-10)",
+        "note": "Sponsor, size and lot count not disclosed. In September 2025 Stanley Martin's proposal also required third-party consents under UHG's 'land banking agreements', which confirms more than one such contract existed. The counterparties to those agreements are not named."
+      },
+      {
+        "counterparty": "Unnamed third-party land banker (finished-lot sale and repurchase option)",
+        "counterparty_type": "Land banker",
+        "description": "Starting in Q1 2024, UHG sold finished lots to a land banker and took options to buy them back. This is accounted for as a financing: the lots stay on the balance sheet as real estate inventory not owned, and the land banker funds about 80% of their carrying value. Q1 2024 proceeds were $14.2M, and inventory not owned was $17.8M at 2024-03-31.",
+        "amount_usd_m": 14.2,
+        "lots": null,
+        "date": "2024-03",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018824000017/uhg-20240331.htm",
+        "source_title": "UHG Q1 2024 Form 10-Q (filed 2024-05-10)",
+        "note": "UHG's maximum exposure was $1.9M at 2024-12-31 and $0.2M at 2025-12-31 (FY2025 10-K Note 2, https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R9.htm), so the program had nearly run off. In 2024 UHG also paid closing costs for a related party to move land to one of its land banking partners (FY2025 10-K Note 9)."
+      },
+      {
+        "counterparty": "PC Entities (Land to Lots, LLC; PC Land Development Co., LLC; Pennington Development, LLC)",
+        "counterparty_type": "Affiliate",
+        "description": "Land developers affiliated with controlling stockholder and former Executive Chairman Michael Nieri, with lot option contracts that historically supplied a large share of UHG's developed lots. Related-party lot deposits were $4.9M at 2025-12-31 (2024: $6.8M). The February 2026 'PC Property Agreements' sped up UHG's purchase of finished lots and raw land at Camellia Park, Palomino Oaks and Southbridge, added a new raw-land purchase at Winter Farms, and included the Halton Oaks acreage sale. The information statement says existing contract prices were reduced overall.",
+        "amount_usd_m": 4.9,
+        "lots": null,
+        "date": "2026-02",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000114036126014128/ny20067664x2_defm14c.htm",
+        "source_title": "UHG DEFM14C information statement (filed 2026-04-10)",
+        "note": "Entity names and the PC Property Agreements are from the DEFM14C. The $4.9M deposit figure is from FY2025 10-K Note 9 (https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R17.htm). No lot counts or prices were disclosed for the PC properties. Nieri's restrictive covenants were narrowed in his February 2026 waiver, so these entities may stay active as South Carolina lot developers outside Stanley Martin."
+      },
+      {
+        "counterparty": "All lot option counterparties combined (third-party developers, related parties, land bank partners)",
+        "counterparty_type": "Unknown",
+        "description": "Aggregate lot option book: $40.5M of non-refundable deposits controlling 6,941 lots, with $270.6M of remaining purchase price at 2025-12-31 (2024: $48.2M deposits, $352.2M remaining). Counterparties are treated as unconsolidated VIEs. Forfeited deposits were under $0.1M in 2025.",
+        "amount_usd_m": 270.6,
+        "lots": 6941,
+        "date": "2025-12",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R9.htm",
+        "source_title": "UHG FY2025 10-K Note 2, Variable Interest Entities (XBRL R9)",
+        "note": "amount_usd_m is the remaining aggregate purchase price under option contracts, not deposits."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Syndicated secured revolving line of credit (Second A&R Credit Agreement dated 2023-08-10)",
+        "type": "Revolver",
+        "principal_usd_m": 78.2,
+        "rate": "Daily simple SOFR + 275-350 bps (7.48% weighted average at 2025-12-31)",
+        "maturity": "2027-08",
+        "secured": "Secured",
+        "lenders_agent": "Wells Fargo Bank, N.A. (administrative agent; Wells Fargo Securities sole lead arranger); lenders Regions Bank, Flagstar Bank, United Bank, Third Coast Bank",
+        "status": "Redeemed",
+        "as_of": "2025-12-31",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R16.htm",
+        "source_title": "UHG FY2025 10-K Note 10, Debt (XBRL R16)",
+        "note": "Commitment $220M, borrowing base $136.0M, $78.2M drawn, $56.4M available, $2.0M letter-of-credit sub-facility. Maturity is 2027-08-02, except $73.3M of commitments from two non-extending lenders that matured 2026-08-10. Drawn balance by lender: Wells Fargo $21.2M, Regions $17.9M, Flagstar $16.3M, United Bank $13.0M, Third Coast $9.8M. Secured by homes under construction and developed lots. Amendments: Second (2024-01-26, Rosewood joined), Third (2024-08-02, extension and capacity cut to $220M), Fourth (2025-09-29, covenant relief), Fifth (2026-03-31, DSCR and leverage waivers pending the merger). Repaid in full and terminated at the merger closing on 2026-05-04 (https://www.sec.gov/Archives/edgar/data/1830188/000110465926054519/tm2613353d1_8k.htm)."
+      },
+      {
+        "instrument": "$70M subordinated term loan (Credit Agreement dated 2024-12-11)",
+        "type": "Term loan",
+        "principal_usd_m": 67.5,
+        "rate": "Adjusted Term SOFR + 675-775 bps (11.52% weighted average; 12.40% effective at 2025-12-31)",
+        "maturity": "2030-12",
+        "secured": "Secured",
+        "lenders_agent": "Kennedy Lewis Agency Partners LLC (administrative agent); lenders not named",
+        "status": "Redeemed",
+        "as_of": "2025-12-31",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R16.htm",
+        "source_title": "UHG FY2025 10-K Note 10, Debt (XBRL R16)",
+        "note": "Borrower Great Southern Homes, Inc., guaranteed by UHG and secured by a pledge of 100% of GSH stock. $2.1M original issue discount; $67.1M net proceeds used to redeem the convertible notes. Maturity is the earliest of 2030-12-11, the revolver maturity (effectively 2027-08-02) or acceleration of the revolver. Make-whole/applicable premium halved on a change of control; embedded derivative valued at $4.6M at 2025-12-31. Amended 2025-09-29 (covenants) and 2026-03-31 (waiver). Repaid and terminated at the merger closing on 2026-05-04 (https://www.sec.gov/Archives/edgar/data/1830188/000110465926054519/tm2613353d1_8k.htm)."
+      },
+      {
+        "instrument": "Convertible promissory notes (issued with the 2023 de-SPAC)",
+        "type": "Convertible",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "Holders not named in the filing ('Selling Stockholders')",
+        "status": "Redeemed",
+        "as_of": "2024-12-11",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000110465924127664/tm2430715d1_8k.htm",
+        "source_title": "UHG 8-K filed 2024-12-11 (Kennedy Lewis credit agreement; convertible note redemption)",
+        "note": "Redeemed 2024-12-11 for $70M cash plus accrued interest and 10,168,850 Class A shares, funded by the Kennedy Lewis term loan. Carrying value was $68.5M at 2024-03-31 (Q1 2024 release). Face amount, coupon and security were not read in this run."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2024-05-10",
+        "type": "Land-bank deal",
+        "description": "Announced a definitive agreement with Developers Capital Fund LLC for a new land fund of up to $150M to fund finished-lot development.",
+        "amount_usd_m": 150,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018824000014/uhg-q12024xex99x1.htm",
+        "source_title": "UHG Q1 2024 earnings release (8-K Ex. 99.1, filed 2024-05-10)",
+        "note": ""
+      },
+      {
+        "date": "2024-12-11",
+        "type": "Debt issuance",
+        "description": "Closed a $70M subordinated term loan agented by Kennedy Lewis Agency Partners and used it to redeem all convertible notes ($70M cash plus 10,168,850 shares). The selling holders sold 7,420,057 of those shares in a BTIG-underwritten secondary offering.",
+        "amount_usd_m": 70,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000110465924127664/tm2430715d1_8k.htm",
+        "source_title": "UHG 8-K filed 2024-12-11 (Kennedy Lewis credit agreement; convertible note redemption)",
+        "note": ""
+      },
+      {
+        "date": "2025-09-29",
+        "type": "Facility amendment",
+        "description": "Fourth Amendment to the Wells Fargo revolver and First Amendment to the Kennedy Lewis term loan gave temporary covenant relief (minimum DSCR 1.35x for Q3 2025; liquidity floor raised to $45M with $17.5M cash under the revolver). The information statement says management still projected covenant breaches in 2026.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018825000066/uhg-20250929.htm",
+        "source_title": "UHG 8-K filed 2025-10-01 (WF Fourth Amendment; KL First Amendment)",
+        "note": ""
+      },
+      {
+        "date": "2026-03-31",
+        "type": "Facility amendment",
+        "description": "Fifth Amendment (Wells Fargo) and Second Amendment (Kennedy Lewis) waived the DSCR and leverage covenants until the earlier of the merger or 2026-05-31. If the merger failed, both facilities had to be refinanced within 60 days.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000012/uhg-20260331.htm",
+        "source_title": "UHG 8-K filed 2026-04-03 (WF Fifth Amendment; KL Second Amendment)",
+        "note": ""
+      },
+      {
+        "date": "2026-05-04",
+        "type": "Redemption",
+        "description": "At the Stanley Martin merger closing, UHG repaid all amounts under the Wells Fargo syndicated revolver and the Kennedy Lewis term loan, terminated the commitments and released the liens and guarantees. Roughly $146M was outstanding at 2025-12-31; the payoff amount was not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000110465926054519/tm2613353d1_8k.htm",
+        "source_title": "UHG 8-K filed 2026-05-04 (completion of merger with Stanley Martin; Item 1.02 termination of credit agreements)",
+        "note": ""
+      },
+      {
+        "date": "2026-05-04",
+        "type": "Equity",
+        "description": "Issued 21,886,379 earn-out shares just before the merger became effective and cashed them out at $1.18 per share. Warrant exercise prices were temporarily cut; warrants now only entitle holders to the merger consideration.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000110465926054519/tm2613353d1_8k.htm",
+        "source_title": "UHG 8-K filed 2026-05-04 (completion of merger with Stanley Martin; Item 1.02 termination of credit agreements)",
+        "note": ""
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": 145.6,
+      "cash_usd_m": 24.4,
+      "liquidity_usd_m": 80.8,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None found (no rated public bonds; debt was bank revolver and private term loan)",
+      "fiscal_year_end": "December 31",
+      "as_of": "2025-12-31",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000006/uhg-fy2025xex99x1.htm",
+      "source_title": "UHG FY2025 earnings release (8-K Ex. 99.1, filed 2026-03-12)"
+    },
+    "competitor_links": [
+      {
+        "firm": "Kennedy Lewis",
+        "relationship": "Kennedy Lewis Agency Partners LLC was administrative agent on UHG's $70M subordinated term loan (December 2024; SOFR + 675-775 bps; secured by a pledge of Great Southern Homes stock). It granted covenant amendments in September 2025 and March 2026 and was repaid at the Stanley Martin closing on 2026-05-04. This was corporate credit, not a land-banking deal. Kennedy Lewis also manages Millrose Properties, but no Millrose land-banking arrangement with UHG was found.",
+        "date": "2024-12",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000110465924127664/tm2430715d1_8k.htm",
+        "source_title": "UHG 8-K filed 2024-12-11 (Kennedy Lewis credit agreement; convertible note redemption)",
+        "note": "Payoff confirmed in the closing 8-K: https://www.sec.gov/Archives/edgar/data/1830188/000110465926054519/tm2613353d1_8k.htm"
+      },
+      {
+        "firm": "Developers Capital Fund LLC",
+        "relationship": "Land fund of up to $150M agreed in 2024 to finance finished-lot development for UHG.",
+        "date": "2024-05",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000183018824000014/uhg-q12024xex99x1.htm",
+        "source_title": "UHG Q1 2024 earnings release (8-K Ex. 99.1, filed 2024-05-10)",
+        "note": "Manager/sponsor not disclosed."
+      },
+      {
+        "firm": "GSH Land Fund, LLC",
+        "relationship": "Named in the 2026 information statement as the third-party land bank working on UHG's behalf (Halton Oaks).",
+        "date": "2025-12",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000114036126014128/ny20067664x2_defm14c.htm",
+        "source_title": "UHG DEFM14C information statement (filed 2026-04-10)",
+        "note": "Sponsor not disclosed."
+      }
+    ]
+  },
+  "ma": [
+    {
+      "date": "2026-05-04",
+      "role": "Target",
+      "counterparty": "Stanley Martin Homes, LLC (subsidiary of Daiwa House Industry)",
+      "description": "Merger agreement signed 2026-02-22 and announced 2026-02-23. Stanley Martin bought UHG for $1.18 per share in cash, an enterprise value of about $221M (about $99.3M of equity per the information statement). The deal had no financing condition; Stanley Martin used cash on hand. Nieri holders with about 70% of the vote approved it by written consent. It closed 2026-05-04 through Union MergeCo, Inc. UHG was delisted from Nasdaq and deregistered (Form 15, 2026-05-14). All bank and term debt was repaid at closing.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "United Homes Group (#56, 1,192 closings in 2025) is now a wholly owned subsidiary of Stanley Martin (#18), owned by Daiwa House. It adds about 7,200 controlled lots in the Columbia (Midlands), Greenville/Spartanburg (Upstate) and Myrtle Beach (Coastal) markets of South Carolina, plus Augusta, GA and Raleigh, NC, to Stanley Martin. The UHG executive officers (CEO Jack Micenko, Executive Chairman Michael Nieri, Keith Feldman, Tom O'Grady, Robert Penny, Jeremy Pyle, Shelton Twine) ceased to be officers at closing; CFO Randy Kotler signed the closing 8-K. Land and capital decisions now sit with Stanley Martin and Daiwa.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000110465926054519/tm2613353d1_8k.htm",
+      "source_title": "UHG 8-K filed 2026-05-04 (completion of merger with Stanley Martin; Item 1.02 termination of credit agreements)",
+      "note": "Enterprise value from the 2026-02-23 joint press release (https://www.sec.gov/Archives/edgar/data/1830188/000110465926018344/tm266691d1_ex99-1.htm); equity figure and funding from the DEFM14C (https://www.sec.gov/Archives/edgar/data/1830188/000114036126014128/ny20067664x2_defm14c.htm). Advisors: Vestra Advisors and Paul, Weiss (UHG special committee); Maynard Nexsen (Stanley Martin). Termination fee $4M each way."
+    },
+    {
+      "date": "2025-10-20",
+      "role": "Target",
+      "counterparty": "None (strategic review; bidders included Stanley Martin Holdings and unnamed Parties A, B, C and F)",
+      "description": "The special committee formed in March 2025 (review announced 2025-05-19) contacted 38 buyers; 22 signed NDAs. First-round bids: Stanley Martin $150M all cash, Party A $100-120M, Party C $250M in cash and stock. Only Stanley Martin bid in round two ($134M, August 2025), then cut its bid to $121M, $85M and $94M. The committee ended the review on 2025-10-20 and chose to stay independent. Six directors then resigned: four (Enoch, Pirrello, Levine, Dozier) because Nieri would not give up the Executive Chairman role, and two (Haley, Clements) citing other commitments. Talks with Stanley Martin resumed and produced the February 2026 deal. Party F offered about $66M of equity value in November 2025 and was rejected.",
+      "status": "Terminated",
+      "after_ranking": false,
+      "map_impact": "No ownership change at the time. It shows the falling valuation and covenant pressure that led to the Stanley Martin sale. Party C, an unnamed strategic buyer, had looked at a deal involving one of UHG's existing lenders.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1830188/000114036126014128/ny20067664x2_defm14c.htm",
+      "source_title": "UHG DEFM14C information statement (filed 2026-04-10)",
+      "note": "Review conclusion and director resignations: https://www.sec.gov/Archives/edgar/data/1830188/000110465925100651/tm2529074d1_8k.htm. Verifier 2026-11-19: corrected 'six directors resigned after Nieri refused to step down' to four for that reason plus two citing other commitments, per that 8-K."
+    }
+  ],
+  "gaps": [
+    "Post-merger financing: UHG is now a private subsidiary of Stanley Martin (Daiwa House); any intercompany or parent funding, and Stanley Martin's land-bank relationships for the UHG markets, are not publicly disclosed.",
+    "Sponsor/manager, pricing and lot counts of Developers Capital Fund LLC and GSH Land Fund, LLC: not publicly disclosed (no Form D found on EDGAR under either name); whether they are the same vehicle is not disclosed.",
+    "Identity of the land banker in the 2024 finished-lot sale-and-repurchase program: not publicly disclosed ('a separate third-party').",
+    "Payoff amounts for the Wells Fargo revolver and Kennedy Lewis term loan at closing, and any make-whole paid: not disclosed.",
+    "Names of the Kennedy Lewis term-loan lenders (funds): not disclosed.",
+    "Lot counts and prices under the February 2026 PC Property Agreements: not disclosed.",
+    "Lots, owned/optioned split and liquidity after 2025-12-31: not publicly disclosed (no Q1 2026 10-Q; company deregistered 2026-05-14).",
+    "Credit ratings: none found; UHG had no rated public notes.",
+    "Joint ventures: none disclosed in the FY2025 10-K or the merger documents.",
+    "No public link found to Domain Real Estate Partners, Millrose Properties, TPG Angelo Gordon, Varde, Essential Housing, IHP, Brookfield, Oaktree, GTIS, Hearthstone, Walton or Forestar. This is 'not found', not 'does not exist'. EDGAR full-text search was not reachable (curl blocked) and only one web search was run.",
+    "Convertible notes (redeemed 2024): face amount and coupon not read in this run."
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/uhg-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R9.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R16.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R17.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000009/R73.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000110465926054519/tm2613353d1_8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000114036126014128/ny20067664x2_defm14c.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000110465924127664/tm2430715d1_8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018825000066/uhg-20250929.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000012/uhg-20260331.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018824000014/uhg-q12024xex99x1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018824000017/uhg-20240331.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000183018826000006/uhg-fy2025xex99x1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000110465926018344/tm266691d1_ex99-1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000110465926018344/tm266691d1_8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000110465925100651/tm2529074d1_8k.htm",
+    "https://www.housingwire.com/articles/stanley-martin-united-homes-closes/",
+    "https://www.housingwire.com/articles/united-homes-groups-roadmap-to-becoming-a-mega-regional-giant/",
+    "https://data.sec.gov/submissions/CIK0001830188.json",
+    "https://www.sec.gov/Archives/edgar/data/1830188/000110465924007743/tm244211d1_8k.htm"
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "builder_id": "empire-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Empire Homes is a conventional for-sale homebuilder (entry-level and move-up, plus Ontario condos), privately owned by the Guizzetti family through Willowdale Asset Management in Vaughan, Ontario. It funds itself with high-yield bonds issued by Empire Communities Corp. (US$475 million of 9.75% senior notes due 2029 and C$225 million of 7.625% senior unsecured notes due November 2029), a revolving credit facility whose size and lenders are not public, and family equity; S&P had the issuer on negative outlook in January 2026. It carries a large land position on its own and its affiliates' books (more than 28,000 potential future homesites) and develops lots in-house through sister company Precedent Land Company. No outside land banker or lot-option partner is named publicly. It is a plausible land-banking customer for its U.S. Sunbelt divisions, given the cost of its unsecured debt and the negative outlook, but note that its parent also owns Rooftop Capital, which sells lot banking and A&D loans to other U.S. builders, so the group understands the product and competes at the small end.",
+    "land_strategy": "Land-heavy and vertically integrated, in its own words 'fully vertically integrated': it buys and develops land itself (the former land division, now Precedent Land Company, a sister company under Willowdale) and cites a strategic land position of more than 28,000 potential future homesites in planning, development or construction. No owned versus optioned split or land-light target is published.",
+    "lots": {
+      "total_controlled": 28000,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-03-02",
+      "confidence": "Verified",
+      "source_url": "https://empirehomes.com/resources/charlotte-based-southcraft-home-builders-rebrands-as-southcraft-by-empire-homes/",
+      "source_title": "Press release: Charlotte-Based SouthCraft Home Builders Rebrands as SouthCraft by Empire Homes",
+      "note": "Company wording is 'more than 28,000 potential future homesites in planning, development or construction'. Company-wide (Canada and U.S., and appears to include condo units); no U.S.-only figure, and no owned/optioned split. Earlier company figures: more than 25,000 (Nov 2024), more than 27,000 (Feb 2025), more than 29,000 (Jul 2025). Years of supply not computed because the homesite count is not U.S.-only."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Rooftop Capital",
+        "counterparty_type": "Affiliate",
+        "description": "Willowdale's own private real estate finance company (Toronto), launched under the group and, in its words, operating alongside a large family office with a multi-billion dollar balance sheet. It offers off-balance-sheet lot banking to large U.S. public and private builders in Sunbelt markets, plus first-mortgage A&D loans. Whether Empire Homes itself uses it for its own lots is not disclosed.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://rooftopcapital.com/",
+        "source_title": "Rooftop Capital website (live)",
+        "note": "Published lot-banking terms: US$10-30+ million per deal, 80-85% of cost advanced (15-20% builder deposit), SOFR + 7-9%, 1% commitment fee. A&D loans: up to 75% LTV / 80% LTC, SOFR + 7-12%, 2-3% fee. Willowdale's site cites about $2 billion of financing transactions. Verification 2026-11-19: wording changed from \"backed by\" to \"operating alongside\" a family office, which is what the site says."
+      },
+      {
+        "counterparty": "Precedent Land Company",
+        "counterparty_type": "Affiliate",
+        "description": "Former land division of Empire (Empire Continental Land), rebranded in December 2024 as a standalone land developer under Willowdale. It acquires and develops master-planned communities in Ontario, Texas (Houston and Austin area: Flora in Hutto, Emory Glen in Magnolia, Coastal Point in League City, Dellrose in Hockley) and the Carolinas, and sells lots to national and regional builders; as the former in-house land division it is presumed to supply Empire Homes too, but lot volumes and terms between Empire Homes and Precedent are not disclosed.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-12",
+        "confidence": "Verified",
+        "source_url": "https://precedentlandco.com/empire-continental-land-rebrands-to-precedent-land-company-operating-independently-under-parent-company-willowdale-asset-management/",
+        "source_title": "Press release: Empire Continental Land Rebrands to Precedent Land Company",
+        "note": "Precedent cites more than 20,000 lots developed and sold across 4,000 acres and 40+ communities; Willowdale's site shows about 7,000 homesites under development and 16 homebuilder partners."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "9.75% Senior Notes due 2029 (US$475 million)",
+        "type": "Senior notes",
+        "principal_usd_m": 475,
+        "rate": "9.75%",
+        "maturity": "2029",
+        "secured": "",
+        "lenders_agent": "Initial purchasers led by J.P. Morgan Securities and RBC Capital Markets",
+        "status": "Outstanding",
+        "as_of": "2024-04-29",
+        "confidence": "Reported",
+        "source_url": "https://www.stblaw.com/about-us/news/view/2024/04/30/simpson-thacher-represents-initial-purchasers-in-us$475-million-senior-notes-offering-and-dealer-manager-in-concurrent-tender-offer-by-empire-communities",
+        "source_title": "Simpson Thacher: represents initial purchasers in US$475 million senior notes offering and dealer manager in concurrent tender offer by Empire Communities",
+        "note": "Rule 144A / Regulation S issue by Empire Communities Corp., issued 2024-04-29; proceeds funded the tender for the 7.00% notes due 2025. Maturity month and security not stated in the source. Issuer does not file with the SEC; noteholder reports sit behind an access-request form on the company's investor relations page. Amount still outstanding today is not confirmed."
+      },
+      {
+        "instrument": "7.625% Senior Unsecured Notes due November 1, 2029 (C$225 million)",
+        "type": "Senior notes",
+        "principal_usd_m": null,
+        "rate": "7.625%",
+        "maturity": "2029-11",
+        "secured": "Unsecured",
+        "lenders_agent": "RBC Capital Markets and BMO Capital Markets (joint bookrunners); J.P. Morgan (passive bookrunner); CIBC, Desjardins, Scotiabank (lead managers)",
+        "status": "Outstanding",
+        "as_of": "2024-11-04",
+        "confidence": "Verified",
+        "source_url": "https://rss.globenewswire.com/news-release/2024/11/04/2974242/0/en/empire-communities-corp-announces-closing-of-cad-225-million-senior-notes-offering-and-redemption-of-7-375-senior-notes-due-december-15-2025.html",
+        "source_title": "Press release: Empire Communities Corp. Announces Closing of CAD$225 Million Senior Notes Offering and Redemption of 7.375% Senior Notes Due December 15, 2025",
+        "note": "Principal is C$225 million (Canadian dollars), so the USD field is left empty. Private placement in Canada, issued at par, guaranteed by certain subsidiaries; interest paid May 1 and November 1. Underwriter list from the Torys deal note (torys.com)."
+      },
+      {
+        "instrument": "Revolving credit facility",
+        "type": "Revolver",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "Not disclosed",
+        "status": "Outstanding",
+        "as_of": "2024-11-04",
+        "confidence": "Verified",
+        "source_url": "https://rss.globenewswire.com/news-release/2024/11/04/2974242/0/en/empire-communities-corp-announces-closing-of-cad-225-million-senior-notes-offering-and-redemption-of-7-375-senior-notes-due-december-15-2025.html",
+        "source_title": "Press release: Empire Communities Corp. Announces Closing of CAD$225 Million Senior Notes Offering and Redemption of 7.375% Senior Notes Due December 15, 2025",
+        "note": "Existence confirmed by the November 2024 release: about C$221 million of the notes proceeds was initially repaid under it, C$150 million of which was redrawn to redeem the 7.375% notes, so roughly C$75 million of revolver draws were termed out. Commitment size, maturity, agent and lenders are not public."
+      },
+      {
+        "instrument": "7.375% Senior Notes due December 15, 2025 (C$150 million)",
+        "type": "Senior notes",
+        "principal_usd_m": null,
+        "rate": "7.375%",
+        "maturity": "2025-12",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Redeemed",
+        "as_of": "2024-12-15",
+        "confidence": "Verified",
+        "source_url": "https://rss.globenewswire.com/news-release/2024/11/04/2974242/0/en/empire-communities-corp-announces-closing-of-cad-225-million-senior-notes-offering-and-redemption-of-7-375-senior-notes-due-december-15-2025.html",
+        "source_title": "Press release: Empire Communities Corp. Announces Closing of CAD$225 Million Senior Notes Offering and Redemption of 7.375% Senior Notes Due December 15, 2025",
+        "note": "C$150 million, redeemed at par on 2024-12-15 with revolver funds freed by the C$225 million issue."
+      },
+      {
+        "instrument": "7.000% Senior Notes due 2025 (US$475 million)",
+        "type": "Senior notes",
+        "principal_usd_m": 475,
+        "rate": "7.000%",
+        "maturity": "2025-12",
+        "secured": "",
+        "lenders_agent": "J.P. Morgan Securities (dealer manager on the tender)",
+        "status": "Redeemed",
+        "as_of": "2024-04-29",
+        "confidence": "Verified",
+        "source_url": "https://rss.globenewswire.com/news-release/2024/04/24/2868848/0/en/empire-communities-corp-announces-the-expiration-and-results-of-cash-tender-offer-for-any-and-all-7-000-senior-notes-due-2025.html",
+        "source_title": "Press release: Empire Communities Corp. Announces the Expiration and Results of Cash Tender Offer for Any and All 7.000% Senior Notes Due 2025",
+        "note": "US$465.997 million (98.1%) tendered by 2024-04-23 at $1,010.21 per $1,000, settled 2024-04-29; a further $9.003 million came in under guaranteed delivery. The company said it might discharge the indenture and redeem any remainder at par on 2024-12-15. Verification 2026-11-19: removed a sentence that tied this series to the November 2024 release; that release concerns the separate C$ 7.375% notes due 2025-12-15."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-01-14",
+        "type": "Rating action",
+        "description": "S&P's 2026 homebuilder outlook lists Empire Communities Corp. among three rated U.S. builders on negative outlook (with LGI Homes and Century Communities). The rating level itself is not given in the report.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.maalot.co.il/Publications/SR20260119125148.pdf",
+        "source_title": "S&P Global Ratings, Industry Credit Outlook 2026: Homebuilders and Developers",
+        "note": "Date is the report date, not the date S&P revised the outlook. Report is S&P's own publication, hosted on its S&P Maalot site."
+      },
+      {
+        "date": "2024-12-15",
+        "type": "Redemption",
+        "description": "Redeemed all C$150 million of 7.375% senior notes due December 15, 2025 at par.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://rss.globenewswire.com/news-release/2024/11/04/2974242/0/en/empire-communities-corp-announces-closing-of-cad-225-million-senior-notes-offering-and-redemption-of-7-375-senior-notes-due-december-15-2025.html",
+        "source_title": "Press release: Empire Communities Corp. Announces Closing of CAD$225 Million Senior Notes Offering and Redemption of 7.375% Senior Notes Due December 15, 2025",
+        "note": "Amount is C$150 million. Redemption date as announced on 2024-11-04; completion not separately confirmed."
+      },
+      {
+        "date": "2024-11-04",
+        "type": "Debt issuance",
+        "description": "Closed C$225 million of 7.625% senior unsecured notes due November 1, 2029 by private placement in Canada; proceeds repaid about C$221 million of revolver borrowings, C$150 million of which was then used to redeem the 7.375% notes.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://rss.globenewswire.com/news-release/2024/11/04/2974242/0/en/empire-communities-corp-announces-closing-of-cad-225-million-senior-notes-offering-and-redemption-of-7-375-senior-notes-due-december-15-2025.html",
+        "source_title": "Press release: Empire Communities Corp. Announces Closing of CAD$225 Million Senior Notes Offering and Redemption of 7.375% Senior Notes Due December 15, 2025",
+        "note": "Amount is C$225 million. Pre-2025, included because it sets the current maturity profile (nothing due before 2029)."
+      },
+      {
+        "date": "2024-04-29",
+        "type": "Debt issuance",
+        "description": "Issued US$475 million of 9.75% senior notes due 2029 (Rule 144A / Reg S), led by J.P. Morgan and RBC Capital Markets, to fund the tender for its 7.00% notes due 2025.",
+        "amount_usd_m": 475,
+        "confidence": "Reported",
+        "source_url": "https://www.stblaw.com/about-us/news/view/2024/04/30/simpson-thacher-represents-initial-purchasers-in-us$475-million-senior-notes-offering-and-dealer-manager-in-concurrent-tender-offer-by-empire-communities",
+        "source_title": "Simpson Thacher: represents initial purchasers in US$475 million senior notes offering and dealer manager in concurrent tender offer by Empire Communities",
+        "note": "Pre-2025, included because it is the company's main outstanding bond."
+      },
+      {
+        "date": "2024-04-24",
+        "type": "Redemption",
+        "description": "Cash tender for any and all US$475 million 7.000% senior notes due 2025: US$465.997 million (98.1%) tendered, settled 2024-04-29.",
+        "amount_usd_m": 466,
+        "confidence": "Verified",
+        "source_url": "https://rss.globenewswire.com/news-release/2024/04/24/2868848/0/en/empire-communities-corp-announces-the-expiration-and-results-of-cash-tender-offer-for-any-and-all-7-000-senior-notes-due-2025.html",
+        "source_title": "Press release: Empire Communities Corp. Announces the Expiration and Results of Cash Tender Offer for Any and All 7.000% Senior Notes Due 2025",
+        "note": ""
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Covington Homes (Colorado Springs)",
+        "description": "Strategic partnership announced 2024-09-30 that took Empire into Colorado Springs, its eighth U.S. market; the Covingtons now run it as Regional Co-Presidents, Colorado. Ownership split and funding are not disclosed.",
+        "date": "2024-09-30",
+        "confidence": "Verified",
+        "source_url": "https://empirehomes.com/resources/empire-communities-expands-us-presence-through-partnership-with-covington-homes/",
+        "source_title": "Press release: Empire expands U.S. presence through strategic partnership with Covington Homes",
+        "note": "The leadership page dates the partnership to 2025; the release is dated September 30, 2024."
+      },
+      {
+        "partner": "Edward Andrews Homes (Atlanta)",
+        "description": "2019 strategic partnership that created Empire's Atlanta / Southeast division; co-founders Paul Corley and Todd Hager still run the region. Structure not disclosed.",
+        "date": "2019",
+        "confidence": "Verified",
+        "source_url": "https://empirehomes.com/about/leadership/",
+        "source_title": "Empire Homes leadership page (live)",
+        "note": "Operating partnership rather than a land JV; listed because the founders remain the regional land decision-makers."
+      },
+      {
+        "partner": "Rooftop Capital investors (land equity JVs)",
+        "description": "Willowdale's site markets 'land equity JV' returns alongside A&D loans and land banking through Rooftop Capital, which implies third-party capital in group land ventures. No partner names or project-level detail are public.",
+        "date": "2026-11",
+        "confidence": "Inferred",
+        "source_url": "https://willowdaleasset.com/financing/",
+        "source_title": "Willowdale Asset Management: Financing (Rooftop Capital) page",
+        "note": "Partners not named; treat as a pointer, not a confirmed JV with Empire Homes."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "S&P: rated, negative outlook as of January 2026 (rating level not confirmed in this run). Moody's / Fitch: not confirmed.",
+      "fiscal_year_end": "",
+      "as_of": "2026-01-14",
+      "confidence": "Verified",
+      "source_url": "https://www.maalot.co.il/Publications/SR20260119125148.pdf",
+      "source_title": "S&P Global Ratings, Industry Credit Outlook 2026: Homebuilders and Developers"
+    },
+    "competitor_links": [
+      {
+        "firm": "Rooftop Capital",
+        "relationship": "Sister company under the same parent (Willowdale Asset Management). It is itself a lot banker and A&D lender to U.S. homebuilders, so Empire's owners run a small competitor to Domain. No public evidence that it banks Empire's own lots.",
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://rooftopcapital.com/",
+        "source_title": "Rooftop Capital website (live)",
+        "note": "Team page names Kelly Marshall (Board Chair) and Scott Sadleir (Vice President); head office 130 Bloor St. W, Toronto."
+      }
+    ]
+  },
+  "ma": [
+    {
+      "date": "2025-02-07",
+      "role": "Acquirer",
+      "counterparty": "SouthCraft Home Builders (Charlotte, NC)",
+      "description": "Empire acquired SouthCraft, a value-priced Charlotte-area builder of nearly 200 homes a year; price not disclosed. Builder Advisor Group advised the seller. SouthCraft kept its operations and team and was rebranded SouthCraft by Empire Homes in March 2026.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Adds a second Charlotte brand under the Carolinas region with its own division president (Matt Roesch, appointed by March 2026) and six communities in the pipeline; trade press says SouthCraft partner David Hensley stayed on as a regional land manager and that founder Judson Stringfellow sold as a succession exit.",
+      "confidence": "Verified",
+      "source_url": "https://rss.globenewswire.com/news-release/2025/02/07/3022781/0/en/empire-communities-strengthens-presence-in-charlotte-with-the-acquisition-of-southcraft-home-builders.html",
+      "source_title": "Press release: Empire Communities Strengthens Presence in Charlotte with the Acquisition of SouthCraft Home Builders",
+      "note": "Hensley and Stringfellow details are from The Builder's Daily (Reported), https://www.thebuildersdaily.com/empire-building-southcraft-expands-u-s-footprint-scale-2. The 200-homes figure and rebrand are from the March 2026 company release."
+    },
+    {
+      "date": "2024-12-02",
+      "role": "Divestiture",
+      "counterparty": "Willowdale Asset Management / Precedent Land Company (internal reorganisation)",
+      "description": "The corporate division of Empire became Willowdale Asset Management, the parent of Empire Homes, and the land division (Empire Continental Land) was carved out as Precedent Land Company. Not a third-party deal; the homebuilder itself was rebranded from Empire Communities to Empire Homes on 2025-07-14.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Explains the map: land development, investment and finance leadership now sit at the Willowdale / Precedent level rather than inside the homebuilder, and the Builder 100 name changed from Empire Communities to Empire Homes.",
+      "confidence": "Verified",
+      "source_url": "https://precedentlandco.com/empire-continental-land-rebrands-to-precedent-land-company-operating-independently-under-parent-company-willowdale-asset-management/",
+      "source_title": "Press release: Empire Continental Land Rebrands to Precedent Land Company",
+      "note": "December 2024, just before the 2025 window; included for context. 'Divestiture' is the closest enum for an internal carve-out."
+    }
+  ],
+  "gaps": [
+    "M&A since the 2026 Builder 100 (May 2026): none found on the Empire Homes or Willowdale newsrooms as of 2026-11-19; trade-press sweep not completed because the swarm's web search allowance ran out",
+    "Owned versus optioned lots, U.S.-only lot count and years of supply: not publicly disclosed (private company; noteholder reports are behind an access-request form)",
+    "Outside land banker or lot-option partner: none publicly named; no public link found to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon (one search, no hits)",
+    "Whether affiliate Rooftop Capital or Precedent Land Company holds lots for Empire Homes off balance sheet, and on what terms: not publicly disclosed",
+    "Revolving credit facility size, maturity, agent and lenders: not publicly disclosed",
+    "Current amounts outstanding on the 9.75% notes due 2029 and the 7.625% notes due November 2029, and exact maturity date and security of the 9.75% notes: not confirmed (latest public sources are the 2024 issuance announcements)",
+    "Total debt, cash, liquidity, leverage and fiscal year-end: not publicly disclosed",
+    "S&P rating level and date of the move to negative outlook, and any Moody's or Fitch rating: not confirmed in this run",
+    "Revenue: not disclosed to Builder (shown as $0 on the 2026 list per the project spine)",
+    "Parent-level funding (Willowdale / Guizzetti family equity, any institutional investors in Willowdale's roughly $5 billion of assets under management): not publicly detailed",
+    "SouthCraft purchase price and Covington Homes / Edward Andrews partnership structures: not disclosed"
+  ],
+  "sources_consulted": [
+    "https://rss.globenewswire.com/news-release/2024/11/04/2974242/0/en/empire-communities-corp-announces-closing-of-cad-225-million-senior-notes-offering-and-redemption-of-7-375-senior-notes-due-december-15-2025.html",
+    "https://rss.globenewswire.com/news-release/2024/04/24/2868848/0/en/empire-communities-corp-announces-the-expiration-and-results-of-cash-tender-offer-for-any-and-all-7-000-senior-notes-due-2025.html",
+    "https://www.stblaw.com/about-us/news/view/2024/04/30/simpson-thacher-represents-initial-purchasers-in-us$475-million-senior-notes-offering-and-dealer-manager-in-concurrent-tender-offer-by-empire-communities",
+    "https://www.torys.com/work/2024/11/a815df5d-ece6-4916-a1b3-1fd8bed33f80",
+    "https://www.maalot.co.il/Publications/SR20260119125148.pdf",
+    "https://rooftopcapital.com/",
+    "https://rooftopcapital.com/team/",
+    "https://willowdaleasset.com/financing/",
+    "https://willowdaleasset.com/land-development/",
+    "https://willowdaleasset.com/home-building/",
+    "https://willowdaleasset.com/about/",
+    "https://precedentlandco.com/",
+    "https://precedentlandco.com/texas/",
+    "https://precedentlandco.com/empire-continental-land-rebrands-to-precedent-land-company-operating-independently-under-parent-company-willowdale-asset-management/",
+    "https://empirehomes.com/investor-relations/",
+    "https://empirehomes.com/news-and-media/",
+    "https://empirehomes.com/resources/empire-communities-announces-closing-of-senior-notes/",
+    "https://empirehomes.com/resources/charlotte-based-southcraft-home-builders-rebrands-as-southcraft-by-empire-homes/",
+    "https://rss.globenewswire.com/news-release/2025/02/07/3022781/0/en/empire-communities-strengthens-presence-in-charlotte-with-the-acquisition-of-southcraft-home-builders.html",
+    "https://empirehomes.com/resources/empire-communities-rebrands-to-empire-homes-ushering-in-a-new-era-focused-on-growth-and-attainable-homeownership/",
+    "https://empirehomes.com/resources/empire-communities-expands-us-presence-through-partnership-with-covington-homes/",
+    "https://www.thebuildersdaily.com/empire-building-southcraft-expands-u-s-footprint-scale-2",
+    "https://renx.ca/empire-communities-rebrands-now-known-as-empire-homes",
+    "https://rss.globenewswire.com/en/search/organization/Empire%2520Communities?page=1",
+    "https://rss.globenewswire.com/en/search/organization/Empire%2520Communities?page=2"
+  ]
+}

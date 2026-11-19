@@ -1,0 +1,209 @@
+[
+ {
+  "rank": 23,
+  "id": "middleburg-communities",
+  "name": "Middleburg Communities",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Vienna, VA",
+  "closings": 4150
+ },
+ {
+  "rank": 25,
+  "id": "dsld-homes",
+  "name": "DSLD Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Denham Springs, LA",
+  "closings": 3989
+ },
+ {
+  "rank": 28,
+  "id": "the-villages-of-lake-sumter",
+  "name": "The Villages of Lake Sumter",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "The Villages, FL",
+  "closings": 3527
+ },
+ {
+  "rank": 30,
+  "id": "habitat-for-humanity-international",
+  "name": "Habitat for Humanity International",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Atlanta, GA",
+  "closings": 3370
+ },
+ {
+  "rank": 31,
+  "id": "adams-homes",
+  "name": "Adams Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Pensacola, FL",
+  "closings": 3218
+ },
+ {
+  "rank": 35,
+  "id": "amh",
+  "name": "AMH",
+  "ownership": "Public",
+  "parent": null,
+  "hq": "Las Vegas, NV",
+  "closings": 2322
+ },
+ {
+  "rank": 36,
+  "id": "maronda-homes",
+  "name": "Maronda Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 2317
+ },
+ {
+  "rank": 38,
+  "id": "betenbough-homes",
+  "name": "Betenbough Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Lubbock, TX",
+  "closings": 2146
+ },
+ {
+  "rank": 39,
+  "id": "true-homes",
+  "name": "True Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Monroe, NC",
+  "closings": 2126
+ },
+ {
+  "rank": 40,
+  "id": "cbh-homes",
+  "name": "CBH Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Meridian, ID",
+  "closings": 1877
+ },
+ {
+  "rank": 41,
+  "id": "bloomfield-homes",
+  "name": "Bloomfield Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Southlake, TX",
+  "closings": 1810
+ },
+ {
+  "rank": 42,
+  "id": "minto-communities",
+  "name": "Minto Communities",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Coconut Creek, FL",
+  "closings": 1766
+ },
+ {
+  "rank": 43,
+  "id": "davidson-homes",
+  "name": "Davidson Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Huntsville, AL",
+  "closings": 1683
+ },
+ {
+  "rank": 44,
+  "id": "gl-homes",
+  "name": "GL Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Sunrise, FL",
+  "closings": 1617
+ },
+ {
+  "rank": 45,
+  "id": "kolter-homes",
+  "name": "Kolter Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "West Palm Beach, FL",
+  "closings": 1606
+ },
+ {
+  "rank": 46,
+  "id": "eastwood-homes",
+  "name": "Eastwood Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Charlotte, NC",
+  "closings": 1506
+ },
+ {
+  "rank": 48,
+  "id": "castlerock-communities",
+  "name": "Castlerock Communities",
+  "ownership": "Subsidiary",
+  "parent": "Daiwa House Group",
+  "hq": "Houston, TX",
+  "closings": 1465
+ },
+ {
+  "rank": 49,
+  "id": "legend-homes",
+  "name": "Legend Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Houston, TX",
+  "closings": 1457
+ },
+ {
+  "rank": 50,
+  "id": "bbl-building-co",
+  "name": "BBL Building Co.",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Plano, TX",
+  "closings": 1449
+ },
+ {
+  "rank": 51,
+  "id": "hancock-builders",
+  "name": "Hancock Builders",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Phoenix, AZ",
+  "closings": 1374
+ },
+ {
+  "rank": 52,
+  "id": "edge-homes",
+  "name": "Edge Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Orem, UT",
+  "closings": 1353
+ },
+ {
+  "rank": 53,
+  "id": "epcon-communities",
+  "name": "Epcon Communities",
+  "ownership": "Private",
+  "parent": null,
+  "hq": null,
+  "closings": 1269
+ },
+ {
+  "rank": 54,
+  "id": "hayden-homes",
+  "name": "Hayden Homes",
+  "ownership": "Private",
+  "parent": null,
+  "hq": "Redmond, OR",
+  "closings": 1251
+ }
+]

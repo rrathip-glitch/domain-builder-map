@@ -1,0 +1,113 @@
+{
+  "builder_id": "christopher-alan-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Private, founder-led and self-described 'builder-owned' Florida builder (554 to 555 closings in 2025) with no public debt, no SEC filings and no disclosed lender, credit facility, land banker or outside capital partner. It is a conventional for-sale builder, but its land model is unusual: most homes go up one at a time on scattered infill lots it buys from individual owners and the MLS in pre-platted communities (Cape Coral, Lehigh Acres, Port Charlotte, Palm Bay, Citrus Springs, Marion Oaks), plus a build-on-your-lot programme, which needs little land capital and is a poor fit for a classic land-bank structure. The opening for a land banker is the newer community business: it took finished homesites in West Port (111 lots, 2022) and Babcock Ranch (291 homes, 2023), and in September 2026 was named one of five builders in Barron Collier's 2,000-home Brightshore in Naples, alongside Pulte, Toll, Taylor Morrison and M/I. So it is a plausible but small land-banking customer, most likely for bulk finished-lot takedowns in master plans; how it funds those today is not public.",
+    "land_strategy": "Asset-light by design rather than by option: the CEO has said the company enters markets where there is a single ('spot') lot opportunity because it carries much less risk, and the company's current land-acquisition job posting describes sourcing scattered, spot and infill lots from the MLS. It also solicits land sellers directly ('one or one-thousand lots') and takes finished homesites from master developers (West Port, Babcock Ranch, Brightshore). No owned/optioned split or stated target is published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Inferred",
+      "source_url": "https://christopheralanhomes.com/sell-your-land-2/",
+      "source_title": "Christopher Alan Homes 'Sell Your Land' page",
+      "note": "No lot counts are published (private company). The only lot-level numbers in public sources are per-community: 111 homesites in the first phase of The Hammocks at West Port (2022) and 291 homes at Creekside Run in Babcock Ranch (2023). The Brightshore allocation is not disclosed."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Barron Collier Companies",
+        "counterparty_type": "Developer",
+        "description": "Master developer of Brightshore (about 680 acres, roughly 2,000 homes, Immokalee Road, Naples). Christopher Alan Homes is one of five builders selected, with Toll Brothers, Taylor Morrison, Pulte and M/I Homes; its neighbourhood is marketed as Horizon at Brightshore. The developer says it will soon turn homesites over to builders, with models expected by summer 2027.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-09",
+        "confidence": "Reported",
+        "source_url": "https://barroncollier.com/2026/09/21/barron-collier-companies-at-brightshore/",
+        "source_title": "Barron Collier Companies Names Five Homebuilders at Brightshore (developer press release)",
+        "note": "This is a finished-lot purchase relationship with a developer, not a land-bank facility. Lot count, price and takedown terms for Christopher Alan Homes are not disclosed (M/I Homes separately disclosed 526 lots there). The builder's own site confirms the community as 'coming soon': https://christopheralanhomes.com/horizon-at-brightshore/. Largest and most recent community commitment found; the most likely place a lot-option financier would be useful."
+      },
+      {
+        "counterparty": "Babcock Ranch (master-planned community; developer not named in the source)",
+        "counterparty_type": "Developer",
+        "description": "Creekside Run, the builder's first neighbourhood in Babcock Ranch: 291 single-family homes on about 100 acres in the Midtown phase, announced February 2023 with sales launched later that year.",
+        "amount_usd_m": null,
+        "lots": 291,
+        "date": "2023-02",
+        "confidence": "Reported",
+        "source_url": "https://swfloridabusinesstoday.com/christopher-alan-homes-announces-creekside-run-neighborhood-in-babcock-ranch/",
+        "source_title": "Christopher Alan Homes announces Creekside Run neighborhood in Babcock Ranch (company release carried by Southwest Florida Business Today)",
+        "note": "Not a land-bank facility. How the land was bought or financed is not disclosed. Babcock Ranch is not among the locations on the builder's site as of November 2026 and a June 2026 company release describes the business as building on individual homesites, so this position may be sold out, sold or wound down; current status unconfirmed."
+      },
+      {
+        "counterparty": "West Port, Port Charlotte (master-planned community; developer not named in the source)",
+        "counterparty_type": "Developer",
+        "description": "Hammock Village / The Hammocks at West Port: 111 homesites announced May 2022; a second phase was being planned as of January 2024.",
+        "amount_usd_m": null,
+        "lots": 111,
+        "date": "2022-05",
+        "confidence": "Reported",
+        "source_url": "https://swfloridabusinesstoday.com/christopher-alan-homes-announces-expansion-into-new-home-community/",
+        "source_title": "Christopher Alan Homes Announces Expansion into New Home Community (company release carried by Southwest Florida Business Today)",
+        "note": "Not a land-bank facility; terms not disclosed. Second-phase reference is from the company's January 2024 release (https://swfloridabusinesstoday.com/christopher-alan-homes-experienced-tremendous-growth-in-2023-looking-ahead-to-2024/). Not listed on the builder's site as of November 2026; current status unconfirmed."
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "https://www.businessobserverfl.com/news/2023/may/19/strategy-shift-pays-off-for-locally-based-homebuilder",
+      "source_title": "Strategy shift pays off for locally based homebuilder (Business Observer, 2023-05-19)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facility, construction lenders, land loans: not publicly disclosed (private company, no SEC filings, no lender named in any press item opened).",
+    "Land banker, lot-option partner or outside capital partner: none found in public sources; the company calls itself 'builder-owned'.",
+    "Owned versus optioned lots, total lots controlled, years of supply: not publicly disclosed.",
+    "Balance sheet (debt, cash, liquidity, leverage) and credit ratings: not publicly disclosed; key_metrics is empty for that reason.",
+    "Revenue: the company gave Business Observer $80.5M (2020), $133.6M (2021) and $141.98M (2022), and in January 2024 anticipated $203M for 2023; 2024 and 2025 revenue could not be confirmed because the Builder 100 pages on builderonline.com returned 403 (the orchestrator's roughly $180M lead for 2025 is unverified).",
+    "M&A 2025 to date: no acquisition, sale or merger involving Christopher Alan Homes found in the company site, Business Observer, Southwest Florida Business Today or the Barron Collier newsroom. Growth has been organic (LaBelle October 2025; Ocala / Marion Oaks October 2026; Brightshore September 2026; Spring Hill and Royal Highlands listed as coming soon).",
+    "Link to Domain Real Estate Partners, Millrose, Kennedy Lewis or TPG Angelo Gordon: none found. One combined search for the builder with 'land bank' / 'lot option' / lender terms returned nothing relevant; the shared web-search allowance then ran out, so name-by-name competitor queries were not run.",
+    "Brightshore lot count, price and takedown schedule for Christopher Alan Homes: not disclosed by the developer or the builder.",
+    "County mortgage records and Florida UCC filings (which would name lenders) were not searched; the Florida corporate registry (Sunbiz) returned 403.",
+    "Affiliates: an in-house title agency (CAH Title, in the same Fort Myers office park) and a preferred mortgage lender (Sunshine Lending) serve homebuyers; neither is a source of corporate or land financing as far as public sources show. The builder grew out of concrete-shell contractor JHS Builders (Business Observer, 2020); the current relationship between the two entities is not public."
+  ],
+  "sources_consulted": [
+    "https://christopheralanhomes.com/sell-your-land-2/",
+    "https://christopheralanhomes.com/careers/",
+    "https://christopheralanhomes.com/",
+    "https://christopheralanhomes.com/our-team/",
+    "https://christopheralanhomes.com/horizon-at-brightshore/",
+    "https://christopheralanhomes.com/on-your-lot/",
+    "https://christopheralanhomes.com/financing/",
+    "https://christopheralanhomes.com/west-central-florida/",
+    "https://www.cah-title.com/",
+    "https://barroncollier.com/2026/09/21/barron-collier-companies-at-brightshore/",
+    "https://www.businessobserverfl.com/news/2023/may/19/strategy-shift-pays-off-for-locally-based-homebuilder",
+    "https://www.businessobserverfl.com/news/2020/feb/07/homebuilder-grows-through-focus-on-demographic-niche-regional-expansion/",
+    "https://www.businessobserverfl.com/news/2026/sep/23/homebuilder-new-residence-naples-community/",
+    "https://www.businessobserverfl.com/news/2026/oct/01/fort-myers-builder-expands-ocala/",
+    "https://www.businessobserverfl.com/search/?q=%22Christopher+Alan+Homes%22",
+    "https://swfloridabusinesstoday.com/christopher-alan-homes-announces-creekside-run-neighborhood-in-babcock-ranch/",
+    "https://swfloridabusinesstoday.com/christopher-alan-homes-announces-expansion-into-new-home-community/",
+    "https://swfloridabusinesstoday.com/christopher-alan-homes-experienced-tremendous-growth-in-2023-looking-ahead-to-2024/",
+    "https://swfloridabusinesstoday.com/christopher-alan-homes-expands-to-labelle/",
+    "https://swfloridabusinesstoday.com/christopher-alan-homes-ranks-as-no-27-single-family-homebuilder/",
+    "https://swfloridabusinesstoday.com/christopher-alan-homes-ranks-among-nations-top-100-private-homebuilders/",
+    "https://swfloridabusinesstoday.com/christopher-alan-homes-expands-port-charlotte-presence-with-new-sales-office/",
+    "https://www.barroncollier.com/?s=Christopher+Alan"
+  ]
+}

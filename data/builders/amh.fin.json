@@ -1,0 +1,422 @@
+{
+  "builder_id": "amh",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "AMH is a single-family-rental REIT that builds homes to keep and rent (AMH Development), and it funds that land and construction from its own investment-grade, fully unencumbered balance sheet: $5.22B of debt at 2026-09-30, all unsecured (ten senior notes series totalling $4.8B, maturing 2028 to 2052, plus $420M drawn on a $1.25B Wells Fargo-agented revolver), rated BBB/Baa2 stable, at 5.2x net debt and preferred to adjusted EBITDAre, with no maturities until the $500M February 2028 notes. It owns nearly all of its land (5,066 of 5,422 lots, about 93%) and has cut the pipeline from a peak of about 14,000 lots earlier in the decade; 2026 wholly owned development is sized to be match-funded by $500M+ of home sales, while cash flow goes to buybacks (about $463M from November 2025 to September 2026). It has used a land banker before: in June 2022 it announced a $500M land banking facility with Värde Partners, and its filings show land sold to an unnamed land banking entity in 2022 with buyback options on finished lots, carried as $89.7M of consolidated land not owned at year-end 2024 and fully repurchased by year-end 2025 ($82.0M paid in 2024, $54.0M in 2025). So AMH is a plausible land-banking customer (the 10-K says it may use land banking again, and it already works with institutional capital through four 20%-owned JVs, two with J.P. Morgan Asset Management), but near-term need looks small while development is being scaled back and lots are being sold; the opening would be a renewed growth phase or a wish to take lots off balance sheet in specific markets such as Atlanta, Phoenix, Seattle or Charleston.",
+    "land_strategy": "Owns most. AMH buys and develops its own land for built-for-rent communities (it says it typically spends $300,000 to $500,000 to acquire and develop land and build each rental home), with a small optioned share (356 of 5,422 lots, about 6.6%, at 2026-09-30). The 10-K says it has used land banking arrangements in the past and may in the future, paying non-refundable deposits for options on land or finished lots at pre-determined prices. No stated owned/optioned target. The 2026 wholly owned development plan (1,300 to 1,500 homes, $500M to $600M) is 'match funded' with disposition proceeds, development spending was scaled back 'given the current capital markets environment' (Q3 2026 10-Q), and AMH is a net seller of some land: 688 land lots were in escrow for sale at 2026-09-30, and land purchase commitments were $110.8M (option contracts excluded).",
+    "lots": {
+      "total_controlled": 5422,
+      "owned": 5066,
+      "optioned": 356,
+      "pct_optioned": 6.6,
+      "years_supply": 2.9,
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-Third-Quarter-2026-Earnings-Release-and-Supplemental-Information-Package.pdf",
+      "source_title": "AMH Third Quarter 2026 Earnings Release and Supplemental Information Package (2026-11-04), AMH Development Pipeline Summary (page 22)",
+      "note": "Owned = lots for future delivery across 14 development markets (largest: Atlanta 774, Phoenix 537, Seattle 519, Charleston 503); optioned = lots optioned (counterparties not disclosed). pct_optioned (356/5,422) and years_supply (5,422 lots / about 1,900 total 2026 deliveries at the guidance midpoint) are calculated here, not company figures. The pipeline was 7,756 lots at 2025-12-31 (7,088 wholly owned, 668 JV) and peaked at about 14,000 earlier in the decade (November 2026 investor deck chart, rounded; peak year not legible in the extracted text). The pipeline covers lots for both wholly owned and 20%-owned JV deliveries."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Värde Partners",
+        "counterparty_type": "Land banker",
+        "description": "Land banking facility with $500M of initial capacity to acquire and develop land for AMH's internal development platform; at announcement the partners had closed their first six land transactions (over $150M of acquisition and development cost), with more sites in diligence.",
+        "amount_usd_m": 500.0,
+        "lots": null,
+        "date": "2022-06",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_news/2022/06/FINAL-AMH-Varde-Partners-Land-Banking-Release.pdf",
+        "source_title": "AMH press release: American Homes 4 Rent and Värde Partners enter into $500 million land banking facility agreement (2022-06-06)",
+        "note": "Announced jointly on 2022-06-06 (also on PR Newswire and varde.com). Quoted: Brendan Bosman, Senior Managing Director at Värde, and David Singelyn, then AMH CEO. No later AMH or Värde release on the facility was found (varde.com search lists only this one), and the filings show the related balances at zero by year-end 2025, so it appears inactive; no termination was announced."
+      },
+      {
+        "counterparty": "Unnamed land banking entity (AMH filings; very likely Värde Partners)",
+        "counterparty_type": "Land banker",
+        "description": "In 2022 AMH sold land to a third party under land option agreements with options to repurchase finished lots on a set schedule, accounted for as a financing. Consolidated land not owned was $89.7M (liability $74.5M) at 2024-12-31 and zero at 2025-12-31; AMH paid the land banking entity $82.0M in 2024 and $54.0M in 2025 ($38.2M of it in the first nine months), and its deposits with land banking VIEs fell from $6.9M to zero.",
+        "amount_usd_m": 89.7,
+        "lots": null,
+        "date": "2022",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), Note 2 (Land Option Contracts), Note 5, Note 8 and cash flow statement",
+        "note": "amount_usd_m is consolidated land not owned at 2024-12-31. The filings never name the counterparty; linking it to Värde is an inference from timing (both 2022) and from Värde being AMH's only announced land-bank partner. The Q3 2026 10-Q calls the 2025 payments nonrecurring and shows none in 2026. Lot counts were not disclosed."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "4.25% Unsecured Senior Notes due 2028",
+        "type": "Senior notes",
+        "principal_usd_m": 500.0,
+        "rate": "4.25%",
+        "maturity": "2028-02-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q1 2018 by American Homes 4 Rent, L.P. (the operating partnership); hedged effective rate 4.08%. Nearest bond maturity. Par call from 2027-11-15."
+      },
+      {
+        "instrument": "4.90% Unsecured Senior Notes due 2029",
+        "type": "Senior notes",
+        "principal_usd_m": 400.0,
+        "rate": "4.90%",
+        "maturity": "2029-02-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q1 2019. Par call from 2028-11-15."
+      },
+      {
+        "instrument": "4.95% Unsecured Senior Notes due 2030",
+        "type": "Senior notes",
+        "principal_usd_m": 650.0,
+        "rate": "4.95%",
+        "maturity": "2030-06-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q2 2025 (net proceeds $642.5M) to repay revolver borrowings and for general corporate purposes. Par call from 2030-05-15."
+      },
+      {
+        "instrument": "2.375% Unsecured Senior Notes due 2031",
+        "type": "Senior notes",
+        "principal_usd_m": 450.0,
+        "rate": "2.375%",
+        "maturity": "2031-07-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q3 2021; hedged effective rate 2.46%."
+      },
+      {
+        "instrument": "3.625% Unsecured Senior Notes due 2032",
+        "type": "Senior notes",
+        "principal_usd_m": 600.0,
+        "rate": "3.625%",
+        "maturity": "2032-04-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q2 2022 (10-Q table shows 3.63% rounded)."
+      },
+      {
+        "instrument": "5.50% Unsecured Senior Notes due February 2034 (2034 Notes I, green bond)",
+        "type": "Senior notes",
+        "principal_usd_m": 600.0,
+        "rate": "5.50%",
+        "maturity": "2034-02-01",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q1 2024 under the company's green finance framework."
+      },
+      {
+        "instrument": "5.50% Unsecured Senior Notes due July 2034 (2034 Notes II)",
+        "type": "Senior notes",
+        "principal_usd_m": 500.0,
+        "rate": "5.50%",
+        "maturity": "2034-07-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q2 2024; proceeds used mainly to pay off the AMH 2014-SFR3 securitization."
+      },
+      {
+        "instrument": "5.25% Unsecured Senior Notes due 2035",
+        "type": "Senior notes",
+        "principal_usd_m": 500.0,
+        "rate": "5.25%",
+        "maturity": "2035-03-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q4 2024; hedged effective rate 5.08%."
+      },
+      {
+        "instrument": "3.375% Unsecured Senior Notes due 2051",
+        "type": "Senior notes",
+        "principal_usd_m": 300.0,
+        "rate": "3.375%",
+        "maturity": "2051-07-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q3 2021 (10-Q table shows 3.38% rounded)."
+      },
+      {
+        "instrument": "4.30% Unsecured Senior Notes due 2052",
+        "type": "Senior notes",
+        "principal_usd_m": 300.0,
+        "rate": "4.30%",
+        "maturity": "2052-04-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Issued Q2 2022."
+      },
+      {
+        "instrument": "$1.25 billion sustainability-linked unsecured revolving credit facility",
+        "type": "Revolver",
+        "principal_usd_m": 420.0,
+        "rate": "SOFR + 0.85% (4.75% at 2026-09-30)",
+        "maturity": "2028-07-16",
+        "secured": "Unsecured",
+        "lenders_agent": "Wells Fargo Bank, National Association (Agent)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q (filed 2026-11-05), Note 8. Debt",
+        "note": "Credit agreement dated 2024-07-16 (10-K exhibit 10.29), amended 2025-05-06 (Amendment No. 1, exhibit 10.30). $1.25B commitment; $420.0M drawn and $6.8M of letters of credit at 2026-09-30, leaving $823.2M available. Base maturity 2028-07-16 with two six-month extensions to 2029-07-16 (the 10-Q shows the fully extended date). Margin 0.725%-1.40% over SOFR (+0.10% spread adjustment per the 10-K), facility fee 0.125%-0.30%, both set by credit rating. Agent from the FY2025 10-K exhibit index; individual lenders not checked."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025",
+        "type": "Redemption",
+        "description": "Paid off the $493.2M AMH 2015-SFR1 securitization in Q1 2025, releasing 4,661 pledged homes.",
+        "amount_usd_m": 493.2,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), Note 7. Debt",
+        "note": "Quarter only; exact date not stated in the 10-K."
+      },
+      {
+        "date": "2025",
+        "type": "Facility amendment",
+        "description": "J.P. Morgan JV I (20% owned) amended its loan to raise capacity to $500M at SOFR + 1.50%, maturing 2028-01-24 with one one-year extension.",
+        "amount_usd_m": 500.0,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), Note 6 (unconsolidated joint ventures)",
+        "note": "Q1 2025. JV-level, non-recourse to AMH apart from customary bad-act guarantees; $500.0M outstanding at 2026-09-30."
+      },
+      {
+        "date": "2025-05-06",
+        "type": "Facility amendment",
+        "description": "Amendment No. 1 to the 2024 revolving credit agreement (Wells Fargo Bank, N.A., Agent).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), exhibit index (exhibit 10.30)",
+        "note": "Terms of the amendment were not reviewed in this run; facility size remains $1.25B."
+      },
+      {
+        "date": "2025-05-13",
+        "type": "Debt issuance",
+        "description": "Issued $650M of 4.950% senior notes due 2030-06-15 at 99.444% (priced 2025-05-06); proceeds used to repay revolver borrowings and the 2015-SFR2 securitization. Representatives: Wells Fargo Securities, BofA Securities, Citigroup, J.P. Morgan; trustee U.S. Bank Trust Company.",
+        "amount_usd_m": 650.0,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/000110465925047812/tm2514914d1_8k.htm",
+        "source_title": "AMH Form 8-K (Items 1.01, 2.03) filed 2025-05-13",
+        "note": "Pricing 8-K (Item 8.01) filed 2025-05-07: https://www.sec.gov/Archives/edgar/data/1562401/000110465925045565/tm2511548d4_8k.htm"
+      },
+      {
+        "date": "2025",
+        "type": "Redemption",
+        "description": "Paid off the $426.1M AMH 2015-SFR2 securitization in Q3 2025, releasing 4,147 homes; the portfolio is now fully unencumbered and all debt is unsecured.",
+        "amount_usd_m": 426.1,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), Note 7. Debt",
+        "note": "Quarter only; exact date not stated."
+      },
+      {
+        "date": "2025",
+        "type": "Land-bank deal",
+        "description": "Completed repurchase of the land held by its land banking entity: $54.0M paid in 2025 ($82.0M in 2024); consolidated land not owned went to zero by 2025-12-31.",
+        "amount_usd_m": 54.0,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), cash flow statement and Note 2",
+        "note": "See land_banking rows."
+      },
+      {
+        "date": "2025",
+        "type": "JV",
+        "description": "Contributed $66.0M of property and land to its unconsolidated joint ventures in 2025 (recognising $9.2M of losses on transfers, all in Q3 2025); no transfers in the first nine months of 2026.",
+        "amount_usd_m": 66.0,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), cash flow statement and Note 6",
+        "note": "2026 status from the Q3 2026 10-Q, Note 7."
+      },
+      {
+        "date": "2025",
+        "type": "Other",
+        "description": "Sold single-family properties and land for $630.4M of net proceeds in 2025, and $514.2M in the first nine months of 2026 (1,609 homes); the company expects $500M+ of 2026 disposition proceeds to match-fund development.",
+        "amount_usd_m": 630.4,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+        "source_title": "AMH FY2025 Form 10-K (filed 2026-02-20), Note 4",
+        "note": "2026 figures from the Q3 2026 10-Q (Note 4 and MD&A) and the November 2026 investor deck."
+      },
+      {
+        "date": "2025",
+        "type": "Buyback",
+        "description": "Repurchased 4.7M Class A shares for $150.0M in Q4 2025 (average $31.77) under the 2018 program.",
+        "amount_usd_m": 150.0,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q, Note 10 / MD&A share repurchase program",
+        "note": ""
+      },
+      {
+        "date": "2026-01",
+        "type": "Buyback",
+        "description": "Repurchased 3.7M Class A shares for $115.1M (average $31.49), using up the 2018 program's common-share authorization.",
+        "amount_usd_m": 115.1,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q, MD&A share repurchase program",
+        "note": ""
+      },
+      {
+        "date": "2026-02",
+        "type": "Buyback",
+        "description": "Board authorized a new program for up to $500M of Class A common and $250M of preferred shares; 6.5M shares bought for $198.0M through 2026-09-30 (2.4M for $75.0M in Q3), leaving $302.0M of common authorization.",
+        "amount_usd_m": 500.0,
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q, MD&A share repurchase program",
+        "note": "The deck puts total buybacks from November 2025 to September 2026 at about $463M (about 4% of shares and units)."
+      },
+      {
+        "date": "2026-06-12",
+        "type": "Equity",
+        "description": "Filed a new automatic shelf (S-3ASR) and replaced its expiring at-the-market program with a new $1.0B ATM (with forward-sale option); no shares issued through 2026-09-30.",
+        "amount_usd_m": 1000.0,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1562401/000110465926073560/tm2617579d1_8k.htm",
+        "source_title": "AMH Form 8-K (Item 8.01) filed 2026-06-12",
+        "note": "Sales agents include Morgan Stanley, BofA, BTIG, Citigroup, Jefferies, J.P. Morgan, Mizuho, Raymond James, Regions, Scotia and Wells Fargo."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Institutional investors advised by J.P. Morgan Asset Management (J.P. Morgan JV I)",
+        "description": "AMH 20%. Builds and operates newly built rental homes; started at $253.1M in Q1 2020, upsized to $625M in 2020 and to about $900M in 2023 (evergreen term). 2,383 completed homes and AMH investment $68.2M at 2026-09-30. JV loan $500.0M at SOFR + 1.50%, due 2028-01-24 (one one-year extension). AMH earns development and management fees.",
+        "date": "2020",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q, Note 7",
+        "note": "Size history from the FY2025 10-K, Note 6."
+      },
+      {
+        "partner": "Institutional investors advised by J.P. Morgan Asset Management (J.P. Morgan JV II)",
+        "description": "AMH 20%. Second $625M evergreen build-to-rent JV formed Q3 2023; 547 completed homes and AMH investment $63.2M at 2026-09-30 (262 homes at 2025-12-31), so it is the JV still taking deliveries. No JV-level loan disclosed.",
+        "date": "2023",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q, Note 7",
+        "note": "Formation size from the FY2025 10-K, Note 6. Joint venture development pipeline was 668 lots at 2025-12-31 (two JVs)."
+      },
+      {
+        "partner": "Unnamed 'leading institutional investor' (Institutional Investor JV)",
+        "description": "AMH 20%. Formed Q3 2018 to invest in newly built rental homes, upsized to $312.5M in 2019; 1,015 homes. JV loan $232.7M at SOFR + 1.90%, maturing 2027-07-01, the nearest maturity anywhere in AMH's structure.",
+        "date": "2018",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q, Note 7",
+        "note": "Partner not named in filings."
+      },
+      {
+        "partner": "Alaska Permanent Fund Corporation (Alaska JV)",
+        "description": "AMH 20%. Formed Q2 2014 for homes bought through traditional channels; 123 homes left at 2026-09-30 (142 at year-end 2025), so it is running off.",
+        "date": "2014",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+        "source_title": "AMH Q3 2026 Form 10-Q, Note 7",
+        "note": ""
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": 5220.0,
+      "cash_usd_m": 71.0,
+      "liquidity_usd_m": 894.2,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "S&P Global BBB (Stable); Moody's Baa2 (Stable)",
+      "fiscal_year_end": "December 31",
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://s29.q4cdn.com/671712101/files/content_files/AMH-Third-Quarter-2026-Earnings-Release-and-Supplemental-Information-Package.pdf",
+      "source_title": "AMH Third Quarter 2026 Earnings Release and Supplemental Information Package (2026-11-04): earnings release (liquidity) and Capital Structure and Credit Metrics page; liquidity = $71.0M cash + $823.2M undrawn revolver (calculated here; excludes the $1.0B ATM). Debt is 29.3% of total market capitalization; net debt and preferred / adjusted EBITDAre 5.2x; weighted-average rate 4.5%, term 7.3 years; portfolio 100% unencumbered."
+    },
+    "competitor_links": [
+      {
+        "firm": "Värde Partners",
+        "relationship": "AMH's only publicly announced land-bank partner: a $500M land banking facility announced 2022-06-06 for AMH's development land. AMH's filings describe an unnamed land banking entity whose land was fully bought back by year-end 2025; no renewal or new facility has been announced.",
+        "date": "2022-06-06",
+        "confidence": "Verified",
+        "source_url": "https://s29.q4cdn.com/671712101/files/doc_news/2022/06/FINAL-AMH-Varde-Partners-Land-Banking-Release.pdf",
+        "source_title": "AMH press release: American Homes 4 Rent and Värde Partners enter into $500 million land banking facility agreement (2022-06-06)",
+        "note": "Värde also runs a land-banking JV with David Weekley Homes (varde.com)."
+      }
+    ]
+  },
+  "ma": [],
+  "gaps": [
+    "Land-banking counterparty in the filings: the 10-K and 10-Q say 'land banking entity' without a name; the Värde Partners link comes from the 2022 joint press release and timing, not from a filing.",
+    "Värde facility: amount drawn, lot counts, markets, pricing, and whether it was formally terminated are not public; no Värde or AMH release after June 2022 was found.",
+    "Optioned lots (356): whether they sit with land sellers, developers or a land banker is not disclosed; land option deposits were zero at 2025-12-31 and are not broken out in the Q3 2026 10-Q.",
+    "No public link found between AMH and Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon (filings searched; one web search returned nothing).",
+    "M&A: none in 2025 or 2026 to date; no 8-K with Item 2.01 since 2025-01-01 (EDGAR submissions list), and the Q3 2026 10-Q shows no portfolio acquisitions (2026 guidance has zero wholly owned acquisitions). The last bulk portfolio purchase was $481.7M in 2024 (seller not named in the 10-K).",
+    "Revolver: agent is Wells Fargo Bank, N.A.; the full lender group and the terms of Amendment No. 1 (2025-05-06) were not reviewed.",
+    "Institutional Investor JV partner and the lenders on both JV loans are not named in filings.",
+    "net_debt_to_capital_pct: AMH does not report it on a book basis; it reports debt at 29.3% of total market capitalization instead.",
+    "Earnings-call remarks on land banking were not checked (guessed transcript URLs returned 404)."
+  ],
+  "sources_consulted": [
+    "https://s29.q4cdn.com/671712101/files/content_files/AMH-09-30-26-10Q-Final-_11-5-26_.pdf",
+    "https://s29.q4cdn.com/671712101/files/doc_financials/2025/q4/AMH-12-31-25-10K-Final-2-20-26.pdf",
+    "https://s29.q4cdn.com/671712101/files/content_files/AMH-Third-Quarter-2026-Earnings-Release-and-Supplemental-Information-Package.pdf",
+    "https://s29.q4cdn.com/671712101/files/doc_presentations/2026/Nov/12/Investor-Highlights-November-2026.pdf",
+    "https://s29.q4cdn.com/671712101/files/doc_news/2022/06/FINAL-AMH-Varde-Partners-Land-Banking-Release.pdf",
+    "https://www.prnewswire.com/news-releases/american-homes-4-rent-and-varde-partners-enter-into-500-million-land-banking-facility-agreement-301561746.html",
+    "https://varde.com/?s=American+Homes",
+    "https://www.sec.gov/Archives/edgar/data/1562401/000110465925045565/tm2511548d4_8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1562401/000110465925047812/tm2514914d1_8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1562401/000110465926073560/tm2617579d1_8k.htm",
+    "https://data.sec.gov/submissions/CIK0001562401.json"
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "builder_id": "new-home-co",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Risewell Homes (legal issuer now Risewell Homes, Inc., formerly The New Home Company Inc.) is a private, Apollo-fund-owned builder that calls itself asset-light and funds itself with three tools: Apollo equity ($650M of new equity for the Landsea deal), Rule 144A senior unsecured notes (about $775M face across a 9.25% 2029 issue and an 8.5% 2030 issue) plus a $600M revolver, and land banking. Its one public land-bank relationship is with Kennedy Lewis / Millrose: a $700M commitment signed 2025-05-12, of which Millrose funded $494.5M net at the Landsea closing for 4,186 homesites optioned back to the builder. It controlled about 28,000 lots at the December 2025 rebrand, but no owned-versus-optioned split has been published since the Landsea take-private, because quarterly reports go only to registered bondholders. For a land banker the opening is that the Kennedy Lewis program covers only about 15% of the controlled lots, the unfunded part of the $700M (up to $100M of it for horizontal development) is not reported as drawn, and S&P rated the credit 'B' (CreditWatch positive) in 2025, so land-light capital is how this sponsor-owned builder grows.",
+    "land_strategy": "Asset-light in its own words: New Home described itself as a \"diversified asset-light homebuilder\" in the Landsea tender documents and on Risewell's investor page, and CEO Matthew Zaist told The Builder's Daily the thesis is to scale operations without owning more land than necessary. No published target for the share of lots optioned. Before the deal, Landsea (the larger half) controlled 55% of its 10,516 lots by option or purchase contract at 2025-03-31 and aimed for 3 to 4 years of supply on a 24 to 36 month development horizon.",
+    "lots": {
+      "total_controlled": 28000,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2025-12-02",
+      "confidence": "Verified",
+      "source_url": "https://www.prweb.com/releases/new-home-co-and-landsea-homes-unite-under-new-national-brand-risewell-homes-302630101.html",
+      "source_title": "New Home Co. and Landsea Homes Unite Under New National Brand: Risewell Homes (company release via PRWeb, 2025-12-02)",
+      "note": "About 28,000 lots controlled (company's rounded figure), with 120+ actively selling communities in 11 markets across 7 states. No owned or optioned split is public since the take-private. Latest public split is Landsea alone at 2025-03-31: 4,710 owned, 5,806 controlled by option or purchase contract, 10,516 total (55.2% controlled, calculated); see https://www.sec.gov/Archives/edgar/data/1721386/000172138625000018/lhi-20250331.htm. At least 4,186 homesites are optioned from Millrose (Kennedy Lewis program) since 2025-06-25."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Kennedy Lewis Investment Management",
+        "counterparty_type": "Land banker",
+        "description": "Land bank commitment letter ('Project Lakeland') signed 2025-05-12: up to $700M, 100% provided by KLIM, with up to $600M funded at the Landsea closing and up to $100M for horizontal development afterwards. KLIM buys properties and grants homesite options (and construction agreements up to a guaranteed contract sum). Option terms run up to 72 months, and properties are grouped in pools of at least four projects with cross-termination and a $20M cap per pool on the builder's total payment obligation. Total takedown price must be at least 105.25% of the closing commitment. It was conditioned on at least $650M of sponsor equity. Fees (initial option fee, monthly option fee, termination fee, asset management fee, minimum project return) are in an unfiled fee letter.",
+        "amount_usd_m": 700,
+        "lots": null,
+        "date": "2025-05",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125020285/ny20049177x1_ex99b1.htm",
+        "source_title": "Land Bank Commitment Letter, KLIM to The New Home Company Inc., 2025-05-12 (Landsea Schedule TO Ex. (b)(1))",
+        "note": "Signed by Darren Richman for KLIM and Miek Harbur (EVP, General Counsel and Secretary) for New Home. Funding was placed with Millrose (next row). Neither the builder nor Millrose has published whether the remaining ~$205M of the commitment (including the $100M horizontal tranche) was drawn."
+      },
+      {
+        "counterparty": "Millrose Properties",
+        "counterparty_type": "Land banker",
+        "description": "At the Landsea closing on 2025-06-25 Millrose bought $522.8M of land (4,186 homesites), paying $494.5M in cash net of $28.3M of builder option deposits, and optioned the homesites back to New Home. Millrose's FY2025 10-K counts this as part of the up-to-$700M commitment, and its Q3 2026 deck lists New Home / Landsea as one of three builder M&A deals it has financed ($700M of land assets, 4,186 homesites).",
+        "amount_usd_m": 494.5,
+        "lots": 4186,
+        "date": "2025-06",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+        "source_title": "Millrose Properties FY2025 10-K, Note 3 Spin-Off and Other Significant Business Transactions",
+        "note": "Deposit equals about 5.4% of land value (calculated), well below the roughly 10.5% on Millrose's Lennar book. The homesites span five states (Cox Castle, Millrose counsel, 2025-07-21), and Millrose financed the purchase from a $1.0B Goldman-led delayed-draw term loan, since refinanced. Corroborated by https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm (Millrose Q3 2026 deck)."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "9.250% Senior Notes due 2029",
+        "type": "Senior notes",
+        "principal_usd_m": 375,
+        "rate": "9.25%",
+        "maturity": "2029-10-01",
+        "secured": "Unsecured",
+        "lenders_agent": "Initial purchasers led by J.P. Morgan, RBC Capital Markets, BMO Capital Markets, Citigroup (2024 joint bookrunners); trustee U.S. Bank",
+        "status": "Outstanding",
+        "as_of": "2026-11-19",
+        "confidence": "Reported",
+        "source_url": "https://www.tradingview.com/symbols/FINRA-NWHM5782478/",
+        "source_title": "TradingView / FINRA TRACE: Risewell Homes Inc. 9.25% 01-Oct-2029 144A (CUSIP 645370AF4)",
+        "note": "Issued 2024-04-04 as $300M (Rule 144A; proceeds refinanced the 2025 and 2027 notes, per Cahill and Paul Weiss). A $75M add-on followed on 2024-08-06 (RegS CUSIP U64307AG3, https://www.tradingview.com/symbols/FINRA-NWHM5862372/). FINRA data show $375M outstanding and name the issuer as Risewell Homes, Inc. Rated 'B' by S&P in May 2025. Coupon and size are confirmed at https://cahill.com/news/firm-news/2024-04-04-cahill-represents-initial-purchasers-in-a-300-million-notes-offering-for-the-new-home-company-inc."
+      },
+      {
+        "instrument": "8.5% Senior Notes due 2030",
+        "type": "Senior notes",
+        "principal_usd_m": 400,
+        "rate": "8.5%",
+        "maturity": "2030",
+        "secured": "Unsecured",
+        "lenders_agent": "Initial purchasers not named publicly (Cahill acted for them)",
+        "status": "Outstanding",
+        "as_of": "2025-12-05",
+        "confidence": "Reported",
+        "source_url": "https://www.cahill.com/news/firm-news/2025-06-25-cahill-represents-debt-financing-sources-in-12-billion-of-debt-financings-consisting-of-600-million-revolving-credit-facility-300-million-notes-offering-for-new-home-company-inc-and-300-million-debt-tender-offer-of-landsea-homes-corporation",
+        "source_title": "Cahill: $600M revolver, $300M notes offering for New Home Co. and $300M Landsea debt tender (2025-06-25)",
+        "note": "$300M Rule 144A issue in June 2025 to fund debt refinancing and the Landsea acquisition, plus a $100M add-on on 2025-12-05 to repay revolver borrowings (https://www.cahill.com/news/firm-news/2025-12-05-cahill-represents-initial-purchasers-in-new-home-co-100-million-notes-offering). The $400M total is calculated, assuming both are the same series. Exact maturity day and issue prices are not public. Unsecured status is inferred from S&P's senior unsecured rating on New Home's debt."
+      },
+      {
+        "instrument": "Senior revolving credit facility ($600M)",
+        "type": "Revolver",
+        "principal_usd_m": 600,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "Lead arrangers not named publicly (Cahill acted for them). JPMorgan Chase Bank, N.A. was administrative agent on New Home's 2021 facility; whether it still is in 2025 is unconfirmed.",
+        "status": "Outstanding",
+        "as_of": "2025-06-25",
+        "confidence": "Reported",
+        "source_url": "https://www.cahill.com/news/firm-news/2025-06-25-cahill-represents-debt-financing-sources-in-12-billion-of-debt-financings-consisting-of-600-million-revolving-credit-facility-300-million-notes-offering-for-new-home-company-inc-and-300-million-debt-tender-offer-of-landsea-homes-corporation",
+        "source_title": "Cahill: $600M revolver, $300M notes offering for New Home Co. and $300M Landsea debt tender (2025-06-25)",
+        "note": "Existing $250M facility amended and restated and upsized by $350M to $600M at the Landsea closing, for general corporate purposes. The December 2025 $100M notes add-on repaid revolver borrowings, so it was drawn in late 2025. Maturity, pricing, security, drawn balance and agent are not public."
+      },
+      {
+        "instrument": "Landsea Homes 8.875% Senior Notes due 2029 (non-tendered stub)",
+        "type": "Senior notes",
+        "principal_usd_m": 6.2,
+        "rate": "8.875%",
+        "maturity": "2029-04",
+        "secured": "Unsecured",
+        "lenders_agent": "Trustee: U.S. Bank Trust Company, N.A.",
+        "status": "Outstanding",
+        "as_of": "2025-06-25",
+        "confidence": "Inferred",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125023577/ef20050919_8k.htm",
+        "source_title": "Landsea Homes Corp. 8-K filed 2025-06-25 (completion of merger)",
+        "note": "Of the $300M issue, Lido Merger Sub bought and cancelled about 97.95% through a tender offer and consent solicitation at closing ($293.848M consented, per the 2025-06-02 8-K). Consents stripped substantially all covenants via the Third Supplemental Indenture dated 2025-05-29. The roughly $6.2M remainder is calculated, and whether it was later redeemed is not public."
+      },
+      {
+        "instrument": "Landsea Homes 11.0% Senior Notes due 2028",
+        "type": "Senior notes",
+        "principal_usd_m": 250,
+        "rate": "11.0%",
+        "maturity": "2028-07",
+        "secured": "Unsecured",
+        "lenders_agent": "Note purchase agreement agent: U.S. Bank Trust Company, N.A.",
+        "status": "Redeemed",
+        "as_of": "2025-06-25",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125023577/ef20050919_8k.htm",
+        "source_title": "Landsea Homes Corp. 8-K filed 2025-06-25 (completion of merger)",
+        "note": "Redeemed in full on 2025-06-25 at par plus make-whole. The $250M principal is from Landsea's Q1 2025 10-Q."
+      },
+      {
+        "instrument": "Landsea Homes unsecured revolving credit facility (A&R 2024-04-19)",
+        "type": "Revolver",
+        "principal_usd_m": 455,
+        "rate": "SOFR-based; 7.71% at 2025-03-31",
+        "maturity": "2027-04",
+        "secured": "Unsecured",
+        "lenders_agent": "Bank of America, N.A. (administrative agent); U.S. Bank N.A. (syndication agent, joint lead arranger); BofA Securities (joint lead arranger, sole bookrunner)",
+        "status": "Redeemed",
+        "as_of": "2025-06-25",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125023577/ef20050919_8k.htm",
+        "source_title": "Landsea Homes Corp. 8-K filed 2025-06-25 (completion of merger)",
+        "note": "Repaid and terminated at the merger closing. Size ($455M commitment, $200M drawn at 2025-03-31) and maturity are from Landsea's Q1 2025 10-Q."
+      },
+      {
+        "instrument": "8.250% Senior Notes due 2027",
+        "type": "Senior notes",
+        "principal_usd_m": null,
+        "rate": "8.25%",
+        "maturity": "2027-10-15",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Redeemed",
+        "as_of": "2026-11-19",
+        "confidence": "Reported",
+        "source_url": "https://www.tradingview.com/symbols/FINRA-NWHM5731087/",
+        "source_title": "TradingView / FINRA TRACE: Risewell Homes Inc. 8.25% 15-Oct-2027 (CUSIP U64307AE8)",
+        "note": "Issued 2023-07-05 in an exchange for the 7.25% notes due 2025. FINRA data show $0 outstanding, consistent with the April 2024 9.25% notes being used to refinance the 2025 and 2027 maturities (Paul Weiss, 2024-04-04). The exact redemption date is not public."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-05-12",
+        "type": "Land-bank deal",
+        "description": "Kennedy Lewis committed up to $700M of land-bank capital (up to $600M at closing, up to $100M later for horizontal development) to fund New Home's acquisition of Landsea. Apollo funds committed $650M of new equity the same day.",
+        "amount_usd_m": 700,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125020285/ny20049177x1_exa1a.htm",
+        "source_title": "Lido Merger Sub Offer to Purchase (Schedule TO Ex. (a)(1)(A)), Section 12 Sources and Amount of Funds",
+        "note": "Total funds required were about $1.2B, assuming Landsea's material debt was repaid at closing."
+      },
+      {
+        "date": "2025-05-14",
+        "type": "Rating action",
+        "description": "S&P placed The New Home Co.'s 'B' issuer credit rating and 'B' senior unsecured issue rating on CreditWatch positive on the Landsea deal, citing more scale (3,500+ closings).",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.alacrastore.com/s-and-p-credit-research/Research-Update-The-New-Home-Co-Placed-On-CreditWatch-Positive-On-Announced-Acquisition-Of-Landsea-Homes-Corp-3374291",
+        "source_title": "S&P Research Update abstract (Alacra store), 2025-05-14",
+        "note": "Resolution of the CreditWatch was not found in public sources."
+      },
+      {
+        "date": "2025-05-29",
+        "type": "Other",
+        "description": "Consent solicitation on Landsea's $300M 8.875% notes due 2029 reached 97.95% ($293.848M). A third supplemental indenture removed the change-of-control offer and substantially all covenants once the notes were bought in the tender.",
+        "amount_usd_m": 293.8,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000173112225000818/e6631_8k.htm",
+        "source_title": "Landsea Homes Corp. 8-K filed 2025-06-02 (Item 1.01, Third Supplemental Indenture)",
+        "note": ""
+      },
+      {
+        "date": "2025-06",
+        "type": "Debt issuance",
+        "description": "New Home issued $300M of 8.5% senior notes due 2030 (Rule 144A) for debt refinancing and the Landsea acquisition.",
+        "amount_usd_m": 300,
+        "confidence": "Reported",
+        "source_url": "https://www.cahill.com/news/firm-news/2025-06-25-cahill-represents-debt-financing-sources-in-12-billion-of-debt-financings-consisting-of-600-million-revolving-credit-facility-300-million-notes-offering-for-new-home-company-inc-and-300-million-debt-tender-offer-of-landsea-homes-corporation",
+        "source_title": "Cahill law firm announcement, 2025-06-25",
+        "note": "Exact pricing date not public."
+      },
+      {
+        "date": "2025-06",
+        "type": "Facility amendment",
+        "description": "Revolving credit facility amended and restated and upsized from $250M to $600M.",
+        "amount_usd_m": 350,
+        "confidence": "Reported",
+        "source_url": "https://www.cahill.com/news/firm-news/2025-06-25-cahill-represents-debt-financing-sources-in-12-billion-of-debt-financings-consisting-of-600-million-revolving-credit-facility-300-million-notes-offering-for-new-home-company-inc-and-300-million-debt-tender-offer-of-landsea-homes-corporation",
+        "source_title": "Cahill law firm announcement, 2025-06-25",
+        "note": "amount_usd_m is the upsize."
+      },
+      {
+        "date": "2025-06-25",
+        "type": "Equity",
+        "description": "Apollo funds put in up to $650M of new cash equity to fund the Landsea take-private.",
+        "amount_usd_m": 650,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000173112225000715/e6593_ex99-1.htm",
+        "source_title": "New Home / Landsea joint press release, 2025-05-12 (Landsea 8-K Ex. 99.1)",
+        "note": "The 2025-06-25 completion 8-K confirms funding came from debt financing, land bank funding and equity financing."
+      },
+      {
+        "date": "2025-06-25",
+        "type": "Land-bank deal",
+        "description": "Millrose funded $494.5M (net of $28.3M deposits) to buy $522.8M of land, 4,186 homesites, and optioned it to New Home at the Landsea closing.",
+        "amount_usd_m": 494.5,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+        "source_title": "Millrose Properties FY2025 10-K, Note 3",
+        "note": ""
+      },
+      {
+        "date": "2025-06-25",
+        "type": "Redemption",
+        "description": "Landsea's 11.0% senior notes due 2028 ($250M) were redeemed at par plus make-whole. About 97.95% of its 8.875% notes due 2029 were bought in the tender and cancelled, and its Bank of America-agented revolver was repaid and terminated.",
+        "amount_usd_m": 543.8,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125023577/ef20050919_8k.htm",
+        "source_title": "Landsea Homes Corp. 8-K filed 2025-06-25",
+        "note": "amount_usd_m = $250M of 11% notes + $293.8M of 8.875% notes (calculated); the revolver payoff amount is not stated."
+      },
+      {
+        "date": "2025-12-05",
+        "type": "Debt issuance",
+        "description": "$100M add-on of 8.5% senior notes due 2030, with proceeds used to repay revolver borrowings, pay fees and for general corporate purposes.",
+        "amount_usd_m": 100,
+        "confidence": "Reported",
+        "source_url": "https://www.cahill.com/news/firm-news/2025-12-05-cahill-represents-initial-purchasers-in-new-home-co-100-million-notes-offering",
+        "source_title": "Cahill: initial purchasers in New Home Co. $100M notes offering (2025-12-05)",
+        "note": "Issue price not public."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Not named (Landsea consolidated JV)",
+        "description": "Landsea was managing member of certain JV LLCs, one of them consolidated with a noncontrolling partner (Q1 2025 NCI income $0.165M). Partner and current status under Risewell are not disclosed.",
+        "date": "2025-03",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000172138625000018/lhi-20250331.htm",
+        "source_title": "Landsea Homes Corp. 10-Q for quarter ended 2025-03-31",
+        "note": "Pre-merger fact; may no longer apply."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "S&P: 'B' issuer and 'B' senior unsecured, placed on CreditWatch positive 2025-05-14 (later resolution not found). Moody's/Fitch: not found.",
+      "fiscal_year_end": "September 30 (inferred from 'fiscal 2025 third quarter' call in August 2025 and 'fiscal 2026 first quarter' call in February 2026)",
+      "as_of": "2025-12-05",
+      "confidence": "Reported",
+      "source_url": "https://www.alacrastore.com/s-and-p-credit-research/Research-Update-The-New-Home-Co-Placed-On-CreditWatch-Positive-On-Announced-Acquisition-Of-Landsea-Homes-Corp-3374291",
+      "source_title": "S&P Research Update abstract, 2025-05-14"
+    },
+    "competitor_links": [
+      {
+        "firm": "Kennedy Lewis",
+        "relationship": "Signed the 2025-05-12 $700M land-bank commitment letter with New Home (Darren Richman signing), then placed the funding with Millrose, which it manages.",
+        "date": "2025-05-12",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125020285/ny20049177x1_ex99b1.htm",
+        "source_title": "KLIM Land Bank Commitment Letter (Landsea Schedule TO Ex. (b)(1))",
+        "note": ""
+      },
+      {
+        "firm": "Millrose Properties",
+        "relationship": "Land banker of record on the Landsea acquisition: holds 4,186 homesites ($522.8M of land) optioned to New Home/Risewell since 2025-06-25. Its October 2026 deck still cites the deal as a model for builder M&A financing.",
+        "date": "2025-06-25",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+        "source_title": "Millrose Q3 2026 earnings presentation (8-K Ex. 99.2, 2026-10-27)",
+        "note": ""
+      },
+      {
+        "firm": "Domain Real Estate Partners",
+        "relationship": "No public financing relationship found. People link only: Domain's Managing Director, Originations, Dan Kimmel previously worked at Landsea Homes.",
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://domainrealestatepartners.com/team.html",
+        "source_title": "Domain Real Estate Partners team page",
+        "note": ""
+      },
+      {
+        "firm": "Olympus Housing Capital (Apollo)",
+        "relationship": "Apollo, Risewell's owner, runs its own land-banking platform, Olympus Housing Capital (about $1B executed by July 2026). No public source says Olympus land-banks Risewell lots, but a sponsor-affiliated land-bank channel exists.",
+        "date": "2026-07-30",
+        "confidence": "Reported",
+        "source_url": "https://commercialobserver.com/?p=575578",
+        "source_title": "Commercial Observer, Power Investors 2026: Bert Crouch (2026-07-30)",
+        "note": "Relationship to Risewell inferred, not stated."
+      },
+      {
+        "firm": "Strata Land Partners (Wafra / Hunt Companies)",
+        "relationship": "New land-finance platform launched 2026-11-02, led by Michael Forsum, former president and COO of Landsea Homes. Risewell is not named as a customer.",
+        "date": "2026-11-02",
+        "confidence": "Reported",
+        "source_url": "https://www.housingwire.com/articles/strata-land-partners-launch/",
+        "source_title": "HousingWire / The Builder's Daily: Strata Land Partners launch (2026-11-02)",
+        "note": "Alumni link only."
+      }
+    ]
+  },
+  "ma": [
+    {
+      "date": "2025-06-25",
+      "role": "Acquirer",
+      "counterparty": "Landsea Homes Corporation (Nasdaq: LSEA)",
+      "description": "Apollo-owned New Home Co., through Lido Holdco / Lido Merger Sub, bought Landsea for $11.30 a share in cash (about $1.2B enterprise value, 61% premium). The deal was announced 2025-05-12 and closed 2025-06-25 after 83.27% of shares were tendered. It was funded with $650M of Apollo equity, Kennedy Lewis/Millrose land-bank capital and New Home senior notes. Landsea was delisted, its board resigned and all its executive officers left. The combined company rebranded as Risewell Homes on 2025-12-02.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Landsea (2024 Builder #33) is absorbed and the combined company is the #27 row (Risewell Homes; New Home was #62). Footprint is now 11 markets in 7 states (AZ, CA, CO, FL, OR, TX, WA), about 28,000 controlled lots and about 4,000 closings a year. New Home's team runs it: Matthew Zaist CEO, Robert Irwin CFO, John Bohnen COO, Miek Harbur GC, Matthew Gibson EVP Investments. Landsea's land and finance contacts are gone (e.g. its president/COO Michael Forsum now leads Strata Land Partners). Millrose holds 4,186 of the homesites under option.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1721386/000114036125023577/ef20050919_8k.htm",
+      "source_title": "Landsea Homes Corp. 8-K filed 2025-06-25 (completion of merger)",
+      "note": "Deal value and financing mix from the joint release (https://www.sec.gov/Archives/edgar/data/1721386/000173112225000715/e6593_ex99-1.htm). Rebrand and footprint from the PRWeb release of 2025-12-02."
+    }
+  ],
+  "gaps": [
+    "Owned vs optioned lot split, years of supply and option deposits since the June 2025 take-private: not publicly disclosed (quarterly reports go only to eligible noteholders through a gated investor portal)",
+    "Cash, total debt, revolver drawn balance and liquidity: not publicly disclosed (private company; reports restricted to noteholders)",
+    "Revolver ($600M) administrative agent, lender group, maturity, pricing and security: not publicly disclosed",
+    "8.5% 2030 notes exact maturity date, issue prices and initial purchasers: not publicly disclosed",
+    "Whether the remaining ~$205M of the $700M Kennedy Lewis commitment (including the $100M horizontal-development tranche) was drawn: not publicly disclosed",
+    "Kennedy Lewis / Millrose option fees and pricing: in an unfiled fee letter, not publicly disclosed",
+    "Other land-banking or lot-option counterparties (Domain, TPG Angelo Gordon, Varde, Essential Housing, IHP, Brookfield, Oaktree, GTIS, Hearthstone, Walton, Forestar, Olympus/Apollo): none publicly identified",
+    "Moody's or Fitch ratings, and the outcome of S&P's May 2025 CreditWatch: not found",
+    "2026 capital events (debt issuance, refinancing, facility amendments): none found in public sources; a final 2026 news sweep was not done, and the company website and Business Wire were not read",
+    "2026 M&A by Risewell: none found (a final 2026 news sweep was not done)",
+    "Joint ventures under Risewell: not publicly disclosed"
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/Archives/edgar/data/1721386/000114036125023577/ef20050919_8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1721386/000114036125020285/ny20049177x1_sctot.htm",
+    "https://www.sec.gov/Archives/edgar/data/1721386/000114036125020285/ny20049177x1_exa1a.htm",
+    "https://www.sec.gov/Archives/edgar/data/1721386/000114036125020285/ny20049177x1_ex99b1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1721386/000173112225000818/e6631_8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1721386/000173112225000715/e6593_ex99-1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1721386/000172138625000018/lhi-20250331.htm",
+    "https://www.sec.gov/Archives/edgar/data/1721386/000172138625000008/lsea-20241231.htm",
+    "https://data.sec.gov/submissions/CIK0001721386.json",
+    "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R14.htm",
+    "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+    "https://www.cahill.com/news/firm-news/2025-06-25-cahill-represents-debt-financing-sources-in-12-billion-of-debt-financings-consisting-of-600-million-revolving-credit-facility-300-million-notes-offering-for-new-home-company-inc-and-300-million-debt-tender-offer-of-landsea-homes-corporation",
+    "https://www.cahill.com/news/firm-news/2025-12-05-cahill-represents-initial-purchasers-in-new-home-co-100-million-notes-offering",
+    "https://cahill.com/news/firm-news/2024-04-04-cahill-represents-initial-purchasers-in-a-300-million-notes-offering-for-the-new-home-company-inc",
+    "https://www.paulweiss.com/insights/client-news/the-new-home-company-completes-senior-notes-offering",
+    "https://www.tradingview.com/symbols/FINRA-NWHM5782478/",
+    "https://www.tradingview.com/symbols/FINRA-NWHM5782479/",
+    "https://www.tradingview.com/symbols/FINRA-NWHM5862372/",
+    "https://www.tradingview.com/symbols/FINRA-NWHM5731087/",
+    "https://www.alacrastore.com/s-and-p-credit-research/Research-Update-The-New-Home-Co-Placed-On-CreditWatch-Positive-On-Announced-Acquisition-Of-Landsea-Homes-Corp-3374291",
+    "https://www.coxcastle.com/news-cox-castle-nicholson-advises-millrose-properties-in-landmark-financing-for-the-new-home-companys-acquisition-of-landsea-homes",
+    "https://web.archive.org/web/20260419031906/https://www.housingwire.com/articles/new-home-landsea-deal-redraws-builder-power-map/",
+    "https://www.housingwire.com/articles/new-home-acquires-landsea-forms-top-25-homebuilder/",
+    "https://www.prweb.com/releases/new-home-co-and-landsea-homes-unite-under-new-national-brand-risewell-homes-302630101.html",
+    "https://web.archive.org/web/20251225113935/https://risewellhomes.com/investors",
+    "https://web.archive.org/web/20260404040238/https://risewellhomes.com/news",
+    "https://domainrealestatepartners.com/team.html",
+    "https://commercialobserver.com/?p=575578",
+    "https://www.housingwire.com/articles/strata-land-partners-launch/",
+    "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001574596/ab16794a-fd2e-4d94-9b6c-09f4ea0f27e0.html"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "builder_id": "veridian-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Veridian is a conventional for-sale homebuilder, privately held and family-owned inside Forgewell Building Group, with no SEC filings or rated or public debt found and no disclosed lender, facility, land banker, lot-option partner or joint venture. It is its own land developer: it buys raw land, entitles it and develops it in phases with an in-house land development team, releasing finished homesites to its own buyers a few dozen at a time. Its pipeline is concentrated in very large self-developed communities (Hill Valley 841 homesites, Reiland Grove 561, Midpoint Meadows about 250 lots, Arrowood 300), which ties up capital for years and makes it a plausible land-banking prospect on paper. Against that, nothing public shows it has ever used third-party lot capital, the founder is still chairman and principal owner, and the group is vertically integrated (trades, millwork, property management), so any approach would be to David Simon, Chris Ehlers and the finance head directly.",
+    "land_strategy": "Owns and self-develops (not land-light): the company describes itself as a neighborhood developer, buys raw farmland and entitles and develops it in phases; no stated option target and no public mention of lot-option or land-bank structures. Job-board search snippets (pages since removed, not opened) show it advertising a Director of Land Acquisition for Greater Milwaukee, which suggests it is adding land-buying capacity there.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Verified",
+      "source_url": "https://veridianhomes.com/blog/2026/11/05/reiland-grove-madison/",
+      "source_title": "Veridian Homes blog posts and neighborhood pages",
+      "note": "No company-wide lot count is published. Community sizes the company or a city has stated: Hill Valley, Madison, 841 single-family homesites (company post 2025-09-17); Reiland Grove, Madison, 561 homesites over multiple phases (company post 2026-11-05); Midpoint Meadows, Madison, final plat of 151 single-family lots plus 98 duplex lots and one multifamily lot (City of Madison release 2024-06-06); Arrowood, Oconomowoc, 300 homesites at completion (company post 2023-07-07); Winterberry Reserve, Waukesha, 79 homes (BizTimes 2025-02-24); Millwood Glen, Oak Creek, 44 homesites (company post 2026-08-28). These are planned totals at build-out, not remaining inventory, and exclude the other ~19 active neighborhoods. The company released 135 homesites across four neighborhoods in August 2026 alone."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2024-06-03",
+        "type": "Other",
+        "description": "Veridian bought more than 130 acres of the former Marty Century Farm on Madison's far west side and, in a simultaneous closing, sold roughly half (about 67 acres for park expansion, stormwater and right-of-way) to the City of Madison; the rest became the Midpoint Meadows subdivision. Shows a raw-land purchase partly defrayed by a same-day sale to a public body rather than by a capital partner.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.cityofmadison.com/news/2024-06-06/purchase-of-farmland-will-bring-hundreds-of-homes-to-far-west-side-expand-elver",
+        "source_title": "Purchase of farmland will bring hundreds of homes to far west side, expand Elver Park and flood control (City of Madison news release)",
+        "note": "Purchase price and any lender are not stated in the release."
+      },
+      {
+        "date": "2026-11-05",
+        "type": "Other",
+        "description": "Grand opening and groundbreaking of Reiland Grove on Madison's east side, planned for 561 homesites across multiple phases: a new multi-year self-developed land position.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://veridianhomes.com/blog/2026/11/05/reiland-grove-madison/",
+        "source_title": "Meet Reiland Grove, Our Newest East Madison Neighborhood (Veridian Homes blog)",
+        "note": "Land cost, seller and financing not disclosed."
+      },
+      {
+        "date": "2025-09-17",
+        "type": "Other",
+        "description": "Groundbreaking of Hill Valley in Madison, which the company says will include 841 single-family homesites: its largest publicly stated community.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://veridianhomes.com/blog/2025/09/17/weve-broken-ground-on-hill-valley-madisons-newest-neighborhood/",
+        "source_title": "We've Broken Ground on Hill Valley, Madison's Newest Neighborhood (Veridian Homes blog)",
+        "note": "Financing not disclosed."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lenders, credit facilities, construction and land-development loans: not publicly disclosed (private company; no lender named in any company post or press article opened).",
+    "Owned versus optioned lots, total lots controlled, years of supply: not publicly disclosed; only per-community planned totals are public (see financing.lots.note).",
+    "Land banker, lot-option financier or capital partner: none publicly named. No public link found to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon (targeted searches returned nothing).",
+    "Joint ventures: none publicly disclosed.",
+    "Parent-company funding: Forgewell Building Group, LLC is a private family-controlled group; its balance sheet, any outside investors and how it funds Veridian's land are not public. The Forgewell site lists 'Real Estate Investment' and 'Build for Rent' among group services, with no detail.",
+    "Total debt, cash, liquidity, credit ratings: not publicly disclosed; no evidence of rated or publicly traded debt. The EDGAR company lookup was blocked during this run (automated-tool throttle), so the absence of SEC filings is inferred, not confirmed on EDGAR.",
+    "M&A 2025 to date: no acquisition, sale or merger involving Veridian Homes was found. At group level, the Forgewell site now lists Associated Housewrights (Dane County custom builder) and Auburn Ridge / Marshall Towne Building Supply, which were not all in the company's November 2023 list (Veridian, Dave Jones, Steg Plumbing, Marshall Towne Millwork); the date and terms of any addition are not public, so no M&A row is recorded.",
+    "Purchase prices and sellers for recent land buys (Reiland Grove, Hill Valley, Millwood Glen, Winterberry Reserve): not found in open sources; BizTimes coverage is paywalled beyond the first paragraphs.",
+    "An SFR-investor database lists a 'Veridian Homes PB LLC' in Madison as a buy-and-hold owner (seen only in a search snippet, not opened or confirmed as an affiliate); possible build-for-rent activity is unverified."
+  ],
+  "sources_consulted": [
+    "https://veridianhomes.com/blog/2026/11/05/reiland-grove-madison/",
+    "https://veridianhomes.com/blog/2026/08/28/millwood-glen-oak-creek-grand-opening/",
+    "https://www.cityofmadison.com/news/2024-06-06/purchase-of-farmland-will-bring-hundreds-of-homes-to-far-west-side-expand-elver",
+    "https://forgewellbg.com/",
+    "https://dnr.wisconsin.gov/topic/GreenTier/Participants/VeridianHomes.html",
+    "https://veridianhomes.com/blog/2025/09/17/weve-broken-ground-on-hill-valley-madisons-newest-neighborhood/",
+    "https://veridianhomes.com/blog/2026/08/04/august-2026-new-homesite-releases/",
+    "https://veridianhomes.com/blog/2023/07/07/our-first-furnished-model-in-oconomowoc-is-ready-and-open-for-business/",
+    "https://veridianhomes.com/find/neighborhoods/",
+    "https://veridianhomes.com/find/neighborhood-updates/region/madison",
+    "https://biztimes.com/79-home-subdivision-development-planned-for-waukeshas-west-side",
+    "https://biztimes.com/44-lot-subdivision-planned-in-oak-creek/",
+    "https://www.tmj4.com/news/milwaukee-county/oak-creek-neighbors-voice-concerns-over-proposed-44-home-subdivision",
+    "https://uakron.joinhandshake.com/jobs/8945003/share_preview",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=veridian+homes (blocked, not opened)"
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "builder_id": "lgi-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "LGI Homes is one of the most land-heavy public builders: at September 30, 2026 it owned 50,270 of its 58,400 lots (86%) and controlled only 8,130 (14%) through ordinary purchase and option contracts, and its CEO describes the position as predominantly self-developed and on balance sheet. It funds land with a roughly $1.17 billion bank revolver agented by Wells Fargo (borrowing base tied to land, lots and homes; $411.2 million drawn at quarter-end) plus $1.1 billion of senior notes due 2028, 2029 and 2032, and a $50 million non-recourse loan against its rental homes. Its only disclosed land-banking program, with one unnamed third-party land banker, ran from 2022 and was fully repurchased by June 30, 2026, so LGI currently has no land banker. Net debt to capital is 40.6%, high for the group, the lot supply is about 12 years at the 2026 closing pace, two thirds of owned lots are still raw or under development, and the credit agreement blocks buybacks and dividends through December 31, 2026: that combination (heavy owned land, elevated leverage, nothing due in 2026 or 2027 but $400 million of 8.75% notes due December 2028, and management saying it now sees more finished-lot takedown opportunities) is the opening for a land banker.",
+    "land_strategy": "Owns most. Company framing: a 'flexible land acquisition strategy' of buying or optioning finished lots or buying raw land for development, with land banking used 'on a limited and strategic basis' (FY2025 10-K); the CEO calls the position 'predominantly self-developed, on-balance-sheet' (Q3 2026 release). No stated owned/optioned target or years-of-supply target. Raw land takes two to four years to become an active community. Direction of travel: owned lots have fallen six straight quarters from a peak of 61,893 (Q2 2022) while controlled lots rose 18.1% in Q3 2026 as management pursued finished-lot takedowns from developers and smaller projects.",
+    "lots": {
+      "total_controlled": 58400,
+      "owned": 50270,
+      "optioned": 8130,
+      "pct_optioned": 13.9,
+      "years_supply": 12.4,
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000085/a09302026ex991earningsrele.htm",
+      "source_title": "LGI Homes Q3 2026 results press release (8-K Exhibit 99.1), filed 2026-11-03",
+      "note": "Owned 50,270 = 34,119 raw/under development + 16,151 finished (the finished count includes 2,147 completed homes and information centers and 1,626 homes in progress; about 12,378 vacant finished lots per the earnings call). 'Optioned' is the company's 'controlled' figure. years_supply is computed, not company-stated: 58,400 lots divided by the 4,700 midpoint of 2026 closings guidance (4,600 to 4,800). The Q3 2026 10-Q Note 10 separately shows 8,622 lots under land option and purchase contracts ($390.6M aggregate purchase price, $17.9M deposits); the 492-lot difference from 8,130 is not reconciled in the filing. Trend: 70,899 lots at 12/31/2024, 60,842 at 12/31/2025 (51,890 owned / 8,952 controlled), 59,028 at 3/31/2026, 57,406 at 6/30/2026. Segment split at 12/31/2025 (owned/controlled): Central 19,108/517; Southeast 13,372/2,629; Northwest 5,877/1,250; West 8,367/3,323; Florida 5,166/1,233 (FY2025 10-K). The 9/30/2026 segment split was not retrievable."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Undisclosed third-party land banker (LGI filings do not name it)",
+        "counterparty_type": "Land banker",
+        "description": "CONCLUDED. LGI sold land to a single third-party land banker under 'several' financing arrangements and bought it back as finished lots in staged takedowns, paying a non-refundable commitment fee for the repurchase option; it was not legally obliged to take the remaining lots but faced penalties if it did not. LGI accounted for it as a financing (real estate not owned with a matching liability). The balance ran down from $141.8M (12/31/2022) to $118.9M (9/30/2023), $37.1M (12/31/2024), $13.6M (9/30/2025), $8.0M (12/31/2025) and zero: all lots were repurchased by June 30, 2026.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-06",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Notes 2, 3 and 10)",
+        "note": "amount_usd_m left null because the program is fully repaid; the largest balance found in the filings opened was $141.8M at 12/31/2022. Payments to the land banker were $67.9M in 2024 and $29.9M in 2025 (FY2025 10-K MD&A). Lot count, fee/yield and the date and size of each sale were not disclosed in the filings read. Earlier balances from the Q3 2023, Q1 2025 and Q3 2025 10-Qs listed in sources_consulted."
+      },
+      {
+        "counterparty": "Various land sellers and lot developers (not named)",
+        "counterparty_type": "Developer",
+        "description": "Ordinary land purchase and option contracts, not land banking: 8,622 lots under contract at September 30, 2026 for an aggregate purchase price of $390.6M, secured by $17.9M of deposits and option payments (about $11.0M of that on finished-lot contracts and refundable in certain circumstances). Exposure is generally limited to forfeiting the non-refundable deposits. Up from 7,388 lots / $257.0M at June 30, 2026 as management added finished-lot takedowns.",
+        "amount_usd_m": 390.6,
+        "lots": 8622,
+        "date": "2026-09",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Note 10, Commitments and Contingencies)",
+        "note": "At 12/31/2025: 8,952 lots, $285.7M purchase price, $19.2M deposits. The earnings release counts 8,130 controlled lots at the same date; the difference is not explained."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Revolving credit facility, about $1.166B of commitments (Fifth Amended and Restated Credit Agreement of April 28, 2021, as amended by the Seventh Amendment of October 9, 2026)",
+        "type": "Revolver",
+        "principal_usd_m": 411.2,
+        "rate": "Adjusted Term SOFR (0.50% floor) + 1.45% to 2.10% by leverage; margin 1.75% (1.85% with credit spread adjustment) at 9/30/2026",
+        "maturity": "2030-10",
+        "secured": "",
+        "lenders_agent": "Wells Fargo Bank, N.A. (administrative agent); Wells Fargo Securities (left lead arranger, sole bookrunner); joint lead arrangers and syndication agents Fifth Third, BofA, Citizens, BMO; documentation agent U.S. Bank",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000080/lgih-20261009.htm",
+        "source_title": "LGI Homes Form 8-K (Items 1.01, 2.03) on the Seventh Amendment, filed 2026-10-14, with Exhibit 10.1; drawn balance from the Q3 2026 10-Q",
+        "note": "principal_usd_m is the amount drawn at 9/30/2026 ($411.2M, down from $527.6M at 12/31/2025); $23.7M letters of credit; $378.3M available; borrowing base $1.9B. Commitments after the amendment: $1,165.98M plus a $175.0M incremental facility. Staggered maturity: $855.0M (73.3%) on October 9, 2030; 18.4% (about $215M) on April 28, 2029; 8.3% (about $96M) on April 28, 2028. Before the amendment: $1.1825B, $972.5M due April 2029 and 17.8% due April 2028. Lenders (Schedule I): Wells Fargo $135M; Fifth Third, Bank of America, Citizens $130M each; BMO $125.4M; U.S. Bank $110M; Huntington $80M; Flagstar $75M; Regions $72.3M; First National Bank of Pennsylvania $48.2M (non-extending); Texas Capital $48.2M; Third Coast $45M; Woodforest $20M; Hancock Whitney $9.6M; Chang Hwa $7.2M. Guaranteed by subsidiaries with gross assets of at least $0.5M, except the subsidiaries that only own and operate single-family rental homes; the borrowing base is the land, lots and homes held by LGI and those guarantors. LGI may ask for a one-year extension before each anniversary. Borrowing-base advance rates include 50% land held for development, 65% lots under development, 70% finished lots. Covenants: minimum tangible net worth, maximum leverage, minimum liquidity, minimum EBITDA to interest; buybacks and dividends restricted through December 31, 2026. The filings read do not state secured or unsecured in so many words, so the field is left blank."
+      },
+      {
+        "instrument": "8.750% Senior Notes due 2028",
+        "type": "Senior notes",
+        "principal_usd_m": 400,
+        "rate": "8.750%",
+        "maturity": "2028-12",
+        "secured": "",
+        "lenders_agent": "Regions Bank (trustee)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Note 4, Notes Payable)",
+        "note": "Issued November 21, 2023; matures December 15, 2028; interest June 15 and December 15. Guaranteed by the subsidiaries that guarantee the Credit Agreement. Fair value $420.0M at 9/30/2026. First notes maturity and the highest coupon in the stack; call schedule not captured."
+      },
+      {
+        "instrument": "4.000% Senior Notes due 2029",
+        "type": "Senior notes",
+        "principal_usd_m": 300,
+        "rate": "4.000%",
+        "maturity": "2029-07",
+        "secured": "",
+        "lenders_agent": "Wilmington Trust, N.A. (trustee)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Note 4, Notes Payable)",
+        "note": "Issued June 28, 2021; matures July 15, 2029; interest January 15 and July 15. Guaranteed by the subsidiaries that guarantee the Credit Agreement. Fair value $282.2M at 9/30/2026."
+      },
+      {
+        "instrument": "7.000% Senior Notes due 2032",
+        "type": "Senior notes",
+        "principal_usd_m": 400,
+        "rate": "7.000%",
+        "maturity": "2032-11",
+        "secured": "",
+        "lenders_agent": "Regions Bank (trustee)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Note 4, Notes Payable)",
+        "note": "Issued November 15, 2024; matures November 15, 2032; interest May 15 and November 15. Guaranteed by the subsidiaries that guarantee the Credit Agreement. Fair value $413.0M at 9/30/2026."
+      },
+      {
+        "instrument": "LGI Living Loan Agreement (non-recourse loan on single-family rental homes), 6.433% due 2030",
+        "type": "Term loan",
+        "principal_usd_m": 50,
+        "rate": "6.433% fixed (may adjust if the loan is upsized)",
+        "maturity": "2030-07",
+        "secured": "Secured",
+        "lenders_agent": "Evergreen Residential Capital, LLC (lender)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Note 4, Notes Payable)",
+        "note": "Entered July 23, 2025 by special-purpose subsidiary LGI Living - SFR 1, LLC; up to $50.0M, expandable by $75.0M to $125.0M; matures July 8, 2030. Secured by the subsidiary's assets including mortgages on its rental homes; LGI gives a limited-recourse guaranty and must keep liquidity of at least 15% and net worth above 50% of the loan amount."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-04-28",
+        "type": "Facility amendment",
+        "description": "Sixth Amendment to the credit agreement: extended most lenders' commitments to April 28, 2029, added letter-of-credit issuers and reset the tangible net worth covenant. Commitments became $1.1825B ($972.5M, 82.2%, due April 2029; 17.8% due April 2028), down from $1.205B.",
+        "amount_usd_m": 1182.5,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067025000043/lgih-20250331.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended March 31, 2025 (Notes Payable; subsequent event)",
+        "note": ""
+      },
+      {
+        "date": "2025-07-23",
+        "type": "Debt issuance",
+        "description": "LGI Living Loan Agreement with Evergreen Residential Capital: $50.0M non-recourse loan at 6.433% due July 8, 2030, secured by single-family rental homes held in LGI Living - SFR 1, LLC; expandable to $125.0M.",
+        "amount_usd_m": 50,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067025000076/lgih-20250930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2025 (Notes Payable)",
+        "note": "First asset-level financing of the rental portfolio; shows willingness to use off-revolver capital."
+      },
+      {
+        "date": "2025-08-01",
+        "type": "Facility amendment",
+        "description": "Letter Agreement amending the credit agreement. The filings read do not itemize the changes; from the FY2025 10-K onward the company discloses that the agreement restricts share repurchases and dividends through December 31, 2026, and the borrowing base carries a relaxed speculative-home cap from July 31, 2025.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/lgih-20251231.htm",
+        "source_title": "LGI Homes Form 10-K for fiscal 2025 (MD&A, Liquidity and Capital Resources)",
+        "note": "That the buyback/dividend restriction came in with this letter agreement is an inference from timing, not stated in the filings read."
+      },
+      {
+        "date": "2025-09-30",
+        "type": "Buyback",
+        "description": "Repurchased 409,253 shares for $23.6M in the first half of 2025 (41,685 shares for $3.1M in Q1). No repurchases since: none in Q3 or Q4 2025 or in the first nine months of 2026. $157.3M of authorization remains but the credit agreement restricts buybacks through December 31, 2026.",
+        "amount_usd_m": 23.6,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067025000076/lgih-20250930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2025 (Equity note)",
+        "note": "Date is the reporting date of the nine-month total, not a trade date."
+      },
+      {
+        "date": "2025-12-31",
+        "type": "Land-bank deal",
+        "description": "Paid $29.9M in 2025 (after $67.9M in 2024) to its third-party land banker to take down lots, cutting the land-bank balance from $37.1M to $8.0M over the year.",
+        "amount_usd_m": 29.9,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/lgih-20251231.htm",
+        "source_title": "LGI Homes Form 10-K for fiscal 2025 (MD&A, Liquidity and Capital Resources)",
+        "note": "Date is the fiscal year-end of the annual total."
+      },
+      {
+        "date": "2025-12-31",
+        "type": "Other",
+        "description": "Year-end 2025 debt maturity ladder (principal): nothing due in 2026 or 2027; $493.7M in 2028 (the $400M 8.750% notes plus a revolver tranche); $733.9M in 2029 (the $300M 4.000% notes plus the main revolver tranche); $50.0M in 2030 (LGI Living loan); $400.0M thereafter (2032 notes). Total $1,677.6M. The October 2026 revolver extension has since moved $855M of commitments from 2028/2029 to October 2030.",
+        "amount_usd_m": 1677.6,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/R13.htm",
+        "source_title": "LGI Homes Form 10-K for fiscal 2025, Notes Payable note (XBRL viewer page R13)",
+        "note": "Not an event: recorded here because the schema has no maturity-ladder field. Split between notes and revolver within each year is inferred from the series maturities."
+      },
+      {
+        "date": "2026-06-30",
+        "type": "Land-bank deal",
+        "description": "Completed the repurchase of every lot under its land-banking arrangements; real estate not owned and the matching liability went from $8.0M at December 31, 2025 to zero. LGI has had no land-banking arrangement outstanding since.",
+        "amount_usd_m": 8,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000072/lgih-20260630.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended June 30, 2026 (Notes 2 and 3)",
+        "note": "Completed by June 30, 2026; the exact date of the last takedown is not disclosed."
+      },
+      {
+        "date": "2026-07-09",
+        "type": "Other",
+        "description": "Began dual listing of its common stock on Nasdaq Texas under LGIH. No capital raised.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000072/lgih-20260630.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended June 30, 2026 (subsequent event)",
+        "note": ""
+      },
+      {
+        "date": "2026-09-30",
+        "type": "Other",
+        "description": "Revolver paydown: drawn balance cut from $527.6M at December 31, 2025 to $411.2M at September 30, 2026 (over $36M in Q3), taking total notes payable from $1,656.8M to $1,544.5M and net debt to capital from 43.2% to 40.6%. Funded by slower land buying and lower completed-home inventory.",
+        "amount_usd_m": 116.5,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Note 4) and Q3 2026 earnings release",
+        "note": "amount_usd_m is the net nine-month reduction in revolver borrowings, computed from the two balances."
+      },
+      {
+        "date": "2026-10-09",
+        "type": "Facility amendment",
+        "description": "Seventh Amendment to the credit agreement (Wells Fargo, agent): about $1.166B of revolving commitments plus a $175.0M incremental facility; $855.0M (73.3%) extended to October 9, 2030, with 18.4% still due April 28, 2029 and 8.3% April 28, 2028. Also changed borrowing-base values and financial covenants; management said the interest coverage covenant was brought in line with current market terms.",
+        "amount_usd_m": 1166,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000080/lgih-20261009.htm",
+        "source_title": "LGI Homes Form 8-K (Items 1.01, 2.03), filed 2026-10-14",
+        "note": "Commitments fell slightly from $1.1825B; the accordion rose from $95.0M to $175.0M. First National Bank of Pennsylvania signed as a non-extending lender. Covenant levels after the amendment were not captured."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Not named in the filings read",
+        "description": "Two equity-method real estate joint ventures, plus five equity-method joint ventures that provide homebuyer services such as mortgage (LGI Mortgage Solutions) and insurance (LGI Insurance Solutions). Total carrying value $25.4M at September 30, 2026 ($21.2M at December 31, 2025), held in other assets; income from them was $6.4M for the first nine months of 2026. Small relative to $3.5B of owned inventory: LGI does not use land JVs at scale.",
+        "date": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+        "source_title": "LGI Homes Form 10-Q for the quarter ended September 30, 2026 (Note 10)",
+        "note": "The FY2025 10-K counted four services joint ventures at December 31, 2025; a fifth was added in 2026. Partners and the purpose of the two real estate JVs are not disclosed in the text read."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": 1544.5,
+      "cash_usd_m": 69.4,
+      "liquidity_usd_m": 447.7,
+      "net_debt_to_capital_pct": 40.6,
+      "credit_ratings": "",
+      "fiscal_year_end": "December 31",
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000085/a09302026ex991earningsrele.htm",
+      "source_title": "LGI Homes Q3 2026 results press release (8-K Exhibit 99.1), filed 2026-11-03; ratings not stated in filings"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Identity of LGI's land banker: not publicly disclosed. Every filing read calls it only 'a third-party land banker'; the program was fully repurchased by June 30, 2026.",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis, TPG Angelo Gordon, DW Partners, Essential Housing, IHP Capital, Brookfield, Varde, Oaktree, GTIS, Hearthstone, Walton or Forestar: none found in the LGI filings read. Press was not searched for these names, so no links are listed because the search was not run, not because a search came back clean.",
+    "Credit ratings (Moody's / S&P): not stated in LGI's filings (the 10-K only warns about downgrades) and could not be searched; left blank.",
+    "M&A 2025 to date: no acquisition or divestiture appears in the FY2025 10-K, the 2026 10-Qs or the Q3 2026 release and call (the CEO said the 180-community 2027 target excludes any M&A that might occur). Not confirmed against trade press because searches were unavailable, so ma is empty.",
+    "Land-bank program detail (lots, fee or yield, date and size of each sale): not disclosed in the filings read. Largest balance seen was $141.8M at December 31, 2022.",
+    "Owned vs controlled lots by segment at September 30, 2026: in the 10-Q MD&A but not retrievable (www.sec.gov refused curl and the fetch tool truncated the filing); the December 31, 2025 split is in the lots note.",
+    "Senior notes optional-redemption (call) schedules: not in the 10-K or 10-Q notes; they are in the indentures, not read. Whether the revolver and notes are formally 'unsecured': the Notes Payable note does not use either word (it describes a borrowing base and subsidiary guarantees), so the secured field is blank for those rows.",
+    "Financial covenant levels after the Seventh Amendment and whether the buyback/dividend restriction was extended past December 31, 2026: in Exhibit 10.1 sections not reached.",
+    "Partners in the two real estate joint ventures and the five services joint ventures: not named in the text read.",
+    "LGI press releases were read from SEC exhibits only; the investor-relations site (investor.lgihomes.com) was not read."
+  ],
+  "sources_consulted": [
+    "https://data.sec.gov/submissions/CIK0001580670.json",
+    "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000088/lgih-20260930.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000085/a09302026ex991earningsrele.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000080/lgih-20261009.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000080/ex101-seventhamendmentan.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001580670/000158067026000072/lgih-20260630.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/lgih-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067025000076/lgih-20250930.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067025000043/lgih-20250331.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067023000093/lgih-20230930.htm",
+    "https://www.housingwire.com/articles/lgi-earnings-leadership-test/",
+    "https://www.webull.com/news/15861227252966400",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/R13.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/R12.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/R10.htm",
+    "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000019/R9.htm"
+  ]
+}

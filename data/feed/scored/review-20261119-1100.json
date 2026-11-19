@@ -1,0 +1,375 @@
+{
+ "batch": "review-20261119-1100",
+ "rubric_version": "v1.2",
+ "articles": [
+  {
+   "id": "25010d751466",
+   "summary": "Dream Finders closed its Beazer acquisition Oct. 20, 2026 at $33.50 a share (about $878.4M). Funding: $572.1M from a Millrose land bank facility (Millrose cites about $580M, 7,000 homesites) and $675M of 12% convertible preferred, about $488M Millrose's.",
+   "category": "Land banking & competitors",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 22,
+    "financing_capital_markets": 24,
+    "land_lot_supply": 9,
+    "materiality_actionability": 8
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "Millrose put land banking and about $488M of 12% preferred behind a top-25 builder merger, a whole-company financing package Domain will be asked to match and a sign Beazer's land now sits on a competitor's platform.",
+   "builder_ids": [
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties",
+    "Kennedy Lewis"
+   ],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Land banking",
+    "text": "Closed the acquisition of Beazer Homes on 2026-10-20 ($33.50 a share, about $878.4M), funded by $572.1M from a Millrose land bank facility and $675M of 12% Series B convertible preferred, about $488M of it bought by Millrose."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "ef17c22b721c",
+   "summary": "Millrose Q3 2026: net income $130.0M, AFFO $0.80/share; invested capital about $9.25B, homesites under option $9.90B; non-Lennar yield 10.8% vs 8.5% on Lennar; $250M buyback. Closed $1.1B for Dream Finders' Beazer deal: $580M land banking plus $488M 12% preferred.",
+   "category": "Land banking & competitors",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 16,
+    "financing_capital_markets": 20,
+    "land_lot_supply": 8,
+    "materiality_actionability": 9
+   },
+   "adjustment": "floor75-competitor",
+   "why_it_matters": "Millrose is pricing non-Lennar option capital at about 10.8% and pairing land banking with preferred equity to win whole-company deals, while leverage above its own target may slow how fast it can keep bidding against Domain.",
+   "builder_ids": [
+    "lennar",
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [
+    "Darren Richman",
+    "Robert Nitkin"
+   ],
+   "competitors": [
+    "Millrose Properties",
+    "Kennedy Lewis"
+   ],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Land banking",
+    "text": "Millrose closed about $1.1B of capital support on Oct. 20, 2026 for the Beazer acquisition: about $580M of land banking across roughly 7,000 homesites plus about $488M of preferred equity at a 12% dividend."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "4d44870dbfc9",
+   "summary": "Starwood Capital and Canada's Trez Capital announced Nov. 3, 2026 a partnership to originate land acquisition and development loans for US single-family communities, seeded with a $450M Trez loan portfolio and targeting more than $1B of originations a year.",
+   "category": "New entrant",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 28,
+    "builder_customer": 0,
+    "financing_capital_markets": 18,
+    "land_lot_supply": 5,
+    "materiality_actionability": 9
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "Starwood is putting institutional capital behind A&D loans at $1B-plus a year, a debt alternative builders and developers can use instead of a Domain land bank; Anthony Murphy at Starwood and John Hutchinson at Trez lead it.",
+   "builder_ids": [],
+   "people": [
+    "Anthony Murphy",
+    "John D. Hutchinson",
+    "John Maragliano"
+   ],
+   "competitors": [
+    "Starwood Capital Group",
+    "Trez Capital"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "25c35e757dba",
+   "summary": "Strata Land Partners launched Nov. 2, 2026, backed by Wafra and Hunt Companies and led by Michael Forsum, former Landsea Homes president. Its first projects cover about 1,300 lots; capital committed was not disclosed.",
+   "category": "New entrant",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 4,
+    "financing_capital_markets": 18,
+    "land_lot_supply": 9,
+    "materiality_actionability": 9
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "A new land-capital platform aimed at public and especially private builders nationwide, run by an operator who knows builders personally, is a direct new competitor for Domain's mid-size builder deals.",
+   "builder_ids": [],
+   "people": [
+    "Michael Forsum",
+    "Ryan Brenner"
+   ],
+   "competitors": [
+    "Strata Land Partners",
+    "Wafra",
+    "Hunt Companies"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "a6ed85365cc0",
+   "summary": "AGWIP Asset Management, described as Lennar's land banker, paid $60.14 million cash for 444 lots on 132 acres near TSMC's north Phoenix site, closing Sept. 15. Seller Aroundtown Agua Fria plans about 2,000 more lots nearby.",
+   "category": "Land banking & competitors",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 26,
+    "builder_customer": 21,
+    "financing_capital_markets": 8,
+    "land_lot_supply": 9,
+    "materiality_actionability": 5
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "Lennar placed a $60 million Phoenix lot deal with a land banker other than Domain, and the seller has roughly 2,000 more lots coming within three years that will also need land-bank capital; worth confirming whose capital sits behind AGWIP.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [
+    "AGWIP Asset Management"
+   ],
+   "suggested_update": {
+    "builder_id": "lennar",
+    "kind": "Land banking",
+    "text": "AGWIP Asset Management, acting as Lennar's land banker, bought 444 lots (132 acres) near TSMC in north Phoenix for $60.14 million cash, closing Sept. 15, 2026 (Phoenix Business Journal via KTAR)."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "c5a94aef0506",
+   "summary": "Millrose bought 1,233 completed Lennar homes in 18 states for about $333M as rentals, disclosed with Q3 results; the deal faces a lawsuit. Lennar stock fell Oct. 2 after short-seller Hunterbrook alleged late-quarter sales to Millrose helped it hit targets.",
+   "category": "Land banking & competitors",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 28,
+    "builder_customer": 23,
+    "financing_capital_markets": 8,
+    "land_lot_supply": 4,
+    "materiality_actionability": 8
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "A competitor is taking finished homes off Domain's named customer's books, a service Domain does not offer Lennar, and the short report and lawsuit give Lennar a reason to spread land-bank business to other providers, Domain included.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties"
+   ],
+   "suggested_update": {
+    "builder_id": "lennar",
+    "kind": "Deal",
+    "text": "In Q3 2026 Lennar sold 1,233 completed single-family homes in 18 states to Millrose for about $333M, to be held as rentals (per Millrose's Oct. 27, 2026 results release)."
+   },
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "f5e94d3f1509",
+   "summary": "Lennar priced $600M of senior notes Oct. 13, 2026 and closed them Oct. 15: $300M 5.700% due 2029 (T+80) and $300M 5.950% due 2032 (T+95), expected ratings Baa2/BBB/BBB+. Net proceeds about $594.5M for general corporate purposes.",
+   "category": "Builder financing",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 6,
+    "builder_customer": 25,
+    "financing_capital_markets": 25,
+    "land_lot_supply": 5,
+    "materiality_actionability": 10
+   },
+   "adjustment": "floor70-financing",
+   "why_it_matters": "Lennar, a named Domain relationship, can still borrow unsecured for three to five years at under 6%, which is the cost of capital any land-bank proposal to it is measured against.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "lennar",
+    "kind": "Financing",
+    "text": "Priced $600M of senior notes on 2026-10-13: $300M 5.700% due October 2029 and $300M 5.950% due January 2032, net proceeds about $594.5M for general corporate purposes."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "223fa73adf05",
+   "summary": "Five Point Q3 2026: revenue $14.6M, net loss $4.4M, no land sales closed, deferred to 2027; full-year net income guide about $20M; liquidity $576.2M. Hearthstone land banking: about $3.4B under management ($2.8B fee-paying), $6.5M quarterly fees ($18.2M year to date).",
+   "category": "Land banking & competitors",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 22,
+    "builder_customer": 4,
+    "financing_capital_markets": 10,
+    "land_lot_supply": 8,
+    "materiality_actionability": 7
+   },
+   "adjustment": "floor75-competitor",
+   "why_it_matters": "Five Point owns rival land banker Hearthstone, backed by Blue Owl-managed funds, so this sizes a competitor at about $3.4B under management and shows California land sellers deferring sales rather than cutting prices.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [
+    "Five Point Holdings",
+    "Hearthstone",
+    "Blue Owl"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true,
+   "publisher_url": "https://www.sec.gov/Archives/edgar/data/0001574197/000157419726000032/ex-991xfphx93026x8k.htm"
+  },
+  {
+   "id": "7c502f20396a",
+   "summary": "Forestar fiscal 2026 (to Sept. 30): 13,545 lots sold, revenue $1.64B, net income $142.6M; Q4 average lot price $108,300. Owns 58,200 lots, controls 26,200; liquidity $1.3B. Fiscal 2027 guide: 12,000-13,000 lots, $1.4B-$1.5B revenue.",
+   "category": "Land & lots",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 16,
+    "builder_customer": 12,
+    "financing_capital_markets": 12,
+    "land_lot_supply": 10,
+    "materiality_actionability": 6
+   },
+   "adjustment": "none",
+   "why_it_matters": "Forestar is the main finished-lot alternative to a land bank and is guiding to fewer lot deliveries next year, a read on builder takedown demand and on how much D.R. Horton lot supply it will cover.",
+   "builder_ids": [
+    "d-r-horton"
+   ],
+   "people": [],
+   "competitors": [
+    "Forestar"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "e92e9e7b3ecd",
+   "summary": "KB Home's Albert Z. Praw, EVP Real Estate and Business Development, will retire November 30, 2026 after more than 30 years. He is expected to advise on land relationships and transactions for up to a year; no successor named.",
+   "category": "Executive change",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 6,
+    "builder_customer": 23,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 7,
+    "materiality_actionability": 9
+   },
+   "adjustment": "floor75-exec-top25",
+   "why_it_matters": "KB Home's top land executive is leaving with no successor named, so whoever takes over land decisions at the seventh-largest builder is a person Domain should identify and call now, while Praw is still advising on land relationships.",
+   "builder_ids": [
+    "kb-home"
+   ],
+   "people": [
+    "Albert Z. Praw"
+   ],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "kb-home",
+    "kind": "Executive change",
+    "text": "Albert Z. Praw retires as EVP, Real Estate and Business Development effective November 30, 2026 (8-K filed November 16, 2026); he stays as a non-employee adviser on land relationships for up to one year and no successor has been named."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "d5308f01a670",
+   "summary": "Avila Real Estate Capital raised $390M from an insurer and a university endowment, taking total capital above $750M. It lends against land, lots and homes for builders; investors include D.R. Horton, LGI, Century, Toll, Dream Finders and DRB.",
+   "category": "Land banking & competitors",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 27,
+    "builder_customer": 10,
+    "financing_capital_markets": 18,
+    "land_lot_supply": 8,
+    "materiality_actionability": 8
+   },
+   "adjustment": "floor75-competitor",
+   "why_it_matters": "A builder-backed lot lender with a stated goal of financing 100,000 lots in five years is competing capital for the finished-lot deals Domain funds, and six top-20 builders are its investors.",
+   "builder_ids": [],
+   "people": [
+    "Tony Avila"
+   ],
+   "competitors": [
+    "Avila Real Estate Capital"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "e3f076965112",
+   "summary": "Century Communities Q3 2026: 2,442 deliveries, EPS $0.44. Revolver upsized to $1.2B and extended to November 2030 at quarter end. Bought HistoryMaker Homes' assets Oct. 7. Lots 60,969, 45.1% controlled. Net homebuilding debt-to-capital 34.9%.",
+   "category": "Builder financing",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 6,
+    "builder_customer": 20,
+    "financing_capital_markets": 21,
+    "land_lot_supply": 9,
+    "materiality_actionability": 8
+   },
+   "adjustment": "none",
+   "why_it_matters": "Century's net leverage rose to 34.9% from 25.9% at year-end as it drew on its revolver and bought HistoryMaker, which makes it a builder with a reason to move more lots off balance sheet and one Domain should call (the revolver upsizing itself is scored on its own 8-K).",
+   "builder_ids": [
+    "century-communities",
+    "historymaker-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "century-communities",
+    "kind": "Deal",
+    "text": "Acquired substantially all assets of HistoryMaker Homes on Oct. 7, 2026 (Dallas active communities from 12 to 41) and at the end of Q3 2026 upsized its revolver to $1.2B with maturity extended to November 2030."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "35402b520a06",
+   "summary": "Lennar Q3 (Aug 31): net earnings $284M ($1.19 a share) on $8.0B revenue; 20,840 deliveries; orders down 9%; gross margin 15.8%. Controls about 488,000 homesites, under 2.5% owned. Full-year deliveries guide cut to 80,000-81,000.",
+   "category": "Earnings & guidance",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 12,
+    "builder_customer": 25,
+    "financing_capital_markets": 15,
+    "land_lot_supply": 10,
+    "materiality_actionability": 7
+   },
+   "adjustment": "none",
+   "why_it_matters": "Lennar is almost fully land-light with $7.33B of deposits and pre-acquisition costs outstanding, so its lower delivery guide and thinner margin bear directly on takedown pace and option pricing for its land bankers, Domain included.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties"
+   ],
+   "suggested_update": {
+    "builder_id": "lennar",
+    "kind": "Land banking",
+    "text": "At Aug 31, 2026 Lennar owned or controlled about 488,000 homesites with under 2.5% owned; homebuilding debt to total capital 16.6%; fiscal 2026 delivery guide lowered to 80,000-81,000 homes."
+   },
+   "duplicate_of": null,
+   "opened": true
+  }
+ ]
+}

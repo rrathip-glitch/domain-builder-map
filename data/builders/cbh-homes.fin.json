@@ -1,0 +1,111 @@
+{
+  "builder_id": "cbh-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "CBH Homes is a founder-owned Idaho corporation (Corey Barton Homes, Inc.) with no public debt, no SEC filings and no announced lenders, land bankers or capital partners. Public records show it financing growth through owner-affiliated entities: Barton's Endurance Holdings LLC owns the 150-acre Caldwell HQ site, Open Door Rentals LLC (Barton-owned) held its first rentals, and sister companies supply HVAC, electrical, trusses and finishes. Its land pipeline leans on large master plans: Locale in SW Boise (~600 acres, ~2,500 homes at build-out; BoiseDev says CBH markets the homes but does not name the developer entity) and the proposed Radiance in Ada County (~1,200 acres, 6,800+ units), which Corey Barton is fronting. Radiance's land is largely owned by Dennis Baker-controlled entities, and the deal terms are not public. A 6,800-unit pipeline on land CBH does not yet own is the clearest opening for third-party lot or land-bank capital. No public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. The buyer-financing tool on its site (Home Loan Helper) is powered by Premier Mortgage Resources; that is a retail-mortgage partner, not builder finance.",
+    "land_strategy": "Mixed, owner-controlled and self-developed; the company publishes no land-light or option target. It has built spec homes only since 2016, across 60+ communities in 13 southern Idaho cities. Large tracts are entitled through specific/area plans with Bailey Engineering as civil engineer (Locale, Radiance). History of aggressive land bidding: in 2021 a CBH-linked LLC won a state endowment-land auction near Caldwell for $35.2M (about 5x appraisal), then walked away and forfeited $600K in deposits and extension fees, citing high land costs (BoiseDev, 2021-09-28). Radiance (formerly East Hollow) would be its largest project ever: 3,782 single-family homes and 3,050 apartments, under Ada County jurisdiction. As of Oct 2026 no formal application had been filed.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "http://web.archive.org/web/20261013063445/https://boisedev.com/news/2026/10/05/cbh-homes-1200-acres-radiance-micron/",
+      "source_title": "",
+      "note": "No lot counts published. Proxies: 60+ communities (BoiseDev, 2026-09); Locale ~2,500 homes planned at build-out; Radiance proposed 6,800+ units (3,782 single-family) on ~1,200 acres, not yet applied for or approved."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Dennis Baker / entities controlled by Dennis M. Baker and Associates",
+        "counterparty_type": "Developer",
+        "description": "Owns much of the ~1,200-acre Radiance site (15 parcels) that CBH is master-planning in Ada County near Micron and I-84. Other parcels are held by the Leader 1993 Revocable Trust and the Donald M & Marjorie D Day Family Trust (2025 pre-application records). No source says whether CBH holds an option or purchase contract, or whether the land will be banked.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-11",
+        "confidence": "Reported",
+        "source_url": "http://web.archive.org/web/20261013063445/https://boisedev.com/news/2026/10/05/cbh-homes-1200-acres-radiance-micron/",
+        "source_title": "BoiseDev, Radiance article (2026-10-05, read via Wayback) and East Hollow article (2025-11-26)",
+        "note": "Landowner-builder relationship, not a confirmed land-bank or option deal. Baker is the developer behind Pine 43 in Meridian. East Hollow source: http://web.archive.org/web/20260928230823/https://boisedev.com/news/2025/11/26/east-hollow-7000/"
+      },
+      {
+        "counterparty": "Endurance Holdings LLC (owned by Corey Barton)",
+        "counterparty_type": "Affiliate",
+        "description": "Owner-controlled entity that holds 150 acres at S KCID Rd and Linden Rd in Caldwell, the site of CBH's new HQ and the planned Highline Industrial Park. Shows Barton holding real estate in affiliates rather than in the homebuilding corporation.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-11",
+        "confidence": "Reported",
+        "source_url": "http://web.archive.org/web/20251202212833/https://boisedev.com/news/2024/11/18/developer-new-headquarters-caldwell/",
+        "source_title": "BoiseDev, CBH Homes new headquarters in Caldwell (2024-11-18, read via Wayback)",
+        "note": "Idaho SOS: Endurance Holdings LLC, formed 2016-03-30, registered agent Corey D. Barton, 1977 E Overland Rd, Meridian. Not homebuilding land; listed to show how the owner holds real estate."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2024-10",
+        "type": "Other",
+        "description": "Broke ground on a 214,000 sq ft headquarters ('CBH Starship') in Caldwell, consolidating three offices; the move is planned for 2027. Land is owned by Barton's Endurance Holdings. Construction financing was not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "http://web.archive.org/web/20251202212833/https://boisedev.com/news/2024/11/18/developer-new-headquarters-caldwell/",
+        "source_title": "BoiseDev, CBH Homes new headquarters in Caldwell (2024-11-18)",
+        "note": "The company's own careers page (Nov 2026) confirms the HQ is under construction with a 2027 move."
+      },
+      {
+        "date": "2025-11-06",
+        "type": "Other",
+        "description": "Pre-application meeting with Ada County for East Hollow (later renamed Radiance), a ~7,000-home community near Micron. The neighborhood meeting was held 2026-10-01; CBH targeted an early-2026 application, but none had been filed as of Oct 2026.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "http://web.archive.org/web/20260928230823/https://boisedev.com/news/2025/11/26/east-hollow-7000/",
+        "source_title": "BoiseDev, 'Filings show 7,000 home planned community could be built south of Micron along I-84' (2025-11-26, read via Wayback)",
+        "note": "Follow-up: http://web.archive.org/web/20261013063445/https://boisedev.com/news/2026/10/05/cbh-homes-1200-acres-radiance-micron/"
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "https://web.archive.org/web/20260217172950/https://www.builderonline.com/firms/cbh-homes/",
+      "source_title": "Builder firm page (2024: 1,742 closings, $745M revenue)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned / optioned / controlled): not publicly disclosed (private company).",
+    "Land-banking or lot-option partners: none publicly disclosed; no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon found.",
+    "Terms of CBH's control of the Radiance land (option, purchase contract, JV with Baker entities): not publicly disclosed.",
+    "Credit facilities, construction lenders, bank lines: not publicly disclosed. Idaho UCC lien search was not reachable without a login, so lender names from UCC filings were not checked.",
+    "Total debt, cash, liquidity: not publicly disclosed; no SEC filings or rated debt.",
+    "Joint ventures: none publicly disclosed.",
+    "M&A 2025-2026: none found, either acquisitions or a sale of CBH (checked company blog to Nov 2026, BoiseDev and Google News headlines).",
+    "Financing of the Caldwell HQ and of the CBH Rentals / Proximity rental portfolio: not publicly disclosed."
+  ],
+  "sources_consulted": [
+    "http://web.archive.org/web/20261013063445/https://boisedev.com/news/2026/10/05/cbh-homes-1200-acres-radiance-micron/",
+    "http://web.archive.org/web/20260928230823/https://boisedev.com/news/2025/11/26/east-hollow-7000/",
+    "http://web.archive.org/web/20251202212833/https://boisedev.com/news/2024/11/18/developer-new-headquarters-caldwell/",
+    "http://web.archive.org/web/20260327214733/https://boisedev.com/news/2026/02/03/locale-village-center/",
+    "http://web.archive.org/web/20240914065559/https://boisedev.com/news/2021/09/28/state-owned-ag-land-going-back-up-for-auction-after-cbh-homes-backed-out-of-purchase/",
+    "http://web.archive.org/web/20240916152419/https://boisedev.com/news/2020/02/05/boise-homebuilder-adds-rental-division-with-homes-apartments/",
+    "https://cbhhomes.com/about/",
+    "https://cbhhomes.com/careers/",
+    "https://cbhhomes.com/home-loan-helper/",
+    "https://cbhhomes.com/blog/new-cbh-homes-communities-coming-soon-across-the-treasure-valley-beyond/",
+    "https://www.bbb.org/us/id/meridian/profile/home-builders/cbh-homes-1296-10000524",
+    "https://web.archive.org/web/20260217172950/https://www.builderonline.com/firms/cbh-homes/",
+    "https://sosbiz.idaho.gov/api/Records/businesssearch (Idaho SOS: Corey Barton Homes, Inc. #361056; Corey Barton Homes Sales & Marketing, Inc. #426932; Endurance Holdings LLC #498221)",
+    "https://news.google.com/rss/search?q=%22CBH+Homes%22 (headline index used to find articles)"
+  ]
+}

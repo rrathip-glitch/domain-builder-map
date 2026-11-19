@@ -1,0 +1,104 @@
+{
+  "builder_id": "homes-by-taber",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Private and founder-owned, so no balance sheet, lender or facility is public. What is public points to a self-funded developer-builder: the owner's affiliate Premium Land, LLC buys raw land, entitles it and develops lots for Homes by Taber, and in a 2014 interview the founder said he funds development with bank loans, deliberately without partners, and had built up more lots than he needed. No land banker, lot-option investor, JV or outside capital partner has been named anywhere, and no link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. It is a plausible but small land-banking customer: about 630 closings a year, nine of 29 communities just opening or coming soon, a new push into Tulsa, and a land pipeline carried on the owner's own balance sheet. The pitch would be to an owner who has so far preferred bank debt and full control.",
+    "land_strategy": "Owns and develops most of its own land (not land-light). The company history says the founder finds and develops land himself, and the owner's affiliate Premium Land, LLC is the applicant on plats for Taber communities; the careers page advertises in-house development staff (a Development Coordinator to assist with land and lot acquisitions, and a Development Superintendent). No stated owned-versus-optioned target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.homesbytaber.com/communities",
+      "source_title": "Homes by Taber: community list and site data (company site)",
+      "note": "Lot counts are not publicly disclosed. Activity measures instead, from the company site on 2026-11-19: 29 communities listed (20 active, 5 grand opening, 4 coming soon), 271 homes listed for sale, 60 floor plans. Closings: 883 in 2021 and 857 in 2022 (company posts citing Home Builder Executive), 633 in 2025 (Builder 100)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Premium Land, LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Land-development entity of owner Taber LeBlanc; it holds, entitles and plats land that becomes Homes by Taber communities. This is self-development by an owner affiliate, not third-party land banking. Example: final plat of The Waters, Phase V in Moore, 58 single-family lots on 19.72 acres, applicant recorded as 'Premium Land LLC/Taber LeBlanc'. The Waters is a Homes by Taber community.",
+        "amount_usd_m": null,
+        "lots": 58,
+        "date": "2021-03",
+        "confidence": "Verified",
+        "source_url": "https://cityofmoore.com/sites/default/files/uploads/planning-commission-meeting/agendas/agenda_5.pdf",
+        "source_title": "City of Moore Planning Commission minutes, 2021-03-09, item 5b",
+        "note": "Lot count is for that one phase only, not the affiliate's total holdings. How lots move from Premium Land to the builder (price, timing, any option structure) is not public."
+      },
+      {
+        "counterparty": "Premium Land, LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Sterling Fields, Norman: rezoning and preliminary plat application for about 59.33 acres on East Robinson, planned as 60 single-family lots of at least 0.75 acre on private well and septic. Applicant is Premium Land, LLC, represented by Rieger Sadler Joyce LLC.",
+        "amount_usd_m": null,
+        "lots": 60,
+        "date": "2025-10",
+        "confidence": "Inferred",
+        "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/normanok-meet-53b2910690e2494fa61b3f831bb3641b/ITEM-Attachment-001-2efa01b31e3b44bda8c2f372c12053d5.pdf",
+        "source_title": "Sterling Fields Planned Unit Development narrative, City of Norman (submitted 2025-10-01, revised 2025-11-05)",
+        "note": "The filing itself is a primary record, but it names only Premium Land, LLC, not Taber LeBlanc or Homes by Taber; the tie rests on the entity name matching the Moore record, hence Inferred. Sterling Fields is not yet on the Homes by Taber site. If it is the same entity, this is the freshest sign of new raw-land buying."
+      },
+      {
+        "counterparty": "Premium Land, LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Redlands, Norman: 2022 application to rezone and plat about 79.88 acres north of Indian Hills Road as a mixed-use planned unit development (single-family, multifamily and commercial). Applicant Premium Land, LLC; engineer Crafton Tull; heard by the Norman Planning Commission on 2022-11-10.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2022-11",
+        "confidence": "Inferred",
+        "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/normanok-meet-9b722b05e425432c933f25ef18fc98ee/ITEM-Attachment-001-c848868970e6450fb61dac61f9044f1f.pdf",
+        "source_title": "Redlands Planned Unit Development narrative, City of Norman (submitted 2022-10-03, revised 2022-11-03)",
+        "note": "Same caveat: the filing names only Premium Land, LLC; link to the LeBlanc entity is by name. Redlands is not on the Homes by Taber site, and its outcome was not checked. Commission minutes: https://mccmeetingspublic.blob.core.usgovcloudapi.net/normanok-meet-8d3503a8d415488faa11e3a6bfc360fe/ITEM-Attachment-001-e37e5a598bcc46f3a5470870a02d4f72.pdf"
+      }
+    ],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.probuilder.com/home/article/55204439/under-40-home-builders-working-the-market",
+      "source_title": "Pro Builder, 'Under-40 Home Builders: Working the Market' (2014-07-17): no balance-sheet data is public; founder describes bank development loans and no partnerships"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lots owned / optioned / controlled: not publicly disclosed (private company)",
+    "Lenders, credit facilities, construction and development loan terms: not publicly disclosed. The only public statement is the founder's 2014 Pro Builder interview: development is funded with bank loans from unnamed lenders, without partners; that source is 12 years old",
+    "Total debt, cash, liquidity, leverage, fiscal year end: not publicly disclosed; no ratings, no public debt, no SEC filings",
+    "Land banker, lot-option investor, JV or outside equity partner: none named in any source found",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found; the shared web-search allowance ran out before a dedicated search on each name could be run, so this is 'not found', not 'ruled out'",
+    "M&A 2025-2026: none found (no acquisition, sale or merger involving Homes by Taber surfaced in search or on the company site); the same search limit applies",
+    "Premium Land, LLC: total acreage and lot inventory, its lenders, and the terms on which it supplies lots to Homes by Taber are not public. An Oklahoma City rezoning case for the Ashleaf Farms community (PUD-2040, 2024) naming Premium Land as owner and developer was seen in a search snippet only; the okc.gov document would not load",
+    "Home-buyer mortgages go through an outside preferred lender (Stride Bank / Stride Mortgage, per the company site); no captive mortgage or title affiliate was identified",
+    "County mortgage and UCC records, which would name the development lenders, were not searched"
+  ],
+  "sources_consulted": [
+    "https://www.homesbytaber.com/",
+    "https://www.homesbytaber.com/about-the-builder",
+    "https://www.homesbytaber.com/communities",
+    "https://www.homesbytaber.com/careers",
+    "https://www.homesbytaber.com/blog/taber-turns-20",
+    "https://www.homesbytaber.com/blog/executive-builder-magazine-ranks-homes-by-taber-as-a-top-100-builder",
+    "https://www.homesbytaber.com/blog/homes-by-taber-outranks-other-oklahoma-builders-on-a-national-scale",
+    "https://www.probuilder.com/home/article/55204439/under-40-home-builders-working-the-market",
+    "https://cityofmoore.com/sites/default/files/uploads/planning-commission-meeting/agendas/agenda_5.pdf",
+    "https://mccmeetingspublic.blob.core.usgovcloudapi.net/normanok-meet-53b2910690e2494fa61b3f831bb3641b/ITEM-Attachment-001-2efa01b31e3b44bda8c2f372c12053d5.pdf",
+    "https://mccmeetingspublic.blob.core.usgovcloudapi.net/normanok-meet-9b722b05e425432c933f25ef18fc98ee/ITEM-Attachment-001-c848868970e6450fb61dac61f9044f1f.pdf",
+    "https://mccmeetingspublic.blob.core.usgovcloudapi.net/normanok-meet-8d3503a8d415488faa11e3a6bfc360fe/ITEM-Attachment-001-e37e5a598bcc46f3a5470870a02d4f72.pdf",
+    "https://www.newswire.com/news/myers-barnes-joins-homes-by-taber-20544586",
+    "https://www.newswire.com/news/new-home-builder-in-broken-arrow-open-for-customers-21861159",
+    "https://topworkplaces.com/company/homes-by-taber/"
+  ]
+}

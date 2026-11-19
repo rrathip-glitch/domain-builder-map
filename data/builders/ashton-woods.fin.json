@@ -1,0 +1,370 @@
+{
+  "builder_id": "ashton-woods",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Ashton Woods USA L.L.C. (Ashton Woods Homes and Starlight Homes) is a private, family-owned builder with public Rule 144A notes, so it posts 10-K/10-Q/8-K-style reports on its own site. It is already one of the most option-heavy builders: 87.8% of its 54,317 controlled lots were under purchase or option contracts at Aug 31, 2026, backed by $641.0M of nonrefundable deposits against about $4.0B of remaining purchase price. Corporate funding is three unsecured notes series ($1.2B, first maturity Aug 2029) plus an undrawn $550M Wells Fargo-agented unsecured revolver (Nov 2029); liquidity was $707.1M. Land-banking counterparties are not named in any filing: the company describes sale-and-option-back deals with unnamed investors ($601.2M of real estate not owned), a fast-growing set of investor-funded lot purchase agreements (three at May 31, 2026, ten at Aug 31, 2026), and fifteen lot purchase agreements with affiliates of its owner families. Room for a land banker is in displacing or adding to those unnamed providers rather than converting owned land, since only 6,650 lots are owned.",
+    "land_strategy": "Land-light by design. The company's stated approach is a 'strategic focus on optioned lots' that keeps unused inventory dollars off the balance sheet (88% optioned at Nov 30, 2025; 87.8% at Aug 31, 2026), buying land only after entitlement. The annual report frames it as a balance between land owned and developed for its own use and lots controlled through option contracts; no numeric optioned-lot target is stated. Its risk factors say it relies on 'land banking' or 'off-balance sheet' arrangements and would be at a disadvantage if they were not available on satisfactory terms.",
+    "lots": {
+      "total_controlled": 54317,
+      "owned": 6650,
+      "optioned": 47667,
+      "pct_optioned": 87.8,
+      "years_supply": 5.3,
+      "as_of": "2026-08-31",
+      "confidence": "Verified",
+      "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+      "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+      "note": "Lot counts and 87.8% are as stated in the report. years_supply 5.3 is computed here: 54,317 lots / 10,212 trailing-twelve-month closings (FY2026 10,080 + Q1 FY27 2,191 - Q1 FY26 2,059). The company's own stated figure at May 31, 2026 was about 5.5 years (0.6 owned, 4.9 controlled) on 55,718 lots (6,466 owned, 49,252 under contract). Owned 6,650 = 4,487 finished lots + 2,163 lots in land under development or held for future development; a further 3,886 homes under construction or completed are not counted as lots. By segment: East 23,636 controlled (2,871 owned, 20,765 optioned); Central 30,681 (3,779 owned, 26,902 optioned). A year earlier (Aug 31, 2025): 57,973 controlled, 8,662 owned, 49,311 optioned (85.1%). In the three months to Aug 31, 2026 it bought 2,587 lots for $266.6M and spent $75.5M on land development."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Not publicly named (third-party investors; sale-and-option-back)",
+        "counterparty_type": "Investor",
+        "description": "Ashton Woods sells land it owns to investors and concurrently takes a lot purchase option back; because the repurchase is treated as a financing under ASC 606, the lots stay on its balance sheet as real estate not owned. $601.2M of real estate not owned and $457.4M of related liabilities (net of $143.8M cash deposits) at Aug 31, 2026.",
+        "amount_usd_m": 601.2,
+        "lots": null,
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Counterparties are not identified in any company report. Essentially flat versus May 31, 2026 ($601.4M real estate not owned, $444.9M liabilities, $156.6M deposits). Deposits equal roughly 24% of the recorded real estate. No specific-performance obligation; deposits are forfeited if lots are not taken."
+      },
+      {
+        "counterparty": "Not publicly named (investors who buy lots the company identifies)",
+        "counterparty_type": "Investor",
+        "description": "Classic land-bank structure in the company's words: it identifies lots, finds an investor to buy them, then options them back in staged takedowns for a nonrefundable deposit. Ten such lot purchase agreements (one with owner-family affiliates) were consolidated under ASC 470-40 at Aug 31, 2026: $139.8M real estate not owned and $109.3M of liabilities net of $30.5M deposits.",
+        "amount_usd_m": 139.8,
+        "lots": null,
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Up from three agreements, $90.3M real estate not owned and $66.9M liabilities (net of $23.4M deposits) at May 31, 2026, so seven new consolidated investor arrangements were added in the June to August 2026 quarter. Only arrangements where the company judges itself economically compelled to buy are recorded here; other investor-funded options sit off balance sheet and are not separately quantified."
+      },
+      {
+        "counterparty": "Affiliates of the owner families behind Little Shots Nevada L.L.C. (called 'the Investors' in the reports)",
+        "counterparty_type": "Affiliate",
+        "description": "Related-party lot banking: fifteen lot purchase agreements with affiliates of the five families that own 99% of Ashton Woods. Initial deposits were 20% to 30% of the purchase price, with no specific-performance requirement; 3,496 lots remained to be purchased for $106.3M at Aug 31, 2026. Four of the agreements are recorded as real estate not owned.",
+        "amount_usd_m": 106.3,
+        "lots": 3496,
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "At May 31, 2026 it was thirteen agreements, 3,595 lots and about $114.3M (FY2026 annual report). The five families are those related to Elly Reisman, the Estate of Norman Reisman, Bruce Freeman, Seymour Joffe and Harry Rosenbaum. Amounts overlap with the two rows above where the agreements are consolidated."
+      },
+      {
+        "counterparty": "Not publicly named (all land sellers, developers and investors under purchase and option contracts)",
+        "counterparty_type": "Unknown",
+        "description": "Whole option book at Aug 31, 2026: 47,667 lots under purchase and option agreements. Unconsolidated agreements carried $3.2B of remaining purchase price against $467.7M of cash deposits; agreements recorded under ASC 606 or ASC 470-40 carried a further $944.6M against $174.3M of deposits. Total nonrefundable deposits were $641.0M and the remaining purchase price under option agreements with nonrefundable deposits was $4.0B.",
+        "amount_usd_m": 4000,
+        "lots": 47667,
+        "date": "2026-08",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "amount_usd_m is the $4.0B remaining purchase price under agreements with nonrefundable deposits. The filings do not split the book between land-banker, developer and land-seller options, and name no counterparty. Deposits average roughly 15% of remaining purchase price on the unconsolidated book and 18% on the consolidated book. The first three rows are subsets of this one."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "4.625% Senior Notes due 2029",
+        "type": "Senior notes",
+        "principal_usd_m": 350,
+        "rate": "4.625%",
+        "maturity": "2029-08-01",
+        "secured": "Unsecured",
+        "lenders_agent": "Rule 144A / Reg S; co-issuers Ashton Woods USA L.L.C. and Ashton Woods Finance Co.",
+        "status": "Outstanding",
+        "as_of": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Issued Aug 2, 2021 at par. Carrying value $348.3M net of deferred costs. Callable at 100% of principal since Aug 1, 2026, so this first maturity can be refinanced at any time without premium. Guaranteed by substantially all subsidiaries."
+      },
+      {
+        "instrument": "4.625% Senior Notes due 2030",
+        "type": "Senior notes",
+        "principal_usd_m": 400,
+        "rate": "4.625%",
+        "maturity": "2030-04-01",
+        "secured": "Unsecured",
+        "lenders_agent": "Rule 144A / Reg S; co-issuers Ashton Woods USA L.L.C. and Ashton Woods Finance Co.",
+        "status": "Outstanding",
+        "as_of": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "$300M issued Sept 23, 2021 at par plus a $100M add-on issued Jan 27, 2022 at 97.5. Carrying value $396.7M. Callable at a premium from Apr 1, 2025 and at par from Apr 1, 2027."
+      },
+      {
+        "instrument": "6.875% Senior Notes due 2033",
+        "type": "Senior notes",
+        "principal_usd_m": 450,
+        "rate": "6.875%",
+        "maturity": "2033-08-01",
+        "secured": "Unsecured",
+        "lenders_agent": "Trustee: U.S. Bank Trust Company, N.A.; J.P. Morgan Securities LLC was representative of the initial purchasers",
+        "status": "Outstanding",
+        "as_of": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/nfdam1nsqd/pdf/cms_AW---Consolidated-Closing-Current-Report-Final-.pdf_7Pmz78K.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Closing of Senior Notes Offering and Notice of Full Redemption of 6.625% Senior Notes",
+        "note": "Issued July 28, 2025 at par under Rule 144A / Reg S. Make-whole call until Aug 1, 2028, then declining premium, par from Aug 1, 2030. Change-of-control put at 101%. Carrying value $444.7M at Aug 31, 2026 per the Q1 FY2027 report."
+      },
+      {
+        "instrument": "$550M Senior Unsecured Revolving Credit Facility (Sixth Amended and Restated Credit Agreement, as amended)",
+        "type": "Revolver",
+        "principal_usd_m": 550,
+        "rate": "SOFR or alternative base rate plus a leverage-based margin",
+        "maturity": "2029-11-25",
+        "secured": "Unsecured",
+        "lenders_agent": "Wells Fargo Bank, National Association (administrative agent)",
+        "status": "Undrawn",
+        "as_of": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/3im9y3ajoe/pdf/cms_AW---Fourth-Amendment-to-CRA-Form-8-K.pdf_z7nYlZP.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Fourth Amendment to Sixth Amended and Restated Credit Agreement",
+        "note": "principal_usd_m is the commitment; nothing was drawn at Aug 31, 2026. $40.6M of letters of credit outstanding ($100M sublimit) and $425.4M of additional availability under the borrowing base (Q1 FY2027 report). Accordion to $700M; $20M swingline. Covenants include minimum tangible net worth, maximum leverage, minimum interest coverage, minimum liquidity and a limit on the value of certain land components owned. The other lenders are not named."
+      },
+      {
+        "instrument": "Land-secured note payable issued Jan 13, 2026 (non-interest bearing)",
+        "type": "Project debt",
+        "principal_usd_m": 8.1,
+        "rate": "0% (non-interest bearing)",
+        "maturity": "2027-07-30",
+        "secured": "Secured",
+        "lenders_agent": "Unaffiliated third party (not named)",
+        "status": "Outstanding",
+        "as_of": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Secured only by the related land, non-recourse to the company. Maturity extends automatically to June 30, 2028 if certain conditions are met by July 30, 2027. This is the only notes-payable balance left at Aug 31, 2026."
+      },
+      {
+        "instrument": "8.50% land-secured note payable issued July 31, 2024",
+        "type": "Project debt",
+        "principal_usd_m": 22.0,
+        "rate": "8.50%",
+        "maturity": "2027-07-31",
+        "secured": "Secured",
+        "lenders_agent": "Unaffiliated third party (not named)",
+        "status": "Redeemed",
+        "as_of": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Repaid in full, ahead of maturity, during the quarter ended Aug 31, 2026."
+      },
+      {
+        "instrument": "6.625% Senior Notes due 2028",
+        "type": "Senior notes",
+        "principal_usd_m": 250,
+        "rate": "6.625%",
+        "maturity": "2028",
+        "secured": "Unsecured",
+        "lenders_agent": "Trustee: U.S. Bank Trust Company, N.A.",
+        "status": "Redeemed",
+        "as_of": "2026-01-15",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/nfdam1nsqd/pdf/cms_AW---Consolidated-Closing-Current-Report-Final-.pdf_7Pmz78K.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Closing of Senior Notes Offering and Notice of Full Redemption of 6.625% Senior Notes",
+        "note": "$199.1M (79.65%) bought in the tender offer that closed July 28, 2025; indenture satisfied and discharged July 31, 2025; the remaining $50.9M was called for redemption at par on Jan 15, 2026. Issued Jan 23, 2020 at par; the exact 2028 maturity day is not restated in the reports opened."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-04-23",
+        "type": "Facility amendment",
+        "description": "Third Amendment to the Sixth Amended and Restated Credit Agreement (the unsecured revolver).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/3im9y3ajoe/pdf/cms_AW---Fourth-Amendment-to-CRA-Form-8-K.pdf_z7nYlZP.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Fourth Amendment to Sixth Amended and Restated Credit Agreement",
+        "note": "Only the date is cited in the later amendment report; no separate report on this amendment is posted and its terms were not found. Before the November 2025 amendment the facility stood at $445.0M maturing June 12, 2028."
+      },
+      {
+        "date": "2025-07-21",
+        "type": "Other",
+        "description": "Launched a cash tender offer for any and all of the $250M 6.625% Senior Notes due 2028 and signed the purchase agreement for the new 2033 notes.",
+        "amount_usd_m": 250,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/nfdam1nsqd/pdf/cms_AW---Consolidated-Closing-Current-Report-Final-.pdf_7Pmz78K.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Closing of Senior Notes Offering and Notice of Full Redemption of 6.625% Senior Notes",
+        "note": "Launch date per the company IR page listing (Commencement of Tender Offer, 07/21/2025); the purchase agreement date is in the closing report."
+      },
+      {
+        "date": "2025-07-28",
+        "type": "Debt issuance",
+        "description": "Issued $450M of 6.875% Senior Notes due 2033 at par (Rule 144A / Reg S), co-issued with Ashton Woods Finance Co.; J.P. Morgan Securities LLC represented the initial purchasers.",
+        "amount_usd_m": 450,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/nfdam1nsqd/pdf/cms_AW---Consolidated-Closing-Current-Report-Final-.pdf_7Pmz78K.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Closing of Senior Notes Offering and Notice of Full Redemption of 6.625% Senior Notes",
+        "note": "Net new debt of about $200M after retiring the 2028 notes; debt to capital rose from 41.7% (May 31, 2025) to 46.0% (Nov 30, 2025) per the March 2026 investor presentation."
+      },
+      {
+        "date": "2025-07-28",
+        "type": "Redemption",
+        "description": "Closed the tender offer: bought $199.1M (79.65%) of the 6.625% Senior Notes due 2028 with part of the 2033 notes proceeds.",
+        "amount_usd_m": 199.1,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/3kvnuxe7nj/pdf/cms_AW---Tender-Expiration-8-K-Final.pdf_N7vNkaM.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Expiration and Results of Tender Offer",
+        "note": ""
+      },
+      {
+        "date": "2025-07-31",
+        "type": "Redemption",
+        "description": "Called the remaining $50.9M of 2028 notes for redemption at par on Jan 15, 2026 and deposited U.S. treasuries with the trustee to satisfy and discharge the 2028 indenture.",
+        "amount_usd_m": 50.9,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/nfdam1nsqd/pdf/cms_AW---Consolidated-Closing-Current-Report-Final-.pdf_7Pmz78K.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Closing of Senior Notes Offering and Notice of Full Redemption of 6.625% Senior Notes",
+        "note": "After this, the earliest notes maturity is Aug 1, 2029."
+      },
+      {
+        "date": "2025-11-25",
+        "type": "Facility amendment",
+        "description": "Fourth Amendment to the revolver: commitments raised from $445.0M to $550.0M (accordion to $700.0M), maturity extended from June 12, 2028 to Nov 25, 2029, letter-of-credit capacity raised from $75.0M to $100.0M, and financial covenants, borrowing base and pricing margins adjusted. Wells Fargo Bank, N.A. is administrative agent.",
+        "amount_usd_m": 550,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/3im9y3ajoe/pdf/cms_AW---Fourth-Amendment-to-CRA-Form-8-K.pdf_z7nYlZP.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Fourth Amendment to Sixth Amended and Restated Credit Agreement",
+        "note": ""
+      },
+      {
+        "date": "2026-01-13",
+        "type": "Debt issuance",
+        "description": "Issued an $8.1M non-interest-bearing note to an unaffiliated third party, secured by the related land, due July 30, 2027 (extendable to June 30, 2028).",
+        "amount_usd_m": 8.1,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Reads as seller financing on a land purchase; the lender is not named."
+      },
+      {
+        "date": "2026-03-02",
+        "type": "Other",
+        "description": "Released a March 2026 investor presentation for conferences and investor meetings. It shows 57,599 lots at Nov 30, 2025 (7,201 owned, 50,398 optioned, 88% optioned, 6.0 years controlled supply), with Starlight Homes holding 32,571 of them, and $738M of liquidity.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/botd6qrao2/pdf/cms_AW-8K---03-02-26.pdf_Wy13bby.pdf",
+        "source_title": "Ashton Woods Form 8-K (noteholder report): Investor Presentation March 2026",
+        "note": "The deck states 'No off-balance sheet debt', says the company controls lots for 100% of projected FY2026 and FY2027 sales, and benchmarks its 88% optioned share behind only NVR (99%) and Lennar (98%)."
+      },
+      {
+        "date": "2026-05-31",
+        "type": "Other",
+        "description": "Fiscal 2026 owner distributions: $22.7M of tax distributions and $65.0M of non-tax distributions to Members (FY2025: $66.3M and $127.0M). Two land-secured notes ($4.9M at 6.00% and $16.5M at 6.00%) were repaid at their Jan 8 and May 14, 2026 maturities.",
+        "amount_usd_m": 87.7,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/evcinzo80z/pdf/cms_AW-10-K-FY26.pdf_89xgGw5.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Annual Report, FY2026 (year ended May 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "amount_usd_m is total FY2026 distributions. Net income was $165.3M in FY2026 versus $266.4M in FY2025."
+      },
+      {
+        "date": "2026-07-14",
+        "type": "Other",
+        "description": "Board approved an $8.7M tax distribution and an $18.8M non-tax distribution to Members.",
+        "amount_usd_m": 27.5,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/evcinzo80z/pdf/cms_AW-10-K-FY26.pdf_89xgGw5.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Annual Report, FY2026 (year ended May 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Paid in the quarter ended Aug 31, 2026. After Aug 31, 2026 the Board approved a further $4.6M of tax distributions (Q1 FY2027 report)."
+      },
+      {
+        "date": "2026-08",
+        "type": "Redemption",
+        "description": "Repaid early, in full, the $22.0M 8.50% land-secured note that was due July 31, 2027. No other debt transactions in the quarter ended Aug 31, 2026.",
+        "amount_usd_m": 22.0,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Exact repayment date within the June to August 2026 quarter is not given."
+      },
+      {
+        "date": "2026-08",
+        "type": "Land-bank deal",
+        "description": "Consolidated investor-funded lot purchase agreements (ASC 470-40) rose from three at May 31, 2026 to ten at Aug 31, 2026; related real estate not owned rose from $90.3M to $139.8M and financing cash flows show $12.7M of net proceeds from real-estate-not-owned activity in the quarter.",
+        "amount_usd_m": 139.8,
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "The investors are not named. This is the clearest public sign of fresh land-bank activity at Ashton Woods after the ranking."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Affiliates of the owner families behind Little Shots Nevada L.L.C. ('the Investors')",
+        "description": "One unconsolidated land development joint venture. Ashton Woods holds a 49% limited-partner, non-controlling interest (equity method, $1.4M carrying value). The venture held $2.8M of land inventory and no debt at Aug 31, 2026; Ashton Woods is paid $6,000 a month for accounting and administrative services.",
+        "date": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "The venture's name and location are not disclosed."
+      },
+      {
+        "partner": "Not named in the reports",
+        "description": "Two unconsolidated mortgage joint ventures through which mortgage services are offered to homebuyers in all operating divisions; non-controlling interests held through AW Mortgage Holdings L.L.C., an unrestricted subsidiary under the notes indentures. Their debt is non-recourse to Ashton Woods.",
+        "date": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": "Mortgage partners: not publicly disclosed in the reports opened."
+      },
+      {
+        "partner": "Not named in the reports (other member builders)",
+        "description": "Construction materials joint venture that buys and distributes lumber and other materials to its members for homes built in Dallas. Ashton Woods invested $1.7M in fiscal 2024, holds under 20%, and its maximum exposure is $1.8M. Debt is non-recourse.",
+        "date": "2026-08-31",
+        "confidence": "Verified",
+        "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+        "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)",
+        "note": ""
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": 1208.1,
+      "cash_usd_m": 281.7,
+      "liquidity_usd_m": 707.1,
+      "net_debt_to_capital_pct": 37.8,
+      "credit_ratings": "",
+      "fiscal_year_end": "May 31",
+      "as_of": "2026-08-31",
+      "confidence": "Verified",
+      "source_url": "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+      "source_title": "Ashton Woods USA L.L.C. Quarterly Report, Q1 FY2027 (quarter ended Aug 31, 2026; not filed with the SEC, posted on company IR site)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Land-banking counterparties: not publicly disclosed. The reports describe investor-funded option and sale-and-option-back arrangements but name no investor. No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon was found in the FY2026 annual report, the Q1 FY2027 quarterly report, the March 2026 investor presentation or the 2025 to 2026 current reports.",
+    "Named-counterparty press search not completed: the shared web-search allowance ran out after three searches, so searches for Ashton Woods with Millrose, Kennedy Lewis, Angelo Gordon, Domain, DW Partners, Essential Housing, IHP Capital, Brookfield, Varde, Oaktree, GTIS, Hearthstone, Walton and Forestar were not run. Company documents were read in full for these terms instead ('land bank' appears only in risk factors).",
+    "Credit ratings (Moody's, S&P): not confirmed in this run. The company's reports mention ratings only as a risk factor and the rating-agency pages could not be searched; key_metrics.credit_ratings is left blank.",
+    "Split of the 47,667 optioned lots between land-banker, developer and land-seller contracts: not publicly disclosed. Lot counts behind the $601.2M and $139.8M of real estate not owned: not disclosed.",
+    "Revolver lender group other than Wells Fargo (administrative agent), pricing grid and covenant levels: not publicly disclosed (the credit agreement is not posted).",
+    "Terms of the Third Amendment to the revolver (April 23, 2025): not found; only its date is cited.",
+    "Initial purchasers of the 2033 notes other than J.P. Morgan Securities LLC: not named in the company report or the law-firm announcements.",
+    "Trustee and exact call schedule premiums for the 2029 and 2030 notes: not restated in the reports opened.",
+    "M&A: none found for 2025 or 2026. The FY2026 annual report (subsequent events through July 14, 2026) and the Q1 FY2027 report (through Oct 6, 2026) disclose no acquisitions or divestitures and say the company has historically entered new markets organically; the 2025 to 2026 Denver, Colorado entry is listed among its organic openings. A press search for rumoured deals could not be run (search allowance exhausted).",
+    "Mortgage joint venture partners and the name of the related-party land joint venture: not publicly disclosed in the reports opened.",
+    "Equity: 99% owned indirectly through Little Shots Nevada L.L.C. by five families; no outside equity raise or sale process is disclosed."
+  ],
+  "sources_consulted": [
+    "https://www.ashtonwoods.com/corporate-info/investor-relations/financial-reports",
+    "https://www.ashtonwoods.com/corporate-info/investor-relations/financial-news",
+    "https://awh.widen.net/content/gzoqkl3cxo/pdf/cms_Ashton-Woods-Quarterly-Report---Q1-FY2027.pdf_PPMgQGK.pdf",
+    "https://awh.widen.net/content/evcinzo80z/pdf/cms_AW-10-K-FY26.pdf_89xgGw5.pdf",
+    "https://awh.widen.net/content/3im9y3ajoe/pdf/cms_AW---Fourth-Amendment-to-CRA-Form-8-K.pdf_z7nYlZP.pdf",
+    "https://awh.widen.net/content/nfdam1nsqd/pdf/cms_AW---Consolidated-Closing-Current-Report-Final-.pdf_7Pmz78K.pdf",
+    "https://awh.widen.net/content/3kvnuxe7nj/pdf/cms_AW---Tender-Expiration-8-K-Final.pdf_N7vNkaM.pdf",
+    "https://awh.widen.net/content/botd6qrao2/pdf/cms_AW-8K---03-02-26.pdf_Wy13bby.pdf",
+    "https://awh.widen.net/content/wawddpdrvh/pdf/cms_AW-8-K---12-9-25.pdf_4gOl7j2.pdf",
+    "https://www.housingwire.com/articles/ashton-woods-earnings-q3-2026/",
+    "https://www.stblaw.com/about-us/news/view/2025/08/01/ashton-woods-completes-$450-million-senior-notes-offering-and-concurrent-tender-offer",
+    "https://www.cahill.com/news/firm-news/2025-07-28-cahill-represents-initial-purchasers-and-dealer-manager-in-ashton-woods-450-million-notes-offering-and-concurrent-tender-offer"
+  ]
+}

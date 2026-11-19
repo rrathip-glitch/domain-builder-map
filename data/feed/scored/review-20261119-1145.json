@@ -1,0 +1,174 @@
+{
+ "batch": "review-20261119-1145",
+ "rubric_version": "v1.3",
+ "note": "Corrections from the independent sample check (data/feed/sample-check.json).",
+ "articles": [
+  {
+   "id": "ef17c22b721c",
+   "summary": "Millrose Q3 2026: net income $130.0M, AFFO $0.80/share, invested capital about $9.25B, $3.4B of it outside Lennar across 21 non-Lennar counterparties; non-Lennar yield 10.8% vs 8.5% on Lennar; $250M buyback authorized.",
+   "category": "Land banking & competitors",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 18,
+    "financing_capital_markets": 20,
+    "land_lot_supply": 8,
+    "materiality_actionability": 9
+   },
+   "adjustment": "floor75-competitor",
+   "why_it_matters": "Millrose is pricing non-Lennar option capital at about 10.8% and now pairs land banking with preferred equity to win whole-company deals, a benchmark for Domain bids and a package Domain will be asked to match.",
+   "builder_ids": [
+    "lennar",
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [
+    "Darren Richman"
+   ],
+   "competitors": [
+    "Millrose Properties",
+    "Kennedy Lewis"
+   ],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Land banking",
+    "text": "Millrose closed about $1.1B of capital support on Oct. 20, 2026 for the Beazer acquisition: about $580M of land banking across roughly 7,000 homesites plus about $488M of preferred equity at a 12% dividend."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "6b383809f6a9",
+   "summary": "LGI Homes amended its revolver on Oct. 9, 2026: commitments about $1.166B (down from $1.1825B), $855M extended to Oct. 9, 2030, and an accordion of up to $175M (up from $95M) capped at $1.3B. Wells Fargo is agent.",
+   "category": "Builder financing",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 2,
+    "builder_customer": 17,
+    "financing_capital_markets": 23,
+    "land_lot_supply": 1,
+    "materiality_actionability": 6
+   },
+   "adjustment": "floor70-financing",
+   "why_it_matters": "LGI just reset the bank line that funds its land, a natural moment to ask whether it wants off-balance-sheet lot capital alongside it.",
+   "builder_ids": [
+    "lgi-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": {
+    "builder_id": "lgi-homes",
+    "kind": "Financing",
+    "text": "Revolver amended 2026-10-09: commitments about $1.166B (down from $1.1825B), $855M now maturing 2030-10-09, accordion up to $175M (up from $95M) capped at $1.3B total; Wells Fargo agent."
+   },
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "47d817b59696",
+   "summary": "Millrose declared another quarterly dividend increase, to $0.79 per share on Class A and Class B stock, payable Oct. 15, 2026 to holders of record Oct. 5.",
+   "category": "Land banking & competitors",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 14,
+    "builder_customer": 0,
+    "financing_capital_markets": 8,
+    "land_lot_supply": 0,
+    "materiality_actionability": 2
+   },
+   "adjustment": "cap45-routine-filing",
+   "why_it_matters": "Routine payout; the only use to Domain is that Millrose's $0.79 dividend sets the return its option fees must keep covering.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [
+    "Millrose Properties"
+   ],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "c5a94aef0506",
+   "summary": "Millrose bought 1,233 completed Lennar homes in 18 states for about $333M to hold as rentals, disclosed with Q3 results. Hunterbrook, a media outlet whose affiliate is short Lennar and Millrose, had reported the purchases; Lennar stock fell Oct. 2.",
+   "category": "Land banking & competitors",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 28,
+    "builder_customer": 23,
+    "financing_capital_markets": 8,
+    "land_lot_supply": 4,
+    "materiality_actionability": 8
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "A competitor is taking finished homes off Domain's named customer's books, a service Domain does not offer Lennar, and the short report and lawsuit give Lennar a reason to spread land-bank business to other providers, Domain included.",
+   "builder_ids": [
+    "lennar"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties"
+   ],
+   "suggested_update": {
+    "builder_id": "lennar",
+    "kind": "Deal",
+    "text": "In Q3 2026 Lennar sold 1,233 completed single-family homes in 18 states to Millrose for about $333M, to be held as rentals (per Millrose's Oct. 27, 2026 results release)."
+   },
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "8957e90cd64e",
+   "summary": "On its Q3 2026 call Meritage withheld Q4 and full-year guidance, expects 2026 land spend below $1.5B, targets mid-20s net debt-to-capital, cut inventory about 12%, sold five communities to build-for-rent buyers and bought back $285M of stock.",
+   "category": "Earnings & guidance",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 18,
+    "financing_capital_markets": 12,
+    "land_lot_supply": 7,
+    "materiality_actionability": 5
+   },
+   "adjustment": "none",
+   "why_it_matters": "Meritage, the fifth-largest builder, is holding land spend down and favoring liquidity, so new option takedowns will be smaller; its lot-exit sales to build-for-rent buyers also show where its excess land is going.",
+   "builder_ids": [
+    "meritage-homes"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "25010d751466",
+   "summary": "Dream Finders closed its all-cash Beazer purchase Oct. 20, 2026 ($33.50 a share, about $2.2B enterprise value), funded by a $572.1M Millrose land bank facility and $675M of preferred; Millrose says it bought about $488M (net of discount).",
+   "category": "Land banking & competitors",
+   "source_type": "Filing",
+   "subscores": {
+    "land_banking_competitor": 30,
+    "builder_customer": 22,
+    "financing_capital_markets": 24,
+    "land_lot_supply": 9,
+    "materiality_actionability": 8
+   },
+   "adjustment": "floor85-competitor-deal",
+   "why_it_matters": "Millrose put land banking and preferred equity behind a top-25 builder merger (homesite count and 12% rate per Millrose's Oct. 27 release), a whole-company financing package Domain will be asked to match.",
+   "builder_ids": [
+    "dream-finders-homes",
+    "beazer-homes"
+   ],
+   "people": [],
+   "competitors": [
+    "Millrose Properties",
+    "Kennedy Lewis"
+   ],
+   "suggested_update": {
+    "builder_id": "dream-finders-homes",
+    "kind": "Land banking",
+    "text": "Closed the acquisition of Beazer Homes on 2026-10-20 ($33.50 a share, about $878.4M), funded by $572.1M from a Millrose land bank facility and $675M of 12% Series B convertible preferred, about $488M of it bought by Millrose."
+   },
+   "duplicate_of": null,
+   "opened": true
+  }
+ ]
+}

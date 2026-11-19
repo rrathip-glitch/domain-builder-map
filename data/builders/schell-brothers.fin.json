@@ -1,0 +1,141 @@
+{
+  "builder_id": "schell-brothers",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Schell Brothers is a private, founder-controlled, conventional for-sale builder with no public debt, no ratings and no SEC filings found, so its bank lines and balance sheet are not public. What is public is the land model. In its Delaware home market, lots are largely developed by the Schell family's affiliated developer, Ocean Atlantic Companies (run by Chris Schell's twin brother Preston), which funds each project with outside investor equity alongside its own and has used institutional land capital before (a 2012 joint venture with Mountain Real Estate Capital). In Richmond, Nashville and Boise there is no affiliate: Schell buys lots that developers such as HHHunt build for it, contracts raw land subject to rezoning, and co-develops larger sites with another builder (Main Street Homes). No land banker, lot-option financier or link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. It is a plausible land-banking customer, mainly for the three expansion divisions and for large self-assembled sites such as the 76-acre Westford Glen; in Delaware the affiliate and its investor base already fill that role, so the pitch there is to Ocean Atlantic as much as to Schell.",
+    "land_strategy": "Mixed, with no stated owned-versus-optioned target. Delaware: lots come largely from the affiliated developer Ocean Atlantic Companies, which develops communities with investor equity and hands the home building to Schell Brothers. Richmond, Nashville, Boise: finished lots from third-party and master-plan developers, plus raw land put under contract and taken through rezoning by Schell's own division land directors. Pro Builder (Dec 2023) described large land holdings around Rehoboth Beach built up since the 2007-08 downturn.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company, no lot table). Partial public indicators only: Pro Builder (Dec 2023) said the Nashville division was expected to absorb about 700 build-ready lots; the affiliate Ocean Atlantic's site (undated) cites over 1,000 acres under development and 2,000 home sites in its pipeline, not all of which are for Schell Brothers. Richmond pipeline in the press: 381 lots at Bethia Road (HHHunt-developed), 68 at Baldwin Creek, up to 370 units at Westford Glen (shared with Main Street Homes)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Ocean Atlantic Companies",
+        "counterparty_type": "Affiliate",
+        "description": "Schell family development group in Rehoboth Beach (founded 1997 by Preston Schell and Gene Lankford) that develops residential communities in Delaware and hands home building to Schell Brothers. Its lot-development page lists Walden (265 units, 159 acres, Lewes area) and Marlin Chase (75 homes, Ocean View) and links both to schellbrothers.com; it also lists Brighton (674 lots, Middletown) as a future project. It functions as Schell Brothers' in-house land developer and off-balance-sheet lot source in Delaware.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://www.oacompanies.com/portfolio/residential-lot-development.html",
+        "source_title": "Ocean Atlantic Companies: Residential Lot Development (company site)",
+        "note": "Ocean Atlantic's investor page says it takes outside investors into each deal, pays preferred returns during development and puts in significant equity of its own; its about page (undated) cites 2,000 home sites in the pipeline. Preston Schell's bio lists Schell Brothers among the group's companies and says he is managing member of about 50 project LLCs. Ocean Atlantic also sells to other builders: D.R. Horton is building its 289-home Woodfield Preserve in Milton. A Dec 2025 job advert for an Ocean Atlantic Director of Site Development (career.com, Rehoboth Beach) described Ocean Atlantic as a member of the Schell Brothers family of companies, so the tie is current. Lot counts specific to Schell Brothers, takedown terms and the investors' names are not public."
+      },
+      {
+        "counterparty": "HHHunt Communities",
+        "counterparty_type": "Developer",
+        "description": "Richmond BizSense reported that HHHunt is developing the home lots for Schell Brothers in the 669-unit, roughly 250-acre Bethia Road project in Chesterfield County (307 single-family homes and 74 townhomes for Schell; HHHunt builds the 288 apartments). Site work had started by June 2024.",
+        "amount_usd_m": null,
+        "lots": 381,
+        "date": "2024-06",
+        "confidence": "Reported",
+        "source_url": "https://richmondbizsense.com/2024/06/27/schell-brothers-planning-68-home-subdivision-west-of-harpers-mill",
+        "source_title": "Schell Brothers planning 68-home subdivision west of Harpers Mill (Richmond BizSense)",
+        "note": "lots = 307 single-family + 74 townhome lots. Schell was the rezoning applicant in 2021; the terms on which HHHunt develops and delivers the lots (purchase, option, fee development) are not public. HHHunt is a developer-builder, not a land banker."
+      },
+      {
+        "counterparty": "Mountain Real Estate Capital (MREC)",
+        "counterparty_type": "Investor",
+        "description": "Historical: in Dec 2012 the Charlotte-based investor formed a joint venture with Ocean Atlantic to buy a lender's note on Breakwater, a 185-lot community in Lewes, so that Ocean Atlantic could finish development; Schell Brothers was to sell and build homes on the remaining lots. Terms were not disclosed.",
+        "amount_usd_m": null,
+        "lots": 185,
+        "date": "2012-12",
+        "confidence": "Reported",
+        "source_url": "https://delawarebusinessnow.com/2012/12/ocean-atlantic-real-estate-investor-team-up-to-develop-lewes-community/",
+        "source_title": "Ocean Atlantic, real estate investor team up to develop Lewes community (Delaware Business Now)",
+        "note": "Fourteen years old and included as precedent only: it shows the Schell family group has taken institutional land capital at the affiliate level. No current MREC relationship was found."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2017-06-12",
+        "type": "Other",
+        "description": "The only lender named in press coverage: TowneBank financed the renovation (over $500,000) of the 13,500 sq ft building at 1919 Huguenot Road, Chesterfield, which Schell Brothers bought for $850,000 as its Richmond division office.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://richmondbizsense.com/2017/06/12/delaware-builder-secures-home-base-in-chesterfield/",
+        "source_title": "Delaware builder secures home base in Chesterfield (Richmond BizSense)",
+        "note": "Old and small; recorded only because it names a bank relationship. It is an office loan, not a land or construction facility, and may no longer be outstanding."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Main Street Homes",
+        "description": "Westford Glen, Henrico County, VA: Schell Brothers assembled about 76 acres (nine parcels, under contract) and brought in Midlothian-based Main Street Homes as co-developer. Rezoning sought for up to 330 townhomes and 40 detached homes plus 3 commercial acres; Main Street's president put the cost at about $175M at buildout, with construction roughly two years out and a four-year buildout. County staff had not yet backed the rezoning in Nov 2025. The two builders also work together on Dogwood Creek in Chesterfield.",
+        "date": "2025-11",
+        "confidence": "Reported",
+        "source_url": "https://richmondbizsense.com/2025/11/11/developer-duo-planning-350-plus-homes-beside-closed-landfill-near-wyndham/",
+        "source_title": "Developer duo planning 350-plus homes beside closed landfill near Wyndham (Richmond BizSense)",
+        "note": "Ownership split and legal structure not described. No lender or capital partner named: a large, infrastructure-heavy site with no announced funding. Rezoning outcome after Nov 2025 not checked."
+      },
+      {
+        "partner": "Jon Beckner (Richmond real estate agent)",
+        "description": "StillCroft, Ashland, VA: a 26-home gated community on roughly 6-acre lots that Schell Brothers developed together with the agent.",
+        "date": "2024-06",
+        "confidence": "Reported",
+        "source_url": "https://richmondbizsense.com/2024/06/27/schell-brothers-planning-68-home-subdivision-west-of-harpers-mill",
+        "source_title": "Schell Brothers planning 68-home subdivision west of Harpers Mill (Richmond BizSense)",
+        "note": "Small; structure not described."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, lenders, total debt, cash, liquidity: not publicly disclosed (private company; no notes, no ratings). The debt list is empty for that reason.",
+    "Lots owned / optioned / controlled and years of supply: not publicly disclosed.",
+    "Ownership of Schell Brothers, LLC and any outside equity: not publicly disclosed. Ocean Atlantic's site lists Schell Brothers among its group companies; the exact legal relationship is not public.",
+    "Ocean Atlantic's investors, fund structure and lot takedown terms with Schell Brothers: not public (investor portal is login-only and was not accessed).",
+    "A 2014 Cape Gazette article (capegazette.com/node/71322, blocked with a 403 so not opened) was summarised in search results as saying Ocean Atlantic bought The Peninsula on the Indian River Bay with about 650 unsold lots from Wells Fargo, financed by an unnamed private equity firm in a profit share. Unconfirmed lead.",
+    "Land banker / lot-option financier, and any link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon: none found in one general search (land banking, land bank, lot option, credit facility, lender). The firm-by-firm searches were not run because the shared web-search allowance ran out; treat competitor_links as unchecked rather than confirmed empty.",
+    "M&A 2025 to date: nothing found in one search (acquires / acquisition / expands, 2025-2026). The 2024 Boise entry was described in a search snippet as a partnership with the owner of a small local builder (Russ Van Wagenen); whether any company or lots were bought is not confirmed and it predates the window.",
+    "SEC EDGAR: company lookup and full-text search were both refused in this run (automated-tool block / 403), so the absence of filings (for example Form D) is not confirmed.",
+    "Nashville and Boise lot sources (which developers sell lots to Schell there): not established from pages opened. A Builder article on Schell joining Freehold Communities' Durham Farms in Hendersonville appeared in search results but builderonline.com returned 403.",
+    "Terms of the HHHunt lot arrangement at Bethia Road and of the Main Street Homes partnership: not public."
+  ],
+  "sources_consulted": [
+    "https://schellbrothers.com/about/",
+    "https://schellbrothers.com/about/faq/",
+    "https://www.oacompanies.com/",
+    "https://www.oacompanies.com/about-us.html",
+    "https://www.oacompanies.com/about-us/our-team.html",
+    "https://www.oacompanies.com/about-us/our-team/50-preston-schell.html",
+    "https://www.oacompanies.com/portfolio/residential-lot-development.html",
+    "https://www.oacompanies.com/investors.html",
+    "https://www.oacompanies.com/services/investment-management.html",
+    "https://www.oacompanies.com/press.html",
+    "https://www.oacompanies.com/press/158-independence-gets-approval-for-phase-13.html",
+    "https://schellbrothers.com/delaware-beaches/walden/",
+    "https://www.probuilder.com/business-management/builder-of-the-year/article/55198618/built-on-happiness-meet-pro-builders-2023-builder-of-the-year",
+    "https://richmondbizsense.com/2024/06/27/schell-brothers-planning-68-home-subdivision-west-of-harpers-mill",
+    "https://richmondbizsense.com/2025/11/11/developer-duo-planning-350-plus-homes-beside-closed-landfill-near-wyndham/",
+    "https://richmondbizsense.com/2017/06/12/delaware-builder-secures-home-base-in-chesterfield/",
+    "https://richmondbizsense.com/2021/02/03/reworked-proposal-would-add-600-plus-homes-to-winterpock-area/",
+    "https://delawarebusinessnow.com/2012/12/ocean-atlantic-real-estate-investor-team-up-to-develop-lewes-community/",
+    "https://prnewswire.com/news-releases/schell-brothers-launches-new-division-in-richmond-virginia-300314946.html",
+    "https://www.career.com/job/schell-brothers/director-of-site-development/j202512111256425367908",
+    "https://digital-editions.todaymediacustom.com/DBT/DE-222/2025/files/basic-html/page33.html"
+  ]
+}

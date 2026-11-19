@@ -1,0 +1,98 @@
+{
+  "builder_id": "ball-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Ball Homes is a privately held, family-owned LLC with no public debt and no SEC filings, so its credit facilities, leverage and lot counts are not disclosed. Public records show it acting as its own land developer: it applies for its own zoning and subdivision approvals (e.g. an 87-lot, later 95-lot, Buttermilk Road subdivision in Knox County approved Feb-Mar 2026, a 50-lot West Gallaher Ferry subdivision approved June 2025, and the multi-phase Chilesburg master plan in Lexington). Its lending relationships appear to be with Kentucky community banks (Central Bank and Traditional Bank show up most often as mortgagees on its property records), and it runs an affiliated mortgage company (Walden Mortgage Group). No land banker, lot-option financier or outside equity partner is publicly linked to it, so a land banker would be pitching a builder that today owns and develops most of its land on bank credit.",
+    "land_strategy": "Owns and develops most of its land, in the company's own words developing its own neighborhoods (Chilesburg, Willow Bend, Masterson Station/Greendale named in its brochure) and self-entitling subdivisions in Knox County, TN. No stated land-light or option target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company). Only partial pipeline evidence: Knox County approvals for 95 lots (Buttermilk Rd, 2026) and 50 lots (W Gallaher Ferry Rd, 2025)."
+    },
+    "land_banking": [],
+    "debt": [
+      {
+        "instrument": "Bank real-estate loans (mortgages of record)",
+        "type": "Project debt",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Central Bank; Traditional Bank; Morgan Stanley Bank NA (fewer loans)",
+        "status": "Outstanding",
+        "as_of": "2026-11",
+        "confidence": "Inferred",
+        "source_url": "https://elementix.com/companies/ball-homes",
+        "source_title": "elementix company profile, Ball Homes (county-record aggregator, stats 'as of November 2026')",
+        "note": "Lender names come from recorded mortgages compiled by a third-party aggregator: undated, the dollar totals cover lender-wide volume and are not usable, and some loans may be personal Ball-family property loans or paid off. Shows who Ball Homes banks with, not facility size or terms."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-06-12",
+        "type": "Other",
+        "description": "Knox County Planning Commission approved Ball Homes, LLC's development plan for up to 50 single-family lots on 16.5 acres off West Gallaher Ferry Road (Hardin Valley area), with the builder paying for offsite road widening.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.kgis.org/CaseSummaries/6-H-25-DP.pdf",
+        "source_title": "Knox Planning case summary 6-H-25-DP",
+        "note": "Shows self-development in Knoxville; financing source not stated."
+      },
+      {
+        "date": "2026-02-12",
+        "type": "Other",
+        "description": "Knox County approved Ball Homes, LLC's 87-lot Buttermilk Road subdivision concept and development plan (43.8 acres, applications filed 2025-12-29); an 8-lot addition (95 total) was approved 2026-03-05.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.kgis.org/CaseSummaries/2-D-26-DP.pdf",
+        "source_title": "Knox Planning case summaries 2-D-26-DP / 2-SC-26-C (and 3-G-26-DP)",
+        "note": "Addition source: https://www.kgis.org/CaseSummaries/3-G-26-DP.pdf"
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None (no rated debt)",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://sosbes.sos.ky.gov/BusSearchNProfile/Profile.aspx?ctr=478728",
+      "source_title": "Kentucky SOS entity record (private LLC; no financials published)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned, optioned, total, years supply): not publicly disclosed (private company)",
+    "Credit facility size, terms and maturities: not publicly disclosed; no public notes, no SEC filings, no credit ratings",
+    "Land-banking or lot-option partners: none found in public sources (no link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon found)",
+    "Joint ventures or outside equity partners: none publicly disclosed",
+    "M&A 2025 to date: none found (no acquisition or sale announced)",
+    "Leverage, cash and liquidity: not publicly disclosed",
+    "Rental-homes arm and affiliates (Walden Mortgage Group, Ball Realty) financing: not publicly disclosed"
+  ],
+  "sources_consulted": [
+    "https://www.ballhomes.com/About/",
+    "https://ballhomes.com/media/imagemanager/texteditor/Documents/The%20Ball%20Advantage%20Web%20Version%2012.10.13.pdf",
+    "https://elementix.com/companies/ball-homes",
+    "https://www.kgis.org/CaseSummaries/2-D-26-DP.pdf",
+    "https://www.kgis.org/CaseSummaries/3-G-26-DP.pdf",
+    "https://www.kgis.org/CaseSummaries/6-H-25-DP.pdf",
+    "https://knoxplanning.org/cases/2-D-26-DP",
+    "https://knoxplanning.org/cases/6-H-25-DP",
+    "https://sosbes.sos.ky.gov/BusSearchNProfile/Profile.aspx?ctr=478728",
+    "https://www.waldenmg.com/default.aspx",
+    "https://web.archive.org/web/20250914184816/https://www.builderonline.com/firms/ball-homes"
+  ]
+}

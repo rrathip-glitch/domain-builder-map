@@ -1,0 +1,150 @@
+{
+  "builder_id": "park-square-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Park Square Homes is a private, family-owned Florida builder (parent Park Square Enterprises, LLC) with no SEC filings, no rated or public debt and no published financial statements, so its bank lines and land financing are not public. Volume fell from 996 closings ($311M) in 2024 to 522 closings ($251M) in 2025 per Builder's 2026 firm profile, which is why it slipped from No. 70 to No. 100. It sources land both ways: it buys raw or partly entitled parcels and develops them itself (Sutton Lakes in Winter Garden, ~200 homes, groundbreaking planned 2026; 25 acres at Babcock Ranch for 242 townhomes, 2023; Phase 1 of Walton Global's Canopy master plan in Hernando County, 76.55 acres / up to 227 lots, 2024), and it takes finished lots under contract from developers (Keewin's Cypress Park Estates in Haines City, alongside D.R. Horton, Lennar and Dream Finders; Newland homesites for Tampa communities). No land banker, lot-option financier or outside equity partner is publicly linked to the homebuilder. The family's commercial arm Kimaya raises project equity from family offices, RIAs, fund managers and institutions for build-to-rent and multifamily, so the family is used to outside capital. For a land banker: a mid-size self-developing builder with falling volume (and a VP of Land opening seen only in search snippets) is a plausible lot-option customer, but the size of any facility is unknown.",
+    "land_strategy": "Mixed (no stated target): self-develops purchased land in its own communities and also buys finished lots from third-party developers; no owned/optioned split published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company). Named community lot counts only: Sutton Lakes ~200 homes, Babcock Ranch 242 townhomes, Canopy Phase 1 up to 227 lots."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Walton Global",
+        "counterparty_type": "Developer",
+        "description": "Walton Global (land investment and asset-management firm) sold Phase 1 of its 264-acre Canopy master-planned community in Hernando County (76.55 acres, up to 227 lots) to Park Square Homes. A land sale, not a land-bank or option arrangement as far as disclosed.",
+        "amount_usd_m": null,
+        "lots": 227,
+        "date": "2024-06",
+        "confidence": "Reported",
+        "source_url": "https://altswire.com/walton-global-closes-on-76-acre-sale-within-master-planned-community-in-central-florida/",
+        "source_title": "Walton Global Closes on 76+ Acre Sale Within Master Planned Community in Central Florida (AltsWire)",
+        "note": "Price not disclosed. Walton has more phases in Canopy, so further takedowns are possible."
+      },
+      {
+        "counterparty": "The Keewin Real Property Company",
+        "counterparty_type": "Developer",
+        "description": "Lot developer of Cypress Park Estates, Haines City (704 homes planned); Park Square Homes was one of four builders under contract for the 354 first-phase lots, with D.R. Horton, Lennar and Dream Finders. Keewin's land and development loan came from Trez Capital.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2021-04",
+        "confidence": "Reported",
+        "source_url": "https://www.multifamilybiz.com/pressreleases/12982/trez_capital_finances_land_acquisition_and_first_phase_of_development_of_new_central_florida",
+        "source_title": "Trez Capital Finances Land Acquisition and First Phase of Development of New Central Florida Residential Community (MultifamilyBiz)",
+        "note": "Park Square's lot count in the phase is not stated. Cypress Park Estates is still an active Park Square community in 2026 (company site)."
+      },
+      {
+        "counterparty": "Newland Communities",
+        "counterparty_type": "Developer",
+        "description": "Newland sold homesites to Park Square Homes for several Tampa division communities, per the company's announcement of Keith Hurand (former Newland President and COO) as President and COO.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://www.parksquarehomes.com/blog/welcome-our-new-president-and-coo-keith-hurand/",
+        "source_title": "Welcome, Our New President and COO Keith Hurand (company blog)",
+        "note": "Dates and lot counts not given."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2025-02",
+        "type": "Other",
+        "description": "Announced its own land development at Sutton Lakes, Four Corners area of Winter Garden: about 200 townhomes and single-family homes, groundbreaking expected in 2026 (Central Florida division).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.parksquarehomes.com/blog/new-land-development-news-in-winter-garden/",
+        "source_title": "New Land Development News in Winter Garden (company blog)",
+        "note": "Date is the page's sitemap last-modified date."
+      },
+      {
+        "date": "2023-01-25",
+        "type": "Other",
+        "description": "Acquired 25 acres at Babcock Ranch (Charlotte County) for 242 townhomes, its entry into Southwest Florida.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.businessobserverfl.com/news/2023/jan/25/orlando-builder-buys-25-acres-in-region-plans-242-unit-community/",
+        "source_title": "Orlando builder buys 25 acres in region, plans 242-unit community (Business Observer)",
+        "note": "Price not disclosed."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "FBC Mortgage, LLC",
+        "description": "Park Square Home Mortgage (PSH Mortgage, NMLS 1683180) is a joint venture between Park Square Homes and FBC Mortgage; it funds buyer incentives such as builder-paid forward-commitment rate buydowns.",
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://www.parksquarehomes.com/companies/",
+        "source_title": "Family of Companies (company site)",
+        "note": "Buyer mortgage JV, not land finance."
+      },
+      {
+        "partner": "Atrium Management Company",
+        "description": "Kimaya Management Group, a JV between Kimaya and Atrium Management, manages Kimaya's build-to-rent communities and some multifamily assets; Park Square Homes was general contractor on Kimaya's Ocoee Village build-to-rent townhomes (AAGO 'Build To Rent Community of the Year', January 2026).",
+        "date": "2026-01",
+        "confidence": "Verified",
+        "source_url": "https://kimayarealestate.com/family-of-companies/",
+        "source_title": "Kimaya Family of Companies",
+        "note": "Ocoee Village award: https://www.parksquarehomes.com/blog/ocoee-village-townhome-awarded-build-to-rent-community-of-the-year/"
+      },
+      {
+        "partner": "Kimaya (affiliate; outside investors)",
+        "description": "Kimaya, the commercial real-estate affiliate in the Park Square family of companies, develops multifamily, build-to-rent and other commercial projects ($500M+ total development cost of portfolio, per its About page) and works with family offices, registered investment advisors, fund managers, institutional investors and select high-net-worth individuals (Investor Relations page).",
+        "date": "2026",
+        "confidence": "Verified",
+        "source_url": "https://kimayarealestate.com/about/",
+        "source_title": "Kimaya About Us",
+        "note": "Investor relations page: https://kimayarealestate.com/investor-relations/ . No named investor or lender. Verification 2026-11-19: 'formed in 2015' and 'subsidiary of Park Square Enterprises' are not stated on the About or Investor Relations pages and were removed from the description."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "Not rated",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "https://web.archive.org/web/20260721212143/https://www.builderonline.com/firms/park-square-homes/",
+      "source_title": "Builder firm profile, Park Square Homes (archived 2026-07-21): closings 2025 522 / revenue $251M; 2024 996 / $311M; no balance-sheet data public"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, construction lenders and land loans: not publicly disclosed (private company; no SEC registrant found for Park Square Homes, Park Square Enterprises or Kimaya in EDGAR company search).",
+    "Owned vs optioned lots, total lots controlled: not publicly disclosed.",
+    "Land-banking or lot-option partners: none publicly named; no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon found.",
+    "UCC liens / lenders of record: not checked (Florida Sunbiz blocked automated access).",
+    "M&A: none found for 2025-2026 (no acquisitions, sales or recapitalisations of Park Square Homes reported).",
+    "Search snippets (not opened) attribute 2022 Builder articles to Park Square land deals of 584 homesites in St. Cloud and 362 homesites at Leela Reserve, Tavares; not confirmed in this run."
+  ],
+  "sources_consulted": [
+    "https://web.archive.org/web/20260721212143/https://www.builderonline.com/firms/park-square-homes/",
+    "https://www.multifamilybiz.com/pressreleases/12982/trez_capital_finances_land_acquisition_and_first_phase_of_development_of_new_central_florida",
+    "https://altswire.com/walton-global-closes-on-76-acre-sale-within-master-planned-community-in-central-florida/",
+    "https://www.businessobserverfl.com/news/2023/jan/25/orlando-builder-buys-25-acres-in-region-plans-242-unit-community/",
+    "https://www.parksquarehomes.com/blog/welcome-our-new-president-and-coo-keith-hurand/",
+    "https://www.parksquarehomes.com/blog/new-land-development-news-in-winter-garden/",
+    "https://www.parksquarehomes.com/companies/",
+    "https://kimayarealestate.com/family-of-companies/",
+    "https://kimayarealestate.com/about/",
+    "https://kimayarealestate.com/investor-relations/",
+    "https://www.parksquarehomes.com/blog/ocoee-village-townhome-awarded-build-to-rent-community-of-the-year/",
+    "https://www.parksquarehomes.com/about/",
+    "https://www.parksquarehomes.com/blog/windsor-cay-resort-investment-homes-now-selling/",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=park+square&type=&dateb=&owner=include&count=40",
+    "https://data.sec.gov/submissions/CIK0002028989.json"
+  ]
+}

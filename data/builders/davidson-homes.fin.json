@@ -1,0 +1,179 @@
+{
+  "builder_id": "davidson-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Davidson Homes is a founder-owned private builder (Huntsville, AL) with no SEC registrant, no public notes and no published financial statements, so its lenders, facility sizes, leverage and any outside equity are not public. What is public is how it gets land: it buys and develops much of its own land (its San Antonio division said in 2024 that nearly all of its communities were on the balance sheet), buys finished lots from other builders when entering a market (D.R. Horton and Pacesetter Homes in Dallas-Fort Worth in 2024), and adds lots by buying smaller builders (Kindred Homes' San Antonio assets in 2023, New Leaf Homes' San Antonio lots in 2024, and all of Evermore Homes, about 2,000 lots, in March 2025). The CEO describes the model as 'capital-lighter' and 'asset-light', but no land banker or lot-option financier has been named in any source opened in this run, and no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. For a land banker that reads as an open account: a fast-growing private builder (rank 43 on the 2026 Builder 100, up from 60 in 2024, with press-reported goals of 3,000 to 4,000 closings a year) that is still carrying land itself and whose acquired builder, Evermore, sold because it ran short of capital to buy land.",
+    "land_strategy": "Mixed, leaning owned. The company publishes no owned-versus-optioned split and no option target. In its own words the market-entry playbook is 'capital-lighter' (CEO Brandon Jones, March 2024) and the operating rhythm is 'asset-light, low overhead, high-velocity' (August 2023), and its Central Texas president said in 2023 that the aim was scale 'while not having to own too many lots'. In practice the sourced examples are balance-sheet land: San Antonio expected about a dozen open communities by end of 2024, 'almost all on our balance sheet', alongside some project options; Dallas-Fort Worth was opened in 2024 with finished lots bought from D.R. Horton and Pacesetter Homes; and builder acquisitions are used to buy lot pipelines.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2021-08-05",
+      "confidence": "Inferred",
+      "source_url": "https://www.davidsonhomes.com/home-building-blog/2021/08/davidson-homes-expands-leadership-team-to-prepare-for-next-stage-of-growth/",
+      "source_title": "Davidson Homes Expands Leadership Team to Prepare for Next Stage of Growth (company post, 2021-08-05)",
+      "note": "No current lot count is public, so the numbers are left blank. Last company figure: 'owns or controls more than 8,000 lots in 73 communities' (August 2021, five states), with no owned/optioned split; that is over five years old and predates the Texas build-out and the Evermore deal. Later partial figures, all Reported by HousingWire/The Builder's Daily: about 1,200 lots under control and 16 communities in the San Antonio pipeline (March 2024); more than 650 lots secured in Dallas-Fort Worth (August 2024); about 2,000 lots in 20 communities added with Evermore Homes (March 2025). The company site showed 105 active communities in six states on 2026-11-19."
+    },
+    "land_banking": [
+      {
+        "counterparty": "D.R. Horton",
+        "counterparty_type": "Developer",
+        "description": "Seller of finished lots to Davidson Homes for its 2024 Dallas-Fort Worth start-up (first communities Waverly Estates and Lake Park Villas). A lot purchase from another builder, not a land-bank or option financing.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-08",
+        "confidence": "Reported",
+        "source_url": "https://www.housingwire.com/articles/defying-bigger-is-better-odds-davidson-eyes-a-win-in-dallas-entry/",
+        "source_title": "Defying Bigger-Is-Better Odds, Davidson Eyes A Win In Dallas Entry (HousingWire / The Builder's Daily, 2024-08-12)",
+        "note": "The article gives only a market total (more than 650 lots secured in Dallas-Fort Worth, in various stages of development), not a count per seller. Terms (bulk purchase or rolling takedown) are not stated."
+      },
+      {
+        "counterparty": "Pacesetter Homes",
+        "counterparty_type": "Developer",
+        "description": "Seller of finished lots to Davidson Homes for its 2024 Dallas-Fort Worth start-up, alongside D.R. Horton. A lot purchase from another builder, not a land-bank or option financing.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-08",
+        "confidence": "Reported",
+        "source_url": "https://www.housingwire.com/articles/defying-bigger-is-better-odds-davidson-eyes-a-win-in-dallas-entry/",
+        "source_title": "Defying Bigger-Is-Better Odds, Davidson Eyes A Win In Dallas Entry (HousingWire / The Builder's Daily, 2024-08-12)",
+        "note": "No lot count or terms per seller are stated."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-11-10",
+        "type": "JV",
+        "description": "Davidson Homes and loanDepot announced Davidson Mortgage, a mortgage joint venture serving Davidson buyers in Alabama, Tennessee, Georgia, North Carolina, Texas and Arizona. Ownership split and capital contributed are not stated. This is buyer financing, not company or land financing.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://media.loandepot.com/news-releases/press-release-details/2026/loanDepot-and-Davidson-Homes-Announce-Davidson-Mortgage-Joint-Venture/default.aspx",
+        "source_title": "loanDepot and Davidson Homes Announce Davidson Mortgage Joint Venture (loanDepot release, 2026-11-10)",
+        "note": "Also posted on the Davidson Homes site (2026-11-12) and covered by HousingWire (2026-11-10). A 2023 article had described an earlier 'Davidson Homes Mortgage' captive lender."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "loanDepot, Inc.",
+        "description": "Davidson Mortgage: mortgage-origination joint venture for Davidson Homes buyers in all six of its states (AL, TN, GA, NC, TX, AZ). Quoted: Brandon Jones (CEO, Davidson Homes) and Dan Pena (President of Partnership Lending, loanDepot). Ownership percentages not disclosed.",
+        "date": "2026-11-10",
+        "confidence": "Verified",
+        "source_url": "https://media.loandepot.com/news-releases/press-release-details/2026/loanDepot-and-Davidson-Homes-Announce-Davidson-Mortgage-Joint-Venture/default.aspx",
+        "source_title": "loanDepot and Davidson Homes Announce Davidson Mortgage Joint Venture (loanDepot release, 2026-11-10)",
+        "note": "Financial-services JV only. No land, lot-development or homebuilding joint venture was found in public sources."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.prnewswire.com/news-releases/davidson-homes-enters-auburn-market-with-opening-of-links-crossing-302828560.html",
+      "source_title": "No financials are published; company boilerplate describes Davidson Homes as privately held (PR Newswire, 2026-07-17)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2025-03-10",
+      "role": "Acquirer",
+      "counterparty": "Evermore Homes (formerly American Southern Homes; Columbus, GA)",
+      "description": "Davidson Homes bought Evermore Homes, a Builder 100 private builder active in Alabama, Georgia, Tennessee and Arizona, and announced it as its entry into Arizona. Price and funding not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Adds the Arizona division (Prescott, Prescott Valley, Cottonwood) plus Evermore communities in Alabama and Georgia (the company post also lists Tennessee), and roughly 2,000 lots in 20 communities. Evermore drops off the map as a separate builder and target account; its closings now count toward Davidson (rank 46 in 2025, 43 in 2026). Evermore's CEO Lee Darnold said it sold because it lacked the capital to compete for land, so the acquired land pipeline now needs Davidson's capital.",
+      "confidence": "Verified",
+      "source_url": "https://www.davidsonhomes.com/home-building-blog/2025/03/davidson-homes-acquires-evermore-homes/",
+      "source_title": "Davidson Homes Acquires Evermore Homes, Expanding into Arizona (company post, 2025-03-12)",
+      "note": "Company post confirms the deal and the states. Details below are Reported, from HousingWire / The Builder's Daily (2025-03-10): due to close at midnight on 2025-03-10; about 2,000 lots in 20 communities (the article corrects an earlier 3,900 lots / 46 communities); Evermore was a roll-up of Grayhawk Homes (GA), Stoneridge Homes (AL) and Dorn Homes (AZ). Zelman's transactions page lists itself as exclusive sell-side advisor to Evermore on the sale (March 2025) and as adviser on a private-equity investment into Evermore in June 2023 (investor not named)."
+    },
+    {
+      "date": "2024-03-13",
+      "role": "Acquirer",
+      "counterparty": "New Leaf Homes (San Antonio, TX)",
+      "description": "Davidson Homes bought New Leaf Homes' lots in five actively selling San Antonio communities (Bricewood, Comanche Ridge, Horizon Pointe, Royal Crest and one more). Asset deal; price and lot count not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Context (before 2025). Said to more than double Davidson's San Antonio volume and pipeline; the division then had about 1,200 lots under control and 16 communities in the pipeline under Central Texas division president Rob Wasyliw.",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/davidsons-m-a-organic-combo-speeds-san-antonio-scale/",
+      "source_title": "Davidson's M&A-Organic Combo Speeds San Antonio Scale (HousingWire / The Builder's Daily, 2024-03-13)",
+      "note": "Date is the article date; the article says one of the five communities was still to close."
+    },
+    {
+      "date": "2023-11-02",
+      "role": "Acquirer",
+      "counterparty": "Kindred Homes (San Antonio operations)",
+      "description": "Davidson Homes entered San Antonio by buying the owned and controlled land, two models and work in process of Kindred Homes' San Antonio operation and taking on key staff; about 400 owned-and-controlled lots, part of a 1,000-lot starting pipeline. Kindred kept its Dallas-Fort Worth business. Price not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Context (before 2025). Created the Central Texas (San Antonio) division.",
+      "confidence": "Reported",
+      "source_url": "https://www.housingwire.com/articles/texas-two-step-an-organic-m-a-expansion-into-san-antone/",
+      "source_title": "Texas Two-Step: An Organic-M&A Expansion Into San Antone (HousingWire / The Builder's Daily, 2023-11-02)",
+      "note": "Date is the article date; the exact closing date is not stated."
+    }
+  ],
+  "gaps": [
+    "Credit facility (revolver / term loans: size, maturity, agent bank, lenders, secured or unsecured): not publicly disclosed in any source reachable in this run. The orchestrator's lead about a credit-facility announcement could not be confirmed and is not recorded.",
+    "Outside equity or credit capital (preferred equity, private notes, investor names): not publicly disclosed in any source reachable in this run. The orchestrator's lead about a capital raise could not be confirmed and is not recorded.",
+    "Notes: no public or Rule 144A notes found. An EDGAR company search for 'Davidson Homes' returned no registrant, so there are no SEC filings, no Form D on that name and no debt footnote to read.",
+    "Total debt, cash, liquidity, net debt to capital, fiscal year end: not publicly disclosed (private company).",
+    "Credit ratings: none found; the company has no public debt.",
+    "Lots owned versus optioned, total lots controlled and years of supply: not publicly disclosed. The last company-wide figure is from August 2021 (more than 8,000 owned or controlled, no split).",
+    "Land-banking and lot-option partners: none named publicly. The people-side research for this builder saw job-board search snippets for a 'Director of Land Banking Operations' role and an accounting role working with 'land banking partners'; those pages would not open, so this is an unconfirmed lead that the company does use land bankers, with partner names not public.",
+    "Public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found. Site searches of Varde, IHP Capital, GTIS, Walton Global and Kennedy Lewis returned nothing on Davidson Homes; Hearthstone and Essential Housing did not load.",
+    "Evermore Homes purchase price, how it was funded, and what happened to Evermore's own lenders and its 2023 private-equity investor: not publicly disclosed.",
+    "M&A in 2026 and since the May 2026 ranking: none found. Company news posts and PR Newswire releases through 2026-11-12 show only organic moves (Charlotte, Auburn, Houston) and still describe the company as privately held.",
+    "Davidson Mortgage JV ownership split and capital commitments: not disclosed.",
+    "Affiliate: Davidson Holding Co. (Adam Davidson) launched EverGreen Living, a single-family build-to-rent venture, in July 2020 with a plan for 4,000 homes over five years (Multifamily Executive). Its current status, land holdings and financing are not public.",
+    "Research limit: the swarm's shared web-search allowance was already used up when this run started, so nothing was searched; all facts come from pages opened by direct URL. builderonline.com (including its 2024 Davidson profile), businesswire.com, bizjournals.com, al.com and businessalabama.com refused to load, and EDGAR full-text search returned 403. Older Business Wire releases by the company (2021 to 2023) may hold financing announcements that could not be reached."
+  ],
+  "sources_consulted": [
+    "https://www.davidsonhomes.com/",
+    "https://www.davidsonhomes.com/our-story/",
+    "https://www.davidsonhomes.com/contact/land-opportunities/",
+    "https://www.davidsonhomes.com/sitemap.xml",
+    "https://www.davidsonhomes.com/home-building-blog/category/news/",
+    "https://www.davidsonhomes.com/home-building-blog/2025/03/davidson-homes-acquires-evermore-homes/",
+    "https://www.davidsonhomes.com/home-building-blog/2026/04/2026-builder-100-davidson-homes-ranks-among-top-us-home-builders/",
+    "https://www.davidsonhomes.com/home-building-blog/2026/11/davidson-homes-and-loandepot-announce-davidson-mortgage/",
+    "https://www.davidsonhomes.com/home-building-blog/2024/05/davidson-homes-ranks-no-60-on-2024-builder-100-list/",
+    "https://www.davidsonhomes.com/home-building-blog/2026/06/davidson-homes-surpasses-1000-closings-in-raleigh-durham/",
+    "https://www.davidsonhomes.com/home-building-blog/2025/11/davidson-homes-expands-to-charlotte-with-first-community-now-selling/",
+    "https://www.davidsonhomes.com/home-building-blog/2021/08/davidson-homes-expands-leadership-team-to-prepare-for-next-stage-of-growth/",
+    "https://media.loandepot.com/news-releases/press-release-details/2026/loanDepot-and-Davidson-Homes-Announce-Davidson-Mortgage-Joint-Venture/default.aspx",
+    "https://www.housingwire.com/articles/loandepot-davidson-homes-mortgage/",
+    "https://www.housingwire.com/articles/davidson-homes-seals-down-last-details-to-acquire-evermore-homes-2/",
+    "https://www.housingwire.com/articles/davidson-homes-seals-down-last-details-to-acquire-evermore-homes/",
+    "https://www.housingwire.com/articles/defying-bigger-is-better-odds-davidson-eyes-a-win-in-dallas-entry/",
+    "https://www.housingwire.com/articles/davidsons-m-a-organic-combo-speeds-san-antonio-scale/",
+    "https://www.housingwire.com/articles/texas-two-step-an-organic-m-a-expansion-into-san-antone/",
+    "https://www.housingwire.com/articles/davidson-homes-gets-in-growths-fast-lane-as-it-builds-out-its-destiny/",
+    "https://www.housingwire.com/?s=%22Davidson+Homes%22",
+    "https://www.housingwire.com/?s=%22Evermore+Homes%22",
+    "https://www.zelmanassociates.com/services/investment-banking/select-transactions",
+    "https://www.prnewswire.com/news/davidson-homes/",
+    "https://www.prnewswire.com/news-releases/davidson-homes-enters-auburn-market-with-opening-of-links-crossing-302828560.html",
+    "https://www.prnewswire.com/news-releases/davidson-homes-expands-into-charlotte-with-new-communities-across-the-region-302759076.html",
+    "https://www.prnewswire.com/news-releases/davidson-homes-grows-houston-footprint-with-new-communities-and-key-role-at-robins-landing-302804807.html",
+    "https://www.prnewswire.com/news-releases/davidson-homes-surpasses-1-000-closings-in-raleigh-302787327.html",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=davidson+homes&type=&dateb=&owner=include&count=40",
+    "https://www.multifamilyexecutive.com/design-development/davidson-holding-co-launches-evergreen-living-a-new-single-family-built-to-rent-venture_s",
+    "https://theorg.com/org/davidson-homes",
+    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=52b242a4-eb7d-4268-a7b1-25793b582923&ccId=19000101_000001&lang=en_US",
+    "https://www.varde.com/?s=Davidson",
+    "https://www.ihpinc.com/?s=Davidson",
+    "https://www.gtispartners.com/?s=Davidson",
+    "https://www.waltonglobal.com/?s=Davidson",
+    "https://www.kennedylewis.com/?s=Davidson"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "builder_id": "hhhunt-corp",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "HHHunt is a private, family-owned, diversified residential company, not a pure for-sale homebuilder: it builds homes in Virginia and North Carolina (580 closed in 2025 per its own site), develops its own master-planned communities around Richmond through HHHunt Communities, and owns and manages about 8,885 apartments in 27 communities that it describes as income-producing ballast. Nothing public shows a land banker, lot-option financier or outside equity partner on the for-sale side; lots come from its own land-development arm and from finished-lot purchases negotiated by a four-person land acquisition team. The only named financing in public sources is property-level apartment debt (HUD-insured construction loans arranged by Berkadia, and a 2022 ACRE debt-fund acquisition loan). Corporate credit facilities, homebuilding lot lines and balance-sheet figures are not disclosed. It is a plausible but small land-banking customer: the opening is finished-lot or takedown structures for HHHunt Homes in Raleigh and Wilmington, where it has no in-house master-plan pipeline, and the finance relationship passes from Ann Kelly to Steve Brant on 2027-07-01.",
+    "land_strategy": "Mixed, leaning owner-developer. In Richmond it assembles and entitles tracts itself and develops master-planned communities (Edgebrook: 45 acres, 387 townhomes; The Aire: about 2,200 homes; River Mill: about 1,000 homes) in which HHHunt Homes builds. Elsewhere the land team buys finished lots for homebuilding and sites for apartments. The company tells land sellers it is privately held, diversified and long-term, and that it is actively looking for land in the Southeast. No stated owned-versus-optioned target.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Inferred",
+      "source_url": "https://www.hhhunt.com/about-us",
+      "source_title": "HHHunt About Us (snapshot as of January 2026)",
+      "note": "No lot count is published. Public proxies only: 27 planned/for-sale communities (18 completed, 9 in development) as of January 2026; 580 homes closed in 2025 (430 VA, 150 NC); Homes planned 11 new community openings and more than 580 sales in 2026."
+    },
+    "land_banking": [],
+    "debt": [
+      {
+        "instrument": "ACRE Credit I acquisition loan (2022), Abberly Foundry, 231 units, Nashville, TN; current status not public",
+        "type": "Project debt",
+        "principal_usd_m": 54.5,
+        "rate": "",
+        "maturity": "2025-10",
+        "secured": "Secured",
+        "lenders_agent": "ACRE (ACRE Credit I debt fund); JLL (Roger Edwards) as broker",
+        "status": "Outstanding",
+        "as_of": "2022-11-08",
+        "confidence": "Inferred",
+        "source_url": "https://www.citybiz.co/article/345362/acre-announces-closing-of-54-5m-loan-for-abberly-foundry-in-nashville-tenn/",
+        "source_title": "ACRE Announces Closing of $54.5M Loan for Abberly Foundry in Nashville (citybiz, lender release)",
+        "note": "Borrower named as HHHunt Corporation. Three-year term from October 2022 with two one-year extension options (so to as late as October 2027). Source is four years old: whether the loan is still outstanding, extended or refinanced is not public, hence Inferred. Also reported by REjournals (2022-11-07). Shows HHHunt will use private debt funds, not only banks and agencies."
+      },
+      {
+        "instrument": "HUD 221(d)(4) construction-permanent loan, Abberly Square Phase II (Waldorf, MD)",
+        "type": "Project debt",
+        "principal_usd_m": 15.65,
+        "rate": "3.99%",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Berkadia (Richmond office: David Blake, Steve Murden)",
+        "status": "Outstanding",
+        "as_of": "2019-08-14",
+        "confidence": "Inferred",
+        "source_url": "https://berkadia.com/news/berkadia-secures-nearly-16-million-in-construction-financing-for-multifamily-property-in-maryland/",
+        "source_title": "Berkadia Secures Nearly $16 Million in Construction Financing for Multifamily Property in Maryland (Berkadia release)",
+        "note": "40-year HUD-insured loan closed 2019-08-14; borrower HHHunt, LLC. Source is from 2019 with no newer confirmation, hence Inferred; a 40-year term makes it likely still in place. Search snippets (not opened; Virginia Business pages returned 403) show Berkadia also arranged HUD loans of about $39.7M for Abberly at CenterPointe (Midlothian, VA) and $58M for Abberly Avera (Manassas, VA), so Berkadia/HUD is the recurring apartment construction channel."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-10-07",
+        "type": "Other",
+        "description": "Leadership succession announced: CFO Ann Kelly becomes CEO and SVP Finance and Treasury Steve Brant becomes CFO on 2027-07-01; Buck Hunt stays Chairman and will lead a new hospitality venture. Changes who owns lender and capital-partner relationships.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.hhhunt.com/blog-posts/hhhunt-names-new-ceo-as-part-of-leadership-transition",
+        "source_title": "HHHunt Names New CEO as Part of Leadership Transition (company release)",
+        "note": ""
+      },
+      {
+        "date": "2026-09-08",
+        "type": "Other",
+        "description": "Broke ground (2026-08-27) on Abberly Rise, a 288-unit, $80M apartment community on 13 acres in Greensboro, NC; first move-ins expected August 2027. Lender and equity source not named.",
+        "amount_usd_m": 80,
+        "confidence": "Verified",
+        "source_url": "https://www.hhhunt.com/blog-posts/hhhunt-breaks-ground-on-80-million-apartment-community-in-greensboro",
+        "source_title": "HHHunt Breaks Ground on $80 Million Apartment Community, Its First in Greensboro, NC (company release)",
+        "note": "Capital deployment, not a financing announcement."
+      },
+      {
+        "date": "2026-04-23",
+        "type": "Other",
+        "description": "$34M phase two at Abberly Chase (Ridgeland, SC): 120 more apartments, construction started 2026-02-12, completion late 2027. Financing source not named.",
+        "amount_usd_m": 34,
+        "confidence": "Verified",
+        "source_url": "https://www.hhhunt.com/blog-posts/hhhunt-invests-34-million-in-phase-two-of-abberly-chase-apartments",
+        "source_title": "HHHunt Invests $34 Million in Phase Two Expansion of Abberly Chase Apartment Community (company release)",
+        "note": "Capital deployment, not a financing announcement."
+      },
+      {
+        "date": "2025-12-30",
+        "type": "Other",
+        "description": "HHHunt Communities announced Edgebrook, a self-developed planned community in Henrico County, VA: 45 acres, 387 townhomes at completion in three phases, phase one of 112 townhomes built by HHHunt Homes; site work began June 2025, home sales began May 2026.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.hhhunt.com/blog-posts/hhhunt-communities-announces-brand-new-community-in-henrico-county-va",
+        "source_title": "HHHunt Communities Announces Edgebrook, a New Planned Community in Henrico County, VA (company blog)",
+        "note": "Acreage and total home count are from the company's July 2026 post on the HUD Secretary's tour (https://www.hhhunt.com/blog-posts/wittman-turner-discuss-affordable-housing-at-edgebrook). Example of the in-house lot pipeline: developer and builder are sister units, with no third-party land capital named."
+      },
+      {
+        "date": "2025-01-17",
+        "type": "Other",
+        "description": "Entered Wilmington, NC: approvals for Abberly Landing (253 apartments, $74M, 20 acres) and Fawn Valley (49 for-sale homes). CEO said more for-sale neighbourhoods and apartments are planned there. The same article gives 2024 company revenue of $460M and 463 staff.",
+        "amount_usd_m": 74,
+        "confidence": "Reported",
+        "source_url": "https://richmondbizsense.com/2025/01/17/hhhunt-increasing-reach-in-n-c-with-74m-project-in-wilmington/",
+        "source_title": "HHHunt increasing reach in N.C. with $74M project in Wilmington (Richmond BizSense)",
+        "note": "New market where HHHunt has no in-house land-development pipeline; it has since posted a dedicated Wilmington land acquisition manager."
+      },
+      {
+        "date": "2022",
+        "type": "Other",
+        "description": "Sold the Spring Arbor Senior Living division and 24 assisted-living and memory-care communities to Foundry Commercial; the CEO said it was about 25% of revenue and 75% of staff, and the sale refocused the company on homebuilding and residential development.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://richmondbizsense.com/2025/01/17/hhhunt-increasing-reach-in-n-c-with-74m-project-in-wilmington/",
+        "source_title": "HHHunt increasing reach in N.C. with $74M project in Wilmington (Richmond BizSense)",
+        "note": "Context only (before the 2025 window): HHHunt is no longer a senior-living operator, and the sale proceeds are a likely source of the equity it is now deploying. Price not disclosed in the article."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "The Rector Companies",
+        "description": "University Village Holdings LLC, a joint venture between the master planner The Rector Cos. and HHHunt, was the borrower on a $58M HUD-insured construction loan arranged by Berkadia for the 336-unit Abberly Avera apartments near Manassas, VA.",
+        "date": "",
+        "confidence": "Inferred",
+        "source_url": "https://virginiabusiness.com/berkadia-arranges-58-million-construction-loan-for-apartments/",
+        "source_title": "Berkadia arranges $58 million construction loan for apartments (Virginia Business)",
+        "note": "Seen in search snippet only, not confirmed: the Virginia Business page returned 403. Older, apartment-side deal; it shows HHHunt has used a landowner / master-planner joint venture at least once. Abberly Avera is still listed on HHHunt's Virginia page."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Reported",
+      "source_url": "https://richmondbizsense.com/2025/01/17/hhhunt-increasing-reach-in-n-c-with-74m-project-in-wilmington/",
+      "source_title": "HHHunt increasing reach in N.C. with $74M project in Wilmington (Richmond BizSense)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Land banker, lot-option financier or land capital partner: none publicly disclosed; no public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon.",
+    "Owned versus optioned lots, total lots controlled, years of supply: not publicly disclosed (private company).",
+    "Corporate credit facility, homebuilding construction or lot lines, lenders, maturities: not publicly disclosed.",
+    "Total debt, cash, liquidity, leverage, credit ratings: not publicly disclosed; no rated or public debt found. Only public financial figure: 2024 revenue of $460M company-wide (Richmond BizSense, 2025-01-17).",
+    "Lender and equity source for the 2026 apartment starts (Abberly Rise $80M, Abberly Chase phase two $34M) and for Abberly Landing ($74M): not named.",
+    "Possible 2025 agency refinancing of a 15-property apartment portfolio (about $619M: Freddie Mac about $412.8M plus Fannie Mae about $206.2M, PGIM as lender) tied to 140 Abberly Drive, Stafford, VA: seen only in a search snippet of a traded.co listing that returned 403; the snippet does not name HHHunt as borrower, so it is left out of the debt table. Lead to verify against a primary source.",
+    "Current status of the 2022 ACRE loan on Abberly Foundry (initial maturity October 2025, extendable to 2027): not public.",
+    "Third-party builders buying lots in HHHunt Communities projects, and third-party developers selling finished lots to HHHunt Homes: not named on the company's pages.",
+    "M&A 2025 to date: none found. One search and the company's full news list (October 2025 to November 2026) show no acquisition or sale; Virginia Business was not read.",
+    "The Builder 100 closings figure is higher than the 580 homes the company's own site says it closed in 2025; the reason (for example lot sales or a different counting basis) is not public.",
+    "Details of the new hospitality venture Buck Hunt will lead from July 2027: not disclosed."
+  ],
+  "sources_consulted": [
+    "https://www.hhhunt.com/about-us",
+    "https://www.hhhunt.com/land-acquisition-and-development",
+    "https://www.hhhunt.com/blog-posts/hhhunt-names-new-ceo-as-part-of-leadership-transition",
+    "https://www.hhhunt.com/press-center",
+    "https://www.hhhunt.com/leadership/david-brunner",
+    "https://www.hhhunt.com/leadership/ann-kelly",
+    "https://www.hhhunt.com/blog-posts/building-with-purpose-hhhunt-in-2026",
+    "https://www.hhhunt.com/blog-posts/hhhunt-wrapped-2025",
+    "https://www.hhhunt.com/blog-posts/hhhunt-communities-announces-brand-new-community-in-henrico-county-va",
+    "https://www.hhhunt.com/blog-posts/wittman-turner-discuss-affordable-housing-at-edgebrook",
+    "https://www.hhhunt.com/blog-posts/hhhunt-homes-breaks-ground-on-granite-ridge-townhomes-in-rolesville",
+    "https://www.hhhunt.com/blog-posts/hhhunt-breaks-ground-on-80-million-apartment-community-in-greensboro",
+    "https://www.hhhunt.com/blog-posts/hhhunt-invests-34-million-in-phase-two-of-abberly-chase-apartments",
+    "https://www.hhhunt.com/planned-communities",
+    "https://www.hhhunt.com/find-us-in/hhhunt-in-virginia",
+    "https://www.hhhunt.com/find-us-in/hhhunt-in-north-carolina",
+    "https://richmondbizsense.com/2025/01/17/hhhunt-increasing-reach-in-n-c-with-74m-project-in-wilmington/",
+    "https://richmondbizsense.com/2026/10/13/the-herd-new-hires-promotions-departures-for-10-13-26/",
+    "https://www.housingwire.com/articles/hhhunt-ann-kelly-new-ceo-2027/",
+    "https://www.citybiz.co/article/345362/acre-announces-closing-of-54-5m-loan-for-abberly-foundry-in-nashville-tenn/",
+    "https://rejournals.com/acre-closes-54-million-loan-to-support-abberly-foundry-apartment-community-in-nashville/",
+    "https://berkadia.com/news/berkadia-secures-nearly-16-million-in-construction-financing-for-multifamily-property-in-maryland/"
+  ]
+}

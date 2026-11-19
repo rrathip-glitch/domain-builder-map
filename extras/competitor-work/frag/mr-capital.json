@@ -1,0 +1,615 @@
+{
+ "agent": "mr-capital",
+ "summary": "Millrose went from zero debt at the Feb 2025 spin to $3.1B of corporate debt at 2026-09-30 and, by my arithmetic, roughly $4.0B after the October 2026 Dream Finders / Beazer funding, with equity pinned at about $5.85B because it pays out 100% of AFFO and has issued no shares. It blew through its own 33% maximum debt-to-capitalization (36% reported at 2026-09-30, about 41% pro forma on my estimate) and has not restated that target in its Q2 or Q3 2026 releases or presentations; the hard limit is now the bank covenant of 0.45x net debt to capital (0.50x for five quarters after a material acquisition), and Fitch's 2025 downgrade trigger of 0.75x debt to tangible equity looks close. Its debt costs about 6.2% blended (my estimate; bank debt at SOFR + 2.00%, bonds at 6.25% to 6.75%), against a 9.3% portfolio yield: about 310 bps overall but only about 175 to 230 bps on the Lennar book, and new bonds cost more in Sept 2026 (6.75% five-year) than in Aug 2025 (6.375%). Ratings are split: BBB- at Fitch, BB at S&P, Ba2/Ba3 at Moody's, all Stable as last published in Feb 2026. The credit agreement has no single-builder concentration cap in the sections read, and the bonds carry only lien and merger covenants, so nothing contractual stops further large single-builder deals; the practical brakes are leverage, the no-equity-below-book pledge ($35.24 per share) and a new $250M buyback competing for the same capacity.",
+ "facts": [
+  {
+   "topic": "Capital",
+   "fact": "Spin-off capitalization (2025-02-07): Lennar contributed about $5.5B of land plus $1.0B of cash; Millrose opened with no drawn debt and a $1.335B secured revolver (JPMorgan agent, maturing 2028-02-07, SOFR + 2.00% to 2.50% by leverage).",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07 (spin-off closing)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2025-06-24: Millrose signed a $1.0B secured, 364-day delayed-draw term loan (Goldman Sachs Bank USA agent; maturity 2026-06-23) priced at Adjusted Term SOFR + 2.00% to 2.50% for the first 90 days, stepping up 25 bps each 90 days to 2.75% to 3.25%. Use: an acquisition tranche to buy the homesite portfolio optioned to New Home Co in support of its Landsea Homes acquisition (closed 2025-06-25) and a general tranche, including repaying the revolver.",
+   "as_of": "2025-06-24",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025090378/ck0002017206-20250624.htm",
+   "source_title": "Millrose 8-K filed 2025-06-26 (DDTL Credit Agreement)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2025-08-01: the DDTL was amended so that proceeds of a designated notes issue had to prepay it only down to $500M outstanding, and a 0.25% funding fee was added on any balance still outstanding 270 days after first draw. Millrose Properties SPE LLC became a guarantor of both the revolver and the DDTL the same day.",
+   "as_of": "2025-08-01",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525172278/d895209d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-08-04"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2025-08-04 pricing / 2025-08-07 closing: first bond, $1.25B of 6.375% senior unsecured notes due 2030-08-01, priced at par and upsized by $250M from the $1.0B launch size. FY2025 10-K gives net proceeds of $1,227.9M (about 1.8% all-in issuance cost, my calculation from $1,250.0M gross).",
+   "as_of": "2025-08-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525176999/d941302d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-08-08; pricing 8-K filed 2025-08-05"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2025-09-08 pricing / 2025-09-11 closing: second bond, $750M of 6.250% senior unsecured notes due 2032-09-15, priced at par and upsized by $250M from the $500M launch size, 12.5 bps tighter than the 2030 notes five weeks earlier for two more years of tenor. Proceeds triggered mandatory prepayment of the DDTL, which was repaid in full and terminated on 2025-09-11. Net proceeds $737.5M per the FY2025 10-K.",
+   "as_of": "2025-09-11",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525201489/d44587d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-09-12"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Q3 2025 summary of the refinancing: $2.0B of senior notes issued, the $1B one-year term loan repaid, revolver borrowings cut by $450M; $11.9M of accelerated fee amortization on the terminated term loan ran through interest expense.",
+   "as_of": "2025-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2025 earnings press release (8-K Ex. 99.1, 2025-10-23)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2026-03-25: the secured revolver was replaced by a fully unsecured $1.835B facility: a $1.335B four-year revolver plus a new $500M delayed-draw term loan (drawable for one year), both maturing 2030-03-25, uncommitted accordion to $2.5B in total, JPMorgan agent. Pricing unchanged at Adjusted Term SOFR + 2.00% / 2.25% / 2.50% by leverage ratio; prior liens released. Use: general corporate purposes including refinancing the old facility.",
+   "as_of": "2026-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102d8k.htm",
+   "source_title": "Millrose 8-K filed 2026-03-27"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Bank group on the 2026 unsecured facility: joint lead arrangers and bookrunners JPMorgan, Citibank, Goldman Sachs, Wells Fargo Securities, BofA Securities, Mizuho and Citizens; Citibank and Goldman Sachs co-syndication agents. Lender signature pages: JPMorgan, Bank of America, Goldman Sachs, Mizuho, Wells Fargo, Citibank, Citizens and Third Coast Bank; Flagstar Bank joined with a $50M commitment on 2026-09-21. Individual commitments (Schedule 1) are not in the public text read.",
+   "as_of": "2026-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex101.htm",
+   "source_title": "Amended and Restated Credit Agreement dated 2026-03-25 (8-K Ex. 10.1)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2026-08-05 Amendment No. 1 repriced the unsecured facility 25 bps lower: Adjusted Term SOFR + 1.75% (leverage ratio up to 0.30x), 2.00% (0.30x to 0.40x), 2.25% (above 0.40x); base-rate margins 0.75% / 1.00% / 1.25%; undrawn fee unchanged at 0.275% / 0.325% / 0.375%. Lenders received a 0.05% consent fee. No covenant or borrowing-base changes.",
+   "as_of": "2026-08-05",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526335005/d177605dex101.htm",
+   "source_title": "Amendment No. 1 to Amended and Restated Credit Agreement (8-K Ex. 10.1, filed 2026-08-05)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2026-09-21: revolver commitments rose $50M to $1.385B through the accordion, with Flagstar Bank, N.A. as the new lender.",
+   "as_of": "2026-09-21",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526396754/d73132d8k.htm",
+   "source_title": "Millrose 8-K filed 2026-09-21 (Commitment and Acceptance)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2026-09-22 launch and pricing / 2026-10-06 closing: $1.0B of senior unsecured notes at par in two $500M tranches, 6.500% due 2029-10-15 and 6.750% due 2031-10-15. Stated use, together with $500M drawn on the delayed-draw term loan: general corporate purposes, including buying homesites from the combined Dream Finders / Beazer company and repaying revolver borrowings, which stood at $850M on 2026-09-21. The 2031 tranche carried a par special mandatory redemption if the merger failed to close by 2027-05-13.",
+   "as_of": "2026-10-06",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526397284/d244618dex991.htm",
+   "source_title": "Millrose press release 2026-09-22 (8-K Ex. 99.1); closing 8-K filed 2026-10-06"
+  },
+  {
+   "topic": "Capital",
+   "fact": "New-issue pricing trend: Millrose paid 6.375% for 5-year money in Aug 2025 and 6.250% for 7-year money in Sep 2025, but 6.500% for 3-year and 6.750% for 5-year money in Sep 2026. On like-for-like 5-year tenor the coupon rose 37.5 bps in 13 months (6.375% to 6.750%) while leverage went from about 15% to 36% debt-to-capitalization. Coupon comparison is my calculation from the four pricing 8-Ks; no benchmark-spread data was read.",
+   "as_of": "2026-09-22",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526398224/d126321d8k.htm",
+   "source_title": "Millrose 8-K filed 2026-09-23 (pricing of 2029 and 2031 notes), compared with 2025 pricing 8-Ks"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Use of the Oct 2026 financing per the Q3 2026 10-Q: note proceeds plus the DDTL funded general corporate purposes including the Dream Finders homesites and revolver repayment. On 2026-10-20 (Dream Finders closed on Beazer) Millrose bought a further $316.9M Dream Finders preferred instrument (net of OID) and funded about $580M of optioned homesites; with the $170.6M preferred bought 2026-09-14, total funding to Dream Finders was about $1.068B. The preferred pays 12% on a $500M balance.",
+   "as_of": "2026-10-20",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R27.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Subsequent Events note"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2026-09-30: subsidiaries entered a limited-recourse secured revolver with Goldman Sachs Bank USA to finance single-family rental homes: up to $235M committed (expandable to $1.0B at lenders' option), one-month Term SOFR + 1.20% with a 0.50% floor, maturing 2028-09-29 plus a one-year extension; $213.1M drawn against a 1,233-home pilot costing about $333M (about 64% loan-to-cost, my calculation). By margin this is the cheapest debt in the stack (my observation) and it sits outside the 'corporate debt' leverage figure.",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Debt note"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Debt at 2026-09-30 (principal): revolver $635.0M, delayed-draw term loan $496.9M, 6.375% notes due 2030 $1,250.0M, 6.250% notes due 2032 $750.0M, purchase money mortgages $33.0M; total $3,164.9M, or $3,127.5M net of $37.4M issuance costs, up from $2,143.0M gross at 2025-12-31. Separately, SFR secured facility $213.1M. Fixed-rate notes were 63% of the $3,164.9M and floating bank debt 36% (my calculation), versus 95% fixed at 2025-12-31.",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Debt note"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Pro forma debt after the 2026-10-06 notes (my calculation, not a company figure): senior notes outstanding rise to $3.0B across four series (2029, 2030, 2031, 2032). If the roughly $897M funded to Dream Finders on 2026-10-20 ($580M homesites + $316.9M preferred) was entirely debt-funded, corporate debt would be about $4.0B and debt-to-capitalization about 41% ((3,127.5 + 897) / (3,127.5 + 897 + 5,850.9)). The company has not published a post-closing leverage figure; the revolver balance after the offering is not disclosed.",
+   "as_of": "2026-10-20",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R27.htm",
+   "source_title": "Calculated from Millrose Q3 2026 10-Q Subsequent Events and balance sheet"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Stated leverage ceiling: from the first earnings release through the Q1 2026 release (2026-05-06) Millrose said it expects to adhere to a maximum debt-to-capitalization of 33% (Fitch describes the same target as 0.5x gross debt to tangible equity). The Q4 2025 release said it 'remains committed' to 33% and had roughly $900M of debt capacity left for 2026.",
+   "as_of": "2026-05-06",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526207650/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q1 2026 earnings press release (8-K Ex. 99.1, 2026-05-06); Q4 2025 release"
+  },
+  {
+   "topic": "Capital",
+   "fact": "The 33% maximum has not been restated since the Q1 2026 release (my reading of four documents, so tagged Inferred): the Q2 2026 release and presentation (30% actual) and the Q3 2026 release and presentation (36% actual) give no leverage target, maximum or range. Reported debt-to-capitalization crossed the former 33% ceiling in Q3 2026. Absence checked in the two releases and two presentations only; call transcripts were not read.",
+   "as_of": "2026-10-27",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q3 2026 earnings press release (8-K Ex. 99.1, 2026-10-27)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Reported debt-to-capitalization (total debt / (total debt + equity)) and debt by quarter end: 2025-03-31 about 5% ($350M); 2025-06-30 about 15% ($1.0B); 2025-09-30 about 25% ($2.0B); 2025-12-31 26% ($2.1B); 2026-03-31 about 29% ($2.4B); 2026-06-30 about 30% ($2.5B); 2026-09-30 36% ($3.1B corporate debt, excluding the $213M SFR facility). Each figure is from that quarter's earnings release; all seven were opened.",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose quarterly earnings press releases Q1 2025 to Q3 2026 (latest cited)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Liquidity (cash plus undrawn bank capacity) by quarter end: $1.1B (2025-03-31), $1.4B (2025-06-30), $1.6B (2025-09-30), $1.3B (2025-12-31), $1.5B (2026-03-31), $1.4B (2026-06-30), $0.8B (2026-09-30: $65M cash plus about $0.8B remaining revolver/term-loan capacity). Cash itself is kept thin: $64.5M at 2026-09-30 against $10.6B of assets.",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q3 2026 earnings presentation (8-K Ex. 99.2, 2026-10-27)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Financial covenants in the 2026 unsecured credit agreement (Section 7.27), tested quarterly: (a) maximum Leverage Ratio 0.45x, defined as net debt / (net debt + tangible net worth), with an election to run up to 0.50x for the quarter of a 'Material Acquisition' and the four following quarters (two elections maximum, not consecutive); (b) minimum interest coverage 1.50x (EBITDA / interest incurred, trailing four quarters); (c) minimum tangible net worth of $4,392.2M plus 50% of net equity issuance proceeds after 2025-12-31 (plus 50% of net income only if Millrose ceases to be a REIT). Millrose must also keep REIT status. Amendment No. 1 did not change these.",
+   "as_of": "2026-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex101.htm",
+   "source_title": "Amended and Restated Credit Agreement dated 2026-03-25 (8-K Ex. 10.1)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Covenant headroom at 2026-09-30 (my calculation): bank Leverage Ratio about 0.35x on corporate debt alone ((3,164.9 - 39.5 cash above $25M) / (3,125.4 + 5,850.9)) or about 0.36x including the $213M SFR facility, against a 0.45x cap; tangible net worth $5.85B against a $4.39B floor (about $1.46B of cushion). That places the bank debt in the middle pricing tier (SOFR + 2.00%). If the Dream Finders funding was all debt-financed the ratio would be about 0.41x, i.e. the top pricing tier (SOFR + 2.25%) and within 4 points of the cap.",
+   "as_of": "2026-09-30",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex101.htm",
+   "source_title": "Calculated from A&R Credit Agreement definitions and Q3 2026 10-Q balance sheet"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Borrowing base under the unsecured facility: advance rates of 75% on single-family lots under contract, 70% on lots not under contract (65% after 18 months), 65% on land under development, 50% on land held for future development, 60% / 40% on commercial or clubhouse lots under / not under contract, 50% on mortgage loans made, 100% of unrestricted cash above $25M. Sub-limits: land held for future development (and loans on it) capped at 40% of the base; mortgage loans 5%; commercial/clubhouse lots 5%.",
+   "as_of": "2026-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex101.htm",
+   "source_title": "Amended and Restated Credit Agreement dated 2026-03-25 (8-K Ex. 10.1)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Builder concentration in the credit agreement: no cap on exposure to a single builder or customer was found in the covenant or borrowing-base sections read. The only counterparty-specific terms seen are a 'Material Counterparty' definition (a counterparty whose properties exceeded 40% of consolidated assets at closing, in practice Lennar) with a covenant (Section 7.23) barring amendments to that counterparty's program agreements that are materially adverse to lenders. Other baskets: investments in 'Permitted Business' investees limited to the greater of $600M and 10% of tangible net worth; secured/non-recourse debt liens limited to the greater of $200M and 3% of tangible net worth; cross-default threshold $90M; change of manager from Kennedy Lewis without an acceptable replacement in 90 days is an event of default.",
+   "as_of": "2026-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex101.htm",
+   "source_title": "Amended and Restated Credit Agreement dated 2026-03-25 (8-K Ex. 10.1)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Bond covenants are light: all four note indentures restrict only liens, sale-leasebacks and mergers / sales of substantially all assets, with a 101% change-of-control put; no debt-incurrence, leverage or builder-concentration covenant is described.",
+   "as_of": "2026-10-06",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526415565/d151159d8k.htm",
+   "source_title": "Millrose 8-K filed 2026-10-06; 8-Ks filed 2025-08-08 and 2025-09-12"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Lennar-related limits on Millrose's capital raising (Founder's Rights Agreement, 2025-02-07): until the founder's rights sunset, Millrose needs Lennar's consent for third-party financing that takes debt-to-equity above 1:1 (50% debt-to-capitalization) and for pledging Lennar-program properties in a collateralized financing alongside other customers' optioned property.",
+   "as_of": "2025-02-07",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-02-07"
+  },
+  {
+   "topic": "Capital",
+   "fact": "2026-08-27 amendment to the Founder's Rights Agreement: the definition of capital excluded from Lennar's Capital Priority Right now covers the first $2B in aggregate of debt and equity raised (apart from other listed amounts) plus all capital raised solely to buy build-to-rent homes, and the collateral-consent clause now lets Millrose raise separate capital for build-to-rent property provided Lennar-program properties are not encumbered. The Management Agreement was amended the same day to widen the investment guidelines.",
+   "as_of": "2026-08-27",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526378466/d83131dex101.htm",
+   "source_title": "Amendment to Founder's Rights Agreement dated 2026-08-27 (8-K Ex. 10.1, filed 2026-09-01)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Credit ratings as published by Millrose (capital-structure slide, data as of 2025-12-31, furnished 2026-02-27): Moody's Ba2 corporate / Ba3 unsecured notes; S&P BB corporate / BB unsecured; Fitch BBB- corporate / BBB- unsecured; all three outlooks Stable; each agency 'last commented' Aug 2025. Split rating: investment grade at Fitch only, two notches (S&P) to two-three notches (Moody's) below at the others. The Q2 and Q3 2026 presentations do not show ratings.",
+   "as_of": "2026-02-27",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526083052/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose investor presentation (8-K Ex. 99.1, furnished 2026-02-27)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Fitch actions: expected rating assigned 2025-08-04 and final 'BBB-' assigned 2025-08-12 to the $1.25B 6.375% notes due 2030, equalized with the long-term issuer rating, Stable outlook; 'BBB-(EXP)' assigned 2025-09-09 to the 2032 notes. Fitch's stated downgrade triggers: Fitch-calculated leverage (gross debt / tangible equity) sustained above 0.75x, unsecured debt below 35% of total debt, failure to add third-party builders, or a material decline in builder credit quality. Upgrade would need leverage sustained below 0.5x and is 'not expected near term'. Constraints cited: concentrated builder relationships, short standalone history, REIT payout limiting retained capital.",
+   "as_of": "2025-08-12",
+   "confidence": "Reported",
+   "source_url": "https://www.marketscreener.com/news/fitch-assigns-final-debt-rating-of-bbb-to-millrose-properties-inc-ce7c5ed3d18cfe22",
+   "source_title": "Fitch Ratings release republished by MarketScreener, 2025-08-12 (and 2025-09-09 release)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Distance to Fitch's downgrade trigger (my calculation; Fitch's own adjustments may differ): gross debt / equity was about 0.54x at 2026-09-30 on corporate debt (3,164.9 / 5,850.9), or 0.58x including the SFR facility, already above the 0.5x management target Fitch cited in 2025. Adding the full $1.0B of Oct 2026 notes with none of it used to repay debt would give about 0.71x; assuming only the roughly $897M Dream Finders funding was net new debt gives about 0.69x (0.73x with SFR), close to the 0.75x 'sustained' downgrade trigger. No 2026 Fitch, Moody's or S&P action was located (search budget ran out).",
+   "as_of": "2026-10-20",
+   "confidence": "Inferred",
+   "source_url": "https://www.marketscreener.com/news/fitch-assigns-final-debt-rating-of-bbb-to-millrose-properties-inc-ce7c5ed3d18cfe22",
+   "source_title": "Calculated from Fitch 2025-08-12 sensitivities and Millrose Q3 2026 10-Q"
+  },
+  {
+   "topic": "Capital",
+   "fact": "A Fitch affirmation of Millrose at BBB- / Stable dated 2025-12-09 appeared in a search-result snippet (Cbonds); the page itself refused the fetch, so this is unconfirmed.",
+   "as_of": "2025-12-09",
+   "confidence": "Inferred",
+   "source_url": "https://cbonds.com/news/3715833/",
+   "source_title": "Cbonds news item (search snippet only; page returned 403)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Weighted average cost of debt is not stated in any release, presentation or debt note read. My estimate at 2026-09-30: about 6.2% on $3,131.9M of interest-bearing corporate debt = (1,250.0 x 6.375% + 750.0 x 6.250% + 1,131.9 of revolver and term loan x 5.92%) / 3,131.9, where 5.92% = 3.92% term SOFR (the 9/30/2026 rate the company's own presentation uses) + 2.00% middle-tier margin (leverage ratio about 0.35x), ignoring any SOFR credit adjustment, undrawn fees and fee amortization; the $33M purchase money mortgages are excluded because the counterparty pays their interest. Including the $213.1M SFR facility at 5.12% the blend is about 6.1%. Cross-check: Q3 2026 interest expense of $47.1M annualized over average net debt of about $2.8B is about 6.7% all-in including fee amortization.",
+   "as_of": "2026-09-30",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Calculated from Millrose Q3 2026 10-Q Debt note, Amendment No. 1 pricing grid and Q3 2026 presentation SOFR assumption"
+  },
+  {
+   "topic": "Capital",
+   "fact": "After the Oct 2026 notes the fixed-rate bond book is $3.0B at a weighted coupon of about 6.43% ((1,250 x 6.375% + 750 x 6.250% + 500 x 6.500% + 500 x 6.750%) / 3,000), up from 6.33% on the first $2.0B; the two new tranches alone add about $66M of annual interest. My calculation from the coupons in the indenture 8-Ks.",
+   "as_of": "2026-10-06",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526415565/d151159d8k.htm",
+   "source_title": "Calculated from Millrose 8-Ks filed 2025-08-08, 2025-09-12 and 2026-10-06"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Interest cost run-rate: interest expense was $2.5M (Q1 2025), $10.3M (Q2 2025), $43.7M (Q3 2025, including the $11.9M write-off), $35.2M (Q4 2025), $39.2M (Q1 2026), $40.0M (Q2 2026) and $47.1M (Q3 2026); FY2025 $91.8M; nine months 2026 $126.3M. Q3 2026 split: senior notes $33.2M, revolver $10.7M, term loan $3.2M.",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Debt note; quarterly earnings releases"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Secondary trading of the first two bonds as shown by the company (prices as of 2026-02-25): 6.375% 2030 notes at 102.38, yield-to-worst 5.60%, 232 bps over Treasuries; 6.250% 2032 notes at 101.13, yield-to-worst 5.96%, 246 bps over. First call 2027-08-01 at 103.19 (2030s) and 2028-09-15 at 103.13 (2032s). The old revolver was shown at SOFR + 200 bps + 10 bps adjustment.",
+   "as_of": "2026-02-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526083052/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose investor presentation (8-K Ex. 99.1, furnished 2026-02-27)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Management's stated funding logic for bank debt (CEO, 2026-03-27 release): floating-rate borrowings are matched against floating-rate homesite option contracts; the facility was moved from secured to fully unsecured. The Q3 2026 presentation shows 'newly issued bonds' at 6.50% to 6.75% as the debt cost for the core land-banking business and about 5.12% for asset-level rental-home debt.",
+   "as_of": "2026-10-27",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q3 2026 earnings presentation (8-K Ex. 99.2, 2026-10-27)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Equity events: at the spin (2025-02-07) Lennar distributed about 80% of Millrose (120,980,401 Class A and 11,819,811 Class B shares per the closing 8-K, one Millrose share per two Lennar shares) and retained 33,200,053 Class A shares (about 20%), which it agreed not to vote. Millrose registered an exchange offer (S-4 filed 2025-10-10, effective 2025-11-19); final results announced 2025-11-26: Lennar exchanged 33,298,754 Millrose Class A shares for 8,049,594 Lennar Class A shares at 4.1367 Millrose shares per Lennar share, leaving Lennar with 1,794 Class A and 7,063 Class B shares. The FY2025 10-K dates completion 2025-11-28.",
+   "as_of": "2025-11-26",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525304023/xslSCHEDULE_13D_X01/primary_doc.xml",
+   "source_title": "Lennar Schedule 13D/A (Amendment No. 1) on Millrose, filed 2025-12-01"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Millrose has raised no primary equity since the spin: shares outstanding were 166,003,497 at every quarter end from 2025-03-31 to 2026-03-31 (so the Lennar exchange offer was purely secondary) and 166,047,927 at 2026-11-03 (154,228,116 Class A + 11,819,811 Class B) after 44,430 director RSU shares vested on 2026-04-03. No preferred stock is outstanding (50M authorized). Authorized common: 275M Class A, 175M Class B.",
+   "as_of": "2026-11-03",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R23.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Stockholders' Equity note and 10-Q cover page"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Equity issuance policy: the Q4 2025 release states Millrose 'will not issue equity below book value', will keep debt-to-capital at or below 33%, and will distribute 100% of AFFO. With leverage now at 36% and no retained earnings, further growth needs equity at or above about $35.24 per share, asset recycling, or a higher leverage tolerance.",
+   "as_of": "2026-02-26",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+   "source_title": "Millrose Q4 / FY2025 earnings press release (8-K Ex. 99.1, 2026-02-26)"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Shelf: an automatic shelf registration (Form S-3ASR, the form reserved for well-known seasoned issuers) was filed 2026-03-31 covering debt securities, Class A common stock, preferred stock, depositary shares, warrants and units, with no stated amount. No at-the-market program is described in it, and the SEC filing list shows no prospectus supplement (424B5) filed under it through 2026-11-04.",
+   "as_of": "2026-03-31",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526134562/d14861ds3asr.htm",
+   "source_title": "Millrose Form S-3ASR filed 2026-03-31"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Buyback: on 2026-10-26 the board authorized a share repurchase program (no earlier authorization appears in the filings read) of up to $250M of Class A stock (about 4% of book equity), open-market or negotiated, no obligation. It was authorized in the same month leverage was pushed above the former 33% ceiling. No repurchases had occurred through 2026-09-30.",
+   "as_of": "2026-10-26",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-20261026.htm",
+   "source_title": "Millrose 8-K filed 2026-10-27, Item 8.01"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Dividend policy and record: Millrose targets paying out 100% of AFFO. Declared per share: $0.38 (2025-03-17, stub from Feb 7; equal to $0.65 for a full quarter), $0.69 (2025-06-16), $0.73 (2025-09-22), $0.75 (2025-12-22), $0.76 (2026-03-23), $0.77 (2026-06-23), $0.79 (2026-09-23, $131.2M, paid 2026-10-15). Q3 2026 AFFO was $0.80 per share, so the dividend consumed essentially all of it; the company shows an 8.9% annualized dividend yield on book equity.",
+   "as_of": "2026-09-23",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R23.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Stockholders' Equity note; dividend 8-Ks and earnings releases"
+  },
+  {
+   "topic": "Capital",
+   "fact": "Book value per share: $35.40 at 2025-03-31 (stated) and $35.24 at 2026-09-30 (stated in the Q3 2026 presentation; equity $5,850.9M / 166,047,927 shares). In between, by my division of reported equity by shares: $35.39 (2025-06-30), $35.29 (2025-09-30), $35.28 (2025-12-31), $35.26 (2026-03-31), $35.24 (2026-06-30). Book value is flat to slightly down because all AFFO is paid out; total equity has stayed at about $5.85B to $5.88B since the spin while debt went from zero to $3.1B.",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q3 2026 earnings presentation (8-K Ex. 99.2, 2026-10-27); quarterly releases for intermediate equity figures"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Spread between Millrose's option yield and its cost of debt at 2026-09-30 (my calculation): reported weighted-average portfolio yield 9.3% (8.5% Lennar, 10.8% other builders; Q3 2026 earnings release) minus my estimated weighted cost of corporate debt of about 6.2% (inputs: 6.375% and 6.250% notes, bank debt at 3.92% term SOFR + 2.00%; Q3 2026 10-Q debt note, Amendment No. 1, Q3 2026 presentation) = about 310 bps overall, about 230 bps on Lennar capital and about 460 bps on other-builder capital. Against marginal debt (the 6.50% to 6.75% notes priced 2026-09-22) the spread is about 255 to 280 bps overall and only about 175 to 200 bps on Lennar's 8.5%.",
+   "as_of": "2026-09-30",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+   "source_title": "Calculated from Millrose Q3 2026 earnings release (yields) and Q3 2026 10-Q Debt note / pricing 8-K (debt cost)"
+  },
+  {
+   "topic": "Pricing",
+   "fact": "Millrose's 12% preferred investment in Dream Finders ($500M balance, about $488M funded net of original-issue discount, plus a $5.25M commitment fee) was financed in the same month it issued bonds at 6.50% to 6.75%: a gross carry of roughly 525 to 550 bps before fees and discount accretion (my subtraction). The paired $580M land bank earns option fees plus an $8.0M commitment fee.",
+   "as_of": "2026-10-20",
+   "confidence": "Inferred",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+   "source_title": "Millrose Q3 2026 earnings presentation (8-K Ex. 99.2, 2026-10-27)"
+  }
+ ],
+ "builder_relationships": [
+  {
+   "builder_id": "dream-finders-homes",
+   "builder_name": "Dream Finders Homes",
+   "description": "Capital package for Dream Finders' acquisition of Beazer Homes (closed 2026-10-20): about $580M of land-banking capital on optioned homesites (about 7,000 homesites, net of option deposits) plus about $488M (net of OID) of 12% preferred instruments ($170.6M funded 2026-09-14, $316.9M on 2026-10-20); total about $1.068B. Financed with the $1.0B Oct 2026 senior notes and the $500M delayed-draw term loan.",
+   "amount_usd_m": 1068,
+   "lots": 7000,
+   "date": "2026-10",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R27.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Subsequent Events note; Q3 2026 earnings release"
+  },
+  {
+   "builder_id": "new-home-co",
+   "builder_name": "New Home Co",
+   "description": "Homesite portfolio bought and optioned back to New Home Co to support its acquisition of Landsea Homes (closed 2025-06-25), financed by the acquisition tranche of a $1.0B secured 364-day delayed-draw term loan (Goldman Sachs agent) that was refinanced with senior notes and terminated 2025-09-11. The size of the acquisition tranche alone is not stated in the 8-K.",
+   "amount_usd_m": null,
+   "lots": null,
+   "date": "2025-06",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000095017025090378/ck0002017206-20250624.htm",
+   "source_title": "Millrose 8-K filed 2025-06-26 (DDTL Credit Agreement)"
+  }
+ ],
+ "debt": [
+  {
+   "instrument": "6.375% Senior Notes due 2030",
+   "type": "Senior notes",
+   "principal_usd_m": 1250,
+   "rate": "6.375% fixed; interest Feb 15 / Aug 15",
+   "maturity": "2030-08",
+   "secured": "Unsecured",
+   "lenders_agent": "Citibank, N.A. (trustee)",
+   "status": "Outstanding",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525176999/d941302d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-08-08 (indenture dated 2025-08-07)",
+   "note": "Issued 2025-08-07 at 100.000% (upsized from $1.0B at pricing on 2025-08-04); matures 2030-08-01; 144A/Reg S. Guarantors: Millrose Properties SPE LLC and (since Nov 2025) MPSAB, LLC, senior unsecured. Callable from 2027-08-01 (make-whole before); 40% equity claw at 106.375%; change-of-control put at 101%. Covenants limit liens, sale-leasebacks and mergers only. Net proceeds $1,227.9M per FY2025 10-K. Still $1,250M outstanding at 2026-09-30 per Q3 2026 10-Q."
+  },
+  {
+   "instrument": "6.250% Senior Notes due 2032",
+   "type": "Senior notes",
+   "principal_usd_m": 750,
+   "rate": "6.250% fixed; interest Mar 15 / Sep 15",
+   "maturity": "2032-09",
+   "secured": "Unsecured",
+   "lenders_agent": "Citibank, N.A. (trustee)",
+   "status": "Outstanding",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525201489/d44587d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-09-12 (indenture dated 2025-09-11)",
+   "note": "Issued 2025-09-11 at 100.000% (upsized from $500M at pricing on 2025-09-08); matures 2032-09-15; 144A/Reg S. Guarantors: Millrose Properties SPE LLC and MPSAB, LLC. Callable from 2028-09-15; 40% equity claw at 106.250%; change-of-control put at 101%. Net proceeds $737.5M per FY2025 10-K; proceeds repaid the 2025 delayed-draw term loan in full. Still $750M outstanding at 2026-09-30."
+  },
+  {
+   "instrument": "6.500% Senior Notes due 2029",
+   "type": "Senior notes",
+   "principal_usd_m": 500,
+   "rate": "6.500% fixed; interest Apr 15 / Oct 15 (first 2027-04-15)",
+   "maturity": "2029-10",
+   "secured": "Unsecured",
+   "lenders_agent": "Citibank, N.A. (trustee)",
+   "status": "Outstanding",
+   "as_of": "2026-10-06",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526415565/d151159d8k.htm",
+   "source_title": "Millrose 8-K filed 2026-10-06 (indentures dated 2026-10-06)",
+   "note": "Issued 2026-10-06; priced 2026-09-22 at 100.000% (pricing 8-K). Matures 2029-10-15. Guarantors: Millrose Properties SPE LLC and MPSAB, LLC, senior unsecured. Callable from 2027-10-15; 40% equity claw at 106.500%; change-of-control put at 101%. Not on the 2026-09-30 balance sheet (issued after quarter end)."
+  },
+  {
+   "instrument": "6.750% Senior Notes due 2031",
+   "type": "Senior notes",
+   "principal_usd_m": 500,
+   "rate": "6.750% fixed; interest Apr 15 / Oct 15 (first 2027-04-15)",
+   "maturity": "2031-10",
+   "secured": "Unsecured",
+   "lenders_agent": "Citibank, N.A. (trustee)",
+   "status": "Outstanding",
+   "as_of": "2026-10-06",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526415565/d151159d8k.htm",
+   "source_title": "Millrose 8-K filed 2026-10-06 (indentures dated 2026-10-06)",
+   "note": "Issued 2026-10-06; priced 2026-09-22 at 100.000%. Matures 2031-10-15. Same guarantors. Callable from 2028-10-15; 40% equity claw at 106.750%. Carried a special mandatory redemption at par if the Dream Finders / Beazer merger had not closed by 2027-05-13; the 10-Q reports that merger closed 2026-10-20, i.e. before the outside date."
+  },
+  {
+   "instrument": "Unsecured Revolving Credit Facility (Amended and Restated Credit Agreement, 2026-03-25)",
+   "type": "Revolver",
+   "principal_usd_m": 635,
+   "rate": "Adjusted Term SOFR + 1.75% / 2.00% / 2.25% (leverage ratio <=0.30x / 0.30-0.40x / >0.40x) since 2026-08-05; was +2.00% / 2.25% / 2.50% at signing. Undrawn fee 0.275% / 0.325% / 0.375%.",
+   "maturity": "2030-03",
+   "secured": "Unsecured",
+   "lenders_agent": "JPMorgan Chase Bank, N.A. (administrative agent)",
+   "status": "Outstanding",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Debt note",
+   "note": "principal_usd_m is the amount DRAWN at 2026-09-30 ($635M). Commitments: $1,335M at signing 2026-03-25; $1,385M after a $50M accordion increase on 2026-09-21 (Flagstar Bank, N.A. joined). Uncommitted accordion to $2.5B total facilities. Borrowing-base governed; $200M L/C sublimit. Guarantors: Millrose Properties SPE LLC and MPSAB, LLC. Drawn balance by date: $110M (2025-12-31), $485M (2026-06-30), $850M (2026-09-21, per notes launch release), $635M (2026-09-30). Notes proceeds in Oct 2026 were partly used to repay revolver borrowings; post-offering balance not disclosed. Lenders on signature pages: JPMorgan, Bank of America, Goldman Sachs, Mizuho, Wells Fargo, Citibank, Citizens, Third Coast Bank (plus Flagstar from Sep 2026)."
+  },
+  {
+   "instrument": "Delayed Draw Term Loan (2026 DDTL, under the Amended and Restated Credit Agreement)",
+   "type": "Term loan",
+   "principal_usd_m": 496.875,
+   "rate": "Adjusted Term SOFR + same margin grid as the revolver (1.75% / 2.00% / 2.25% since 2026-08-05); ticking fee at the undrawn fee rate until drawn",
+   "maturity": "2030-03",
+   "secured": "Unsecured",
+   "lenders_agent": "JPMorgan Chase Bank, N.A. (administrative agent)",
+   "status": "Outstanding",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Debt note",
+   "note": "$500M commitment signed 2026-03-25, drawable in up to three advances during the first year; undrawn at 2026-06-30; $496.875M outstanding at 2026-09-30. The Sept 22, 2026 notes launch release says $500M was drawn; the $3.125M difference equals one 0.625% quarterly amortization payment (my inference). Amortization per credit agreement: 0.625% per quarter for four quarters, then 1.25% per quarter for eight, then 1.875%, balance at maturity 2030-03-25. Drawn alongside the Oct 2026 notes to fund the Dream Finders / Beazer homesites and general purposes."
+  },
+  {
+   "instrument": "Single-Family Residential (SFR) Secured Credit Facility",
+   "type": "Project debt",
+   "principal_usd_m": 213.147,
+   "rate": "One-month Term SOFR + 1.20%, 0.50% SOFR floor (about 5.12% at 2026-09-30 per company presentation using 3.92% term SOFR)",
+   "maturity": "2028-09",
+   "secured": "Secured",
+   "lenders_agent": "Goldman Sachs Bank USA (administrative agent and initial lender)",
+   "status": "Outstanding",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Debt note",
+   "note": "Entered 2026-09-30 by subsidiaries; limited-recourse revolver, commitments up to $235M, expandable to $1.0B at lenders' option; borrowing base; matures 2028-09-29 with a one-year extension option. Secured by pledge of borrower-subsidiary equity and property cash flow (mortgages spring on certain events); limited Millrose guaranty. Finances the 1,233-home rental pilot (about $333M cost). Reported separately from, and excluded from, 'corporate debt' and the 36% debt-to-capitalization figure."
+  },
+  {
+   "instrument": "Purchase money mortgages (two land parcels)",
+   "type": "Project debt",
+   "principal_usd_m": 33,
+   "rate": "Not disclosed; counterparty pays all interest",
+   "maturity": "2027",
+   "secured": "Secured",
+   "lenders_agent": "",
+   "status": "Outstanding",
+   "as_of": "2026-09-30",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+   "source_title": "Millrose 10-Q for Q3 2026 (filed 2026-11-04), Debt note",
+   "note": "Non-recourse, property-level financing on two parcels acquired in 2025 (Florida and California per FY2025 10-K footnotes), indemnified by the counterparty, which pays the interest; Millrose intends to option the land to that counterparty at maturity. Q3 2026 10-Q: $4M due Q4 2026 and $29M in 2027 (the FY2025 10-K had shown $29M due 2026 and $4M in 2027; the newer filing is used)."
+  },
+  {
+   "instrument": "Secured Revolving Credit Facility (original, dated 2025-02-07)",
+   "type": "Revolver",
+   "principal_usd_m": 1335,
+   "rate": "Adjusted Term SOFR + 2.00% / 2.25% / 2.50% by leverage ratio (ABR + 1.00% / 1.25% / 1.50%)",
+   "maturity": "2028-02",
+   "secured": "Secured",
+   "lenders_agent": "JPMorgan Chase Bank, N.A. (administrative agent)",
+   "status": "Redeemed",
+   "as_of": "2026-03-25",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102d8k.htm",
+   "source_title": "Millrose 8-K filed 2026-03-27 (Amended and Restated Credit Agreement)",
+   "note": "principal_usd_m is the commitment ($1,335M), not a drawn balance. Put in place at the spin-off 2025-02-07, secured by pledges of an intercompany promissory note and holding-company equity; borrowing base. Drawn $350M at 2025-03-31 and $110M at 2025-12-31. Replaced on 2026-03-25 by the unsecured amended and restated facility; liens released."
+  },
+  {
+   "instrument": "Delayed Draw Term Loan (2025 DDTL, New Home Co / Landsea financing)",
+   "type": "Term loan",
+   "principal_usd_m": 1000,
+   "rate": "Adjusted Term SOFR + 2.00% to 3.25% (grid by leverage ratio, stepping up 25 bps every 90 days after first draw); 0.25% funding fee if still outstanding at day 270",
+   "maturity": "2026-06",
+   "secured": "Secured",
+   "lenders_agent": "Goldman Sachs Bank USA (administrative agent); commitment from Goldman Sachs and JPMorgan",
+   "status": "Redeemed",
+   "as_of": "2025-09-11",
+   "confidence": "Verified",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525201489/d44587d8k.htm",
+   "source_title": "Millrose 8-K filed 2025-09-12 (Item 1.02 termination of DDTL Credit Agreement)",
+   "note": "principal_usd_m is the $1.0B commitment. Signed 2025-06-24, 364-day maturity 2026-06-23, secured pari passu with the revolver. Acquisition tranche funded the homesite portfolio optioned to New Home Co for its purchase of Landsea Homes (closed 2025-06-25); general tranche repaid revolver. Amended 2025-08-01 so the Aug 2025 notes only had to pay it down to $500M; repaid in full and terminated 2025-09-11 from the 6.250% notes. 2025 cost: $10.7M interest plus $15.0M fee amortization, including an $11.9M accelerated write-off in Q3 2025."
+  }
+ ],
+ "people": [],
+ "gaps": [
+  "Weighted average cost of debt: not stated by Millrose in any earnings release, presentation or debt footnote read (Q1 2025 to Q3 2026); the figure given is my estimate.",
+  "Rating actions in 2026 (issue ratings on the 6.500% 2029 and 6.750% 2031 notes; any outlook change after leverage passed 33%): not located. The shared web-search budget ran out before agency searches for Sept-Oct 2026 could be run; Moody's and S&P ratings come from Millrose's own Feb 2026 presentation, not from the agencies' releases. Fitch's 2025-12-09 affirmation was seen only as a search snippet (Cbonds page returned 403).",
+  "Any replacement leverage target after the 33% maximum stopped appearing: not in the Q2 or Q3 2026 releases or presentations; earnings-call transcripts were not read.",
+  "Revolver balance and liquidity after the 2026-10-06 notes and the 2026-10-20 Dream Finders funding: not disclosed in the 8-K or the 10-Q subsequent-events note.",
+  "Lender-by-lender commitments (Schedule 1) and the borrowing-base amount / availability under the unsecured facility: not in the public exhibit text or the debt note.",
+  "MD&A liquidity section of the Q3 2026 10-Q: not readable today (the fetch tool sees only the financial statements of the main document); the notes were read through the filing's XBRL R pages instead.",
+  "Initial purchasers / bookrunners and benchmark spreads at issue for the four note series: not in the 8-Ks (144A offering memoranda are not public). No wire story on bond pricing was opened beyond the company releases.",
+  "Draw dates and tranche split of the 2025 $1.0B delayed-draw term loan: not disclosed in the 8-K or FY2025 10-K debt note (XBRL shows $1.0B drawn in Q2 2025).",
+  "At-the-market equity program: none found (S-3ASR of 2026-03-31 has no ATM supplement and no 424B5 appears in the filing list).",
+  "Credit-agreement text between characters 0 and 100,000 was read once at summary level; a single-builder concentration limit was not seen in any of the five chunks, but Schedule and exhibit forms (compliance certificate) were not fully visible."
+ ],
+ "sources_consulted": [
+  "https://cbonds.com/news/3715833/ (403, not read)",
+  "https://data.sec.gov/api/xbrl/companyfacts/CIK0002017206.json",
+  "https://data.sec.gov/submissions/CIK0002017206.json",
+  "https://s205.q4cdn.com/442585062/files/doc_presentation/2026/Investor-Presentation-March-2026.pdf (binary, not readable)",
+  "https://www.marketscreener.com/news/fitch-assigns-final-debt-rating-of-bbb-to-millrose-properties-inc-ce7c5ed3d18cfe22",
+  "https://www.marketscreener.com/news/fitch-expects-to-rate-millrose-properties-inc-s-unsecured-notes-bbb-exp--ce7d59dfdf8bf721",
+  "https://www.panabee.com/news/millrose-properties-earnings-q3-2026",
+  "https://www.panabee.com/news/millrose-properties-issues-1-billion-in-senior-notes-linked-to-pending-merger",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025090378/ck0002017206-20250624.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000095017025100569/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525119428/d920782dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525172278/d895209d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525172766/d34144d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525176999/d941302d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525197748/d41441d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525198511/d14152d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525201489/d44587d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525235180/d62880d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525247786/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525304023/xslSCHEDULE_13D_X01/primary_doc.xml",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312525328840/ck0002017206-20251222.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526083052/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex101.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526134562/d14861ds3asr.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526207650/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526279485/ck0002017206-20260623.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526331663/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526331663/ck0002017206-ex99_2.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526332732/R17.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526335005/d177605d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526335005/d177605dex101.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526378466/d83131d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526378466/d83131dex101.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526396754/d73132d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526396754/d73132dex101.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526397284/d244618d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526397284/d244618dex991.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526398224/d126321d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526399549/ck0002017206-20260923.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526415565/d151159d8k.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-20261026.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/FilingSummary.xml",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R23.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R27.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R63.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R65.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R66.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/ck0002017206-20260930.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R19.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R22.htm",
+  "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/R68.htm"
+ ]
+}

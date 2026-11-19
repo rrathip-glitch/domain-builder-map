@@ -1,0 +1,134 @@
+{
+  "builder_id": "allen-edwin-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Allen Edwin is a conventional private for-sale builder (with a build-to-lease side brand, Copper Bay) and has no public debt, no SEC filings and no published lot counts, lenders or capital partners. It buys land directly from landowners and municipalities (0.25 to 100 acres, plus scattered infill lots), develops it with an in-house land team, and carries 150+ spec homes, so land and inventory appear to sit on its own balance sheet funded by undisclosed private financing. The visible outside capital is public: Michigan housing TIF (brownfield) reimbursements and PILOT tax deals for its Workforce Housing projects, which the developer front-funds itself and recovers over 20 to 25 years. No land banker, lot-option financier or joint venture is named anywhere public, and the one option structure found is a phased purchase option granted by a city. It is a plausible land-banking customer in principle (about 1,000 closings a year, self-developed lots, a stated plan to add 250 homes a year), but ticket sizes are small and spread over 100+ mostly small-town communities, and part of the pipeline is held as rentals.",
+    "land_strategy": "Not stated by the company. Evidence points to owning and self-developing: a direct land-buying programme (single lots up to 100+ acres in MI, IN and OH), in-house land development and land planning/engineering staff, and phased purchases of municipal land under seller options. No land-light target or optioned-lot share is published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.allenedwin.com/learn-about-us/",
+      "source_title": "Allen Edwin Homes: Learn About Us",
+      "note": "No lot counts are published. Only scale markers: 100+ active communities, 150+ move-in-ready homes and 40+ plans (company site, Nov 2026); 130+ Jackson, 40+ Muskegon and 10+ Niles infill lots under contract (Workforce Housing slides, Mar 2025)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "City of Hillsdale Economic Development Corporation",
+        "counterparty_type": "Unknown",
+        "description": "Not a land banker: a municipal seller. Under a March 2023 purchase agreement Allen Edwin bought 9.96 acres of city-owned land for Three Meadows North and holds an exclusive option on the remaining 12.67 acres (Phase 2). In March 2025 the EDC extended the option by a year, to June 2026.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-03",
+        "confidence": "Reported",
+        "source_url": "https://hillsdalian.substack.com/p/edc-extends-allen-edwins-exclusive",
+        "source_title": "The Hillsdalian: EDC Extends Allen Edwin's Exclusive Option for Land Purchases at Three Meadows",
+        "note": "Shows the company using seller options and phased takedowns on its own. The EDC chair speculated in the meeting that cash flow might be behind the extension request; that is a board member's guess, not a company statement. Whether the option was exercised by June 2026 was not confirmed."
+      },
+      {
+        "counterparty": "SDI WFH Hillsdale, LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Single-project entity named as 'Developer' in the Act 381 brownfield plan for Three Meadows North in Hillsdale (62 homes: 49 for sale, 13 income-qualified rentals; about $15.25M investment). It is the party reimbursed from tax-increment revenue.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-09",
+        "confidence": "Inferred",
+        "source_url": "https://www.cityofhillsdale.org/sites/default/files/fileattachments/mayor_and_city_council/meeting/packets/14542/packet_f.pdf",
+        "source_title": "City of Hillsdale council packet, 2024-11-04: Act 381 Brownfield Plan, SDI WFH Hillsdale, LLC",
+        "note": "The plan names the LLC; the link to Allen Edwin is inferred from the same packet (Brian Farkas of Allen Edwin Homes presented the plan to the Brownfield Authority) and from press describing Allen Edwin as owner and developer. Ownership of the LLC is not public. Suggests Workforce Housing projects are held in separate project entities."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2025-05-28",
+        "type": "Other",
+        "description": "With the Lt. Governor and MSHDA, Allen Edwin pledged 2,500 additional homes over 10 years in Michigan (about 250 a year, roughly 30% above its prior average of 850 homes a year), all supported by MSHDA's Housing TIF programme; it said it was on pace for 1,000+ homes in 2025.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.michigan.gov/mshda/about/press-releases/2025/05/28/lt-governor-gilchrist-announces-major-new-commitment-to-building-homes-in-michigan",
+        "source_title": "MSHDA press release: Lt. Governor Gilchrist announces major new commitment to building homes in Michigan",
+        "note": "Signals rising land and development capital needs through 2035. The company site separately says it can invest $20M to $50M a year in new Workforce Housing."
+      },
+      {
+        "date": "2025-03-11",
+        "type": "Other",
+        "description": "Hillsdale EDC extended Allen Edwin's exclusive option on 12.67 acres of city land (Three Meadows Phase 2) from June 2025 to June 2026.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://hillsdalian.substack.com/p/edc-extends-allen-edwins-exclusive",
+        "source_title": "The Hillsdalian: EDC Extends Allen Edwin's Exclusive Option for Land Purchases at Three Meadows",
+        "note": ""
+      },
+      {
+        "date": "2025-02-17",
+        "type": "Other",
+        "description": "Brownfield (housing TIF) plan filed with the City of Portage for two rental communities, Oakland Commons (58 units) and Creekside Commons (46 units): about $35M total investment, with a $7.4M affordable-housing financing-gap reimbursement and 3.5% interest on unreimbursed costs. The developer finances the eligible activities itself; no municipal advances or bonds.",
+        "amount_usd_m": 35,
+        "confidence": "Verified",
+        "source_url": "https://portagemi.gov/DocumentCenter/View/13830/Brownfield-Plan-for-9581-Oakland-Drive-and-8150-Creekside-Drive",
+        "source_title": "City of Portage: Act 381 Brownfield Plan, Allen Edwin Homes, 9581 Oakland Drive and 8150 Creekside Drive",
+        "note": "Document opened is the plan dated 2025-02-17 with approval lines blank; final approval date not confirmed. All 104 units are for rent, so this is a hold asset, not for-sale lots."
+      },
+      {
+        "date": "2024-11-04",
+        "type": "Other",
+        "description": "Hillsdale brownfield (housing TIF) plan for Three Meadows North: $5.73M of eligible activities including contingency plus about $1.30M of simple interest at 5%, reimbursed from tax increment over roughly 20 years; infrastructure cost $1.78M; financed privately by the developer with no city advances or bonds.",
+        "amount_usd_m": 5.73,
+        "confidence": "Verified",
+        "source_url": "https://www.cityofhillsdale.org/sites/default/files/fileattachments/mayor_and_city_council/meeting/packets/14542/packet_f.pdf",
+        "source_title": "City of Hillsdale council packet, 2024-11-04: Act 381 Brownfield Plan, SDI WFH Hillsdale, LLC",
+        "note": "Council approval at the 2024-11-04 public hearing is per The Collegian (2026-04-02); ground was broken in May 2025 and homes were framed by April 2026."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=allen+edwin&type=&dateb=&owner=include&count=40",
+      "source_title": "SEC EDGAR company search: no filer named Allen Edwin"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Lot counts (owned, optioned, years of supply): not publicly disclosed (private company)",
+    "Credit facilities, lenders, construction and land loans: not publicly disclosed; no lender is named in any source opened",
+    "Land banker, lot-option financier or institutional capital partner: none named publicly; no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found, but the shared web-search allowance ran out before dedicated searches on those names could be run",
+    "Debt, cash, leverage, ratings: not publicly disclosed; an SEC EDGAR company search for 'Allen Edwin' returned no filer, so there are no registered notes",
+    "How the Copper Bay rental homes are owned and financed (on balance sheet, affiliate, or outside investors): not publicly disclosed",
+    "Ownership of project entities such as SDI WFH Hillsdale, LLC: not public; affiliation with Allen Edwin is inferred",
+    "M&A 2025 to date: none found in the sources opened, but no dedicated news search could be run after the search allowance was exhausted; treat as unconfirmed rather than confirmed none",
+    "Whether the Hillsdale Phase 2 option (12.67 acres) was exercised by June 2026: not confirmed",
+    "Joint ventures: none found"
+  ],
+  "sources_consulted": [
+    "https://www.michigan.gov/mshda/about/press-releases/2025/05/28/lt-governor-gilchrist-announces-major-new-commitment-to-building-homes-in-michigan",
+    "https://www.chicagofed.org/-/media/images/events/2025/advancing-rural-housing/brian-farkas-cd-housing.pdf?sc_lang=en",
+    "https://www.cityofhillsdale.org/sites/default/files/fileattachments/mayor_and_city_council/meeting/packets/14542/packet_f.pdf",
+    "https://portagemi.gov/DocumentCenter/View/13830/Brownfield-Plan-for-9581-Oakland-Drive-and-8150-Creekside-Drive",
+    "https://hillsdalian.substack.com/p/edc-extends-allen-edwins-exclusive",
+    "https://hillsdalian.substack.com/p/allen-edwin-breaks-ground-on-three",
+    "https://hillsdalecollegian.com/2026/04/family-homes-under-construction/",
+    "https://www.allenedwin.com/land-to-sell/",
+    "https://www.allenedwin.com/local-government-partnerships/",
+    "https://www.bbb.org/us/mi/portage/profile/home-builders/allen-edwin-residential-builders-llc-0372-8001894",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=allen+edwin&type=&dateb=&owner=include&count=40",
+    "https://cityofhillsdale.org/sites/default/files/fileattachments/planning_commission/meeting/packets/14590/pc_packet_2024_10_16.pdf",
+    "https://www.allenedwin.com/learn-about-us/",
+    "https://www.allenedwin.com/careers/",
+    "https://theorg.com/org/allen-edwin-homes",
+    "https://web.archive.org/web/20250614135634/https://www.builderonline.com/firms/allen-edwin-homes/"
+  ]
+}

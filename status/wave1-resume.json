@@ -1,0 +1,206 @@
+[
+ {
+  "id": "k-hovnanian",
+  "name": "Hovnanian Enterprises",
+  "parts": [
+   "people",
+   "divisions"
+  ]
+ },
+ {
+  "id": "pultegroup",
+  "name": "PulteGroup",
+  "parts": [
+   "fin"
+  ]
+ },
+ {
+  "id": "nvr",
+  "name": "NVR",
+  "parts": [
+   "people",
+   "fin",
+   "divisions"
+  ]
+ },
+ {
+  "id": "meritage-homes",
+  "name": "Meritage Homes",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "kb-home",
+  "name": "KB Home",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "taylor-morrison",
+  "name": "Taylor Morrison",
+  "parts": [
+   "people"
+  ]
+ },
+ {
+  "id": "sekisui-house-us",
+  "name": "Sekisui House U.S.",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "clayton-properties-group",
+  "name": "Clayton Properties Group",
+  "parts": [
+   "people"
+  ]
+ },
+ {
+  "id": "lgi-homes",
+  "name": "LGI Homes",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "dream-finders-homes",
+  "name": "Dream Finders Homes",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "m-i-homes",
+  "name": "M/I Homes",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "tri-pointe-homes",
+  "name": "Tri Pointe Homes",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "ashton-woods",
+  "name": "Ashton Woods Homes",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "david-weekley-homes",
+  "name": "David Weekley Homes",
+  "parts": [
+   "divisions"
+  ]
+ },
+ {
+  "id": "beazer-homes",
+  "name": "Beazer Homes",
+  "parts": [
+   "people",
+   "fin",
+   "divisions"
+  ]
+ },
+ {
+  "id": "mattamy-homes-us",
+  "name": "Mattamy Homes",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "stanley-martin",
+  "name": "Stanley Martin Homes",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "shea-homes",
+  "name": "Shea Homes",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "green-brick-partners",
+  "name": "Green Brick Partners",
+  "parts": [
+   "fin"
+  ]
+ },
+ {
+  "id": "smith-douglas-homes",
+  "name": "Smith Douglas Homes",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "highland-homes",
+  "name": "Highland Homes",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "drb-group",
+  "name": "DRB Group",
+  "parts": [
+   "fin"
+  ]
+ },
+ {
+  "id": "brookfield-residential",
+  "name": "Brookfield Residential Properties",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "fischer-homes",
+  "name": "Fischer Homes",
+  "parts": [
+   "people"
+  ]
+ },
+ {
+  "id": "drees-homes",
+  "name": "Drees Homes",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "new-home-co",
+  "name": "Risewell Homes",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ },
+ {
+  "id": "united-homes-group",
+  "name": "United Homes Group",
+  "parts": [
+   "people",
+   "fin"
+  ]
+ }
+]

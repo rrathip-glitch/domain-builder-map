@@ -1,0 +1,130 @@
+{
+  "builder_id": "ivory-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Ivory Homes is a conventional for-sale homebuilder and a plausible land-banking customer on paper, but a hard one in practice: it is family-owned, land-heavy by choice and appears to fund land from its own balance sheet. The company says about a third of earnings go to community giving and the rest is reinvested in future neighborhoods, and its November 2026 deck reports 20,548 lots owned or controlled across Utah (roughly 20 years at 2025 closings of 1,028, my arithmetic) and $162M put into new land and lots in 2026. Land is held and entitled through the affiliated Ivory Development, LLC and through partnerships with long-time landowners (Hoytsville with Larry H. Miller Communities; Browns Canyon for the Garff and Rogers families). No land banker, lot-option financier, bank lender, credit facility or outside equity partner is named in any source opened in this run, and the sister ICO Companies says its principals invest their own capital and manage surplus cash across the combined businesses. The opening for a land banker, if any, is the sheer size and duration of the land position (large master plans of 2,000+ lots) rather than a visible funding need.",
+    "land_strategy": "Owns or controls a very long land position and develops its own lots: the Ivory family 'began by developing land' and the affiliated Ivory Development acquires, entitles and plats land ahead of home production. The company frames this as reinvesting retained earnings in 'future neighborhoods' and staying local and family-owned rather than selling to a larger group. No stated land-light target; the owned versus optioned split is not disclosed.",
+    "lots": {
+      "total_controlled": 20548,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-06",
+      "confidence": "Verified",
+      "source_url": "https://ivoryhomes.com/hubfs/2026_Ivory_Institute_Slides_2-up_Print.pdf",
+      "source_title": "Ivory Institute 2026 slide deck (November 6, 2026), slide 61",
+      "note": "Stated as 'lots owned or controlled across Utah'; the split between owned and controlled is not given. The same slide reports 902 lots paved in 2026. About 20 years of supply at 2025 closings of 1,028 (my arithmetic, not a company figure). Earlier company statements differ: a November 2024 company blog post spoke of 'securing 30,000+ lots', and a December 2021 Pro Builder profile said almost 18,000 lots owned or controlled; the November 2026 deck is the newest primary figure and is used here."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Ivory Development, LLC",
+        "counterparty_type": "Affiliate",
+        "description": "Affiliated Utah land company that acts as master developer for Ivory communities. It is the named Master Developer under the City of West Jordan development agreement (effective November 4, 2020, amended December 2024) for the Dry Creek Highlands master plan, whose legal descriptions cover parcels of about 373 and 219 acres.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2024-12",
+        "confidence": "Verified",
+        "source_url": "https://westjordan.utah.gov/wp-content/uploads/2024/12/Ordinance-No.-24-12-Dry-Creek-Highlands-Amendment-to-MDA-signed.pdf",
+        "source_title": "City of West Jordan Ordinance No. 24-12: Dry Creek Highlands amendment to master development agreement",
+        "note": "This is in-house land holding and development, not third-party land banking. No third-party land banker is publicly named for Ivory Homes."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-11-06",
+        "type": "Other",
+        "description": "Company reported that it invested $162M in new land and lots in 2026 and paved 902 lots during the year. The funding source is not stated.",
+        "amount_usd_m": 162,
+        "confidence": "Verified",
+        "source_url": "https://ivoryhomes.com/hubfs/2026_Ivory_Institute_Slides_2-up_Print.pdf",
+        "source_title": "Ivory Institute 2026 slide deck (November 6, 2026), slide 61",
+        "note": "Figure is from a slide in the company's annual trade-partner summit deck; 2026 year to date as presented on November 6, 2026."
+      },
+      {
+        "date": "2024-11-15",
+        "type": "Other",
+        "description": "Company said nearly one-third of its earnings go to local communities and the remainder funds future neighborhoods, and that it then had more than 1,500 homes under construction including 713 for-sale single-family homes, 343 student apartments, 284 luxury apartments and 184 affordable homes.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://ivoryhomes.com/blog/celebrating-the-annual-ivory-institute-building-utah-together",
+        "source_title": "Ivory Homes blog: Celebrating the Annual Ivory Institute, Building Utah Together",
+        "note": "Indicates land is funded from retained earnings; no lender or outside capital is named. The same post names Pelican Point and Cedar Crest as coming communities with up to 2,000+ lots."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Larry H. Miller Communities (with 27 Hoytsville landowners)",
+        "description": "Ivory Homes and Larry H. Miller Communities were chosen by 27 local property owners holding about 1,000 acres in Hoytsville, eastern Summit County, to plan and develop a master-planned community over several decades, with nearly 60 percent kept as open space. The legal structure and capital split are not disclosed.",
+        "date": "2022-12-02",
+        "confidence": "Verified",
+        "source_url": "https://ivoryhomes.com/blog/ivory-homes-and-larry-h-miller-communities-lead-community-vision-for-masterplanned-community-in-eastern-summit-county",
+        "source_title": "Ivory Homes press release: Ivory Homes and Larry H. Miller Communities lead community vision for master-planned community in eastern Summit County",
+        "note": "A landowner-partnership model: the land stays with the owners while Ivory and LHM entitle and develop."
+      },
+      {
+        "partner": "Garff and Rogers family landowners",
+        "description": "Ivory Development is the applicant for the 'Lost Creek' project on Browns Canyon Road on behalf of LLCs tied to the Garff and Rogers families, who own the land: a county rezone covering about 600 acres (about 400 developed, 2,300 to 3,000 homes) and a parallel state application to form a town (510 units on 491 acres). The planning commission gave a negative recommendation in August 2026; the county council had not yet scheduled it as of October 2026.",
+        "date": "2026-10-05",
+        "confidence": "Reported",
+        "source_url": "https://www.kpcw.org/summit-county/2026-10-05/ivory-homes-reactivates-effort-to-make-browns-canyon-town",
+        "source_title": "KPCW: Ivory Homes reactivates effort to make Browns Canyon town",
+        "note": "Whether Ivory holds an option or purchase contract on the land is not stated in the coverage."
+      },
+      {
+        "partner": "Call to Action Foundation (with Ivory Innovations)",
+        "description": "'Call to Innovation' philanthropic partnership between Ivory Innovations, the Ivory family's housing foundation, and the Call to Action Foundation, aiming to build 1,500 affordable homes in Utah; projects include Innovation Park at Francis Commons, inside a master plan Ivory Homes is developing, and Innovation Park at Holbrook Farms in Lehi on land donated by Ivory Homes.",
+        "date": "2025-09-19",
+        "confidence": "Reported",
+        "source_url": "https://www.utahbusiness.com/press-releases/2025/09/19/ivory-innovations-brings-affordable-housing-summit-county-real-estate-utah/",
+        "source_title": "Utah Business press release: Ivory Innovations brings affordable housing to Summit County",
+        "note": "Philanthropic, not a financing source for the for-sale business; shows Ivory carving land out of its own master plans."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Owned versus optioned lot split and years of supply: not publicly disclosed (only a combined 'owned or controlled' count).",
+    "Land banker / lot-option financier: none publicly named; no public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon found in the sources opened.",
+    "Credit facilities, lenders, construction or land loans, total debt, cash and leverage: not publicly disclosed (private company, no SEC filings or rated debt found).",
+    "Outside equity or capital partners: none publicly named; ownership is described as the Ivory family.",
+    "Hoytsville and Browns Canyon structures (option, purchase contract, fee development, profit share): not publicly disclosed.",
+    "M&A 2025 to date: none found in the sources opened; the company's own 2024 statement contrasts itself with builders that have sold to larger groups.",
+    "The shared WebSearch allowance ran out after about ten queries, so dedicated searches for lender names, land-bank links and 2025-2026 deals could not be run beyond one general land-bank/lender query that returned nothing; absence here is not proof of absence.",
+    "Entity 'Ivory Land Corporation' appeared as a Provo applicant in a search snippet only (not opened); its role alongside Ivory Development, LLC is not confirmed.",
+    "The 2026 'Ivory Builds Utah' booklet (flipbook) could not be read by machine and may contain further land figures."
+  ],
+  "sources_consulted": [
+    "https://ivoryhomes.com/hubfs/2026_Ivory_Institute_Slides_2-up_Print.pdf",
+    "https://ivoryhomes.com/ivory-institute",
+    "https://ivoryhomes.com/blog/celebrating-the-annual-ivory-institute-building-utah-together",
+    "https://www.probuilder.com/business-management/builder-of-the-year/article/55198441/builder-of-the-year-ivory-homes-innovation-agenda",
+    "https://westjordan.utah.gov/wp-content/uploads/2024/12/Ordinance-No.-24-12-Dry-Creek-Highlands-Amendment-to-MDA-signed.pdf",
+    "https://ivoryhomes.com/blog/ivory-homes-and-larry-h-miller-communities-lead-community-vision-for-masterplanned-community-in-eastern-summit-county",
+    "https://www.kpcw.org/summit-county/2026-10-05/ivory-homes-reactivates-effort-to-make-browns-canyon-town",
+    "https://www.kpcw.org/summit-county/2026-02-09/developer-says-it-prefers-to-rezone-browns-canyon-not-form-new-town",
+    "https://www.kpcw.org/summit-county/2026-08-07/ivory-homes-proposal-in-browns-canyon-gets-negative-recommendation",
+    "https://www.utahbusiness.com/press-releases/2025/09/19/ivory-innovations-brings-affordable-housing-summit-county-real-estate-utah/",
+    "https://www.utahbusiness.com/press-releases/2026/05/28/governor-spencer-cox-utah-first-community-housing-affordability-childhood-literacy/",
+    "https://sltrib.com/news/2026/09/06/lehi-townhome-complex-shows-how",
+    "https://www.icocompanies.com/firm",
+    "https://www.icocompanies.com/capital",
+    "https://ivoryhomes.com/why-us",
+    "https://ivoryhomes.com/blog/momentum-loans-expands-leadership"
+  ]
+}

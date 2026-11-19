@@ -1,0 +1,413 @@
+{
+ "batch": "batch-20261119-1559-007",
+ "rubric_version": "v1.2",
+ "articles": [
+  {
+   "id": "70e11ad5dfec",
+   "summary": "Wabtec priced a $500 million offering of 5.900% senior notes due 2037.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 2,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain: a rail-equipment maker's bond deal says nothing about builder funding.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "62f8c8887ce6",
+   "summary": "Weatherford is redeeming all $236 million of its 8.625% senior notes due 2030.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 2,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain: an oilfield-services debt redemption with no housing angle.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "8a43e4a35365",
+   "summary": "Kroll and StepStone launched a tool to track payment-in-kind usage in private credit deals.",
+   "category": "Other",
+   "source_type": "Trade press",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap40-generic",
+   "why_it_matters": "Marginal for Domain: closer scrutiny of PIK in private credit could tighten the terms on which credit funds lend, but no builder or land-finance link.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "2c9e607ee17a",
+   "summary": "Public Storage priced $500 million of senior notes due 2036 at an effective 5.200% rate.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 2,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain: a self-storage REIT bond deal.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "0ef9782a9917",
+   "summary": "Blackstone priced $1.1 billion of senior notes: $600 million at 5.650% due 2031 and $500 million at 5.900% due 2033.",
+   "category": "Capital markets & ratings",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "Little for Domain: a corporate bond deal by Blackstone itself, not a move into builder land or lot finance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "b28592f06741",
+   "summary": "BTIG analyst Ryan Gilbert reiterated a Buy rating and $7,125 price target on NVR; the article is paywalled.",
+   "category": "Earnings & guidance",
+   "source_type": "Research",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 8,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Price-target note only; NVR is already land-light via lot options, but this note gives Domain nothing new to act on.",
+   "builder_ids": [
+    "nvr"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "6db0ff5db9c5",
+   "drop": "auto-generated stock-quote recap (daily price move), not a story"
+  },
+  {
+   "id": "5d4bd5e75574",
+   "summary": "Barron's argues business development companies investing in private credit look cheap at roughly 15% yields after earlier losses and redemptions.",
+   "category": "Capital markets & ratings",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 5,
+    "land_lot_supply": 0,
+    "materiality_actionability": 1
+   },
+   "adjustment": "cap40-generic",
+   "why_it_matters": "Background only: depressed BDC valuations signal private credit has less fresh capital, which could slow new entrants into builder lending, but no builder or land angle is named.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "fbe21efc43cf",
+   "summary": "IQVIA announced its subsidiary intends to raise $2 billion in senior notes.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 2,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain: a healthcare-data company's bond offering.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "654aa4c19d7e",
+   "summary": "Beeline Holdings agreed to acquire TYTL to expand into tokenized real estate and blockchain-based home equity finance.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 4,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "Not relevant to Domain: consumer mortgage and home-equity fintech, not builder or land finance.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "c107e9958a4c",
+   "summary": "Hull City Council officers recommended compulsory purchase of a block of flats to finish redeveloping part of the Fruit Market area.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 1,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain: a UK local redevelopment matter.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "50a1ebfa1696",
+   "summary": "Biddeford Regional Center of Technology will buy The Landing School, a Maine boatbuilding school that had been headed for auction.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "02b7f6c66c2d",
+   "summary": "Build-to-rent operators are lobbying Treasury to soften proposed rules for owners of 350+ single-family rentals (comments close Nov. 23); consolidation led by Invitation Homes and AMH is expected.",
+   "category": "Housing market",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 8,
+    "financing_capital_markets": 7,
+    "land_lot_supply": 3,
+    "materiality_actionability": 4
+   },
+   "adjustment": "none",
+   "why_it_matters": "If the rules stand, builders lose part of the bulk-sale outlet to BTR buyers for surplus homes, which could slow absorption on optioned lots Domain finances; worth watching for builders with large BTR exposure.",
+   "builder_ids": [
+    "amh"
+   ],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": true
+  },
+  {
+   "id": "7c7917e31029",
+   "summary": "Berkshire Hathaway's Q3 2026 13F reportedly showed new real estate and airline holdings, alongside an acquisition of Bending Spoons (per a crypto-news flash).",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 1,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "cap20-consumer",
+   "why_it_matters": "No relevance to Domain as reported: no builder holdings are named.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "584bf2b851a1",
+   "summary": "Asia Society bought the historic Blaine Mansion in Washington, D.C., as a permanent home for its Policy Institute.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "c95893d06ad9",
+   "summary": "Horry-Georgetown Technical College is seeking to buy the Tyson Sign Company building on Highway 501 in Conway, S.C.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "3add728882b5",
+   "summary": "Johnson & Johnson agreed to acquire Ollin Biosciences and its late-stage ophthalmology antibody.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "a2fe02c25120",
+   "summary": "New York Times analysis of a possible SpaceX-Tesla combination and the record of conglomerate mergers.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "f79e1d135ced",
+   "summary": "Implementation Engineers, an operations consultancy, named Denton Lomax incoming president and Brian Goodrich CFO.",
+   "category": "Other",
+   "source_type": "Press release",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain: not a homebuilder.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  },
+  {
+   "id": "d377e9993fce",
+   "summary": "Ardent Health agreed to acquire Boone Health, a nonprofit hospital system.",
+   "category": "Other",
+   "source_type": "News",
+   "subscores": {
+    "land_banking_competitor": 0,
+    "builder_customer": 0,
+    "financing_capital_markets": 0,
+    "land_lot_supply": 0,
+    "materiality_actionability": 0
+   },
+   "adjustment": "none",
+   "why_it_matters": "No relevance to Domain.",
+   "builder_ids": [],
+   "people": [],
+   "competitors": [],
+   "suggested_update": null,
+   "duplicate_of": null,
+   "opened": false
+  }
+ ]
+}

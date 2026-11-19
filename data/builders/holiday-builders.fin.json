@@ -1,0 +1,134 @@
+{
+  "builder_id": "holiday-builders",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Conventional for-sale builder, so in principle a land-banking customer, but its capital picture changed on 30 July 2026: the employee-owned (ESOP) company was sold in full to Stanley Martin Homes, a Daiwa House Group subsidiary, and is now a wholly owned subsidiary. Nothing about Holiday's own debt, lenders or facilities has ever been public, and no land banker or lot-option financier is named anywhere for it. Its land model was capital-light by design: scattered lots bought close to the start of construction, finished lots taken down from third-party developers, and, since 2024, a growing share of communities it develops itself. It brought about 10,600 controlled lots to Stanley Martin (owned versus optioned split not disclosed). Funding now most likely flows from Stanley Martin and Daiwa House, whose management is reported to be targeting roughly 100,000 controlled US lots, so the land-banking conversation runs through Reston and the parent as much as through Melbourne.",
+    "land_strategy": "Mixed and capital-light. HousingWire's July 2026 coverage, quoting the company's advisor Zelman Partners, describes scattered-lot buying with 'real-time' lot absorption (and roughly 65-day build cycles) as an asset-light model. The company itself says it buys lots inside existing developments and, increasingly, buys tracts and develops whole communities (Huntington Park in Titusville, Citrus Ridge in Lake Wales, Mallard Landing in Okeechobee, two Brevard County communities); in 2024 leadership set a goal of expanding land acquisitions. No stated owned/optioned target.",
+    "lots": {
+      "total_controlled": 10600,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-07-16",
+      "confidence": "Verified",
+      "source_url": "https://pr.newberggraphic.com/article/Stanley-Martin-Homes-to-Acquire-Holiday-Builders/6a594aadfef76cbb7d73de2d",
+      "source_title": "Stanley Martin Homes to Acquire Holiday Builders (GlobeNewswire release, syndicated copy)",
+      "note": "Approximate. Stated as the increase to Stanley Martin's controlled lot count in Florida from the deal, with 40+ existing communities. Owned versus optioned split not disclosed. At the 2025 pace of about 1,050 closings this is roughly ten years of supply (my arithmetic, not a company figure)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Center State Development",
+        "counterparty_type": "Developer",
+        "description": "Holiday bought 103 of the 334 homesites in Woodland Ranch Estates (Dundee, Polk County), a community developed by Winter Haven-based Center State Development. A finished-lot purchase from a developer, not a land-bank structure.",
+        "amount_usd_m": null,
+        "lots": 103,
+        "date": "2025-02",
+        "confidence": "Verified",
+        "source_url": "https://holidaybuilders.com/holiday-builders-purchases-homesites-in-woodland-ranch-dundee-fl/",
+        "source_title": "Holiday Builders blog: Holiday Builders Purchases Homesites in Woodland Ranch, Dundee FL",
+        "note": "Price and takedown terms not disclosed."
+      },
+      {
+        "counterparty": "Jay Odom / Hammock Bay (Natureview, Freeport FL)",
+        "counterparty_type": "Developer",
+        "description": "Initial purchase of 46 homesites in Natureview, a 793-lot master plan in Walton County developed by Jay Odom of Hammock Bay, with further lot acquisitions to follow; Holiday describes a long relationship with the developer.",
+        "amount_usd_m": null,
+        "lots": 46,
+        "date": "2024-10",
+        "confidence": "Verified",
+        "source_url": "https://holidaybuilders.com/natureview-new-community-in-freeport-florida/",
+        "source_title": "Holiday Builders blog: Natureview, New Community in Freeport, Florida",
+        "note": "Rolling takedown from a developer; terms not disclosed."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-07-30",
+        "type": "Other",
+        "description": "Change of control: the employee-owned company was acquired by Stanley Martin Homes (Daiwa House Group) and became a wholly owned subsidiary, ending 27 years of employee ownership (since 1999). Price and any debt repaid or assumed were not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://holidaybuilders.com/holiday-builders-aquired-by-stanley-martin-homes/",
+        "source_title": "Holiday Builders: Holiday Builders Acquired by Stanley Martin Homes",
+        "note": "From this date Holiday's funding is presumably provided through Stanley Martin / Daiwa House; no terms are public."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Acrisure Mortgage, LLC",
+        "description": "Coastal Loans, LLC is a mortgage joint venture between Holiday Builders and Acrisure Mortgage, LLC (about 37 staff in early 2025); it is the builder's preferred lender. Not a land joint venture.",
+        "date": "2025-02",
+        "confidence": "Verified",
+        "source_url": "https://holidaybuilders.com/celebrating-success-coastal-loans/",
+        "source_title": "Holiday Builders blog: Celebrating Success, Coastal Loans",
+        "note": "Holiday also has a title subsidiary, HB Title (company post, March 2025). No land or homebuilding joint ventures found."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Verified",
+      "source_url": "https://holidaybuilders.com/holiday-builders-ranks-on-2026-builder-100-list/",
+      "source_title": "Holiday Builders blog: Holiday Builders Ranks on 2026 Builder 100 List (2025: 1,050 closings, $375M revenue; no balance-sheet data is public)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-07-30",
+      "role": "Target",
+      "counterparty": "Stanley Martin Homes, LLC (Daiwa House Group)",
+      "description": "Stanley Martin Homes agreed on 16 July 2026 to acquire Holiday Builders, Inc.; Holiday says the acquisition became official on 30 July 2026 and it is now a wholly owned subsidiary. Price not disclosed. The deal brought about 1,050 annual closings, roughly 10,600 controlled Florida lots and 40+ communities. Zelman Partners advised Holiday, with Holland & Knight as its counsel; Maynard Nexsen and Larry Eisenberg, PC acted for Stanley Martin.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "Holiday (2026 Builder 100 rank 62) is no longer an independent, employee-owned private builder: it should be shown under Stanley Martin Homes / Daiwa House, and its closings and lots roll into Stanley Martin (rank 18, about 5,320 closings in 2025, which also closed its purchase of United Homes Group in 2026). Bruce Assam remains President and CEO and the Holiday brand continues ('Holiday Builders by Stanley Martin Homes' in site disclaimers). CFO Richard Fadil has dropped off the leadership page since the deal. Land and capital approvals likely now involve Stanley Martin in Reston, VA.",
+      "confidence": "Verified",
+      "source_url": "https://holidaybuilders.com/holiday-builders-aquired-by-stanley-martin-homes/",
+      "source_title": "Holiday Builders: Holiday Builders Acquired by Stanley Martin Homes (company release, posted 2026-09-02)",
+      "note": "Announcement: GlobeNewswire release of 2026-07-16 (https://pr.newberggraphic.com/article/Stanley-Martin-Homes-to-Acquire-Holiday-Builders/6a594aadfef76cbb7d73de2d). Closing date conflict: Holiday's own release and Sebastian Daily say 30 July 2026; the Zelman-authored HousingWire piece says 29 July 2026. Daiwa House's Stanley Martin page also lists Holiday Builders as made a wholly owned subsidiary in 2026 (https://www.daiwahouse.com/English/global/americas/united_states/stanleymartin.html). Stanley Martin's size and the United Homes Group deal are from ResiClub (https://www.resiclubanalytics.com/p/japanese-buying-american-homebuilders-daiwa-house-stanley-martin-buys-holiday-builders), a secondary source."
+    }
+  ],
+  "gaps": [
+    "Credit facility, lenders, construction or land loans: not publicly disclosed (private ESOP company until July 2026, now a subsidiary of a private subsidiary of Daiwa House).",
+    "Owned versus optioned lot split: not publicly disclosed; only the roughly 10,600 controlled-lot total is public.",
+    "Land banker or lot-option financing partner: none publicly named. One search for the company name with land bank / lot option / Millrose-style terms returned nothing, and the swarm's search allowance then ran out, so searches pairing Holiday with Domain, Millrose, Kennedy Lewis and TPG Angelo Gordon by name were not run.",
+    "Purchase price, and whether Holiday debt was repaid or assumed at closing: not publicly disclosed.",
+    "How Stanley Martin / Daiwa House fund Holiday after closing (intercompany loans, parent facilities): not publicly disclosed for Holiday; see the Stanley Martin / Daiwa House record.",
+    "ESOP details (trustee, any ESOP loan, Form 5500 financials): not checked in this run.",
+    "Daiwa House's own news-release page showed no separate release on the Holiday closing; the Longbridge summary of a Daiwa disclosure and the Builder article could not be opened (blocked / 403)."
+  ],
+  "sources_consulted": [
+    "https://pr.newberggraphic.com/article/Stanley-Martin-Homes-to-Acquire-Holiday-Builders/6a594aadfef76cbb7d73de2d",
+    "https://holidaybuilders.com/holiday-builders-aquired-by-stanley-martin-homes/",
+    "https://www.daiwahouse.com/English/global/americas/united_states/stanleymartin.html",
+    "https://www.housingwire.com/articles/holiday-builders-daiwa-house-phase-2/",
+    "https://www.housingwire.com/articles/holiday-builders-homebuilder-ma/",
+    "https://www.housingwire.com/articles/holiday-builders-deal-density/",
+    "https://www.resiclubanalytics.com/p/japanese-buying-american-homebuilders-daiwa-house-stanley-martin-buys-holiday-builders",
+    "https://www.sebastiandaily.com/business/holiday-builders-acquired-by-stanley-martin-homes-94666/",
+    "https://www.thepalmbayer.com/p/the-brevard-exemption-why-japanese",
+    "https://www.bdmag.com/stanley-martin-homes-acquires-holiday-builders/",
+    "https://holidaybuilders.com/why-experienced-employee-owned-homebuilder-leadership-matters-for-homebuyers-in-2026/",
+    "https://holidaybuilders.com/holiday-builders-24th-largest-private-homebuilder/",
+    "https://holidaybuilders.com/holiday-builders-ranks-on-2026-builder-100-list/",
+    "https://holidaybuilders.com/holiday-builders-purchases-homesites-in-woodland-ranch-dundee-fl/",
+    "https://holidaybuilders.com/natureview-new-community-in-freeport-florida/",
+    "https://holidaybuilders.com/holiday-builders-expands-central-florida-footprint/",
+    "https://holidaybuilders.com/celebrating-success-coastal-loans/",
+    "https://holidaybuilders.com/holiday-builders-ranks-45-on-2025-builder-100-list/",
+    "https://holidaybuilders.com/new-community-in-titusville/",
+    "https://holidaybuilders.com/okeechobee-new-community-new-model/",
+    "https://holidaybuilders.com/thrive-2025/",
+    "https://holidaybuilders.com/contact-us/sell-your-land/",
+    "https://www.stanleymartin.com/blog/453/stanley-martin-homes-to-acquire-holiday-builders",
+    "https://www.daiwahouse.com/English/about/release/"
+  ]
+}

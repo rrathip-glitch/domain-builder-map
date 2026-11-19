@@ -1,0 +1,272 @@
+{
+  "builder_id": "smith-douglas-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Smith Douglas is one of the most land-light public builders: it buys finished lots just in time through lot-option contracts with third-party developers and unnamed land bankers, and at 2026-09-30 owned only 517 unstarted lots (2.1% of its 24,724 controlled lots). Land banking is an established, growing channel: land bank deposits rose from $34.2M on 3,232 lots (end 2024) to $62.8M on 5,637 lots (end 2025), and total option deposits were $142.3M against a $1.42B remaining option purchase price at 2026-09-30. Corporate funding is a single $325M unsecured Wells Fargo-agented revolver (maturity May 2029; $99.0M drawn, about $204.1M available at 2026-09-30) with no public notes and no disclosed ratings. With cash at $5.9M, revolver use up from $40M to $99M in nine months, and a first self-developed Houston community (Pinemoor, 216 lots), the company has room and reason to add off-balance-sheet lot capital in its Southeast and Texas markets; no land-bank counterparty is publicly named.",
+    "land_strategy": "Land-light, 'just-in-time' finished-lot model in the company's own framing: acquires finished lots through lot-option contracts with third-party developers and land bankers (deposits typically 5-20% of price, non-refundable after a 60-120 day inspection period, staggered takedowns); in land-bank deals it assigns its land or lot contracts to the land banker, which funds development and sells finished lots back over time with interest on the outstanding lot price, and the company may also agree to develop the lots at a fixed cost. Targets: about a four-year lot supply in every market, no more than about two months of owned finished lots and four months of started lots on the balance sheet; 96% of unstarted controlled lots were optioned at end 2025 and 2024. No formal percent-optioned target is stated.",
+    "lots": {
+      "total_controlled": 24724,
+      "owned": 2031,
+      "optioned": 22693,
+      "pct_optioned": 91.8,
+      "years_supply": 8.5,
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026069786/sdhc-20261104xexx991.htm",
+      "source_title": "Q3 2026 earnings release (8-K Ex. 99.1), 2026-11-04",
+      "note": "Owned 2,031 = 517 owned unstarted lots + 1,514 homes under construction. pct_optioned computed (22,693/24,724); of unstarted lots only, optioned share is about 97.8% (22,693/23,210, computed). years_supply computed as 24,724 / 2,908 FY2025 closings (Inferred arithmetic). FY2025 10-K by segment at 2025-12-31: Southeast 932 owned / 13,938 optioned / 14,870 total; Central 780 / 6,618 / 7,398; total 1,712 / 20,556 / 22,268. The 10-Q MD&A also cites $138.4M of non-refundable deposits on 15,099 lots with about $1.1B remaining purchase price at 2026-09-30 (a narrower count than the 22,693 optioned lots)."
+    },
+    "land_banking": [
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026017245/sdhc-20251231.htm",
+        "source_title": "FY2025 Form 10-K, filed 2026-03-12",
+        "note": "Counterparties not named in 10-K or 10-Q. CEO Greg Bennett said in 2023 the company had aligned with 'a number of land bank and capital providers' and finances all land off balance sheet (HousingWire, 2023-08-01). Q3 2026 10-Q gives no updated land-bank-only lot count.",
+        "counterparty": "Unnamed land bank partners (not publicly disclosed)",
+        "counterparty_type": "Land banker",
+        "description": "Company assigns land or lot contracts to land bankers, which acquire and develop the land and sell finished lots to Smith Douglas on lot-option contracts; exposure limited to deposits and land-bank fees, plus possible fixed-cost development completion obligations. Land bank deposits were $62.8M covering 5,637 lots at 2025-12-31, up from $34.2M on 3,232 lots at 2024-12-31.",
+        "amount_usd_m": 62.8,
+        "lots": 5637,
+        "date": "2025-12"
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R9.htm",
+        "source_title": "10-Q Q3 2026, Note: Variable interest entities",
+        "note": "At 2025-12-31: $132.2M deposits, $1,269.0M remaining price; 10-K counts 20,556 option lots overall. Lot option abandonment charges 9M 2026: Southeast $4.0M, Central $1.5M.",
+        "counterparty": "Third-party lot developers (finished lot option contracts, unnamed)",
+        "counterparty_type": "Developer",
+        "description": "Finished-lot option contracts with third-party developers: total option deposits $134.4M with $1,389.1M remaining purchase price at 2026-09-30 (excluding unconsolidated entities); none consolidated as VIEs and none treated as financing arrangements. Maximum exposure to loss about $55.4M.",
+        "amount_usd_m": 134.4,
+        "lots": null,
+        "date": "2026-09"
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R9.htm",
+        "source_title": "10-Q Q3 2026, Note: Variable interest entities",
+        "note": "Lot count (550) is as of 2025-12-31 from the FY2025 10-K; partners not named.",
+        "counterparty": "Unconsolidated land/lot entities (two, unnamed)",
+        "counterparty_type": "JV partner",
+        "description": "Option contracts with unconsolidated entities in which the company holds non-controlling equity interests (two entities develop and sell lots): deposits $7.9M, remaining purchase price $31.2M at 2026-09-30; 10-K cites $8.3M deposits on 550 lots at 2025-12-31.",
+        "amount_usd_m": 7.9,
+        "lots": 550,
+        "date": "2026-09"
+      }
+    ],
+    "debt": [
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R11.htm",
+        "source_title": "10-Q Q3 2026, Note: Notes payable",
+        "note": "Drawn $99.0M at 2026-09-30 (vs $40.0M at 2025-12-31); LCs $0.8M; borrowing-base availability about $204.1M. $100M accordion, $20M LC sublimit, one-year extension option. Borrowing base on land, lots under development and finished lots. Covenants: min TNW $286.1M + 32.5% of post-1Q25 pre-tax income + 50% of new equity; max leverage 60%; EBITDA/interest >= 2.0x; min liquidity $15M. Lender list and agent from Exhibit 10.1 to the 2025-05-21 8-K: https://www.sec.gov/Archives/edgar/data/1982518/000198251825000026/sdhc-20250515xexx101.htm",
+        "instrument": "$325M unsecured revolving credit facility (A&R Credit Agreement dated 2024-01-16, First Amendment 2025-05-15)",
+        "type": "Revolver",
+        "principal_usd_m": 325.0,
+        "rate": "SOFR or base rate + 2.35%-3.00% (6.32% at 2026-09-30)",
+        "maturity": "2029-05",
+        "secured": "Unsecured",
+        "lenders_agent": "Wells Fargo Bank, N.A. (admin agent; WF Securities and BofA Securities joint lead arrangers). Commitments: Wells Fargo $57.5M, Bank of America $57.5M, JPMorgan Chase $50.0M, Fifth Third $50.0M, Regions $42.5M, Royal Bank of Canada $42.5M, Trustmark $25.0M",
+        "status": "Outstanding",
+        "as_of": "2026-09-30"
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R11.htm",
+        "source_title": "10-Q Q3 2026, Note: Notes payable",
+        "note": "Borrowed 2025-05-13 to help fund the $4.0M purchase of the Woodstock, GA HQ building from Founder Fund affiliate JBB Cherokee Holdings; monthly amortisation; balance $2.3M at 2026-09-30.",
+        "instrument": "8.5% secured promissory note to The BF Holding Trust (Founder Fund affiliate) due 2030",
+        "type": "Other",
+        "principal_usd_m": 3.0,
+        "rate": "8.5%",
+        "maturity": "2030-05",
+        "secured": "Secured",
+        "lenders_agent": "The BF Holding Trust (related party)",
+        "status": "Outstanding",
+        "as_of": "2026-09-30"
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R11.htm",
+        "source_title": "10-Q Q3 2026, Note: Notes payable",
+        "note": "Issued 2023-07-31 for the Devon Street Homes asset acquisition; $1.4M at 2025-12-31; fully repaid by 2026-09-30.",
+        "instrument": "8% Devon Street seller note (acquisition note) due 2026-09-30",
+        "type": "Other",
+        "principal_usd_m": 5.0,
+        "rate": "8.0%",
+        "maturity": "2026-09",
+        "secured": "",
+        "lenders_agent": "Seller of Devon Street Homes (former Houston division president)",
+        "status": "Redeemed",
+        "as_of": "2026-09-30"
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R11.htm",
+        "source_title": "10-Q Q3 2026, Note: Notes payable",
+        "note": "Entered 2026-02-20; immaterial. Lender not named.",
+        "instrument": "7.5% equipment finance agreement due 2029",
+        "type": "Other",
+        "principal_usd_m": 0.1,
+        "rate": "7.5%",
+        "maturity": "2029-03",
+        "secured": "Secured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30"
+      }
+    ],
+    "capital_events": [
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R19.htm",
+        "source_title": "10-Q Q3 2026, Note: Transactions with related parties",
+        "note": "",
+        "date": "2025-05-13",
+        "type": "Debt issuance",
+        "description": "$3.0M 8.5% secured note from The BF Holding Trust (Founder Fund affiliate), used with cash to buy the Woodstock, GA HQ building for $4.0M from affiliate JBB Cherokee Holdings.",
+        "amount_usd_m": 3.0
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000198251825000026/sdhc-20250515.htm",
+        "source_title": "8-K (Item 1.01/2.03) First Amendment to credit agreement, filed 2025-05-21",
+        "note": "Size/maturity change per 10-Q notes payable note; lender schedule per Exhibit 10.1.",
+        "date": "2025-05-15",
+        "type": "Facility amendment",
+        "description": "First Amendment to the revolver: commitments raised from $250M to $325M (Regions, RBC and others in the group), maturity extended from January 2027 to May 2029, borrowing-base thresholds and sublimits raised, covenants revised; SDH Central Georgia, SDH Dallas and SDH Greenville added as borrowers.",
+        "amount_usd_m": 325.0
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000198251825000032/sdhc-20250528.htm",
+        "source_title": "8-K (Item 7.01) stock repurchase program, 2025-05-28",
+        "note": "",
+        "date": "2025-05-28",
+        "type": "Buyback",
+        "description": "Board authorised a stock repurchase program of up to $50.0M of Class A common stock.",
+        "amount_usd_m": 50.0
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/0001628280-26-070123.txt",
+        "source_title": "Form 10-Q for quarter ended 2026-09-30 (MD&A), filed 2026-11-04",
+        "note": "Treasury stock $9.8M at 2026-09-30 vs none at 2025-12-31 (earnings release).",
+        "date": "2026-09-30",
+        "type": "Buyback",
+        "description": "Repurchased 790,325 Class A shares for $10.4M in the nine months to 2026-09-30 (28,370 shares, $0.3M in Q3); $39.7M authorisation remaining.",
+        "amount_usd_m": 10.4
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R11.htm",
+        "source_title": "10-Q Q3 2026, Note: Notes payable",
+        "note": "Balance repaid during 2026 was $1.4M (balance at 2025-12-31).",
+        "date": "2026-09-30",
+        "type": "Redemption",
+        "description": "Devon Street $5.0M 8% seller note fully repaid at its 2026-09-30 maturity.",
+        "amount_usd_m": 1.4
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026069786/sdhc-20261104xexx991.htm",
+        "source_title": "Q3 2026 earnings release (8-K Ex. 99.1), 2026-11-04",
+        "note": "",
+        "date": "2026-09-30",
+        "type": "Other",
+        "description": "Revolver borrowings rose to $99.0M from $40.0M at year-end 2025 ($59.0M net borrowings in 9M 2026) while cash fell to $5.9M; debt-to-book capitalization rose to 18.8% from 9.0%.",
+        "amount_usd_m": 59.0
+      },
+      {
+        "confidence": "Reported",
+        "source_url": "https://communityimpact.com/houston/tomball-magnolia/development/2025/11/17/smith-douglas-homes-to-launch-first-self-developed-houston-community-in-magnolia",
+        "source_title": "Community Impact: Smith Douglas to launch first self-developed Houston community (2025-11-17)",
+        "note": "Seller appears to be Red Hill Ventures (retains 35 adjacent acres): inference from the article.",
+        "date": "2025-11-11",
+        "type": "Other",
+        "description": "Launched Pinemoor (Magnolia, TX; 60 acres, 216 homesites), its first self-developed community in Houston, a step away from a pure finished-lot model in that market; first lots expected mid-2026, sales 4Q 2026.",
+        "amount_usd_m": null
+      }
+    ],
+    "joint_ventures": [
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.stocktitan.net/news/LDI/teresa-carlile-appointed-president-of-ridgeland-yz91wvaqm9qo.html",
+        "source_title": "Business Wire via StockTitan: Teresa Carlile appointed President of Ridgeland Mortgage (2025-01-09)",
+        "note": "Business Wire release by loanDepot (primary for the JV partner). 10-Q lists one unconsolidated mortgage broker entity.",
+        "partner": "loanDepot, Inc. (Ridgeland Mortgage)",
+        "description": "Mortgage lending JV between loanDepot and Smith Douglas serving Smith Douglas buyers in Atlanta/Central Georgia, Houston, Birmingham/Huntsville, Charlotte/Raleigh and Chattanooga/Nashville; Teresa Carlile named president in January 2025. Accounted for as an unconsolidated mortgage-broker entity.",
+        "date": "2025-01"
+      },
+      {
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R10.htm",
+        "source_title": "10-Q Q3 2026, Note: Investments in unconsolidated entities",
+        "note": "Partners not named in filings.",
+        "partner": "Unnamed partners: two lot-development entities and three title-insurance entities",
+        "description": "Non-controlling equity-method interests: two entities develop and sell lots (the company options lots from them), three provide title insurance; carrying value about $2.2M at 2026-09-30; 9M 2026 equity income about $2.1M.",
+        "date": "2026-09"
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": 101.4,
+      "cash_usd_m": 5.9,
+      "liquidity_usd_m": 210.0,
+      "net_debt_to_capital_pct": 17.9,
+      "credit_ratings": "None disclosed (no rated public debt; revolver is bank-only)",
+      "fiscal_year_end": "December 31",
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026069786/sdhc-20261104xexx991.htm",
+      "source_title": "Q3 2026 earnings release (8-K Ex. 99.1), 2026-11-04"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1982518/000162828026017245/sdhc-20251231.htm",
+      "source_title": "FY2025 Form 10-K, filed 2026-03-12",
+      "note": "Deal facts on closings/lots from HousingWire 2023-08-01: https://www.housingwire.com/articles/houston-weve-got-lift-off-smith-douglas-nets-devon-street-homes/",
+      "date": "2023-07-31",
+      "role": "Acquirer",
+      "counterparty": "Devon Street Homes, L.P. (Houston)",
+      "description": "Bought substantially all assets of Houston builder Devon Street Homes (324 closings in 2022, about 1,500 lots controlled), funded partly by a $5.0M 8% seller note; Smith Douglas's entry into Texas. Context only (pre-2025).",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "Created the Houston division (now part of the Central segment); founder Stephen Ray led it until 2024-12-31. No 2025 or 2026 M&A: growth into Dallas-Fort Worth and the Alabama Gulf Coast in 2025 was organic."
+    }
+  ],
+  "gaps": [
+    "Land-bank counterparties (names): not publicly disclosed; 10-K and 10-Qs describe land bank arrangements without naming partners, and searches found no press naming Millrose, Kennedy Lewis, TPG Angelo Gordon/Essential Housing, Domain, Varde, IHP, Hearthstone, GTIS, Walton or Forestar as a Smith Douglas partner.",
+    "Land-bank deposits and lots at 2026-09-30: not separately disclosed (latest split is FY2025 10-K: $62.8M / 5,637 lots).",
+    "Land-bank program size, pricing (interest rate on outstanding lot price) and fees: not publicly disclosed.",
+    "Names of the two unconsolidated lot-development entities and their partners: not publicly disclosed.",
+    "Credit ratings: none disclosed; company has no public notes.",
+    "Senior notes: none outstanding (no public bonds).",
+    "Competitor links (Domain, Millrose, Kennedy Lewis, TPG Angelo Gordon): none publicly disclosed; Millrose Q2 2026 coverage lists 18 third-party partners without naming Smith Douglas.",
+    "Earnings-call commentary on land banking for 2026: transcripts not found at guessable URLs.",
+    "M&A 2025-2026: none found (8-K list since 2025 has no Item 1.01 acquisition or 2.01 filings other than the credit amendment; newswire index shows no deal releases)."
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026069786/sdhc-20261104xexx991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/0001628280-26-070123.txt",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R11.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R9.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R10.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/R19.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026017245/sdhc-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000198251825000026/sdhc-20250515.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000198251825000026/sdhc-20250515xexx101.htm",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000198251825000032/sdhc-20250528.htm",
+    "https://www.housingwire.com/articles/houston-weve-got-lift-off-smith-douglas-nets-devon-street-homes/",
+    "https://communityimpact.com/houston/tomball-magnolia/development/2025/11/17/smith-douglas-homes-to-launch-first-self-developed-houston-community-in-magnolia",
+    "https://www.stocktitan.net/news/LDI/teresa-carlile-appointed-president-of-ridgeland-yz91wvaqm9qo.html",
+    "https://www.stocktitan.net/news/SDHC/",
+    "https://www.stocktitan.net/news/SDHC/page-2.html",
+    "https://data.sec.gov/submissions/CIK0001982518.json",
+    "https://www.housingwire.com/articles/millrose-q2-2026-results-build-on-new-partnerships-growth-mojo/",
+    "https://www.sec.gov/Archives/edgar/data/1982518/000162828026070123/FilingSummary.xml"
+  ]
+}

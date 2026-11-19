@@ -1,0 +1,238 @@
+{
+  "builder_id": "middleburg-communities",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "NOT A FOR-SALE HOMEBUILDER: Middleburg develops, builds and operates rental housing (apartments and Hamlet single-family build-to-rent), so it does not buy finished lots on a takedown schedule and is at best an edge-case land-banking customer. It funds each project separately: institutional joint-venture equity (Harbor Group International is the one LP named in 2026), its own GP co-invest from a discretionary fund series (GP Fund III closed at $125M in February 2026), bank construction loans (Truist and US Bank named) and agency take-out debt (Freddie Mac via Newmark). Sites are held under contract while GP fund money carries them through zoning and entitlement, and land usually closes together with the construction loan, which removes most of the need for a third-party land banker. The room for one is narrow: pre-development land carry or horizontal development on BTR sites if its 52-project, 18,000-unit pipeline outruns GP fund capital, especially in the new Western markets. The firm is also a capital provider (preferred equity and mezzanine funds for other sponsors), and its finance bench turned over in 2026, so relationships there are in flux. Corporate debt, cash and leverage are not public.",
+    "land_strategy": "Capital-light site control rather than land ownership: the land team sources off-market sites directly (750+ scored and 30+ contracted a year across eight states and 30+ metros), holds them under contract through entitlement, and closes the land when construction financing is in place. No stated owned/optioned target because it does not operate a lot pipeline. Company figures: 52 projects and 18,000+ units under control and in development, about 20 projects and 5,600 units under construction, 18 to 20 starts planned for 2026.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-04-15",
+      "confidence": "Verified",
+      "source_url": "https://www.middleburg.com/news/middleburg-named-to-nmhc-top-25-developers-and-builders-lists",
+      "source_title": "Middleburg: named to NMHC Top 25 Developers and Builders lists",
+      "note": "No lot counts exist for this company. Its pipeline is counted in rental units: 52 projects under control and in development for 18,000+ units (April 2026), 4,150 units started in 2025 (up 62% year over year). These are apartment and BTR units on project sites, not for-sale lots, so the lot fields are left empty."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Middleburg GP Fund III, LP (in-house)",
+        "counterparty_type": "Affiliate",
+        "description": "The firm's own discretionary GP fund plays the role a land banker would: it funds the sponsor's equity and the pursuit phase. A development partner told the Phoenix Business Journal in June 2026 that a general partner fund lets him put sites under contract and carry them through zoning and entitlement. No third-party land banker or lot-option partner has been named publicly.",
+        "amount_usd_m": 125,
+        "lots": null,
+        "date": "2026-02",
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-closes-oversubscribed-third-gp-fund-raising-125-million",
+        "source_title": "Middleburg press release: GP Fund III final close at $125 million",
+        "note": "Fund size from the company release; the pursuit and entitlement use is from the Phoenix Business Journal article reposted at https://www.middleburg.com/news/virginia-real-estate-firm-taps-phoenix-partner-for-arizona-expansion (Reported)."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Scottwood construction loan (299 units, Richmond, VA)",
+        "type": "Project debt",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Truist Bank",
+        "status": "Outstanding",
+        "as_of": "2026-04-01",
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-and-harbor-group-international-secure-construction-financing-for-scottwood-a-299-unit-class-a-multifamily-development-in-richmond-virginia",
+        "source_title": "Middleburg and Harbor Group International press release: Scottwood construction financing",
+        "note": "Loan amount and terms not disclosed. Project is a joint venture with affiliates of Harbor Group International."
+      },
+      {
+        "instrument": "Mosby Deerbrook construction loan (330 units, Spring Hill / Pasco County, FL)",
+        "type": "Project debt",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "US Bank",
+        "status": "Outstanding",
+        "as_of": "2025-12-09",
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-acquires-land-and-secures-financing-for-330-unit-luxury-apartment-development-in-pasco-county-florida",
+        "source_title": "Middleburg press release: land and construction financing for Mosby Deerbrook",
+        "note": "Land purchase and construction loan closed together. Amount not disclosed. Date is the company site posting date; the release itself is undated. Equity partner not named."
+      },
+      {
+        "instrument": "Vesta Creeks Run refinance (workforce housing, North Charleston, SC)",
+        "type": "Project debt",
+        "principal_usd_m": 39.1,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "Freddie Mac (arranged by Newmark)",
+        "status": "Outstanding",
+        "as_of": "2025-12-05",
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-secures-39-1-million-refinance-for-high-performing-workforce-housing-community",
+        "source_title": "Middleburg release: $39.1 million refinance of Vesta Creeks Run",
+        "note": "Permanent agency debt on a stabilised asset acquired in 2021. Date is the company site posting date. Rate and term not disclosed."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-04-01",
+        "type": "JV",
+        "description": "Closed a joint venture with affiliates of Harbor Group International and a Truist Bank construction loan for Scottwood, a 299-unit apartment project in Richmond; construction started April 2026.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-and-harbor-group-international-secure-construction-financing-for-scottwood-a-299-unit-class-a-multifamily-development-in-richmond-virginia",
+        "source_title": "Middleburg and Harbor Group International press release: Scottwood construction financing",
+        "note": "HGI invests as limited partner; it says it has passed $1B of development investments since 2023."
+      },
+      {
+        "date": "2026-02-17",
+        "type": "Equity",
+        "description": "Final close of Middleburg GP Fund III at $125 million of commitments, above target and at the hard cap, with new institutional investors including an endowment. Proceeds fund the firm's GP equity in multifamily and build-to-rent developments.",
+        "amount_usd_m": 125,
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-closes-oversubscribed-third-gp-fund-raising-125-million",
+        "source_title": "Middleburg press release: GP Fund III final close at $125 million",
+        "note": ""
+      },
+      {
+        "date": "2025-12-09",
+        "type": "Other",
+        "description": "Closed the land purchase and a US Bank construction loan for Mosby Deerbrook, a 330-unit apartment community in Pasco County, Florida.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-acquires-land-and-secures-financing-for-330-unit-luxury-apartment-development-in-pasco-county-florida",
+        "source_title": "Middleburg press release: land and construction financing for Mosby Deerbrook",
+        "note": "Date is the company site posting date."
+      },
+      {
+        "date": "2025-12-05",
+        "type": "Debt issuance",
+        "description": "Closed a $39.1 million Freddie Mac refinance, arranged by Newmark, of Vesta Creeks Run workforce housing in North Charleston.",
+        "amount_usd_m": 39.1,
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-secures-39-1-million-refinance-for-high-performing-workforce-housing-community",
+        "source_title": "Middleburg release: $39.1 million refinance of Vesta Creeks Run",
+        "note": "Date is the company site posting date."
+      },
+      {
+        "date": "2025-08-26",
+        "type": "Equity",
+        "description": "With Intelligence reported the firm is preparing Multifamily Credit Partners II, a $150 million closed-end fund providing preferred equity and mezzanine loans of $5M to $15M to other developers, launching spring 2026. It said the first credit fund raised $100 million plus a $200 million separate account, and that a US endowment committed $50 million to GP Fund III.",
+        "amount_usd_m": 150,
+        "confidence": "Reported",
+        "source_url": "https://www.middleburg.com/news/middleburg-readies-150m-multifamily-credit-fund",
+        "source_title": "With Intelligence, 'Middleburg readies $150m multifamily credit fund' (reposted on middleburg.com)",
+        "note": "Target size, not capital raised. Whether the fund launched or closed in 2026 is not public."
+      },
+      {
+        "date": "2025-07-28",
+        "type": "Equity",
+        "description": "SEC Form D for Middleburg GP Fund III, LP: $100 million offering, $40.975 million sold to 9 investors, first sale 30 June 2025, $1 million minimum, no placement agent. Signed by Kory L. Geans as CIO of the general partner.",
+        "amount_usd_m": 100,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/2078884/000207888425000002/xslFormDX01/primary_doc.xml",
+        "source_title": "SEC Form D, Middleburg GP Fund III, LP (filed 2025-07-28)",
+        "note": "Offering amount later exceeded: the fund closed at $125M in February 2026. Middleburg Communities, LLC is named as sole member of the general partner."
+      },
+      {
+        "date": "2023-08-04",
+        "type": "Equity",
+        "description": "SEC Form D for Middleburg GP Fund II, LP: $75 million offering, $25 million sold to 2 investors at first filing. Context for the GP fund series.",
+        "amount_usd_m": 75,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1988641/000198864123000001/xslFormDX01/primary_doc.xml",
+        "source_title": "SEC Form D, Middleburg GP Fund II, LP (filed 2023-08-04)",
+        "note": "Final size of Fund II not found in a public source."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Harbor Group International (HGI)",
+        "description": "Project joint venture for Scottwood, a 299-unit Class A apartment development at 4400 West Broad Street, Richmond. HGI affiliates are the limited-partner equity; Middleburg is developer, general contractor and GP. Truist Bank is the construction lender.",
+        "date": "2026-04-01",
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-and-harbor-group-international-secure-construction-financing-for-scottwood-a-299-unit-class-a-multifamily-development-in-richmond-virginia",
+        "source_title": "Middleburg and Harbor Group International press release: Scottwood construction financing",
+        "note": "The only project equity partner named in the firm's 2025 to 2026 releases."
+      },
+      {
+        "partner": "Capital Solutions and Affordable Communities of America",
+        "description": "Partnership on Vesta Creeks Run, a workforce and affordable community in North Charleston acquired in 2021; Affordable Communities of America is a nonprofit focused on preserving affordable housing.",
+        "date": "2025-12-05",
+        "confidence": "Verified",
+        "source_url": "https://www.middleburg.com/news/middleburg-secures-39-1-million-refinance-for-high-performing-workforce-housing-community",
+        "source_title": "Middleburg release: $39.1 million refinance of Vesta Creeks Run",
+        "note": "Structure of the partnership not disclosed."
+      },
+      {
+        "partner": "Institutional investors (unnamed), project by project",
+        "description": "The Phoenix Business Journal reported that the firm works with a variety of institutional investor groups and funds each project separately, with a general partner fund covering early-stage site control and entitlement.",
+        "date": "2026-06-30",
+        "confidence": "Reported",
+        "source_url": "https://www.middleburg.com/news/virginia-real-estate-firm-taps-phoenix-partner-for-arizona-expansion",
+        "source_title": "Phoenix Business Journal, 'Virginia real estate firm taps Phoenix partner for Arizona expansion' (reposted on middleburg.com)",
+        "note": "Names of the other equity partners are not public."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Verified",
+      "source_url": "https://www.middleburg.com/capabilities/institutional-infrastructure",
+      "source_title": "Middleburg platform infrastructure page"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Not a for-sale homebuilder: no owned or optioned lot counts exist; pipeline is disclosed only in rental units (52 projects, 18,000+ units under control).",
+    "Land banker or lot-option partner: none named in any company release, team page or fund filing reviewed. Links to Domain Real Estate Partners, Millrose, Kennedy Lewis or TPG Angelo Gordon: none found on the company's site or filings; press was not searched for these names, so treat this as 'none found', not 'confirmed none'.",
+    "Corporate credit facility, total debt, cash, liquidity and leverage: not publicly disclosed (private company). The only size marker published is 'over $500 million in annual revenue' on the platform infrastructure page.",
+    "Construction loan amounts, rates and maturities: not publicly disclosed (lender names only: Truist Bank, US Bank).",
+    "Project equity partners other than Harbor Group International: not publicly named in 2025 to 2026 releases.",
+    "Investors in GP Fund III (beyond 'a well-known endowment') and final size of GP Fund II: not publicly disclosed.",
+    "Multifamily Credit Partners II: launch or close in 2026 not confirmed in a public source.",
+    "M&A: no acquisition, sale or merger involving the company found for 2025 to 2026 in its newsroom or filings; press was not searched.",
+    "Credit ratings: none (unrated private company).",
+    "Trade-press coverage of earlier Hamlet BTR equity partners and lenders (2021 to 2024) was not searched; the company newsroom only goes back to mid-2025."
+  ],
+  "sources_consulted": [
+    "https://www.middleburg.com/about",
+    "https://www.middleburg.com/capabilities/land-acquisitions",
+    "https://www.middleburg.com/capabilities/development",
+    "https://www.middleburg.com/capabilities/construction",
+    "https://www.middleburg.com/capabilities/institutional-infrastructure",
+    "https://www.middleburg.com/capital/investment-management",
+    "https://www.middleburg.com/capital/strategic-investments",
+    "https://www.middleburg.com/latest",
+    "https://www.middleburg.com/news/middleburg-named-to-nmhc-top-25-developers-and-builders-lists",
+    "https://www.middleburg.com/news/middleburg-closes-oversubscribed-third-gp-fund-raising-125-million",
+    "https://www.middleburg.com/news/middleburg-and-harbor-group-international-secure-construction-financing-for-scottwood-a-299-unit-class-a-multifamily-development-in-richmond-virginia",
+    "https://www.middleburg.com/news/middleburg-acquires-land-and-secures-financing-for-330-unit-luxury-apartment-development-in-pasco-county-florida",
+    "https://www.middleburg.com/news/middleburg-secures-39-1-million-refinance-for-high-performing-workforce-housing-community",
+    "https://www.middleburg.com/news/middleburg-readies-150m-multifamily-credit-fund",
+    "https://www.middleburg.com/news/virginia-real-estate-firm-taps-phoenix-partner-for-arizona-expansion",
+    "https://www.middleburg.com/news/disciplined-growth-fuels-middleburgs-national-expansion",
+    "https://www.middleburg.com/news/middleburg-hires-jpi-development-partner-to-help-target-multifamily-growth-in-texas",
+    "https://www.middleburg.com/news/middleburg-closes-on-site-for-252-unit-class-a-multifamily-community-in-atlantas-south-fulton-submarket",
+    "https://www.middleburg.com/news/middleburg-buys-site-near-northlake-mall-with-plans-for-apartments",
+    "https://www.middleburg.com/news/land-as-strategy-how-disciplined-site-selection-drives-housing-outcomes",
+    "https://www.middleburg.com/news/rising-rates-construction-costs-force-developers-to-get-creative-with-financing",
+    "https://www.middleburg.com/news/developers-spy-rock-middleburg-to-build-hundreds-of-apartments-around-diamond-district",
+    "https://www.sec.gov/Archives/edgar/data/2078884/000207888425000002/xslFormDX01/primary_doc.xml",
+    "https://www.sec.gov/Archives/edgar/data/1988641/000198864123000001/xslFormDX01/primary_doc.xml",
+    "https://data.sec.gov/submissions/CIK0002078884.json",
+    "https://data.sec.gov/submissions/CIK0001988641.json",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=middleburg&type=D&dateb=&owner=include&count=40"
+  ]
+}

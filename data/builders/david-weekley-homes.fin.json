@@ -1,0 +1,243 @@
+{
+  "builder_id": "david-weekley-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "David Weekley Homes (legal entity Weekley Homes, LLC, Houston) is privately held and publishes no financial statements, so its lot position, bank lines and leverage are not public. The one public debt instrument is a $400M 4.875% senior notes issue due 15 September 2028 (co-issuer Weekley Finance Corp., issued September 2020 to take out its 2023 and 2025 notes); that maturity is about 22 months away and is the visible refinancing event. The company describes itself as asset-light ('a home builder, not a land speculator') and has historically optioned finished lots from master-planned-community developers rather than developing land. It already has a programmatic land banker: a joint venture with Värde Partners announced April 2024, which opened with two Phoenix projects of more than $100M and named Tampa, Atlanta, Orlando and Charlotte as target markets. Room for another land banker exists (19 markets, only one named provider, facility size undisclosed), but Värde is the incumbent and the CFO fronted that deal.",
+    "land_strategy": "Asset-light by its own description. The CFO called it a 'long-standing asset-lite strategy' when announcing the Värde land-banking JV (April 2024), and the company site says it avoided land speculation and has 'minimal land exposure'. A 2013 trade profile (stale, for context only) said it generally optioned lots at an average option cost of a little over 5% of lot value, stayed out of land development except in rare cases, and drew about 60% of its business from master-planned communities. More recent evidence shows some self-development: the Värde JV has Weekley managing sourcing and land development, and in August 2025 the company closed on and began developing a 42-acre parcel in Gilbert, AZ. No stated owned/optioned target is public.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed. Private company with 144A notes only; no SEC filings and no published lot table."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Värde Partners",
+        "counterparty_type": "Land banker",
+        "description": "Joint venture to land bank residential communities for David Weekley Homes nationally. Värde provides the land-banking facility; Weekley manages sourcing and land development. At announcement it had closed two Phoenix projects with more than $100M of total project costs and expected more deals in the following months. Target markets named: Phoenix, Tampa, Atlanta, Orlando, Charlotte.",
+        "amount_usd_m": 100,
+        "lots": null,
+        "date": "2024-04",
+        "confidence": "Verified",
+        "source_url": "https://varde.com/varde-partners-and-david-weekley-homes-announce-land-banking-joint-venture/",
+        "source_title": "Värde Partners and David Weekley Homes Announce Land Banking Joint Venture (Värde press release)",
+        "note": "amount_usd_m is the stated project cost of the first two projects ('more than $100 million'), not the facility size, which is described only as 'significant capacity'. Lot counts and project names not disclosed. Quoted: Heather Humphrey (CFO, David Weekley Homes) and Brendan Bosman (Senior Managing Director, Värde). No public update on the JV found for 2025 or 2026."
+      },
+      {
+        "counterparty": "Berry Creek Highlands Austin (seller)",
+        "counterparty_type": "Developer",
+        "description": "David Weekley Homes bought 165 single-family lots, the final single-family phase of the 314-acre Berry Creek Highlands master-planned community in Georgetown, TX (Austin market). Weekley was self-represented; Avison Young represented the seller. Example of its bulk finished-lot purchases from community developers.",
+        "amount_usd_m": null,
+        "lots": 165,
+        "date": "2026-02",
+        "confidence": "Reported",
+        "source_url": "https://rejournals.com/avison-young-negotiates-sale-of-165-home-lots-in-georgetown/",
+        "source_title": "Avison Young negotiates sale of 165 home lots in Georgetown (REjournals)",
+        "note": "Price not disclosed. No capital provider or land banker named; whether the lots were bought outright or through a third party is not stated."
+      },
+      {
+        "counterparty": "Midway Companies (Midway Strategic Real Estate Fund)",
+        "counterparty_type": "Investor",
+        "description": "Older investor-financed lot fund: Weekley and Houston developer Midway reportedly set up a fund to buy lots in finished or partly finished subdivisions on which Weekley could start building within about 120 days. Historical precedent for Weekley using third-party capital to hold lots.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "",
+        "confidence": "Inferred",
+        "source_url": "https://www.builderonline.com/?p=41689",
+        "source_title": "David Weekley Homes Will Deploy Investor-Financed Fund For Land Deals (Builder)",
+        "note": "Seen in search snippet only, not confirmed: the Builder page returned HTTP 403. Article is undated in the snippet and appears to be many years old; current status of the fund unknown."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "4.875% Senior Notes due 2028",
+        "type": "Senior notes",
+        "principal_usd_m": 400,
+        "rate": "4.875%",
+        "maturity": "2028-09",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-11-19",
+        "confidence": "Reported",
+        "source_url": "https://www.tradingview.com/symbols/FINRA-WEEK5043622/",
+        "source_title": "Weekley Homes, LLC 4.875% 15-SEP-2028 (TradingView / FINRA bond data)",
+        "note": "Matures 15 September 2028; issued 23 September 2020; semi-annual coupon; $400.0M shown outstanding on the bond-data page when opened (page carries no as-of date). ISIN USU94783AB06 (Reg S). Co-issuer Weekley Finance Corp. per a Fidelity fund N-PORT holdings report dated 2024-07-31 (https://www.sec.gov/Archives/edgar/data/722574/000175272424217998/QTLY_218_20240731.htm). Privately placed; no indenture, trustee or security terms opened in this run, so secured/unsecured left blank. Only public notes series found."
+      },
+      {
+        "instrument": "6.000% Senior Notes due 2023",
+        "type": "Senior notes",
+        "principal_usd_m": 200,
+        "rate": "6.000%",
+        "maturity": "2023",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Redeemed",
+        "as_of": "2020-09-25",
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/weekley-homes-llc-announces-cash-tender-offers-for-its-6-000-senior-notes-due-2023-and-6-625-senior-notes-due-2025-and-solicitations-of-consents-to-the-related-indentures-301126373.html",
+        "source_title": "Weekley Homes, LLC Announces Cash Tender Offers... (company release, 2020-09-09)",
+        "note": "Historical. $200.0M outstanding at the September 2020 tender; $140.769M tendered and the rest called for redemption on 2020-09-25 at par. Dealer manager Credit Suisse. Originally sold in early 2013 as senior unsecured notes per a 2013 Pro Builder profile."
+      },
+      {
+        "instrument": "6.625% Senior Notes due 2025",
+        "type": "Senior notes",
+        "principal_usd_m": 231.189,
+        "rate": "6.625%",
+        "maturity": "2025",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Redeemed",
+        "as_of": "2020-09-25",
+        "confidence": "Verified",
+        "source_url": "https://www.prnewswire.com/news-releases/weekley-homes-llc-announces-cash-tender-offers-for-its-6-000-senior-notes-due-2023-and-6-625-senior-notes-due-2025-and-solicitations-of-consents-to-the-related-indentures-301126373.html",
+        "source_title": "Weekley Homes, LLC Announces Cash Tender Offers... (company release, 2020-09-09)",
+        "note": "Historical. $231.189M outstanding at the September 2020 tender; $216.083M tendered and the rest called for redemption on 2020-09-25 at 104.969%. Dealer manager Credit Suisse."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-08-03",
+        "type": "JV",
+        "description": "Integrity Community Builders, the build-to-rent subsidiary of Weekley Homes, L.L.C., and PCCP announced a programmatic venture to develop build-to-rent communities, backed by an annual equity commitment of up to $200M, with both parties co-investing in selected projects. Targets the 19 markets where the Weekley group operates.",
+        "amount_usd_m": 200,
+        "confidence": "Reported",
+        "source_url": "https://www.webull.com/news/15341214826914816",
+        "source_title": "Integrity Community Builders and PCCP Announce Programmatic Venture (PR Newswire release, as carried by Webull)",
+        "note": "Text is the companies' PR Newswire release read on a syndication site, so tagged Reported. amount_usd_m is the annual equity commitment ceiling. Quoted: Chad Durham (VP of Build-to-Rent, Integrity Community Builders) and Jennifer Diaz (Partner, Head of Multifamily, PCCP). Rental housing, not for-sale lots."
+      },
+      {
+        "date": "2026-02-05",
+        "type": "Other",
+        "description": "Bought 165 finished single-family lots in Berry Creek Highlands, Georgetown, TX from the community's developer (date is the article date). Price and funding source not disclosed.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://rejournals.com/avison-young-negotiates-sale-of-165-home-lots-in-georgetown/",
+        "source_title": "Avison Young negotiates sale of 165 home lots in Georgetown (REjournals)",
+        "note": "Land purchase, listed here as a 2026 use of capital."
+      },
+      {
+        "date": "2025-08-12",
+        "type": "Other",
+        "description": "Closed on a 42-acre parcel in Gilbert, AZ and began developing it itself as Granview at Somerset (75 large-lot homes, opening expected Q1 2027). No seller, price, financing partner or land banker named.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.davidweekleyhomes.com/news/article/david-weekley-homes-closes-on-land-deal-in-gilbert",
+        "source_title": "David Weekley Homes Closes on Land Deal in Gilbert (company release)",
+        "note": "Shows Weekley taking raw-land development risk in Phoenix, the market where the Värde JV started. Whether this parcel sits in the Värde JV is not stated."
+      },
+      {
+        "date": "2024-04-04",
+        "type": "Land-bank deal",
+        "description": "Announced a land-banking joint venture with Värde Partners; two Phoenix projects with more than $100M of project costs closed at launch. Included for context because it is the company's only named land-banking programme.",
+        "amount_usd_m": 100,
+        "confidence": "Verified",
+        "source_url": "https://varde.com/varde-partners-and-david-weekley-homes-announce-land-banking-joint-venture/",
+        "source_title": "Värde Partners and David Weekley Homes Announce Land Banking Joint Venture (Värde press release)",
+        "note": "Pre-2025. amount_usd_m is first-two-project cost, not facility size."
+      },
+      {
+        "date": "2020-09-23",
+        "type": "Debt issuance",
+        "description": "Issued $400M of 4.875% senior notes due 2028 and used the proceeds to tender for and redeem all of its 6.000% notes due 2023 and 6.625% notes due 2025. Included for context as the last public debt issuance found; no 2025 or 2026 issuance, redemption or facility amendment was found.",
+        "amount_usd_m": 400,
+        "confidence": "Reported",
+        "source_url": "https://www.tradingview.com/symbols/FINRA-WEEK5043622/",
+        "source_title": "Weekley Homes, LLC 4.875% 15-SEP-2028 (TradingView / FINRA bond data)",
+        "note": "Issue date and size from bond-data page; the company's 2020-09-09 tender release made the tender conditional on a notes offering of at least $400M."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Värde Partners",
+        "description": "Land-banking joint venture for David Weekley Homes communities nationally; Värde supplies the facility, Weekley sources and develops. Started with two Phoenix projects (more than $100M of project costs).",
+        "date": "2024-04",
+        "confidence": "Verified",
+        "source_url": "https://varde.com/varde-partners-and-david-weekley-homes-announce-land-banking-joint-venture/",
+        "source_title": "Värde Partners and David Weekley Homes Announce Land Banking Joint Venture (Värde press release)",
+        "note": "A trade report on the same deal adds that Värde called Weekley a preferred builder in master-planned communities where Värde invests (https://realassets.ipe.com/news/värde-partners-and-david-weekley-create-us-land-banking-partnership/10072594.article)."
+      },
+      {
+        "partner": "PCCP, LLC",
+        "description": "Programmatic build-to-rent development venture with Weekley subsidiary Integrity Community Builders; annual equity commitment of up to $200M; detached, townhome and cottage rental communities across the Weekley group's 19 markets.",
+        "date": "2026-08",
+        "confidence": "Reported",
+        "source_url": "https://www.webull.com/news/15341214826914816",
+        "source_title": "Integrity Community Builders and PCCP Announce Programmatic Venture (PR Newswire release, as carried by Webull)",
+        "note": "Integrity Community Builders reports 21 completed communities and more than 2,200 rental homes since 2020; its site also lists Baseline Property Group, Camden, Crescent Communities, CrossHarbor, Fundrise, Greystar and The Nehemiah Company as partners (https://www.integritycommunitybuilders.com/), roles not specified."
+      },
+      {
+        "partner": "ECM Development",
+        "description": "Formed ICB Construction LLC with David Weekley Homes to build three single-family rental communities in Dallas-Fort Worth (82, 61 and 120 homes). This was the start of what is now Integrity Community Builders.",
+        "date": "2021-01",
+        "confidence": "Reported",
+        "source_url": "https://www.probuilder.com/business-management/build-to-rent/article/55217805/texas-builder-and-developer-team-up-for-single-family-rental-neighborhoods",
+        "source_title": "Texas Builder and Developer Team Up for Single-Family Rental Neighborhoods (Pro Builder, 2021-01-25)",
+        "note": "Older than 24 months; current status of the ECM relationship not confirmed. The link from ICB Construction to Integrity Community Builders is inferred from the shared ICB name and the build-to-rent start date of 2020 on the Integrity site."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": [
+      {
+        "firm": "Värde Partners",
+        "relationship": "Incumbent land banker: programmatic land-banking joint venture with David Weekley Homes since April 2024, starting in Phoenix with Tampa, Atlanta, Orlando and Charlotte named as targets. Facility size not disclosed.",
+        "date": "2024-04",
+        "confidence": "Verified",
+        "source_url": "https://varde.com/varde-partners-and-david-weekley-homes-announce-land-banking-joint-venture/",
+        "source_title": "Värde Partners and David Weekley Homes Announce Land Banking Joint Venture (Värde press release)",
+        "note": "No public link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon was found."
+      }
+    ]
+  },
+  "ma": [],
+  "gaps": [
+    "Lots owned / optioned / total controlled and years of supply: not publicly disclosed (private company, no SEC filings).",
+    "Revolving credit facility and any term loans (size, maturity, agent bank, lenders): not publicly disclosed. A 2013 Pro Builder profile described secured bank lines with several lenders, largely repaid from the 2013 notes; nothing current found.",
+    "Cash, total debt, liquidity, net debt to capital, fiscal year end: not publicly disclosed.",
+    "Credit ratings: current Moody's / S&P ratings not confirmed from an openable source in this run. The only rating seen was a B2 from Moody's at the 2013 issuance (Pro Builder, 2013), which is stale.",
+    "4.875% notes due 2028: indenture terms, trustee, guarantors, call schedule and whether any amount has been repurchased are not public; outstanding amount rests on a third-party bond-data page with no as-of date. No refinancing announcement found as of 2026-11-19.",
+    "Värde land-banking JV: facility size, lot counts, project names and any 2025 or 2026 activity are not publicly disclosed.",
+    "Other land bankers or lot-option financiers (Domain, Millrose, Kennedy Lewis, TPG Angelo Gordon, Essential Housing, IHP Capital, Hearthstone, GTIS): one combined search returned no link. DW Partners, Brookfield, Oaktree, Walton and Forestar were not searched individually because the shared web-search allowance for this run was used up; treat absence as unchecked for those names.",
+    "M&A 2025 to date: no acquisition, sale or merger involving David Weekley Homes was found (one search plus the company's own pages). Search depth was limited by the shared search allowance, so this is 'none found', not 'confirmed none'.",
+    "Ownership / equity capital events: privately held by the Weekley family and (per a 2013 profile) a small group of employee stockholders; no current cap table, ESOP or outside equity investor is public.",
+    "Newer confirmation of the notes in fund-holdings filings: not found. Fund filings were not searched; one Fidelity N-PORT from July 2024 was read.",
+    "Builder (builderonline.com) pages returned 403, including its coverage of the Värde JV and the older Midway land fund."
+  ],
+  "sources_consulted": [
+    "https://varde.com/varde-partners-and-david-weekley-homes-announce-land-banking-joint-venture/",
+    "https://realassets.ipe.com/news/värde-partners-and-david-weekley-create-us-land-banking-partnership/10072594.article",
+    "https://irei.com/news/varde-partners-david-weekley-homes-announce-land-banking-joint-venture",
+    "https://www.tradingview.com/symbols/FINRA-WEEK5043622/",
+    "https://www.sec.gov/Archives/edgar/data/722574/000175272424217998/QTLY_218_20240731.htm",
+    "https://www.prnewswire.com/news-releases/weekley-homes-llc-announces-cash-tender-offers-for-its-6-000-senior-notes-due-2023-and-6-625-senior-notes-due-2025-and-solicitations-of-consents-to-the-related-indentures-301126373.html",
+    "https://ca.marketscreener.com/news/latest/Weekley-Homes-Announces-Acceptance-Of-Tendered-6-000-Senior-Notes-Due-2023-And-6-625-Senior-Notes-31348091/",
+    "https://www.webull.com/news/15341214826914816",
+    "https://www.integritycommunitybuilders.com/",
+    "https://www.probuilder.com/business-management/build-to-rent/article/55217805/texas-builder-and-developer-team-up-for-single-family-rental-neighborhoods",
+    "https://www.probuilder.com/business-management/builder-of-the-year/article/55197132/2013-builder-of-the-year-david-weekley-homes",
+    "https://rejournals.com/avison-young-negotiates-sale-of-165-home-lots-in-georgetown/",
+    "https://www.davidweekleyhomes.com/news/article/david-weekley-homes-closes-on-land-deal-in-gilbert",
+    "https://www.davidweekleyhomes.com/about-us",
+    "https://www.davidweekleyhomes.com/page/working-with-weekley-dallas-ft-worth",
+    "https://houstonagentmagazine.com/2026/03/10/david-weekley-homes-celebrates-50-years/",
+    "https://pubt.io/view/390BB1C9DE7C8BC28A8A45D96F8D4EE5A1FD8BCF"
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "batch": "batch-20261119-1559-016",
+  "rubric_version": "v1.2",
+  "articles": [
+    {
+      "id": "44118f724a91",
+      "summary": "Bisnow reports private-equity owners have been slower than REITs to mark commercial real estate portfolios to market as cap rates rise.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 2,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Commercial-property valuation lag; no bearing on builder land or lot financing.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "c0beeb669ec0",
+      "summary": "Africa Tech Festival 2026 day-two release on South African government efforts to attract digital infrastructure investment.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Unrelated industry and geography; nothing for a US land banker.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "62a618e6c5f7",
+      "summary": "HelloNation advice article in which two Lawton, Oklahoma agents explain what drives a home's resale market value.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap20-consumer",
+      "why_it_matters": "Consumer resale-pricing advice; no builder, land or financing angle.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "e2fe18374499",
+      "summary": "Vanguard says J.D. Power ranked it first for advised-investor satisfaction with investment websites.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap20-consumer",
+      "why_it_matters": "Asset-manager award PR; irrelevant to builder land financing.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "b3623d01173c",
+      "summary": "Global Asset Management Group (OTCQB: GAMG) says its CEO Richard Balles appeared in an IPO Edge fireside chat at Nasdaq MarketSite.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap20-consumer",
+      "why_it_matters": "Promotional release from an unrelated microcap; no land or builder angle.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "80c3d4dca276",
+      "summary": "HelloNation advice article on pricing a home to sell in the Gaylord, Michigan resale market.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap20-consumer",
+      "why_it_matters": "Consumer resale advice; nothing for Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "931588f49f47",
+      "summary": "Dutch-language release: Ondo Stocks launches a tokenized Anthropic share offering 24/7 issuance and redemption from the IPO date.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Crypto-tokenized equity product; unrelated to builder land financing.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "cb7eaa5d0a97",
+      "summary": "PR Newswire correction notice to a Payactiv release about a decentralized-finance initiative for earned-wage access.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Fintech payroll product correction; no relevance to Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "5cacc1608aaf",
+      "summary": "French-language release: Sopra Steria and Scaleway partner to migrate critical applications to European sovereign cloud.",
+      "category": "Other",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "European IT services deal; unrelated industry.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "26739629c7a5",
+      "summary": "The Conference Board's US Leading Economic Index fell 0.3% in October 2026 to 99.3, after holding flat in September.",
+      "category": "Housing market",
+      "source_type": "Press release",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 3,
+        "land_lot_supply": 0,
+        "materiality_actionability": 2
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "A softening macro signal is background for builder demand and land appetite, but nothing Domain can act on.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "0d1abdc7b5c3",
+      "summary": "HousingWire reports fix-and-flip margins narrowed in Q3 as resale prices dipped and costs rose; only 23% of investors expect good sales in the next six months.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 1
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Resale-investor sentiment; at most a faint read on existing-home competition for new-home buyers.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "924dd9619c17",
+      "summary": "HousingWire: October total housing permits fell to a 1.295 million annual rate, down 7.4% from September and 8.7% year over year.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 3,
+        "materiality_actionability": 3
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Falling permits point to builders slowing starts, which can soften near-term lot takedowns under Domain's option contracts.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "0026d72d282a",
+      "summary": "HousingWire: October single-family permits fell 8.7% to a 772,000 annualized rate, the lowest since January 2023, signalling a weaker 2027 building pipeline.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 4,
+        "materiality_actionability": 4
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "A weaker single-family pipeline suggests slower lot takedowns and more cautious land buying by Domain's builder customers into 2027.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "2543d21514c0",
+      "summary": "NAHB Eye on Housing blog on homeownership's role in household wealth accumulation and financial security.",
+      "category": "Housing market",
+      "source_type": "Research",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "General homeownership advocacy; no builder, land or financing content.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "15fdd695ef65",
+      "summary": "Boston City Council voted to eliminate parking minimums for new housing development to cut costs.",
+      "category": "Housing market",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 1,
+        "materiality_actionability": 0
+      },
+      "adjustment": "cap40-generic",
+      "why_it_matters": "Urban multifamily zoning change in a market outside land-banked single-family development.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "ab01b457bea5",
+      "summary": "Bisnow on what Nvidia's leadership change means for neocloud data-center operators such as CoreWeave and Nebius.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Data-center sector story; unrelated to builder land.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "edfc81912cd2",
+      "summary": "New York City's Mamdani administration sued Bronx landlord Barry Singer, arguing unpaid reimbursements to city agencies amount to fraud.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "NYC rental-housing enforcement; no builder or land-finance angle.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "5bef5ebba206",
+      "summary": "Medipower bought a 16-property grocery-anchored shopping-center portfolio in Pennsylvania from Vastgood Properties for $275M, brokered by CBRE.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Retail property trade; irrelevant to Domain.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "cc0f7a498aec",
+      "summary": "The Cerberus-backed SPV behind London's Battersea Glassmill residential tower was put into liquidation after a failed planning bid.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 1,
+        "land_lot_supply": 0,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "UK high-rise development failure; no US builder or land-banking read-through.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    },
+    {
+      "id": "e08b8d688fe3",
+      "summary": "Excavation is starting on East West Partners' 13-acre Cherry Creek West mixed-use redevelopment in Denver, a roughly 10-year build-out.",
+      "category": "Other",
+      "source_type": "Trade press",
+      "subscores": {
+        "land_banking_competitor": 0,
+        "builder_customer": 0,
+        "financing_capital_markets": 0,
+        "land_lot_supply": 1,
+        "materiality_actionability": 0
+      },
+      "adjustment": "none",
+      "why_it_matters": "Urban mixed-use project, not homebuilder lot supply.",
+      "builder_ids": [],
+      "people": [],
+      "competitors": [],
+      "suggested_update": null,
+      "duplicate_of": null,
+      "opened": false
+    }
+  ]
+}

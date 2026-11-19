@@ -1,0 +1,143 @@
+{
+  "builder_id": "san-joaquin-valley-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "SJV Homes is a conventional private for-sale builder whose land and construction have been financed since 2013 through project joint ventures with one capital partner, Presidio Residential Capital of San Diego, which described itself in 2018 as funding 100 percent of SJV Homes' projects and operations and counted 40 joint communities and more than 5,000 homes by mid-2024. The joint venture buys land outright (raw or entitled parcels) and develops it; no land banker, lot-option provider, bank facility or note issue is publicly named for the builder itself, and nothing is filed publicly. Two things have changed in public view since 2024: Presidio has dropped out of the builder's press-release boilerplate (it still appeared in February 2024, not from February 2025 on), yet Presidio principal Paul Lucatuorto is listed as Co-CEO of SJV Homes on the October 2026 team page. Room for a land banker therefore depends on Presidio: it is either the incumbent to displace or, given its own committed capital was a stated $250M across 25-plus projects for all its builders, a partner that could use off-balance-sheet lot capital for a builder closing about 550 homes a year with four more neighborhoods coming from 2027.",
+    "land_strategy": "Owns through joint ventures rather than options: SJV Homes and Presidio Residential Capital close on land together (parcels sized for roughly 30 to 300 homes per community, per Presidio's Central Valley portfolio list, in Tulare, Kings, Kern and Fresno county towns) and develop and build it out in the venture. No stated owned/optioned target and no public mention of lot options or land banking. In February 2024 the company described a pipeline of nine new communities and expansions adding roughly 1,600 homes; in November 2026 it reported 19 active neighborhoods with four more scheduled (Keystone and Northgate in NW Visalia, Estrella and Mirabella in NW Hanford).",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2024-02-27",
+      "confidence": "Reported",
+      "source_url": "https://sjvhomes.com/blog/sungazette2023report/",
+      "source_title": "The Sun-Gazette (reposted on SJV Homes blog): SJV Homes 2023 results and 2024 pipeline",
+      "note": "No owned/optioned lot count is published. Only public pipeline figure: about 1,600 planned homes across named 2024 communities (Porterville, Visalia, Goshen, Sanger, Delano, Dinuba, Hanford), announced 2024-02-27; at roughly 550 closings a year that would have been about three years of supply at the time (our arithmetic, not a company figure). Stale: do not treat as a current lot count."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Presidio Residential Capital",
+        "counterparty_type": "JV partner",
+        "description": "Programmatic joint-venture equity partner since SJV Homes was formed in 2013: Presidio capitalises land purchase, development and build-out project by project. Presidio's June 2024 release counts 40 communities and more than 5,000 homes delivered through the partnership; this is JV ownership of the land, not a lot-option or land-bank structure.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2013",
+        "confidence": "Verified",
+        "source_url": "https://www.presidioresidential.com/wp-content/uploads/2024/06/Presidio-JV-Partners-Builder-100-List-for-2023-WEB.pdf",
+        "source_title": "Presidio Residential Capital press release: JV partners earn recognition on Builder 100 list",
+        "note": "Source dated 2024-06-04. Amount committed to SJV Homes specifically is not disclosed; Presidio's stated committed capital across all its builders was $250M on 25-plus projects (2024). No newer joint announcement was found; see joint_ventures for the 2025-2026 signals."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2024-02-15",
+        "type": "JV",
+        "description": "SJV Homes and Presidio secured land in Goshen (west of Visalia) for two communities, Stonebrook (93 homes) and Granite Hills (75 homes), 168 homes in total; the partnership's first project there.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.presidioresidential.com/wp-content/uploads/2024/02/SJVH-PRC-Release-Stonebrook-and-Granite-Hills-in-Goshen-FINAL.pdf",
+        "source_title": "SJV Homes / Presidio press release: land secured in Tulare County for 168 new homes",
+        "note": "Purchase price and financing not disclosed. Context row (before the 2025-2026 window)."
+      },
+      {
+        "date": "2024-04-16",
+        "type": "JV",
+        "description": "Presidio and SJV Homes bought a 24.75-acre site in north Visalia for Sycamore Ranch (92 homes), described as the partners' 40th community in the valley.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.presidioresidential.com/wp-content/uploads/2024/04/Presidio-News-Release_Sycamore-Ranch-Acquisition_FINAL-4-16-24-update-1.pdf",
+        "source_title": "Presidio press release: land closed for 92 new homes in north Visalia (Sycamore Ranch)",
+        "note": "Purchase price and financing not disclosed. This is the last joint SJV Homes / Presidio land announcement found."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Presidio Residential Capital",
+        "description": "Long-running programmatic JV. 2018 press-release boilerplate said Presidio funds 100 percent of SJV Homes' projects and operations and that Presidio is affiliated with an unnamed privately held registered investment adviser; by April 2024 the partners counted 40 communities. Presidio principal Paul Lucatuorto is listed as Co-CEO of SJV Homes on the builder's team page (modified 2026-10-20).",
+        "date": "2013",
+        "confidence": "Reported",
+        "source_url": "https://www.constructiondive.com/press-release/20180813-san-joaquin-valley-homes-and-presidio-residential-capital-open-sales-at-br/",
+        "source_title": "Press release on Construction Dive: SJV Homes and Presidio open sales at Brighton (2018-08-13)",
+        "note": "The 100 percent funding statement is from 2018 and has not been restated recently. SJV Homes' own boilerplate named Presidio in February 2024 but names only Joe Leal and Randy Merrill from February 2025 through November 2026, and communities opened in 2025-2026 (Andalusia, Blossom Hill, Somerset, Sorrento, Andover Place, Danbury Estates) were announced without a named capital partner. Whether the JV terms, the funding share or ownership changed is not publicly disclosed; the Co-CEO listing argues the relationship continues."
+      },
+      {
+        "partner": "Presidio Residential Capital (lender relationships)",
+        "description": "Presidio's site lists preferred project lenders (Bank of the West/BNP Paribas, First Security Bank, Farmers & Merchants Bank, HomeStreet Bank, Torrey Bank, U.S. Bank), and a Farmers & Merchants Bank testimonial cites more than $100M of loans secured by Presidio projects over two years. None is tied publicly to a specific SJV Homes community.",
+        "date": "",
+        "confidence": "Verified",
+        "source_url": "https://www.presidioresidential.com/business-associates/preferred-lenders/",
+        "source_title": "Presidio Residential Capital: Preferred Lenders page and testimonials page (undated)",
+        "note": "Indicative only: shows that Presidio-funded projects do carry bank project debt; which lenders hold SJV Homes project loans is not publicly disclosed. Testimonial source: https://www.presidioresidential.com/testimonials/"
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None found (private; no public debt identified)",
+      "fiscal_year_end": "",
+      "as_of": "2025-05-01",
+      "confidence": "Verified",
+      "source_url": "https://sjvhomes.com/blog/builder1002024/",
+      "source_title": "SJV Homes press release: No. 97 on the 2025 Builder 100 (552 closings and $245M revenue in 2024)"
+    },
+    "competitor_links": [
+      {
+        "firm": "Presidio Residential Capital",
+        "relationship": "Incumbent land and project capital provider (JV equity, not lot options) since 2013; its principal Paul Lucatuorto is listed as Co-CEO of the builder. Any land-bank proposal to SJV Homes would be decided with, or against, Presidio.",
+        "date": "2026-10-20",
+        "confidence": "Verified",
+        "source_url": "https://sjvhomes.com/our-team/",
+        "source_title": "SJV Homes 'Our Team' page (page last modified 2026-10-20)",
+        "note": "No public link between SJV Homes and Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon appeared in any source opened; a dedicated search for those names could not be run (see gaps)."
+      }
+    ]
+  },
+  "ma": [],
+  "gaps": [
+    "M&A 2025-2026: none found in the company's own news (reviewed back to late 2023) or Presidio's news page; a dedicated web search could not be run because the swarm's search allowance ran out, so absence is not fully confirmed",
+    "Change of ownership 2025-2026: nothing announced. Observed signals only: Presidio principal Paul Lucatuorto listed as Co-CEO (team page, October 2026); co-founder Jim Robinson and Presidio both dropped from company boilerplate between February 2024 and February 2025. Whether equity changed hands is not publicly disclosed",
+    "Whether Presidio Residential Capital (or its principals) owns a stake in the builder itself, as opposed to project-level JV interests: not publicly disclosed",
+    "Presidio's own capital source: described in 2018 only as an affiliated privately held registered investment adviser with more than $2.5B under management; not named in sources opened",
+    "Capital committed by Presidio to SJV Homes, JV economics and promote: not publicly disclosed",
+    "Owned versus optioned lots and current lot supply: not publicly disclosed (only a February 2024 pipeline of about 1,600 planned homes)",
+    "Credit facilities, construction lenders and project loans for SJV Homes communities: not publicly disclosed (private company)",
+    "Financial statements, debt, cash and leverage: not publicly disclosed (private company)",
+    "Capital source for the 2025-2026 communities and the four planned neighborhoods (Keystone, Northgate, Estrella, Mirabella): not named publicly",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none seen; dedicated search not run (search allowance exhausted)",
+    "SEC EDGAR full-text search returned 403 to the declared client, so Form D or other filings by SJV or Presidio entities were not checked",
+    "Opening timing for the four planned neighborhoods conflicts between sources: the November 2026 release says four open in 2027; the site navigation shows late 2027 (Visalia) and summer 2028 (Hanford)"
+  ],
+  "sources_consulted": [
+    "https://www.presidioresidential.com/wp-content/uploads/2024/06/Presidio-JV-Partners-Builder-100-List-for-2023-WEB.pdf",
+    "https://www.presidioresidential.com/wp-content/uploads/2024/04/Presidio-News-Release_Sycamore-Ranch-Acquisition_FINAL-4-16-24-update-1.pdf",
+    "https://www.presidioresidential.com/wp-content/uploads/2024/02/SJVH-PRC-Release-Stonebrook-and-Granite-Hills-in-Goshen-FINAL.pdf",
+    "https://www.constructiondive.com/press-release/20180813-san-joaquin-valley-homes-and-presidio-residential-capital-open-sales-at-br/",
+    "https://sjvhomes.com/our-team/",
+    "https://www.presidioresidential.com/",
+    "https://www.presidioresidential.com/about-us/our-company/",
+    "https://www.presidioresidential.com/about-us/our-team/",
+    "https://www.presidioresidential.com/business-associates/joint-venture-partners/",
+    "https://www.presidioresidential.com/business-associates/preferred-lenders/",
+    "https://www.presidioresidential.com/testimonials/",
+    "https://www.presidioresidential.com/portfolio/central-valley/",
+    "https://www.presidioresidential.com/news-releases/",
+    "https://www.presidioresidential.com/news/media-coverage/",
+    "https://sjvhomes.com/blog/sungazette2023report/",
+    "https://sjvhomes.com/blog/builder1002024/",
+    "https://sjvhomes.com/blog/san-joaquin-valley-homes-closes-on-4-500th-home/",
+    "https://sjvhomes.com/blog/sorrentoatdellago/",
+    "https://sjvhomes.com/blog/sangergo/",
+    "https://sjvhomes.com/blog/sungazetteandalusia/",
+    "https://sjvhomes.com/blog/san-joaquin-valley-homes-announces-grand-opening-of-andover-place-and-danbury-estates-in-visalia/",
+    "https://sjvhomes.com/blog/san-joaquin-valley-homes-celebrates-closing-of-5500th-home/",
+    "https://prnewswire.com/news-releases/san-joaquin-valley-homes-and-presidio-residential-capital-acquire-land-for-new-home-community-in-visalia-calif-301102030.html",
+    "https://prnewswire.com/news-releases/san-joaquin-valley-homes-and-presidio-residential-capital-close-on-new-development-in-hanford-calif-301177996.html",
+    "https://thebusinessjournal.com/san-joaquin-valley-homes-cuts-homeowner-a-check-to-celebrate-4500th-home"
+  ]
+}

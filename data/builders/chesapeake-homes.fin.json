@@ -1,0 +1,111 @@
+{
+  "builder_id": "chesapeake-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Chesapeake Homes is a conventional for-sale builder: a private subsidiary of the Sandler family's L.M. Sandler & Sons, Inc. (Builder 100 rank 90; 631 closings and about $308M revenue in 2025). It has no public debt or SEC filings. Land comes mostly through a sister company, Wakefield Development, also owned by L.M. Sandler & Sons, which buys, entitles and develops lots across VA, NC, SC, MD, DE and GA, and has worked on other projects as a silent or side-by-side partner. The parent says it relies on 'long-standing banking and equity partnerships' and in-house capital, but no lender, facility or land banker is named publicly. A March 2026 posting for a Mid-Atlantic Land Acquisition Executive mentions options, joint ventures, takedowns, capital deployment with finance, and presentations to investment committees. That points to a growing, more structured land program, which makes it a plausible but unproven land-banking prospect. The likely contacts are Wakefield's project-finance/land lead, Clark Hetzler, and the owner Steve Sandler.",
+    "land_strategy": "Family vertical integration: the affiliated developer Wakefield Development acquires and develops land, and Chesapeake Homes builds on the finished lots. Wakefield's community list overlaps with Chesapeake communities such as River Club, Bridgewater, Coastal Club of the Carolinas, Traditions at Carolina Forest, Highgate and Ashville Park. No owned-versus-optioned framing or target is published. A 2026 land-acquisition job posting lists options, JVs and takedown structures among the deal types it handles.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-11-19",
+      "confidence": "Inferred",
+      "source_url": "https://www.cheshomes.com/sitemap.xml",
+      "source_title": "Chesapeake Homes sitemap / community menus (live 2026-11-19)",
+      "note": "No lot count is published. Public proxy: the live site shows about 21 active communities (Coastal VA 9 incl. River Club's 2 collections; Raleigh/Triangle 4; Coastal NC 3-4; Coastal SC 6-7), and the sitemap lists community pages in 25 towns across VA, NC and SC. Wakefield Development's team bios cite individual projects of up to 1,500 lots."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Wakefield Development (subsidiary of L.M. Sandler & Sons)",
+        "counterparty_type": "Affiliate",
+        "description": "Sister land-development company under the same family parent. It acquires, entitles and develops the master-planned communities and subdivisions that Chesapeake Homes builds in, and its team includes land-acquisition, project-finance and land-development staff. Lot-transfer terms between the two (takedown or option pricing) are not public.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026",
+        "confidence": "Verified",
+        "source_url": "https://www.wakefielddev.com/about-us/",
+        "source_title": "Wakefield Development - About Us (L.M. Sandler & Sons)",
+        "note": "Ownership link also confirmed on the Chesapeake Homes blog (2024-09-05), which lists Wakefield Development among the L.M. Sandler & Sons businesses. Community overlap confirmed on https://www.wakefielddev.com/communities/."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-03-15",
+        "type": "Other",
+        "description": "Chesapeake Homes advertised a new Land Acquisition Executive for the Mid-Atlantic, based in Virginia Beach and paying $170K to $230K. The role covers land sourcing, underwriting and acquisition in VA, NC and nearby markets, uses options, JVs and takedowns, works with finance on capital deployment, and presents to investment committees. The posting closed 2026-04-28 and the hire is not public.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.career.com/job/chesapeake-homes/land-acquisition-executive/j202512281356355285692",
+        "source_title": "career.com: Chesapeake Homes - Land Acquisition Executive (Mid Atlantic Region)",
+        "note": "Third-party job board copy of the posting; the application email domain (redcedarco.com) belongs to Red Cedar, an unrelated-looking Charlotte BTR firm. The link is unexplained, and no ownership tie was found on Red Cedar's site."
+      },
+      {
+        "date": "2026-02-26",
+        "type": "Other",
+        "description": "Wakefield Development, the land-development affiliate, advertised a Land Acquisition Manager for Hampton Roads and northeastern NC (Moyock, Albemarle). The role presents deals to 'investors, lenders, and municipal stakeholders'. The posting closed 2026-03-25.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.career.com/job/chesapeake-homes/land-acquisition-manager/j202511070752057339713",
+        "source_title": "career.com: Land Acquisition Manager, Wakefield Development (listed under Chesapeake Homes)",
+        "note": "The posting describes Wakefield as a subsidiary of L.M. Sandler & Sons."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Third-party landowners and developers (unnamed)",
+        "description": "Wakefield Development says it has joined projects along the East Coast as a silent partner, a side-by-side partner and a land-development partner, and will take over stalled projects. No specific JV partner or deal is named.",
+        "date": "2026",
+        "confidence": "Verified",
+        "source_url": "https://www.wakefielddev.com/opportunities/",
+        "source_title": "Wakefield Development - Opportunities",
+        "note": "Generic capability statement, not a specific JV."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://web.archive.org/web/20260721211014/https://www.builderonline.com/firms/chesapeake-homes/",
+      "source_title": "Builder magazine firm page: Chesapeake Homes (2026 Builder 100)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Credit facilities, construction lenders and land lenders: not publicly disclosed (private company; parent cites unnamed 'long-standing banking and equity partnerships')",
+    "Owned vs optioned lots, total lots controlled, years supply: not publicly disclosed",
+    "Land-banking or lot-option counterparties (Domain, Millrose, Kennedy Lewis, TPG Angelo Gordon or others): none found in public sources",
+    "Lot transfer terms between Wakefield Development and Chesapeake Homes: not publicly disclosed",
+    "Parent (L.M. Sandler & Sons) financials and any equity partners: not publicly disclosed",
+    "No SEC filings: EDGAR company search returns no match for Chesapeake Homes or Wakefield Development",
+    "UCC / lien records (VA SCC, NC SOS, SC SOS): not checked (NC SOS behind a bot check)",
+    "M&A 2025-2026: no acquisitions, sales or mergers found for Chesapeake Homes or L.M. Sandler & Sons",
+    "Mortgage: the site's preferred lender is Atlantic Coast Mortgage (customer mortgages, not company financing); a 2024 company blog also lists 'Tidewater Mortgage' among the Sandler businesses, so the captive mortgage arrangement is unclear"
+  ],
+  "sources_consulted": [
+    "https://www.cheshomes.com/sitemap.xml",
+    "https://www.cheshomes.com/financing-your-home/",
+    "https://www.cheshomes.com/blog/national-virginia-day-the-origins-of-chesapeake-homes-in-va/",
+    "https://www.wakefielddev.com/about-us/",
+    "https://www.wakefielddev.com/communities/",
+    "https://www.wakefielddev.com/opportunities/",
+    "https://www.wakefielddev.com/team/",
+    "https://web.archive.org/web/20260721211014/https://www.builderonline.com/firms/chesapeake-homes/",
+    "https://www.career.com/job/chesapeake-homes/land-acquisition-executive/j202512281356355285692",
+    "https://www.career.com/job/chesapeake-homes/land-acquisition-manager/j202511070752057339713",
+    "https://career.com/job/chesapeake-homes/division-manager/j202504071349202731060",
+    "https://www.bbb.org/us/va/virginia-beach/profile/home-builders/chesapeake-homes-0583-40001693/details",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=chesapeake+homes",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=wakefield+development",
+    "https://www.redcedarco.com/about/news/"
+  ]
+}

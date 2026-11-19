@@ -1,0 +1,73 @@
+{
+  "builder_id": "bbl-building-co",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Not a conventional for-sale homebuilder and not a plausible direct land-banking customer. BBL Building Company is a general contractor: its developer clients own or control the land and arrange the construction financing, and BBL is paid under construction contracts, so it carries no public lot position, land debt or lot-option arrangement. It is privately held within the Bette family's group of companies in Latham, NY, with no SEC filings, public debt or rated instruments found; bank lines and surety arrangements are not disclosed. For a land banker the opening is indirect: the build-to-rent developers it builds for (NexMetro, Advenir Oakley, Coastal Ridge, Urban Moment, Red River Development, Marquesa Capital Partners) are the parties that hold land and need capital, and BBL's leadership knows their pipelines.",
+    "land_strategy": "Owns no land in its own framing: the company describes itself as a 100% turnkey general contractor serving developers, and every build-to-rent project page opened lists a third-party client and 'General Contractor' as the delivery method. Site development (grading, utilities, roads) is done for the client as part of the contract.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://bblbuildingco.com/markets/build-to-rent/",
+      "source_title": "BBL Building Company: Build-to-Rent market page",
+      "note": "No lot counts are published and none are expected: as a contract builder the company does not report owned or optioned lots. Activity measures instead: 8,000+ BTR units in 40+ communities to date (company site), 1,560 rental units and about $335.8M revenue or value in 2025 (Pro Builder 2026 Top 200, built-to-rent table)."
+    },
+    "land_banking": [],
+    "debt": [],
+    "capital_events": [],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.probuilder.com/top-200/article/55382455/the-pro-builder-2026-top-200built-to-rent-top-25",
+      "source_title": "Pro Builder 2026 Top 200: Built-to-Rent Top 25 (no balance-sheet data public; 2025 BTR revenue or value $335.8M, 1,560 units)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Not a conventional for-sale homebuilder: a general contractor for build-to-rent, multifamily and commercial developers. No owned or optioned lots are public, and none are expected.",
+    "Land banker, lot-option or capital partner: none found; the business model does not use one. Land and project capital sit with its developer clients.",
+    "Credit facilities, bank lenders, surety provider, debt and cash: not publicly disclosed (private family company, no SEC filings found).",
+    "Parent-company funding: the company is part of the Bette Companies (Latham, NY) and uses the group's Latham office as its Texas franchise-tax mailing address; any intercompany funding or guarantees are not publicly disclosed.",
+    "Joint ventures: none found. Whether the Bette family's development affiliate First Columbia takes equity in any project BBL builds is not public; First Columbia's site shows New York commercial, campus and senior-housing work, not build-to-rent land.",
+    "M&A 2025 to 2026: none found in the searches run. The swarm's shared web-search allowance ran out before a dedicated competitor-link search (Millrose, Kennedy Lewis, TPG Angelo Gordon, Domain) could be run; no link appeared in any source opened.",
+    "Client-level financing (who funds NexMetro, Advenir Oakley, Coastal Ridge and the other developers' land) was not researched here; it belongs to those developers, not to this builder.",
+    "2025 revenue is from Pro Builder's built-to-rent table (revenue or fair market value of rental completions), not audited financials; Builder 100 shows no revenue for the company."
+  ],
+  "sources_consulted": [
+    "https://bblbuildingco.com/",
+    "https://bblbuildingco.com/about/",
+    "https://bblbuildingco.com/markets/build-to-rent/",
+    "https://bblbuildingco.com/portfolio/",
+    "https://bblbuildingco.com/why-bbl/",
+    "https://bblbuildingco.com/project/avilla-railhead/",
+    "https://bblbuildingco.com/project/leo-at-cypress-creek/",
+    "https://bblbuildingco.com/project/leo-at-port-wentworth/",
+    "https://bblbuildingco.com/project/stillwell-at-pasco-station/",
+    "https://bblbuildingco.com/project/stillwell-at-avery-centre/",
+    "https://bblbuildingco.com/project/yardhomes-at-rowlett-creek/",
+    "https://bblbuildingco.com/project/cottages-at-jenks/",
+    "https://bblbuildingco.com/project/village-at-tara-ridge/",
+    "https://bblbuildingco.com/project/villas-at-gulf-coast/",
+    "https://bblbuildingco.com/project/villas-at-venice/",
+    "https://comptroller.texas.gov/data-search/franchise-tax/32061314848",
+    "https://bettecring.com/about-us/history/",
+    "https://www.firstcolumbia.com/",
+    "https://www.bisnow.com/national/news/build-to-rent/build-to-rent-homes-are-on-the-rise-in-the-south-what-developers-need-to-know-131967",
+    "https://informaconnect.com/imn-btr-fall/sponsors/bbl-building-company/",
+    "https://www.probuilder.com/top-200/article/55382455/the-pro-builder-2026-top-200built-to-rent-top-25",
+    "https://www.enr.com/toplists/2026-Top-400-Contractors-3"
+  ]
+}

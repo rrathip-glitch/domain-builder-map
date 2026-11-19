@@ -1,0 +1,160 @@
+{
+  "builder_id": "edge-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Edge Homes is a consolidated subsidiary of Sumitomo Forestry (Japan), not a stand-alone private borrower, and publishes no financing of its own: no credit facility, lender, land banker or lot count is public at the Edge level. Funding context is the parent, which carried JPY 1,659.7 billion of interest-bearing debt at 30 September 2026 after buying Tri Pointe Homes with bank bridge financing, and which says about JPY 260 billion of that bridge still has to be moved to permanent financing. Sumitomo Forestry states that its U.S. builders are using option contracts to cut the financial burden of land: across the U.S. group 39,261 of 106,415 lots (about 37%) were under option at September 2026, and 23,500 of 73,971 (about 32%) for the five pre-Tri Pointe builders that include Edge. For a land banker this is a plausible but parent-gated customer: Edge runs its own acquisition and entitlement team and buys land outright on entitlement-contingent contracts, while the parent has both a stated push toward optioned lots and leverage that rose sharply with the Tri Pointe deal (net D/E about 1.4x at September 2026).",
+    "land_strategy": "Mixed, leaning owned. Edge sources and entitles its own land (VP of Land Acquisition plus VP of Land Entitlement) and contracts to buy sites conditional on rezoning: Taylorsville's 2026 ordinances for the 16.5-acre, 316-unit Solstice at 54th only take effect once Edge Homes Utah, LLC closes on the property. The parent's stated U.S. policy is to restrain spec starts and acquire more land through option contracts to reduce financial burden; no Edge-specific owned/optioned target is published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_fact_en.pdf",
+      "source_title": "Sumitomo Forestry Financial Factbook, 3Q FY12/2026 (2026-11-05)",
+      "note": "Edge-level lots are not disclosed, so the fields are left null. Parent U.S. housing group at 2026-09-30: 106,415 lots, of which 67,154 purchased and 39,261 under purchase contract (option). Excluding Tri Pointe (five existing builders incl. Edge): 73,971 total, 50,471 purchased, 23,500 under contract, the optioned count down 23.7% year on year. At 2025-12-31 (before Tri Pointe): 79,565 total, 50,894 purchased, 28,671 under contract."
+    },
+    "land_banking": [],
+    "debt": [
+      {
+        "instrument": "Parent level: Sumitomo Forestry bank bridge financing for the Tri Pointe Homes acquisition (about JPY 260 billion still to be refinanced)",
+        "type": "Term loan",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "Banks (not named)",
+        "status": "Outstanding",
+        "as_of": "2026-11-05",
+        "confidence": "Verified",
+        "source_url": "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_qanda_en.pdf",
+        "source_title": "Sumitomo Forestry 3Q FY12/2026 results conference call Q&A (2026-11-05)",
+        "note": "Not Edge Homes debt. Parent says the remaining JPY 260 billion will be refinanced with borrowings and bonds, with foreign-currency (dollar) funding a key consideration. The Integrated Report 2026 says the bridge is to be refinanced within about one year of the May 2026 closing, possibly including subordinated (hybrid) bonds, with no common-share dilution."
+      },
+      {
+        "instrument": "Parent level: Sumitomo Forestry consolidated interest-bearing debt, JPY 1,659.7 billion (short-term borrowings 509.0, long-term borrowings 709.0, bonds 395.8, leases 45.9)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-09-30",
+        "confidence": "Verified",
+        "source_url": "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_forecast_en.pdf",
+        "source_title": "Sumitomo Forestry FY12/2026 Third Quarter Financial Results and Full-Year Forecast (2026-11-05), balance sheet slide",
+        "note": "Not Edge Homes debt; amounts are in yen so principal_usd_m is null. Up from JPY 769.5 billion at 2025-12-31 because of the Tri Pointe acquisition and its consolidation. No Edge-level facility is public."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026-05-14",
+        "type": "Other",
+        "description": "Parent Sumitomo Forestry closed its purchase of Tri Pointe Homes at USD 47.00 per share, funded with bank bridge financing; Tri Pointe became a wholly owned subsidiary of Sumitomo Forestry America, Inc., the same holding company that owns Edge.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/0001561680/000119312526222960/d317054dex991.htm",
+        "source_title": "Tri Pointe Homes Form 8-K exhibit 99.1: Sumitomo Forestry Completes Acquisition of Tri Pointe Homes (2026-05-14)",
+        "note": "Total deal value (about USD 4.5 billion in press coverage) was seen only in search snippets, so amount is left null."
+      },
+      {
+        "date": "2026-09-30",
+        "type": "Debt issuance",
+        "description": "Parent bonds payable rose from JPY 70.3 billion at December 2025 to JPY 395.8 billion at September 2026; the parent attributes the rise in interest-bearing debt to financing the Tri Pointe acquisition and consolidating Tri Pointe.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_forecast_en.pdf",
+        "source_title": "Sumitomo Forestry FY12/2026 Third Quarter Financial Results and Full-Year Forecast (2026-11-05), balance sheet slide",
+        "note": "Parent level, yen-denominated balance-sheet change; individual bond series not broken out in the slide, and the split between new parent bonds and Tri Pointe notes brought onto the balance sheet is not given."
+      },
+      {
+        "date": "2026-09-16",
+        "type": "Other",
+        "description": "Land pipeline: Taylorsville City Council considered ordinances 26-10 to 26-13 (general plan, zoning and development agreement) for Edge's 16.5-acre Solstice at 54th, 316 for-sale townhomes and condos; each ordinance takes effect only if Edge Homes Utah, LLC closes on the land purchase.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.utah.gov/pmn/files/1487903.pdf",
+        "source_title": "Taylorsville City Council agenda summary and draft Development Agreement, Solstice at 54th (2026-09-16)",
+        "note": "Shows how Edge controls land before closing (purchase contract contingent on entitlement, no third-party land banker named). Final council vote and closing not confirmed."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "December 31",
+      "as_of": "2026-09-30",
+      "confidence": "Verified",
+      "source_url": "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_qanda_en.pdf",
+      "source_title": "Sumitomo Forestry 3Q FY12/2026 Q&A (parent level: equity ratio 29.2%, net D/E about 1.4x at 2026-09-30; Edge-level metrics not disclosed)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2026-05-14",
+      "role": "Acquirer",
+      "counterparty": "Tri Pointe Homes, Inc.",
+      "description": "The acquirer is Edge's parent, not Edge: Sumitomo Forestry completed its purchase of Tri Pointe Homes at USD 47.00 per share (agreed February 2026), making it a wholly owned subsidiary of Sumitomo Forestry America, Inc. alongside Edge, DRB, Bloomfield, MainVue and Southern Impression.",
+      "status": "Closed",
+      "after_ranking": true,
+      "map_impact": "Edge gains a sister builder inside its own market: Sumitomo Forestry's 2026 Integrated Report shows one state served by both Edge Homes Group and Tri Pointe, which, because Edge builds only in Utah, is Utah. Edge's ranking row is unchanged for now, but the parent has a precedent of merging group builders (it folded Brightland into DRB in 2025), and land and financing decisions for Utah may shift toward a combined group view. The parent group now controls about 106,000 U.S. lots and is a much larger potential counterparty than Edge alone.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001561680/000119312526222960/d317054dex991.htm",
+      "source_title": "Tri Pointe Homes Form 8-K exhibit 99.1: Sumitomo Forestry Completes Acquisition of Tri Pointe Homes (2026-05-14)",
+      "note": "Closing date is right around the May 2026 Builder 100 publication; flagged after_ranking because the 2026 list still ranks Tri Pointe and Edge separately. Utah overlap read from the report's map legend ('Edge Homes Group + TPH'); also confirmed in sfc.jp/english/ir/library/pdf/TriPointeHomes.pdf that the deal completed in May 2026. Checked 2026-11-19: the cited release confirms the May 14, 2026 closing, the USD 47.00 price and that Tri Pointe joins Sumitomo Forestry America alongside the group's \"existing five U.S. homebuilders\", but it does not name those five, the February 2026 signing, the 106,000-lot group total or the Utah overlap; those come from the Integrated Report and were not re-opened in this check."
+    },
+    {
+      "date": "2017-02",
+      "role": "Target",
+      "counterparty": "Sumitomo Forestry Co., Ltd. (through Sumitomo Forestry America, Inc.)",
+      "description": "Background, outside the 2025-2026 window: Sumitomo Forestry resolved on 2017-01-31 to buy 70% of the newly formed Edge Utah HoldCo, LLC for USD 63 million (subject to a price adjustment), making Edge a consolidated subsidiary. Sellers were one investor (57.7% before the deal) and five management holding companies (42.3%).",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "This is why Edge is not an independent private builder: ownership and group funding run through Sumitomo Forestry. At the time Edge was based in Orem, UT, with 740 closings and USD 234 million of sales in 2015.",
+      "confidence": "Verified",
+      "source_url": "https://sfc.jp/information/news/2017/2017-01-31.html",
+      "source_title": "Sumitomo Forestry news release (Japanese): notice of acquisition of equity in the U.S. Edge Homes Group, 2017-01-31",
+      "note": "Source is the announcement; the notice gave February 2017 as the planned closing, and Edge appears as a group company on Sumitomo Forestry's current site, so status is recorded as Closed. Whether Sumitomo has since bought the remaining 30% is not confirmed."
+    }
+  ],
+  "gaps": [
+    "Edge-level credit facility, lenders, construction or land loans: not publicly disclosed (consolidated subsidiary of Sumitomo Forestry; no SEC filings, no rated debt)",
+    "Edge-level lot counts (owned, optioned, years of supply): not publicly disclosed; only parent U.S. group totals are published",
+    "Named land banker, lot-option partner or developer take-down agreements for Edge: none found in public sources",
+    "Any link between Edge and Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found; the shared WebSearch allowance ran out before a dedicated query on those names could be run, so this is a thin negative",
+    "Whether Sumitomo Forestry funds Edge by intercompany loans, guarantees of local bank lines, or equity: not publicly disclosed",
+    "Current Sumitomo Forestry ownership percentage of Edge (70% in 2017): not confirmed",
+    "Sumitomo Forestry credit ratings and individual bond series: not captured in this run",
+    "Edge-only 2025-2026 M&A: none found; outcome of the Taylorsville Solstice at 54th vote and land closing not confirmed",
+    "Builder (builderonline.com) pages on Edge returned 403 and were not used"
+  ],
+  "sources_consulted": [
+    "https://sfc.jp/information/news/2017/2017-01-31.html",
+    "https://sfc.jp/english/business/overseashousing/america/",
+    "https://sfc.jp/english/business/group.html",
+    "https://sfc.jp/english/ir/library/pdf/ar2026eng.pdf",
+    "https://sfc.jp/english/ir/library/pdf/TriPointeHomes.pdf",
+    "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_fact_en.pdf",
+    "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_forecast_en.pdf",
+    "https://sfc.jp/english/ir/library/statements/pdf/2026_3q_qanda_en.pdf",
+    "https://sfc.jp/english/ir/library/statements/pdf/strategy2025_4q.pdf",
+    "https://sfc.jp/english/corporate/officers/",
+    "https://www.sec.gov/Archives/edgar/data/0001561680/000119312526222960/d317054dex991.htm",
+    "https://www.utah.gov/pmn/files/1487903.pdf",
+    "https://www.utah.gov/pmn/files/1460505.pdf",
+    "https://www.utah.gov/pmn/files/1471652.pdf",
+    "https://www.utah.gov/pmn/files/1481285.pdf",
+    "https://www.utah.gov/pmn/files/1485229.pdf",
+    "https://www.edgehomes.com/directory/",
+    "https://www.edgehomes.com/about-us",
+    "https://www.edgehomes.com/contact-us/land-deals/"
+  ]
+}

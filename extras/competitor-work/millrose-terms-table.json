@@ -1,0 +1,260 @@
+{
+  "title": "Millrose pricing and terms: Lennar versus everyone else",
+  "subtitle": "What Millrose charges, what it holds as protection and what it lets the builder do, from its SEC filings and earnings calls. Lennar pays 8.5%; other builders pay about 10.8% with floors near 10% and deposits near 10%.",
+  "is_estimate": false,
+  "method": "Every cell restates a fact row in the Millrose profile (data/competitors/millrose-properties.json); open that profile for the full wording and dates. Lennar terms come from the filed Master Program, Master Option and Founder's Rights agreements; terms for other builders are only disclosed in aggregate, through investor decks and earnings calls, so those cells are thinner and several are tagged Reported (free transcript copies of the calls). The Confidence column is the weaker tag of the two sources on the row. The \"How to read it\" column is ours: any arithmetic there is labelled and uses only numbers in the same row. Millrose does not publish rates, deposits or pool terms by named builder.",
+  "columns": [
+    {
+      "key": "item",
+      "label": "Term",
+      "type": "text"
+    },
+    {
+      "key": "lennar",
+      "label": "Lennar Master Program",
+      "type": "text"
+    },
+    {
+      "key": "others",
+      "label": "Other builders",
+      "type": "text"
+    },
+    {
+      "key": "as_of",
+      "label": "As of",
+      "type": "date"
+    },
+    {
+      "key": "read",
+      "label": "How to read it (ours)",
+      "type": "text"
+    },
+    {
+      "key": "confidence",
+      "label": "Confidence",
+      "type": "confidence"
+    },
+    {
+      "key": "source_url",
+      "label": "Source",
+      "type": "url"
+    },
+    {
+      "key": "source_url_2",
+      "label": "Second source",
+      "type": "url"
+    }
+  ],
+  "rows": [
+    {
+      "item": "Yield today",
+      "lennar": "8.5% on $5,874M invested (63.5% of the book)",
+      "others": "10.8% on $3,371M (36.5%), including the 12% Dream Finders preferred. Blended 9.3% on $9,245M",
+      "as_of": "2026-09-30",
+      "read": "The 230bp gap between Lennar and everyone else is the price of the founder relationship.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Yield trend",
+      "lennar": "Flat at 8.5% every quarter since the spin",
+      "others": "11.7% (Mar 2025) > 11.4% > 11.3% > 11.0% (Dec 2025) > 10.7% (Mar 2026) > 10.6% (Jun) > 10.8% (Sep); management guides to about 11% in Q4 2026",
+      "as_of": "2026-09-30",
+      "read": "The premium over Lennar narrowed from about 320bp to about 230bp in 18 months as the book grew. Management blames lower SOFR and a tilt to stronger builders, not spread cuts. Compiled by us from the quarterly releases.",
+      "confidence": "Inferred",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526073913/ck0002017206-ex99_1.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm"
+    },
+    {
+      "item": "How independent is \"Other Agreements\"",
+      "lennar": "Lennar Master Program: $484.8M of 2025 option fees (85%)",
+      "others": "Lennar-related ventures paid about $16.7M more, and about $303M of 12% paid-in-kind development loans in the bucket were Lennar related-party balances (Sep 2025). Builders independent of Lennar paid $69.4M, 12% of 2025 option fees",
+      "as_of": "2025-12-31",
+      "read": "The headline \"36% outside Lennar\" overstates the independent book; through 2025 roughly nine-tenths of fee income was Lennar or Lennar-related.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000201720626000002/ck0002017206-20251231.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525248748/R38.htm"
+    },
+    {
+      "item": "How the rate is set",
+      "lennar": "Seed assets: fixed 8.5%. New Lennar deals: 3-year BBB bond index + 4.00% +/- a rating adjustment, floor 7%, cap 10%, then fixed for the project's life",
+      "others": "Mostly floating with a floor. Deck (Feb 2025): SOFR + 600 to 900bp. Calls (2026): floors average about 10% and sit 50 to 200bp under the current rate",
+      "as_of": "2026-05-06",
+      "read": "Floors near 10% mean non-Lennar yields cannot fall far even if SOFR does.",
+      "confidence": "Reported",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+      "source_url_2": "https://stockanalysis.com/stocks/mrp/transcripts/571835-q1-2026/"
+    },
+    {
+      "item": "Target pricing by builder type (Millrose deck, Feb 2025)",
+      "lennar": "8.5% fixed, 5% initial deposit",
+      "others": "\"Strategic\" builders: 9 to 12% with about a 10% deposit. \"Third-party\" builders: 10 to 13% with a 10 to 20% deposit. Deals of $10M to $100M, 6 to 60 months",
+      "as_of": "2025-02-24",
+      "read": "Management estimates at launch. First $250M outside Lennar closed above 11% (March 2025).",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525032713/d866617dex991.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Deposit",
+      "lennar": "5% of projected land and development cost up front, plus up to 5% more that Millrose can call or that falls due on walk-away",
+      "others": "About 10% today, versus roughly 20 to 25% historically for land banking (CEO, Q2 2026 call)",
+      "as_of": "2026-08-04",
+      "read": "Millrose trades deposit for pooling. Book-wide, builder deposits were $1,003M against $9,902M of homesites under option, about 10%.",
+      "confidence": "Reported",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+      "source_url_2": "https://stockanalysis.com/stocks/mrp/transcripts/661453-q2-2026/"
+    },
+    {
+      "item": "Takedown price",
+      "lennar": "Land cost plus the pre-set development budget. No premium or escalator: the option fee is the whole return",
+      "others": "Not disclosed",
+      "as_of": "2025-03-31",
+      "read": "",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Walk-away cost and cross-termination",
+      "lennar": "Forfeit the 5%, owe the rest of the additional 5%, finish horizontal work in the pool, and Millrose may cancel the options on every other property in that pool. Lennar's money at risk is capped at $50M per seed pool and $25M per new pool; 30 pools averaging 29 properties",
+      "others": "95 to 96% of all invested capital is in cross-termination pools (2026 calls). The prospectus warns pooling \"is not guaranteed\" for other customers",
+      "as_of": "2026-02-26",
+      "read": "The cap means abandoning a whole Lennar seed pool of roughly $500M of takedown value costs at most $50M (our arithmetic: cap / 10%).",
+      "confidence": "Reported",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+      "source_url_2": "https://stockanalysis.com/stocks/mrp/transcripts/402308-q4-2025/"
+    },
+    {
+      "item": "Missed payment or no takedown",
+      "lennar": "Not a default: the option simply ends. Millrose keeps the option money and can claim direct damages but cannot force a purchase",
+      "others": "Not disclosed",
+      "as_of": "2025-02-07",
+      "read": "",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Builder flexibility",
+      "lennar": "Up to four quarterly takedown extensions with no stated fee; up to two six-month pauses per property at half rate (trigger: 10% local home-price fall, or Lennar's discretion under the Founder's Rights Agreement); can accelerate up to 50% of a pool",
+      "others": "Not disclosed",
+      "as_of": "2025-02-07",
+      "read": "A pause halves Millrose's income on that property for up to a year (two with consent).",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex106.htm"
+    },
+    {
+      "item": "Most-favoured rate",
+      "lennar": "If Millrose gives any other builder a lower rate, Lennar can take that rate on its new deals for the next 180 days",
+      "others": "n/a",
+      "as_of": "2025-02-07",
+      "read": "Every cheap deal Millrose writes for a third party can reprice Lennar's forward flow. This puts a soft floor under its third-party pricing.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Development funding and overruns",
+      "lennar": "Millrose funds horizontal work up to a fixed contract sum; Lennar builds it, bears every dollar of overrun, and backs it with an unlimited parent guaranty",
+      "others": "Individually negotiated through separate subsidiaries; \"may resemble traditional land banking\". No Lennar-style parent guaranty disclosed",
+      "as_of": "2025-03-31",
+      "read": "",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441d8k.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525068773/d931976d10k.htm"
+    },
+    {
+      "item": "Remaining life",
+      "lennar": "3.8 years",
+      "others": "2.4 years (total book 3.3 years)",
+      "as_of": "2026-09-30",
+      "read": "",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Lennar's call on Millrose capital",
+      "lennar": "From 2026-03-01 Lennar can reserve capital each quarter: its recycled capital plus 25% of new non-revolver debt and equity raised beyond the first $2B. While capital is reserved Millrose must buy any Lennar deal that meets the criteria",
+      "others": "What Lennar does not reserve is available to others",
+      "as_of": "2025-02-07",
+      "read": "Third-party builders are second in line for Millrose capital by contract.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex102.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Concentration limits",
+      "lennar": "No more than 40% of committed capital in one state. No debt beyond 1:1 debt-to-equity without Lennar's consent",
+      "others": "No per-builder limit disclosed. Lennar is 63.5% of invested capital (about 58% pro forma for Dream Finders)",
+      "as_of": "2026-09-30",
+      "read": "",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex105.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm"
+    },
+    {
+      "item": "Builder M&A financed",
+      "lennar": "Rausch Coleman for Lennar (Feb 2025): $900M of land, 25,000 homesites",
+      "others": "Landsea for New Home Co (May 2025): $700M, 4,186 homesites. Beazer for Dream Finders (Oct 2026): $580M of land on about 7,000 homesites plus a $488M preferred",
+      "as_of": "2026-10-27",
+      "read": "Three of the largest builder deals of 2025 to 2026 used Millrose as the land buyer.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+      "source_url_2": ""
+    },
+    {
+      "item": "Dream Finders package (Oct 2026)",
+      "lennar": "n/a",
+      "others": "Land bank: $580M net of deposits, about 2.5-year life, $8.0M commitment fee. Preferred: 12% cumulative, perpetual, callable by Dream Finders from year 3, convertible by Millrose from year 6, $5.25M commitment fee",
+      "as_of": "2026-10-20",
+      "read": "First time Millrose paired a land bank with corporate capital. Commitment fees are about 1.4% of the land and about 1.05% of the $500M preferred (our arithmetic).",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R11.htm"
+    },
+    {
+      "item": "Performance since inception",
+      "lennar": "No terminations, forfeitures, delinquencies or defaults reported",
+      "others": "Same. Management says no customer has asked to renegotiate (Q3 2026 call)",
+      "as_of": "2026-09-30",
+      "read": "",
+      "confidence": "Reported",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R13.htm",
+      "source_url_2": "https://stockanalysis.com/stocks/mrp/transcripts/723785-q3-2026/"
+    },
+    {
+      "item": "Cost of debt against yield",
+      "lennar": "Spread of about 230bp on Lennar capital (8.5% yield less about 6.2% blended debt cost); only 175 to 200bp against the new 6.50 to 6.75% bonds",
+      "others": "About 460bp (10.8% less about 6.2%). The 12% Dream Finders preferred, funded with 6.50 to 6.75% bonds, carries about 525 to 550bp gross",
+      "as_of": "2026-09-30",
+      "read": "Our estimate: Millrose does not state a weighted cost of debt. Inputs are its four bond coupons and SOFR + 1.75 to 2.25% bank debt, shown in the profile.",
+      "confidence": "Inferred",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526447297/R20.htm"
+    },
+    {
+      "item": "Leverage and covenants",
+      "lennar": "n/a",
+      "others": "Debt-to-capitalization 36% at 2026-09-30, above the 33% maximum it stated through Q1 2026 (no target stated since). Bank covenant: net debt / capital up to 0.45x (0.50x after a large acquisition), interest cover 1.5x, tangible net worth $4.39B. No single-builder concentration cap found in the bank or bond documents",
+      "as_of": "2026-09-30",
+      "read": "With no equity below book and 100% AFFO payout, new non-Lennar growth has to come from takedown recycling or covenant headroom.",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526127640/d68102dex101.htm"
+    },
+    {
+      "item": "Manager cost",
+      "lennar": "Kennedy Lewis is paid 1.25% a year of tangible assets ($30.3M in Q3 2026), no incentive fee; removal costs 1.5x to 3.0x the annual fee",
+      "others": "Same fee on all assets",
+      "as_of": "2026-09-30",
+      "read": "After the fee, Millrose keeps about 7.25% on Lennar capital and about 9.5% on other capital before financing costs (our arithmetic: yield minus 1.25%).",
+      "confidence": "Verified",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312525022336/d760441dex101.htm",
+      "source_url_2": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_2.htm"
+    }
+  ]
+}

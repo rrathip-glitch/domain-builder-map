@@ -1,0 +1,97 @@
+{
+ "builder_id": "signature-homes",
+ "part": "financing",
+ "retrieved": "2026-11-19",
+ "financing": {
+  "summary": "Signature Homes (SB Holding Corp., Hoover, AL) is a private, 100% ESOP-owned move-up and 55+ builder that self-develops much of its land, most visibly Everlee in Hoover, a 10-year master plan on more than 800 acres planned for about 2,300 homes with a $15 million amenity center. It has no public debt or SEC filings; HousingWire (Sept 2026) says it reports results to its lenders, but no lender, facility size or land-banking partner is named in public sources. Its ESOP held about $224.8M of employer stock at end-2024 against $44.2M of ESOP acquisition debt, so the company carries leverage tied to its ESOP. For a land banker it is a plausible but untested prospect: a profitable (H1 2026 net income $23.5M on $178.3M revenue), mostly presold builder with heavy owned-land and development exposure in Birmingham and new Nashville-area communities, and no public sign of lot-option or land-banking use.",
+  "land_strategy": "Mostly owned and self-developed in the company's own framing ('land to warranty'): it acts as master developer at Everlee (Hoover, 800+ acres, about 2,300 planned homes, started 2022) and buys raw parcels itself (24 acres at Riverwalk Village, Hoover, January 2025). No stated land-light or option target found.",
+  "lots": {
+   "total_controlled": null,
+   "owned": null,
+   "optioned": null,
+   "pct_optioned": null,
+   "years_supply": null,
+   "as_of": "2026-02-23",
+   "confidence": "Reported",
+   "source_url": "https://bhamnow.com/2026/02/23/5-2-million-permit-issued-for-work-on-emerlee-homes/",
+   "source_title": "Bham Now: $5.2 million permit issued for work on Everlee Homes",
+   "note": "No company-wide lot count is public. Everlee alone is planned for about 2,300 homes on more than 800 acres (Bham Now, 2026-02-23); HousingWire (2026-09-29) reports 533 Everlee closings through June 2026, implying roughly 1,750 planned homes still to come there if the 2,300 plan holds (derived). Backlog at June 2026: 266 homes / $220.5M (HousingWire)."
+  },
+  "land_banking": [],
+  "debt": [
+   {
+    "instrument": "ESOP acquisition indebtedness (Signature Homes Employee Stock Ownership Plan)",
+    "type": "Other",
+    "principal_usd_m": 44.2,
+    "rate": "",
+    "maturity": "",
+    "secured": "",
+    "lenders_agent": "",
+    "status": "Outstanding",
+    "as_of": "2024-12-31",
+    "confidence": "Verified",
+    "source_url": "https://efast2-filings-public.s3.amazonaws.com/prd/2025/10/09/20251009135315NAL0011602096001.pdf",
+    "source_title": "Form 5500 (2024) Schedule H, Signature Homes Employee Stock Ownership Plan, sponsor SB Holding Corp. (EIN 47-1839874), filed 2025-10-09",
+    "note": "Schedule H shows acquisition indebtedness of about $45.9M at start and $44.2M at end of 2024, against employer securities of about $167.4M rising to $224.8M. The lender (typically the company itself under an internal ESOP loan, possibly backed by outside bank debt) is not stated in the extracted text."
+   }
+  ],
+  "capital_events": [
+   {
+    "date": "2016-01-01",
+    "type": "Equity",
+    "description": "Company became employee-owned: Signature Homes Employee Stock Ownership Plan took effect (Our Story page says 2016; HousingWire and The Builder's Daily describe it as a full ESOP).",
+    "amount_usd_m": null,
+    "confidence": "Verified",
+    "source_url": "https://efast2-filings-public.s3.amazonaws.com/prd/2025/10/09/20251009135315NAL0011602096001.pdf",
+    "source_title": "Form 5500 (2024), Signature Homes Employee Stock Ownership Plan",
+    "note": "Plan effective date 01/01/2016 on Form 5500 line 1c."
+   },
+   {
+    "date": "2025-01-15",
+    "type": "Other",
+    "description": "Bought 24 acres at Riverwalk Village, Hoover, from CR Endeavors for single-family and multifamily homes in a mixed-use, health-and-wellness-anchored development (Hoover Healthcare Authority); the luxury cottage/townhome community there began selling mid-2026.",
+    "amount_usd_m": null,
+    "confidence": "Reported",
+    "source_url": "https://yellowhammernews.com/hoovers-riverwalk-village-development-kicks-off-with-residential-phase",
+    "source_title": "Yellowhammer News: Hoover's Riverwalk Village development kicks off with residential phase",
+    "note": "Price not disclosed; Jonathan Belcher quoted for the company."
+   }
+  ],
+  "joint_ventures": [],
+  "key_metrics": {
+   "total_debt_usd_m": null,
+   "cash_usd_m": null,
+   "liquidity_usd_m": null,
+   "net_debt_to_capital_pct": null,
+   "credit_ratings": "None (no rated or public debt)",
+   "fiscal_year_end": "",
+   "as_of": "2026-06-30",
+   "confidence": "Reported",
+   "source_url": "https://www.housingwire.com/articles/signature-homes-100-day-build/",
+   "source_title": "HousingWire: Signature Homes thinks 100-day builds can win in a smaller market (2026-09-29)"
+  },
+  "competitor_links": []
+ },
+ "ma": [],
+ "gaps": [
+  "Bank lenders, construction/AD&C facilities and their sizes: not publicly disclosed (private; HousingWire notes results are reported to lenders but names none)",
+  "Company-wide lots owned/optioned and years of supply: not publicly disclosed",
+  "Land-banking or lot-option partners: none found; no public link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon",
+  "Joint ventures: none found",
+  "ESOP loan lender, rate and maturity; ESOP trustee: not stated in the public Form 5500 text extracted",
+  "Price paid for Riverwalk Village (24 acres) and Everlee land: not disclosed",
+  "No SEC filings or public debt (EDGAR company search returns no match)",
+  "M&A 2025-2026: none found"
+ ],
+ "sources_consulted": [
+  "https://www.housingwire.com/articles/signature-homes-100-day-build/",
+  "https://efast2-filings-public.s3.amazonaws.com/prd/2025/10/09/20251009135315NAL0011602096001.pdf",
+  "https://yellowhammernews.com/hoovers-riverwalk-village-development-kicks-off-with-residential-phase",
+  "https://bhamnow.com/2026/02/23/5-2-million-permit-issued-for-work-on-emerlee-homes/",
+  "https://www.signature.homes/live-everlee",
+  "https://www.signature.homes/blog/how-signature-homes-wins-while-other-builders-pull-back",
+  "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Signature+Homes&type=&dateb=&owner=include&count=40",
+  "https://www.birminghamrotary.org/news/signature-homes-co-founder-dwight-sandlin-shares-insights-on-the-housing-market",
+  "https://www.signature.homes/our-story"
+ ]
+}

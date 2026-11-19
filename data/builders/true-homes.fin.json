@@ -1,0 +1,119 @@
+{
+  "builder_id": "true-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "True Homes is a private, founder-owned for-sale builder and discloses no financial statements, credit facilities or lot split. What is public: a lot pipeline above 19,000 lots against about 2,100 to 2,200 homes a year (roughly nine years of supply), a model built on buying, entitling and developing its own land (partly through an affiliate, Dependable Development Inc), and a 2025 job posting saying the corporate land team maintains relationships with off-balance-sheet investors and developers and with lenders. No land banker, lot-option partner or lender is named by the company, and no link to Domain, Millrose, Kennedy Lewis or TPG Angelo Gordon was found. A pipeline that long for a private builder, plus an acknowledged use of off-balance-sheet lot capital, makes it a plausible land-banking customer; the capital decision sits with the founding partners (Executive Services).",
+    "land_strategy": "Mixed, leaning toward self-development. The company pitches landowners directly ('We Buy It Right, We Zone It Right, We Build It Right'), takes land through entitlement itself, and runs land development in-house through market land teams, a Land PMO and an affiliated developer. Its corporate land acquisition role covers both finished and to-be-developed homesites and manages off-balance-sheet investors and third-party developers. No owned versus optioned target is published.",
+    "lots": {
+      "total_controlled": 19000,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2026-01",
+      "confidence": "Reported",
+      "source_url": "https://www.bdmag.com/truehomes-a-holistic-approach-to-building/",
+      "source_title": "BD Magazine: True Homes, A Holistic Approach to Building (2026-01-21)",
+      "note": "Article says the lot pipeline grew to 'over 19,000 lots' in the past year, with more than 2,200 annual starts. Owned versus optioned split is not public. On the 2,126 closings in the Builder 100 ranking that is roughly 8.9 years of supply (derived, not stated)."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Undisclosed off-balance-sheet investors and developers",
+        "counterparty_type": "Unknown",
+        "description": "True Homes' posting for a Director of Corporate Land Acquisition lists building and maintaining relationships with off-balance-sheet investors and developers, and holding developers to their contracts, among the duties. This shows the company uses third-party capital to carry lots, but no counterparty is named.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2025-02",
+        "confidence": "Inferred",
+        "source_url": "https://career.com/job/true-homes/director-of-corporate-land-acquisition/j202501211031270117763",
+        "source_title": "Career.com: True Homes, Director of Corporate Land Acquisition (posted 2025-02-05, expired)",
+        "note": "Job posting, not an announcement. Counterparties, lot counts and terms: not publicly disclosed. Verification 2026-11-19: the Career.com posting returned HTTP 403 and the posting has expired, so the duty list could not be re-read; downgraded from Reported to Inferred."
+      },
+      {
+        "counterparty": "Dependable Development Inc",
+        "counterparty_type": "Affiliate",
+        "description": "Affiliated land development company registered in NC in 2016 at True Homes' Monroe headquarters address and tied to Mark Boyce; a property-records aggregator links it to about 111 properties in NC and a small SC sister entity. It appears to hold and develop land for the builder.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2016-06",
+        "confidence": "Reported",
+        "source_url": "https://elementix.com/investors/nc/mark-boyce",
+        "source_title": "Elementix investor profile: Mark Boyce (affiliated entities)",
+        "note": "Aggregator data built from recorded documents; the company does not describe this entity publicly. Other related entities named there: True SFR I LLC and True SFR Gamma LLC (single-family rental holdings), Lucas Homes USA LLC, Carolina Development Services LLC, Craft Development LLC."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Secured bank loans evidenced by recorded mortgages / deeds of trust (terms not public)",
+        "type": "Other",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "Secured",
+        "lenders_agent": "U.S. Bank; Wells Fargo Bank; Truist Bank (top three lenders by recorded loan count)",
+        "status": "Outstanding",
+        "as_of": "2026-11",
+        "confidence": "Inferred",
+        "source_url": "https://elementix.com/investors/nc/mark-boyce",
+        "source_title": "Elementix investor profile: Mark Boyce (lenders on recorded mortgages)",
+        "note": "A property-records aggregator lists U.S. Bank, Wells Fargo and Truist as the top lenders on mortgages recorded against entities tied to Mark Boyce and True Homes, most recent recording 2026-10-29. The dollar totals on that page are not usable (they appear to repeat facility ceilings on every lot) and some records may be home buyers' loans, so read this only as a lead on who the bank group is. Facility size, type and maturity: not publicly disclosed."
+      }
+    ],
+    "capital_events": [],
+    "joint_ventures": [
+      {
+        "partner": "Institutional investors, capital groups and build-to-rent developers (not named)",
+        "description": "True Homes markets a build-to-rent program to institutional investors, private equity and rental operators, offering fee building and 'phased land and vertical construction partnerships' at 8 to 20 frame starts a month; its latest listed project is Sands of Time. Related entities named True SFR I LLC and True SFR Gamma LLC appear in property records.",
+        "date": "2026",
+        "confidence": "Verified",
+        "source_url": "https://www.truehomes.com/build-to-rent",
+        "source_title": "True Homes: Build To Rent page",
+        "note": "No partner, deal size or structure is published. This is a side business to the for-sale operation."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.truehomes.com/about-us",
+      "source_title": "Private company: no financial statements published"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Owned versus optioned lots: not publicly disclosed (only the 19,000-lot pipeline total, from trade press).",
+    "Named land banker or lot-option partner: not publicly disclosed. The company's own job posting confirms off-balance-sheet investors exist but names none.",
+    "Any link to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found in the sources opened.",
+    "Credit facility (lenders of record, size, maturity, borrowing base): not publicly disclosed (private company). The three banks listed come from a property-records aggregator and are a lead only.",
+    "Total debt, cash, liquidity, leverage, ratings: not publicly disclosed (no public debt, no ratings found).",
+    "Ownership split among the founding partners and any outside equity: not publicly disclosed.",
+    "M&A 2025 to 2026: nothing found in the sources opened, but this was not searched exhaustively because the swarm's shared web-search allowance ran out; SEC EDGAR full-text search returned 403.",
+    "A reported partnership with Crosland Southeast and Freedom Communities (Duke's Ridge / Evoke Living, an affordable-housing project) was seen only as a search-result title; the company page now returns 404, so it is not recorded.",
+    "Revenue and closings are in the spine (Builder 100) and not repeated here."
+  ],
+  "sources_consulted": [
+    "https://www.bdmag.com/truehomes-a-holistic-approach-to-building/",
+    "https://career.com/job/true-homes/director-of-corporate-land-acquisition/j202501211031270117763",
+    "https://www.career.com/job/true-homes/senior-land-development-specialist/j202511200446122371830",
+    "https://www.career.com/job/true-homes/market-partner-of-land/j202404052119535637384",
+    "https://elementix.com/investors/nc/mark-boyce",
+    "https://elementix.com/companies/true-homes",
+    "https://sfranalytics.com/investors/sc/charlotte-concord-gastonia-nc-sc/true-homes-llc-sc",
+    "https://www.truehomes.com/build-to-rent",
+    "https://www.truehomes.com/land",
+    "https://www.truehomes.com/about-us/careers/land",
+    "https://www.truehomes.com/about-us",
+    "https://www.probuilder.com/business-management/builder-of-the-year/article/55198322/2020-builder-of-the-year-true-homesa-culture-like-no-other",
+    "https://www.probuilder.com/nhqa/article/55197594/true-homes-uniqueness-of-one-common-vision-for-all",
+    "https://topworkplaces.com/company/true-homes-llc/",
+    "https://efts.sec.gov/LatestSearch/ (403 in this run)",
+    "https://sosnc.gov/online_services/search/Business_Registration_profile/8729067 (403 in this run)"
+  ]
+}

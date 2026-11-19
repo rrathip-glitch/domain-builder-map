@@ -1,0 +1,169 @@
+{
+  "builder_id": "fischer-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Fischer Homes is a private, family-owned builder (founded 1980 by Henry and Elaine Fischer; second-generation chairman Greg Fischer) held under The Fischer Group alongside Grand Communities LLC (its in-house land developer), Victory Mortgage, Homestead Title and Acendion Collective (multifamily). It publishes no financial statements, has no SEC filings and no public debt, so lot counts, bank lines, lenders and leverage are not public. What is public is the model: land is entitled and developed in-house by Grand Communities, and the chairman's stated focus is land development and banking relationships, which points to bank-funded, self-developed lots rather than third-party land banking. No public link to Domain, Millrose, Kennedy Lewis, TPG Angelo Gordon or any other land banker was found. The opening for a land banker is growth outside the legacy footprint: Raleigh (entered 2025) and Lexington (entered 2026, first community about $40M) are markets where the company has no long-held land pipeline, and the only named lenders anywhere in the group (First Financial Bank and Associated Bank, on a $48M affiliate apartment construction loan) are regional banks.",
+    "land_strategy": "Owns and self-develops: the group describes Grand Communities LLC as its land development company handling land acquisition support, entitlement, infrastructure and site readiness for residential communities across the Fischer portfolio. The company states no owned/optioned split and no land-light target. A public 'sell my land' page invites landowners to submit sites to its Land Acquisition Team in all 11 markets.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": "",
+      "note": "Not publicly disclosed (private company, no filings). Only public scale markers: 200+ active communities in 7 states and 11 markets (Sept 2026 company release); 2,991 closings in the 2026 Builder 100 per the project spine."
+    },
+    "land_banking": [
+      {
+        "counterparty": "Grand Communities LLC",
+        "counterparty_type": "Affiliate",
+        "description": "In-house land developer under The Fischer Group (established 1993). It handles entitlement, infrastructure development and site readiness, and supports land acquisition, for the communities Fischer Homes builds. This is the lot source the company itself describes; it is a sister company, not a third-party land bank.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "1993",
+        "confidence": "Verified",
+        "source_url": "https://thefischergroup.com/",
+        "source_title": "The Fischer Group: Our companies (Grand Communities LLC)",
+        "note": "Lot counts, acreage and how Grand Communities is funded (bank development loans, equity) are not disclosed. Founding year 1993 is from the Fischer Homes company timeline (fischerhomes.com/about-us)."
+      }
+    ],
+    "debt": [
+      {
+        "instrument": "Cityview Station Apartments construction financing (Acendion Collective, Ludlow KY, 273 units)",
+        "type": "Project debt",
+        "principal_usd_m": 48,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "First Financial Bank and Associated Bank; arranged by Northmarq",
+        "status": "Outstanding",
+        "as_of": "2025-10",
+        "confidence": "Verified",
+        "source_url": "https://acendionco.com/",
+        "source_title": "Acendion Collective website, news feed (company post on the October 2025 groundbreaking)",
+        "note": "Affiliate multifamily project loan, not homebuilding debt: borrower is the Acendion project, a Fischer Group company. Rate, maturity and security not stated. It is the only lender disclosure found anywhere in the group. The statement is a company social post displayed on the Acendion home page; Northmarq's own release was not located. Completion targeted mid-2027."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2025-10",
+        "type": "Debt issuance",
+        "description": "Acendion Collective (Fischer Group multifamily affiliate) closed $48M of construction financing for the 273-unit Cityview Station Apartments in Ludlow, KY, arranged by Northmarq with First Financial Bank and Associated Bank; ground was broken 1 October 2025.",
+        "amount_usd_m": 48,
+        "confidence": "Verified",
+        "source_url": "https://acendionco.com/",
+        "source_title": "Acendion Collective website, news feed",
+        "note": "Groundbreaking and unit count also in The Lane Report, 2 Oct 2025 (https://www.lanereport.com/183987/2025/10/acendion-collective-breaks-ground-on-cityview-station-apartments-in-nky/), which gives no financing detail."
+      },
+      {
+        "date": "2025",
+        "type": "Other",
+        "description": "Entered Raleigh, NC, the first market outside its Midwest / Georgia / Florida footprint. The company timeline dates the market to 2025; The Lane Report (May 2025) called the expansion recently announced. No acquisition was reported, so this reads as a greenfield entry that has to be supplied with newly bought land or lots.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.fischerhomes.com/about-us/",
+        "source_title": "Fischer Homes: About us (markets and entry years)",
+        "note": "Greenfield is inferred from the absence of any acquisition in the company timeline or press list. The group's press page lists 2026 Raleigh coverage of new luxury communities (Triangle Business Journal, 4 Aug 2026: 37 homes near North Ridge Country Club; Homes.com, 28 May 2026); those articles could not be opened (paywall / 403), so land prices and sellers are not recorded."
+      },
+      {
+        "date": "2026",
+        "type": "Other",
+        "description": "The Fischer Group formalised as parent and holding company for Fischer Homes, Grand Communities, Acendion Collective, Homestead Title Agency and Victory Mortgage. Group officers (Chairman Greg Fischer, CEO Tim McMahon, CFO Chris Murphy) sit at the holding company; the CFO's remit covers capital planning.",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.fischerhomes.com/about-us/",
+        "source_title": "Fischer Homes: About us (company timeline, 2026 entry)",
+        "note": "Conflict noted: the timeline says The Fischer Group was created in 2026, but the name was already in use (Lane Report May 2025; 2024 Acendion launch coverage) and Greg Fischer's Acendion bio says he has chaired The Fischer Group since 2014. Treat 2026 as a formal reorganisation or rebrand, not a change of ownership; no outside investor was mentioned."
+      },
+      {
+        "date": "2026-08-05",
+        "type": "Other",
+        "description": "Announced entry into the Lexington, KY market with Monterra in Versailles (Woodford County): about 75 homesites on roughly 37 acres, an estimated $40M development described as the first of several planned investments in the region.",
+        "amount_usd_m": 40,
+        "confidence": "Reported",
+        "source_url": "https://www.lanereport.com/188761/2026/08/fischer-homes-expands-into-lexington-market/",
+        "source_title": "The Lane Report: Fischer Homes expands into Lexington market",
+        "note": "$40M is the article's estimate of total development value, not a financing amount. Land seller, developer and funding source not named. Sales start late 2026 to early 2027 (the article gives both)."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "Private accredited investors (unnamed), via Acendion Collective",
+        "description": "Acendion Collective, the Fischer Group's multifamily and mixed-use affiliate co-founded in 2024 by Greg Fischer and David Spaulding, co-funds each development with private individual investors through private placements (it runs an investor portal). Pipeline of more than 1,000 apartment units in Greater Cincinnati / Northern Kentucky; first project is Cityview Station (273 units), second is Alora at Sunrock in Wilder, KY.",
+        "date": "2024-06",
+        "confidence": "Verified",
+        "source_url": "https://acendionco.com/",
+        "source_title": "Acendion Collective website",
+        "note": "Shows the family's appetite for outside project equity, but on the apartment side only. No investor names, fund sizes or amounts are published. No homebuilding or land JV was found."
+      },
+      {
+        "partner": "van Rooyen Group (Covington Kentucky Development LLC)",
+        "description": "The Fischer Group and the van Rooyen Group are expanding the former First District school at 525 Scott St., Covington, KY from about 65,000 to 95,000 sq ft as the group's new headquarters; Acendion manages construction. Ground was broken 15 April 2026 and the move from Erlanger is targeted for late 2027.",
+        "date": "2026-04",
+        "confidence": "Reported",
+        "source_url": "https://linknky.com/business/2026/04/17/fischer-homes-breaks-ground-on-new-hq-in-covington/",
+        "source_title": "LINK nky: Fischer Homes breaks ground on new HQ in Covington",
+        "note": "Corporate real estate, not land for homes. Project value reported as about $15M (April 2026), up from an $11M estimate in May 2025 (https://www.lanereport.com/181196/2025/05/the-fischer-group-to-telocate-hq-to-covingtons-business-district/). Whether Fischer co-owns or leases, and how it is financed, is not stated."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "",
+      "fiscal_year_end": "",
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "",
+      "source_title": ""
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Land-bank counterparties: no keyword search was run. Every fact comes from company and affiliate sites, the PR Newswire company page, The Lane Report and LINK nky; the 'no link found' statements below rest on the company's own sites, its curated press list (Nov 2025 to Nov 2026) and the project's competitor files, none of which mention Fischer.",
+    "Owned vs optioned lots, total lots controlled, years of supply: not publicly disclosed (private company, no SEC filings; EDGAR company lookup returns no filer for Fischer Homes, Grand Communities or Acendion).",
+    "Land-banking / lot-option financing counterparties: none publicly disclosed. No public link found to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis, TPG Angelo Gordon, DW Partners, Essential Housing, IHP Capital, Brookfield, Varde, Oaktree, GTIS, Hearthstone, Walton or Forestar.",
+    "The 'Hearthstone' in 2026 press about Fischer's Elizabethtown, KY community (The News-Enterprise, 8 Jul 2026 headline on the group's press page) appears to be the subdivision name; the article was not read and nothing links it to Hearthstone the land banker.",
+    "Homebuilding credit facility (size, maturity, agent bank, lenders), term loans, notes: not publicly disclosed. No public notes or rated debt found.",
+    "Credit ratings: none found; not publicly disclosed.",
+    "Cash, total debt, liquidity, leverage, fiscal year end: not publicly disclosed.",
+    "How Grand Communities funds land development (bank A&D loans, seller financing, equity) and whether it sells lots to other builders: not publicly disclosed.",
+    "Victory Mortgage warehouse lines: not publicly disclosed.",
+    "Ownership detail (family holdings, any management or outside equity): not publicly disclosed beyond 'privately held' / 'family-owned'.",
+    "M&A 2025 to 2026: none found. The company's own timeline lists its acquisitions (Victory Mortgage 2020, Homestead Title Agency 2023) and shows no acquisition in 2024, 2025 or 2026; the Raleigh (2025) and Lexington (2026) entries were reported as new-community openings, not builder purchases. No report of Fischer as a target.",
+    "Raleigh land purchases (sellers, prices, lot counts) and the Lexington entry coverage in the Herald-Leader: source pages blocked (bizjournals.com, homes.com, kentucky.com), not recorded.",
+    "Cincinnati Enquirer profile of founder Henry Fischer (11 Nov 2026) and Builder magazine articles (Finch appointment; private builders in 2025; Acendion launch): pages blocked to this run, not used."
+  ],
+  "sources_consulted": [
+    "https://www.fischerhomes.com/about-us/",
+    "https://thefischergroup.com/",
+    "https://thefischergroup.com/about/",
+    "https://thefischergroup.com/history/",
+    "https://thefischergroup.com/press/",
+    "https://acendionco.com/",
+    "https://acendionco.com/greg-fischer/",
+    "https://discover.fischerhomes.com/sell-my-land",
+    "https://www.fischerhomes.com/blog/",
+    "https://www.prnewswire.com/news/fischer-homes/",
+    "https://www.prnewswire.com/news-releases/fischer-homes-names-jason-finch-president-as-home-builder-positions-for-continued-growth-302874198.html",
+    "https://www.prnewswire.com/news-releases/fischer-homes-marks-20-year-st-jude-partnership-raising-4-06-million-through-2026-dream-home-campaigns-302942489.html",
+    "https://www.lanereport.com/188761/2026/08/fischer-homes-expands-into-lexington-market/",
+    "https://www.lanereport.com/181196/2025/05/the-fischer-group-to-telocate-hq-to-covingtons-business-district/",
+    "https://www.lanereport.com/183987/2025/10/acendion-collective-breaks-ground-on-cityview-station-apartments-in-nky/",
+    "https://www.lanereport.com/?s=fischer+homes",
+    "https://linknky.com/business/2026/04/17/fischer-homes-breaks-ground-on-new-hq-in-covington/",
+    "https://linknky.com/news/2024/06/06/fischer-homes-acendion-capital/",
+    "https://linknky.com/news/2026/10/01/ludlows-cityview-station-apartment-development-reaches-major-milestone/",
+    "https://local12.com/news/local/large-homebuilder-building-condos-cincinnati-west-side-fischer-homes-miami-township-bridgetown-james-landing-condominiums",
+    "https://ritzherald.com/fischer-homes-the-value-of-family-owned-builders/",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=fischer+homes&type=&dateb=&owner=include&count=40",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=grand+communities&type=&dateb=&owner=include&count=40",
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=acendion&type=&dateb=&owner=include&count=40"
+  ]
+}

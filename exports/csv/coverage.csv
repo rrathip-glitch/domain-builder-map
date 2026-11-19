@@ -1,0 +1,39 @@
+﻿Measure,Value,How it is counted
+Builders covered (people or financing mapped),100,"of 100 in the ranking; 100 with people, 100 with financing, 100 with both"
+People mapped,2105,"People rows after de-duplication within each builder. 342 Land, 234 Finance, 250 C-suite, 157 Regional, 658 Division, 464 Other"
+Land people,342,"People in a land acquisition, land development or other land role, at any level."
+Finance people,234,"People in a CFO, treasury / capital markets or other finance role, at any level."
+Regional heads: all builders,140,"Named people at Regional level whose role is leading a region, area or group (level = Regional and role category = Regional President), counted once per builder. Region-level land, finance, sales and operations staff are not counted. Found at 38 builders."
+Regional heads: top 25 builders,101,Found at 22 of the 25 largest builders.
+Regions listed: all builders,398,"Regions, areas, groups or segments in each builder's own description of how it is organised (profile.regions)."
+Regions with a named leader: all builders,191,"of 398 listed. Listed regions whose leader is named: the company's region list names one, or a mapped regional head's own title or geography names that region."
+Regions listed: top 25 builders,163,
+Regions with a named leader: top 25 builders,81,of 163 listed at the 25 largest builders
+People per builder: public builders (average),41.6,"median 41, max 99, 15 of 15 public builders mapped"
+People per builder: private builders (average),15.1,"median 13.5, max 60, 56 of 56 private builders mapped"
+People per builder: subsidiaries of larger groups (average),21.9,"median 21, 29 of 29 mapped"
+Share Verified: people rows (%),70.1,"1476 Verified, 232 Reported (11%), 397 Inferred (18.9%)"
+Share Verified: all fact rows (%),73.5,"3664 fact rows: 2693 Verified, 473 Reported, 498 Inferred"
+Land heads found (builders),66,Builders with at least one land role at corporate level. 83 builders have a land contact at any level.
+Finance heads found (builders),84,"Builders with at least one CFO, treasury or finance role at corporate level. 84 builders have a finance contact at any level."
+Builders with owned vs optioned lots known,21,
+Builders with a named land banker,22,"Builders with at least one row that asserts a financing relationship with a named land banker or lot-option financier: the same links as the ""Builder-financier links"" and ""Who banks whom"" tables. Rows that record no link or only an indirect or people link, unnamed ""land bank"" arrangements, developers and affiliates are not counted. Each link keeps its confidence; some rest only on an Inferred source. 15 of them have at least one link better than Inferred. 3 more use land banking without naming the banker."
+Builders publicly linked to Domain Real Estate Partners,7,"by strongest source: 1 Verified, 0 Reported, 6 Inferred. Named on the Builders sheet with the confidence in brackets."
+Builders publicly linked to Millrose Properties,5,"by strongest source: 5 Verified, 0 Reported, 0 Inferred. Named on the Builders sheet with the confidence in brackets."
+Builders publicly linked to Kennedy Lewis,7,"by strongest source: 6 Verified, 1 Reported, 0 Inferred. Named on the Builders sheet with the confidence in brackets."
+Builders publicly linked to TPG Angelo Gordon,9,"by strongest source: 1 Verified, 2 Reported, 6 Inferred. Named on the Builders sheet with the confidence in brackets."
+Debt instruments,336,"Debt rows across all builders: notes, revolvers, term loans, warehouse lines, project debt. Across 57 builders."
+Capital events,495,
+Joint ventures,144,
+M&A deals,102,"74 in builder files, 28 in the industry list (a deal can be in both)"
+Ranked builders acquired after the ranking was published,7,current parent shown on the Builders sheet
+Competitors profiled,5,
+Feed stories scored,545,"25 at 70+, 1 at 90+"
+Insight tables,8,
+Unique sources,5115,
+Accuracy check: rows re-opened by a fresh agent,1299,"1199 held, 51 corrected, 39 downgraded to Inferred, 10 removed, across 100 builders. Added up by the build from the checking agents' log."
+"""Not publicly disclosed"" gaps recorded",2301,"What is not public is listed as a gap, not guessed"
+Builders with research still in progress,0,0 files not yet passing the schema check (included and flagged); 0 rows left out until fixed; 0 unreadable files skipped
+Rank 1 to 25: builders with people,25,of 25; 25 with financing; 1031 people
+Rank 26 to 50: builders with people,25,of 25; 25 with financing; 478 people
+Rank 51 to 100: builders with people,50,of 50; 50 with financing; 596 people

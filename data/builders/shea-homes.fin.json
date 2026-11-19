@@ -1,0 +1,216 @@
+{
+  "builder_id": "shea-homes",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "Shea Homes Limited Partnership (with co-issuer Shea Homes Funding Corp.) is the homebuilding arm of the family-owned J.F. Shea Co. It funds itself with retained cash flow plus Rule 144A high-yield notes; it stopped filing with the SEC in 2015 and now posts reports only behind a click-through investor page, so lot counts, the revolver and land-option terms are not public. FINRA bond data shows one notes series clearly outstanding (4.75% due April 2029, about $299M). The 4.75% notes due February 2028 now show zero outstanding, which suggests they were retired, but no redemption notice was found. S&P rates the issuer BB- with a stable outlook (upgraded April 2024) and put adjusted leverage at 2.2x and debt to capital at 28% at year-end 2024. No land-banking or lot-option financier has been publicly tied to Shea. Its land model rests on long-held California, Arizona and Colorado master-plan positions plus joint development deals, so a land banker would be pitching a new tool, not taking share from an incumbent.",
+    "land_strategy": "Mixed, leaning to owned and master-planned land. S&P describes Shea as a long-term land holder and master-planned-community developer in California, Arizona and Colorado. In 2018 S&P said it was shifting toward less capital-intensive projects with shorter cycles, and in 2021 it credited 'land strategies' that reduce capital outlays and limit direct land risk. In 2026 Shea is adding smaller 'boutique' Trilogy 55+ communities (under about 550 homes, e.g. ThreeOaks in Culpeper VA, Ridgecrest in Peoria AZ, Verterra in Bonney Lake WA), first Trilogy communities in Texas and Colorado, and a return to Carolinas townhomes. No owned/optioned target has been published.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "",
+      "confidence": "Inferred",
+      "source_url": "https://www.sheahomes.com/investor-relations",
+      "source_title": "Shea Homes Investor Relations (click-through gate; financial reports not publicly viewable)",
+      "note": "Not publicly disclosed. Shea's quarterly and annual reports sit behind an 'I Accept' click-through on its investor-relations page, and it has not filed with the SEC since its 15-15D in March 2015. S&P abstracts give deliveries (2,825 in 2022; 2,222 in 2024) but no lot counts."
+    },
+    "land_banking": [],
+    "debt": [
+      {
+        "instrument": "4.75% Senior Notes due 2029 (Shea Homes LP / Shea Homes Funding Corp.)",
+        "type": "Senior notes",
+        "principal_usd_m": 299.35,
+        "rate": "4.75%",
+        "maturity": "2029-04-01",
+        "secured": "Unsecured",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2026-11-19",
+        "confidence": "Reported",
+        "source_url": "https://www.tradingview.com/symbols/FINRA-UDCS5499783/",
+        "source_title": "TradingView / FINRA bond page: Shea Homes LP 4.75% 01-APR-2029 (CUSIP 82088KAJ7)",
+        "note": "FINRA/ICE data shows $299.35M outstanding on the 144A CUSIP 82088KAJ7; the Reg S line (USU82091AE62, issue date 2020-09-28) shows 0. S&P rated the proposed $300M unsecured issue BB- on 2020-09-14 (the abstract as read described the proposed maturity as 2030; matching it to these April 2029 notes rests on the $300M size and the Reg S issue date of 2020-09-28) to refinance the 6.125% notes due 2025. An Invesco fund N-PORT for 2025-11-30 also lists Shea Homes LP/Funding Corp. 4.75% due 04/01/2029 (https://www.sec.gov/Archives/edgar/data/1657201/000165720126000143/edgar.htm; file too large to open in this run). Callable; matures in about 2.4 years, so a refinancing is likely in 2027 to 2028."
+      },
+      {
+        "instrument": "4.75% Senior Notes due 2028 (Shea Homes LP / Shea Homes Funding Corp.)",
+        "type": "Senior notes",
+        "principal_usd_m": null,
+        "rate": "4.75%",
+        "maturity": "2028-02-15",
+        "secured": "Unsecured",
+        "lenders_agent": "J.P. Morgan Securities (initial purchaser, 2020)",
+        "status": "Redeemed",
+        "as_of": "2026-11-19",
+        "confidence": "Inferred",
+        "source_url": "https://www.tradingview.com/symbols/FINRA-UDCS5502701/",
+        "source_title": "TradingView / FINRA bond page: Shea Homes LP 4.75% 15-FEB-2028 (CUSIP 82088KAK4)",
+        "note": "Status is inferred. FINRA/ICE data shows 0.00 outstanding on both the 144A (82088KAK4) and Reg S (USU82091AD89) CUSIPs, while the 2029 notes still show $299M. That points to a call, most likely in 2026, but no redemption notice was found. Issued 2020-02-20: S&P rated a proposed $375M deal (2020-02-06; proceeds to retire the 5.875% notes due 2023), and Cravath reports a $450M 144A/Reg S offering that closed 2020-02-20 with J.P. Morgan as initial purchaser (https://www.cravath.com/Shea-Homes-HighYield-Senior-Notes-Offering). The final principal is therefore unconfirmed, $375M to $450M."
+      },
+      {
+        "instrument": "Revolving credit facility",
+        "type": "Revolver",
+        "principal_usd_m": null,
+        "rate": "",
+        "maturity": "",
+        "secured": "",
+        "lenders_agent": "",
+        "status": "Outstanding",
+        "as_of": "2018-03-29",
+        "confidence": "Inferred",
+        "source_url": "https://www.alacrastore.com/s-and-p-credit-research/Summary-Shea-Homes-L-P-2014326",
+        "source_title": "S&P Global Ratings: Summary: Shea Homes L.P. (abstract, 2018-03-29)",
+        "note": "S&P's 2018 abstract only says it expected no revolver draws in 2018, which shows a revolver existed then. Size, maturity, agent and current status are not publicly disclosed. The last public terms are from SEC filings: a $125M secured revolver that matured 2016-03-01. Tagged Inferred because the source is old."
+      }
+    ],
+    "capital_events": [
+      {
+        "date": "2026",
+        "type": "Redemption",
+        "description": "4.75% senior notes due February 2028 now show zero outstanding in FINRA/ICE data on both CUSIPs, which points to a full call. Date, amount and funding source were not found.",
+        "amount_usd_m": null,
+        "confidence": "Inferred",
+        "source_url": "https://www.tradingview.com/symbols/FINRA-SHFX4948467/",
+        "source_title": "TradingView / FINRA bond page: Shea Homes LP 4.75% 15-FEB-2028 Reg S",
+        "note": "Inferred from outstanding-amount data, not from an issuer notice; treat as unconfirmed."
+      },
+      {
+        "date": "2025-03-31",
+        "type": "Other",
+        "description": "S&P full analysis of Shea Homes L.P.: adjusted leverage 2.2x, 2,222 deliveries and 28% debt to capital at 2024-12-31. S&P expected 2025 revenue to rise 15% to 20% and EBITDA margins to fall toward 12% to 13%.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-3345974",
+        "source_title": "S&P Global Ratings: Shea Homes L.P. (published 2025-03-31, abstract)",
+        "note": "No rating change in the abstract. This is the latest S&P report on the issuer found in this run."
+      },
+      {
+        "date": "2024-04-16",
+        "type": "Rating action",
+        "description": "S&P raised the issuer rating to BB- from B+ with a stable outlook, affirmed the BB- senior unsecured rating and revised the recovery rating to 3 from 2. S&P expects debt to EBITDA below 3x and debt to capital trending to 25% to 30%.",
+        "amount_usd_m": null,
+        "confidence": "Reported",
+        "source_url": "https://www.alacrastore.com/s-and-p-credit-research/Research-Update-Shea-Homes-L-P-Upgraded-To-BB-On-Operating-Momentum-Outlook-Stable-Debt-Ratings-Affirmed-3153284",
+        "source_title": "S&P Research Update: Shea Homes L.P. Upgraded To 'BB-' On Operating Momentum; Outlook Stable",
+        "note": "Before the 2025 to 2026 window; kept because it sets the current rating."
+      },
+      {
+        "date": "2020-09-14",
+        "type": "Debt issuance",
+        "description": "$300M senior unsecured notes (became the 4.75% notes due April 2029), rated BB- by S&P, to refinance the 6.125% notes due 2025.",
+        "amount_usd_m": 300,
+        "confidence": "Reported",
+        "source_url": "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-s-Proposed-300-Million-Senior-Unsecured-Notes-Rated-BB-2512671",
+        "source_title": "S&P: Shea Homes L.P.'s Proposed $300 Million Senior Unsecured Notes Rated 'BB-'",
+        "note": "Context for the outstanding series."
+      },
+      {
+        "date": "2020-02-20",
+        "type": "Debt issuance",
+        "description": "144A/Reg S senior notes offering (the 4.75% notes due February 2028), with J.P. Morgan Securities as initial purchaser. Proceeds retired the 5.875% notes due 2023, and a tender for up to $75M of the 6.125% notes due 2025 ran alongside.",
+        "amount_usd_m": 450,
+        "confidence": "Reported",
+        "source_url": "https://www.cravath.com/Shea-Homes-HighYield-Senior-Notes-Offering",
+        "source_title": "Cravath: Shea Homes' High-Yield Senior Notes Offering (2020-03-05)",
+        "note": "Cravath says $450M; S&P's 2020-02-06 note rated a proposed $375M. The amount may have been upsized at pricing."
+      }
+    ],
+    "joint_ventures": [
+      {
+        "partner": "PulteGroup; D.R. Horton",
+        "description": "Aloravita master plan, Peoria AZ. Shea won the 2020 state land auction for 415 acres and closed in 2022 for about $46.8M. It then signed a joint development agreement with Pulte and D.R. Horton to develop the site. A separate 274-acre Aloravita parcel (568 homes) went to a PulteGroup/Tri Pointe JV in June 2026.",
+        "date": "2022",
+        "confidence": "Reported",
+        "source_url": "https://therealdeal.com/national/phoenix/2026/06/17/pultegroup-tri-pointe-complete-63-million-arizona-land-buy/",
+        "source_title": "The Real Deal: PulteGroup, Tri Pointe complete $63M Arizona land buy (2026-06-17)",
+        "note": "Shea acts as land owner and developer that shares lots with other builders, the same model it uses as a master developer elsewhere."
+      },
+      {
+        "partner": "Oread Capital & Development; North Canyons, LLLP (Alpert family)",
+        "description": "The Canyons, Castle Pines CO. Shea Homes Colorado bought 1,270 acres as master developer for about 2,000 homes from several builders, planning to invest $75M over four years. Oread Capital worked with Shea on the purchase, and North Canyons LLLP kept the rest of the 3,343-acre project.",
+        "date": "2015-12-29",
+        "confidence": "Verified",
+        "source_url": "https://www.sheahomes.com/news-events/news/co-shea-homes-colorado-acquires-the-canyons-in-cas",
+        "source_title": "Shea Homes Colorado Acquires The Canyons in Castle Pines",
+        "note": "Old source (2015), kept to show Shea's master-developer model. Current partnership terms are not public."
+      }
+    ],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "S&P: BB- issuer, stable outlook (upgraded from B+ on 2024-04-16); senior unsecured BB-, recovery 3. S&P-adjusted debt to capital was 28% and leverage 2.2x at 2024-12-31. No Moody's or Fitch rating found.",
+      "fiscal_year_end": "December 31",
+      "as_of": "2024-12-31",
+      "confidence": "Reported",
+      "source_url": "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-3345974",
+      "source_title": "S&P Global Ratings: Shea Homes L.P. (published 2025-03-31, abstract)"
+    },
+    "competitor_links": []
+  },
+  "ma": [
+    {
+      "date": "2021-02",
+      "role": "Divestiture",
+      "counterparty": "Empire Communities",
+      "description": "Shea sold Shea Homes North Carolina to Canada-based Empire Communities, moving 13 Charlotte communities to the Empire brand. The price was not disclosed.",
+      "status": "Closed",
+      "after_ranking": false,
+      "map_impact": "This is older than the 2025 window and is kept as context. Shea left Charlotte's entry-level and move-up market in 2021 but kept Trilogy Lake Norman, and in June 2026 it re-entered Carolinas production building with 35eighty Townes in Cornelius NC. Its Charlotte land team is therefore new or rebuilding.",
+      "confidence": "Reported",
+      "source_url": "https://roselawgroupreporter.com/?p=102915",
+      "source_title": "Rose Law Group Reporter: Three home builders expand market share with new acquisitions (2021-02-04, citing Pro Builder)",
+      "note": "No Shea Homes acquisition or divestiture in 2025 or 2026 was found."
+    }
+  ],
+  "gaps": [
+    "Owned vs optioned lots, total lots controlled and years of supply: not publicly disclosed (reports sit behind an investor-relations click-through; no SEC filings since 2015).",
+    "Land-banking / lot-option counterparties: none publicly identified. Site searches of Varde, IHP Capital, Hearthstone, Walton and Domain Real Estate Partners found no Shea deal, and no public link to Millrose, Kennedy Lewis, TPG Angelo Gordon, Essential Housing, Brookfield, Oaktree, GTIS, DW Partners or Forestar was found. A final counterparty search was not run.",
+    "Revolving credit facility: size, maturity, pricing and agent bank are not publicly disclosed.",
+    "4.75% notes due 2028: redemption date and amount are not confirmed (FINRA shows zero outstanding). The original principal is $375M (S&P proposed) or $450M (Cravath); this conflict is unresolved.",
+    "Cash, total debt and liquidity at the latest quarter: not publicly disclosed.",
+    "Moody's and Fitch ratings: none found.",
+    "Parent-level (J.F. Shea Co., Inc.) financing and any parent guarantees: not publicly disclosed.",
+    "M&A in 2025 to 2026: none found."
+  ],
+  "sources_consulted": [
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=shea+homes&type=&dateb=&owner=include&count=40",
+    "https://data.sec.gov/submissions/CIK0001531744.json",
+    "https://www.sheahomes.com/investor-relations",
+    "https://www.sheahomes.com/investor/terms",
+    "https://www.sheahomes.com/sitemap.xml",
+    "https://www.tradingview.com/symbols/FINRA-UDCS5499783/",
+    "https://www.tradingview.com/symbols/FINRA-UDCS5502701/",
+    "https://www.tradingview.com/symbols/FINRA-SHFX4948467/",
+    "https://www.tradingview.com/symbols/FINRA-SHFX5045742/",
+    "https://www.cravath.com/Shea-Homes-HighYield-Senior-Notes-Offering",
+    "https://www.cravath.com/news-insights/shea-homes-s-high-yield-senior-debt-offering.html",
+    "https://www.prnewswire.com/news/shea-homes/",
+    "https://www.prnewswire.com/news-releases/shea-homes-limited-partnership-and-shea-homes-funding-corp-announce-results-as-of-the-early-tender-deadline-of-their-previously-announced-tender-offer-for-up-to-75-million-of-their-outstanding-6-125-senior-notes-due-2025--301009642.html",
+    "https://www.alacrastore.com/s-and-p-credit-research/Research-Update-Shea-Homes-L-P-Upgraded-To-BB-On-Operating-Momentum-Outlook-Stable-Debt-Ratings-Affirmed-3153284",
+    "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-3345974",
+    "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-2967087",
+    "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-2822374",
+    "https://www.alacrastore.com/s-and-p-credit-research/Research-Update-Shea-Homes-L-P-Outlook-Revised-To-Stable-From-Negative-Ratings-Affirmed-2613955",
+    "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-s-Proposed-300-Million-Senior-Unsecured-Notes-Rated-BB-2512671",
+    "https://www.alacrastore.com/s-and-p-credit-research/Shea-Homes-L-P-s-Proposed-375-Million-Senior-Unsecured-Notes-Due-2028-Rated-BB-Recovery-Rating-2-2378934",
+    "https://www.alacrastore.com/s-and-p-credit-research/Summary-Shea-Homes-L-P-2014326",
+    "https://therealdeal.com/national/phoenix/2026/06/17/pultegroup-tri-pointe-complete-63-million-arizona-land-buy/",
+    "https://www.sheahomes.com/news-events/news/co-shea-homes-colorado-acquires-the-canyons-in-cas",
+    "https://www.sheahomes.com/news-events/news/threeoaks-boutique-brand-launch",
+    "https://www.sheahomes.com/news-events/news/exciting-announcement-from-shea-homes",
+    "https://www.sheahomes.com/news-events/news/explore-the-future-seven-new-communities-coming-to-san-diego",
+    "https://www.sheahomes.com/news-events/news/htx-shea-homes-purchases-430-acres-in-montgomery-c",
+    "https://roselawgroupreporter.com/?p=102915",
+    "https://www.housingwire.com/articles/land-capital-and-control-a-new-playbook-in-homebuilding/",
+    "https://www.varde.com/?s=shea",
+    "https://www.ihpcapital.com/?s=shea",
+    "https://www.hearthstone.com/?s=shea",
+    "https://walton.com/?s=shea",
+    "https://www.domainrep.com/?s=shea",
+    "https://www.jfshea.com/companies/"
+  ]
+}

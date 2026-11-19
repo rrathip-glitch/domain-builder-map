@@ -1,0 +1,168 @@
+{
+  "builder_id": "neighborworks-america",
+  "part": "financing",
+  "retrieved": "2026-11-19",
+  "financing": {
+    "summary": "NOT a conventional for-sale homebuilder, and not a plausible land-banking customer. NeighborWorks America is a federally chartered nonprofit funded almost entirely by an annual congressional appropriation ($158 million core in fiscal 2025; total revenue $179 million; total assets only $68 million). It does not buy land, hold lots, borrow to build or sell homes: it passes grants to 248 independent local nonprofits, and those members built and sold the homes counted in the Builder 100 (875 closings in 2025). Land and construction money for the members comes from grants, local subsidy and two affiliated nonprofit lenders, Community Housing Capital and NeighborWorks Capital, which lend only or mainly to the network (land acquisition, predevelopment, construction; $169 million lent in fiscal 2024). The room for a commercial land banker is close to nil at the national level; at most a few of the largest member nonprofits could be one-off lot-option counterparties, and they would compare the price with subsidised nonprofit loans. Funding risk is real: the President's fiscal 2026 budget proposed ending the appropriation.",
+    "land_strategy": "None of its own. NeighborWorks America owns no development land and controls no lots; each member nonprofit sources its own sites (often donated, public or infill parcels, or community land trust land) with grant money, local subsidy and loans from the two affiliated capital corporations. The company's own framing is an 'intermediary' that supplies flexible, early-stage 'risk capital' grants that members can use for acquisition, predevelopment and development.",
+    "lots": {
+      "total_controlled": null,
+      "owned": null,
+      "optioned": null,
+      "pct_optioned": null,
+      "years_supply": null,
+      "as_of": "2025-05-05",
+      "confidence": "Verified",
+      "source_url": "https://web.archive.org/web/20250517092959/https://www.neighborworks.org/press-releases/neighborworks-network-ranked-among-top-100-us-homebuilders",
+      "source_title": "NeighborWorks Network Ranked Among Top 100 U.S. Homebuilders (press release, archived copy)",
+      "note": "No lot count exists: NeighborWorks America controls no lots. The only pipeline figures published are network totals: member organisations reported about 6,100 for-sale homes in their three-year construction pipelines (May 2025 release) and 54,735 apartment and single-family homes in three-year pipelines (July 2025 release). These are planned homes across roughly 250 separate nonprofits, not owned or optioned lots."
+    },
+    "land_banking": [
+      {
+        "counterparty": "NeighborWorks Capital",
+        "counterparty_type": "Affiliate",
+        "description": "National nonprofit loan fund (CDFI) in Silver Spring, MD, serving NeighborWorks member organisations. Lends for acquisition of vacant land or existing property (typically up to $10 to 15 million), predevelopment (up to $3 million, can revolve), construction including single-family (up to $20 million), mini-perm, permanent and enterprise loans. This is the network's nearest equivalent to land finance, at nonprofit pricing.",
+        "amount_usd_m": 43,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://neighborworkscapital.org/",
+        "source_title": "NeighborWorks Capital website (home and Loan Capital pages)",
+        "note": "Amount is the permanent equity capital NeighborWorks America has put into NeighborWorks Capital (over $43 million, plus operating support), per its site; it says it has provided over $600 million of funding in total (undated). Operates independently but 'in strategic alignment' with NeighborWorks America. Leaders per its staff page: Jim Peffley, Chief Executive Officer (since 2022); Nancy Wagner-Hislip, Executive Vice President running lending, credit and portfolio (named July 2026); Matt Glatting, Chief Financial Officer; Ben Greenberg, Chief Lending & Customer Engagement Officer; Beth O'Leary, Chief Risk Officer. Not a land banker and no lot-option structure."
+      },
+      {
+        "counterparty": "Community Housing Capital",
+        "counterparty_type": "Affiliate",
+        "description": "National nonprofit lender (CDFI) in Decatur, GA, that describes itself as financing exclusively NeighborWorks America organisations. Products include lines of credit for early-stage costs, acquisition loans for vacant land and existing properties, single-family and multifamily construction, bridge, permanent, forward commitments and a warehouse line for nonprofit mortgage lenders; up to 95% loan-to-value.",
+        "amount_usd_m": null,
+        "lots": null,
+        "date": "2026-11",
+        "confidence": "Verified",
+        "source_url": "https://communityhousingcapital.org/loan-products",
+        "source_title": "Community Housing Capital website (loan products, home and team pages)",
+        "note": "Site totals (undated): $1.3 billion of capital deployed, $4.1 billion total development, 25,374 homes, 44 states. Leadership change: Cindy Holler, President and CEO, is retiring; Dana Chestnut, EVP/Chief Lending Officer, becomes President and CEO on 2027-01-01. Arif Rizvi is EVP/Chief Financial Officer. NeighborWorks America funds it with grants from its appropriation (described as an affiliated 'Capital Corporation' in the budget justification). Not a land banker and no lot-option structure."
+      }
+    ],
+    "debt": [],
+    "capital_events": [
+      {
+        "date": "2026-09-17",
+        "type": "Other",
+        "description": "Board agenda for the annual meeting included a change to the delegation of authority letting the President & CEO approve and execute 'Master Investment Agreements', a 'Grants to Capital Corporations' item, a fiscal 2027 preliminary spend plan and the fiscal 2026 external audit (CliftonLarsonAllen).",
+        "amount_usd_m": null,
+        "confidence": "Verified",
+        "source_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18803/sunshine-act-meetings",
+        "source_title": "Federal Register, Sunshine Act Meetings, Neighborhood Reinvestment Corporation, 2026-09-15",
+        "note": "Agenda items only; outcomes are not published. Read via the Federal Register full-text endpoint."
+      },
+      {
+        "date": "2026-04-20",
+        "type": "Other",
+        "description": "Awarded $78.8 million of Flexible Impact Grants to 245 network organisations: flexible operating support that members can also use for real estate development and lending. Shows Congress kept funding the organisation in fiscal 2026 despite the proposed wind-down.",
+        "amount_usd_m": 78.8,
+        "confidence": "Verified",
+        "source_url": "https://web.archive.org/web/20260420172508/https://www.neighborworks.org/press-releases/neighborworksr-america-invests-nearly-80-million-flexible-impact-grants-advance",
+        "source_title": "NeighborWorks America Invests Nearly $80 Million in Flexible Impact Grants (press release, archived copy)",
+        "note": "Release also reports fiscal 2025 network results: $11.64 billion total investment, 17,600 new homeowners, $74 leveraged per appropriated dollar."
+      },
+      {
+        "date": "2025-09-30",
+        "type": "Other",
+        "description": "Fiscal 2025 (year ended September 2025) Form 990: revenue $179.2 million (95% contributions and grants, chiefly the federal appropriation), expenses $182.5 million, total assets $67.9 million, total liabilities $44.0 million, net assets $23.9 million. Revenue was $205.7 million in fiscal 2024 and $232.4 million in fiscal 2023.",
+        "amount_usd_m": 179.2,
+        "confidence": "Reported",
+        "source_url": "https://projects.propublica.org/nonprofits/organizations/521148078",
+        "source_title": "ProPublica Nonprofit Explorer: Neighborhood Reinvestment Corp (Form 990 data, filed 2026-07-29)",
+        "note": "ProPublica reproduces IRS Form 990 data; the filing itself was not opened. Liabilities are not broken out, so they should not be read as borrowings."
+      },
+      {
+        "date": "2025",
+        "type": "Other",
+        "description": "Core federal appropriation of $158 million for fiscal 2025, the same as fiscal 2024. In fiscal 2025 the organisation spent $96.6 million on network organisational strength (of which $58.3 million was grants; this budget line also covers its support for the two capital corporations) and $40.2 million of grants for creating and preserving affordable housing.",
+        "amount_usd_m": 158,
+        "confidence": "Verified",
+        "source_url": "https://annualreport.neighborworks.org/",
+        "source_title": "NeighborWorks America Annual Report 2025 (financial overview)",
+        "note": ""
+      },
+      {
+        "date": "2025-07-10",
+        "type": "Other",
+        "description": "Distributed $12.3 million of 'flexible risk capital' grants to 219 network members that build and preserve affordable housing; pitched as early-stage money that attracts private funding. An interim round while the organisation waited for its full-year appropriation.",
+        "amount_usd_m": 12.3,
+        "confidence": "Verified",
+        "source_url": "https://web.archive.org/web/20250710230118/https://www.neighborworks.org/press-releases/flexible-risk-capital-123-million-neighborworksr-america-serves-magnet-private",
+        "source_title": "Flexible Risk Capital of $12.3 Million From NeighborWorks America (press release, archived copy)",
+        "note": "This grant money is the member nonprofits' cheapest source of site-acquisition and predevelopment cash."
+      },
+      {
+        "date": "2025-06",
+        "type": "Other",
+        "description": "The President's fiscal 2026 budget proposed eliminating federal funding for NeighborWorks America's ongoing operations, leaving $27 million solely for an orderly wind-down ($131 million below the fiscal 2025 appropriation), with no grants to network organisations or to the capital corporations.",
+        "amount_usd_m": 27,
+        "confidence": "Verified",
+        "source_url": "https://web.archive.org/web/20260906104659/https://www.neighborworks.org/sites/default/files/2025-06/OMB%20Approved%20CBJ%20Package%20FY26.pdf",
+        "source_title": "FY 2026 Congressional Budget Justification, Neighborhood Reinvestment Corporation (archived copy of company PDF)",
+        "note": "Proposal only. The organisation was still awarding grants in April 2026 and had a fiscal 2027 budget justification and spend plan, so Congress did not adopt the wind-down for fiscal 2026; the enacted fiscal 2026 amount was not found in this run."
+      },
+      {
+        "date": "2024-09-30",
+        "type": "Other",
+        "description": "In fiscal 2024 the two affiliated capital corporations lent $169 million to network organisations for real estate development, supporting more than $1.03 billion of real estate investment.",
+        "amount_usd_m": 169,
+        "confidence": "Verified",
+        "source_url": "https://web.archive.org/web/20260906104659/https://www.neighborworks.org/sites/default/files/2025-06/OMB%20Approved%20CBJ%20Package%20FY26.pdf",
+        "source_title": "FY 2026 Congressional Budget Justification, Neighborhood Reinvestment Corporation (archived copy of company PDF)",
+        "note": "Latest combined lending figure found; fiscal 2025 figure not found."
+      }
+    ],
+    "joint_ventures": [],
+    "key_metrics": {
+      "total_debt_usd_m": null,
+      "cash_usd_m": null,
+      "liquidity_usd_m": null,
+      "net_debt_to_capital_pct": null,
+      "credit_ratings": "None (no rated debt). The two affiliated capital corporations are rated by Aeris, per the budget justification.",
+      "fiscal_year_end": "September 30",
+      "as_of": "2025-09-30",
+      "confidence": "Reported",
+      "source_url": "https://projects.propublica.org/nonprofits/organizations/521148078",
+      "source_title": "ProPublica Nonprofit Explorer: Neighborhood Reinvestment Corp (Form 990 data for fiscal year ending September 2025)"
+    },
+    "competitor_links": []
+  },
+  "ma": [],
+  "gaps": [
+    "Plausible land-banking customer: no. NeighborWorks America holds no land or lots and builds nothing itself.",
+    "Lots owned / optioned: not applicable (none); no network-wide lot count is published, only three-year pipeline home counts.",
+    "Debt: no notes, revolver or term loan found; the organisation is appropriation-funded. Liability detail (fiscal 2025 total liabilities $44.0 million) not broken out in the sources opened; audited statements not opened.",
+    "Enacted fiscal 2026 appropriation and the fiscal 2027 budget request: not confirmed (the FY 2027 justification PDF on neighborworks.org could not be read and is not archived).",
+    "Cash and investments: not found in the sources opened.",
+    "Fiscal 2025 lending volume and balance sheets of Community Housing Capital and NeighborWorks Capital: not opened.",
+    "Land financing of individual member nonprofits (lenders, land trusts, any lot-option deals): not publicly aggregated and not mapped; each of the roughly 250 members finances itself.",
+    "Links to Domain Real Estate Partners, Millrose Properties, Kennedy Lewis or TPG Angelo Gordon: none found in any source opened; the dedicated search could not be run because the shared web-search allowance was exhausted.",
+    "Joint ventures: none found at the national level.",
+    "M&A: not applicable to a chartered nonprofit; none found for 2025 to 2026. The network changes by chartering or removing member organisations (several 2025 welcome announcements appear in the press-release index but were not opened).",
+    "2026 Builder 100 press release on neighborworks.org: blocked and not archived; the 2026 rank comes from Builder's 15 May 2026 interview, and 2025 closings from the spine."
+  ],
+  "sources_consulted": [
+    "https://annualreport.neighborworks.org/",
+    "https://web.archive.org/web/20260906104659/https://www.neighborworks.org/sites/default/files/2025-06/OMB%20Approved%20CBJ%20Package%20FY26.pdf",
+    "https://web.archive.org/web/20260420172508/https://www.neighborworks.org/press-releases/neighborworksr-america-invests-nearly-80-million-flexible-impact-grants-advance",
+    "https://web.archive.org/web/20250710230118/https://www.neighborworks.org/press-releases/flexible-risk-capital-123-million-neighborworksr-america-serves-magnet-private",
+    "https://web.archive.org/web/20250517092959/https://www.neighborworks.org/press-releases/neighborworks-network-ranked-among-top-100-us-homebuilders",
+    "https://web.archive.org/web/20260518125509/https://www.builderonline.com/builder-100/leadership/marietta-rodriguez-on-building-leaders-and-expanding-opportunity/",
+    "https://www.federalregister.gov/documents/2026/09/15/2026-18803/sunshine-act-meetings",
+    "https://www.federalregister.gov/documents/full_text/text/2026/09/15/2026-18803.txt",
+    "https://projects.propublica.org/nonprofits/organizations/521148078",
+    "https://web.archive.org/web/20260723195213/https://www.neighborworks.org/About-Us/Public-Policy",
+    "https://communityhousingcapital.org/",
+    "https://communityhousingcapital.org/loan-products",
+    "https://communityhousingcapital.org/about-us/meet-our-team",
+    "https://neighborworkscapital.org/",
+    "https://neighborworkscapital.org/loan-capital/",
+    "https://neighborworkscapital.org/about-us/our-staff/",
+    "https://neighborworkscapital.org/about/",
+    "https://neighborworkscapital.org/neighborworks-capital-expands-leadership-capacity-to-support-continued-growth-and-innovation/"
+  ]
+}
